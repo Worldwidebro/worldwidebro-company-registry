@@ -1,0 +1,92 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Decision",
+  "description": "A consequential decision record following the DEC-YYYY-NNNN convention.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^DEC-\\d{4}-\\d{4}$",
+      "description": "Decision identifier, e.g. DEC-2026-0001"
+    },
+    "date": {
+      "type": "string",
+      "format": "date",
+      "description": "Date the decision was made"
+    },
+    "decision_maker": {
+      "type": "string",
+      "description": "Person or role that made the decision"
+    },
+    "venture": {
+      "type": ["string", "null"],
+      "description": "Primary venture affected"
+    },
+    "question": {
+      "type": "string",
+      "description": "The question the decision answers"
+    },
+    "context": {
+      "type": "string",
+      "description": "Background and context"
+    },
+    "evidence": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Evidence considered"
+    },
+    "options": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "label": { "type": "string" },
+          "pros": { "type": "array", "items": { "type": "string" } },
+          "cons": { "type": "array", "items": { "type": "string" } }
+        }
+      },
+      "description": "Options evaluated"
+    },
+    "recommendation": {
+      "type": ["string", "null"],
+      "description": "Recommended option and rationale"
+    },
+    "decision": {
+      "type": "string",
+      "description": "The decision taken"
+    },
+    "expected_outcome": {
+      "type": "string",
+      "description": "Expected result of the decision"
+    },
+    "financial_impact": {
+      "type": ["string", "null"],
+      "description": "Estimated financial impact"
+    },
+    "risk": {
+      "type": ["string", "null"],
+      "description": "Key risks introduced by the decision"
+    },
+    "implementation": {
+      "type": ["string", "null"],
+      "description": "How the decision will be implemented"
+    },
+    "actual_outcome": {
+      "type": ["string", "null"],
+      "description": "Actual outcome once realized"
+    },
+    "lesson_learned": {
+      "type": ["string", "null"],
+      "description": "Lesson learned after the outcome is known"
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time"
+    }
+  },
+  "required": ["id", "date", "decision_maker", "question", "decision", "created_at"]
+}

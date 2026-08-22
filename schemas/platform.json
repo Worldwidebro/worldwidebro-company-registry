@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Platform",
+  "description": "A platform, marketplace, or distribution channel a venture reaches customers through.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Platform identifier"
+    },
+    "name": {
+      "type": "string",
+      "description": "Platform name"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["App Store", "Web", "Marketplace", "Retail", "API", "Partner", "Social", "Other"],
+      "description": "Platform category"
+    },
+    "url": {
+      "type": ["string", "null"],
+      "description": "Platform URL"
+    },
+    "venture": {
+      "type": ["string", "null"],
+      "description": "Venture this platform entry belongs to"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["Proposed", "Live", "Deprecated"],
+      "description": "Platform presence status"
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time"
+    }
+  },
+  "required": ["id", "name", "type", "status", "created_at"]
+}

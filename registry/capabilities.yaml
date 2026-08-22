@@ -1,0 +1,11 @@
+# Capability registry — empty template
+# One record per capability. Validate against schemas/capability.json
+- id: ""
+  name: ""
+  description: ""
+  category: ""
+  owners: []
+  repositories: []
+  status: ""
+  created_at: ""
+  updated_at: ""

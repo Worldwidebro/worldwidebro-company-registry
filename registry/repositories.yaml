@@ -1,0 +1,15 @@
+# Repository registry — empty template
+# One record per repository. Validate against schemas/repository.json
+- id: ""
+  full_name: ""
+  venture: null
+  type: ""
+  language: null
+  production_url: null
+  status: ""
+  deploy_target: null
+  dependencies: []
+  capabilities: []
+  last_activity: null
+  created_at: ""
+  updated_at: ""

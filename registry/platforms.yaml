@@ -1,0 +1,10 @@
+# Platform registry — empty template
+# One record per platform presence. Validate against schemas/platform.json
+- id: ""
+  name: ""
+  type: ""
+  url: null
+  venture: null
+  status: ""
+  created_at: ""
+  updated_at: ""

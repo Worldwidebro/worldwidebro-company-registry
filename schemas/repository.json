@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Repository",
+  "description": "Canonical repository record — source code, tooling, and deployment metadata.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Repository identifier, usually the GitHub repo slug without owner"
+    },
+    "full_name": {
+      "type": "string",
+      "description": "GitHub full_name, e.g. Worldwidebro/venture-hub"
+    },
+    "venture": {
+      "type": ["string", "null"],
+      "description": "Primary venture this repo serves"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["Application", "Service", "Library", "Infrastructure", "Data", "Prototype", "Docs", "Shared"],
+      "description": "Repository classification"
+    },
+    "language": {
+      "type": ["string", "null"],
+      "description": "Primary implementation language"
+    },
+    "production_url": {
+      "type": ["string", "null"],
+      "description": "Live production URL if deployed"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["Active", "Maintenance", "Deprecated", "Archived", "Dead"],
+      "description": "Repository operational status"
+    },
+    "deploy_target": {
+      "type": ["string", "null"],
+      "description": "Deployment platform, e.g. Vercel, Railway, AWS"
+    },
+    "dependencies": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Depends-on repository identifiers"
+    },
+    "capabilities": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Capabilities this repo implements"
+    },
+    "last_activity": {
+      "type": ["string", "null"],
+      "format": "date",
+      "description": "Last commit date"
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time"
+    }
+  },
+  "required": ["id", "full_name", "type", "status", "created_at"]
+}

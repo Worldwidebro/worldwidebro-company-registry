@@ -1,0 +1,98 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Venture",
+  "description": "Canonical venture record for the Worldwidebro portfolio.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^(CON|LT|RE|OPS|TR|MED|FIN|SEC|AI|OTH)-\\d{3}$",
+      "description": "Unique venture identifier, e.g. CON-001"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Human-readable venture name"
+    },
+    "opco": {
+      "type": "string",
+      "description": "Operating company the venture belongs to"
+    },
+    "sector": {
+      "type": "string",
+      "description": "Sector classification"
+    },
+    "business_model": {
+      "type": "string",
+      "enum": ["SaaS", "Marketplace", "B2B Services", "B2C Services", "Hardware", "Fintech", "Healthtech", "Logistics", "Other"],
+      "description": "Primary business model"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["Pre-launch", "Building", "Live", "Scaling", "Paused", "Shut down"],
+      "description": "Current venture lifecycle status"
+    },
+    "product": {
+      "type": ["string", "null"],
+      "description": "Product name or null if service-only"
+    },
+    "customers": {
+      "type": ["string", "null"],
+      "description": "Target customer profile"
+    },
+    "revenue": {
+      "type": ["number", "null"],
+      "description": "Current monthly revenue in USD, null if not tracking"
+    },
+    "costs": {
+      "type": ["number", "null"],
+      "description": "Current monthly costs in USD"
+    },
+    "repositories": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "List of repository identifiers"
+    },
+    "capabilities": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "List of capability identifiers"
+    },
+    "agents": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "List of agent identifiers"
+    },
+    "projects": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "List of active project identifiers"
+    },
+    "kpis": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Key performance indicators tracked"
+    },
+    "risks": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Known risks"
+    },
+    "decisions": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Linked decision record IDs"
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Record creation timestamp"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Last update timestamp"
+    }
+  },
+  "required": ["id", "name", "status", "created_at"]
+}

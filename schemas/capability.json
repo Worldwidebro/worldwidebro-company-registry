@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Capability",
+  "description": "A reusable capability a venture or repository implements.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Capability identifier"
+    },
+    "name": {
+      "type": "string",
+      "description": "Human-readable capability name"
+    },
+    "description": {
+      "type": "string",
+      "description": "What the capability does"
+    },
+    "category": {
+      "type": "string",
+      "enum": ["Product", "Infrastructure", "Operations", "Data", "AI", "Integration", "Compliance", "Other"],
+      "description": "Capability category"
+    },
+    "owners": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Venture or team identifiers that own this capability"
+    },
+    "repositories": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Repositories implementing this capability"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["Proposed", "Building", "Live", "Deprecated"],
+      "description": "Capability maturity status"
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time"
+    }
+  },
+  "required": ["id", "name", "category", "status", "created_at"]
+}

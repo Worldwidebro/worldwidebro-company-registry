@@ -1,0 +1,21 @@
+# Venture registry — empty template
+# One record per venture. Validate against schemas/venture.json
+- id: ""
+  name: ""
+  opco: ""
+  sector: ""
+  business_model: ""
+  status: ""
+  product: null
+  customers: null
+  revenue: null
+  costs: null
+  repositories: []
+  capabilities: []
+  agents: []
+  projects: []
+  kpis: []
+  risks: []
+  decisions: []
+  created_at: ""
+  updated_at: ""

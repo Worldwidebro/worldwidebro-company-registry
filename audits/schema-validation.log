@@ -1,0 +1,4 @@
+# Schema validation log
+# Run: python -c "..." (see decisions/registry-architecture.md)
+# Format: timestamp | file | result | errors
+
