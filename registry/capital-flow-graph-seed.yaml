@@ -4964,7 +4964,7 @@ nodes:
     name: Online Tutoring Platform
     description: 'Venture: education-training sector, Building status, B2B Services
       business model'
-    sector: education-training
+    sector: education
     capital_role: capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -4979,7 +4979,7 @@ nodes:
     name: Language Learning App
     description: 'Venture: education-training sector, Building status, B2B Services
       business model'
-    sector: education-training
+    sector: education
     capital_role: capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -4994,7 +4994,7 @@ nodes:
     name: Test Prep Service
     description: 'Venture: education-training sector, Building status, B2B Services
       business model'
-    sector: education-training
+    sector: education
     capital_role: capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -5009,7 +5009,7 @@ nodes:
     name: Coding Bootcamp
     description: 'Venture: education-training sector, Building status, B2B Services
       business model'
-    sector: education-training
+    sector: education
     capital_role: capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -5024,7 +5024,7 @@ nodes:
     name: Professional Certification
     description: 'Venture: education-training sector, Building status, B2B Services
       business model'
-    sector: education-training
+    sector: education
     capital_role: capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -5039,7 +5039,7 @@ nodes:
     name: Corporate Training
     description: 'Venture: education-training sector, Building status, B2B Services
       business model'
-    sector: education-training
+    sector: education
     capital_role: capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -5054,7 +5054,7 @@ nodes:
     name: Skills Assessment Platform
     description: 'Venture: education-training sector, Pre-launch status, B2B Services
       business model'
-    sector: education-training
+    sector: education
     capital_role:
     - capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
@@ -5070,7 +5070,7 @@ nodes:
     name: Career Coaching
     description: 'Venture: education-training sector, Building status, B2B Services
       business model'
-    sector: education-training
+    sector: education
     capital_role: capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -5085,7 +5085,7 @@ nodes:
     name: Resume Writing Service
     description: 'Venture: education-training sector, Building status, B2B Services
       business model'
-    sector: education-training
+    sector: education
     capital_role: capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -5100,7 +5100,7 @@ nodes:
     name: Interview Prep Platform
     description: 'Venture: education-training sector, Building status, B2B Services
       business model'
-    sector: education-training
+    sector: education
     capital_role: capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -5115,7 +5115,7 @@ nodes:
     name: Mentorship Platform
     description: 'Venture: education-training sector, Pre-launch status, B2B Services
       business model'
-    sector: education-training
+    sector: education
     capital_role:
     - capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
@@ -5131,7 +5131,7 @@ nodes:
     name: Educational Content Library
     description: 'Venture: education-training sector, Building status, B2B Services
       business model'
-    sector: education-training
+    sector: education
     capital_role: capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -5146,7 +5146,7 @@ nodes:
     name: Vr Training Simulations
     description: 'Venture: education-training sector, Pre-launch status, B2B Services
       business model'
-    sector: education-training
+    sector: education
     capital_role:
     - capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
@@ -5162,7 +5162,7 @@ nodes:
     name: Gamified Learning App
     description: 'Venture: education-training sector, Pre-launch status, B2B Services
       business model'
-    sector: education-training
+    sector: education
     capital_role:
     - capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
@@ -5178,7 +5178,7 @@ nodes:
     name: Homeschool Curriculum
     description: 'Venture: education-training sector, Building status, B2B Services
       business model'
-    sector: education-training
+    sector: education
     capital_role: capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -6848,7 +6848,7 @@ nodes:
     node_type: venture
     name: Unknown
     description: 'Venture: unknown sector, Pre-launch status, Other business model'
-    sector: unknown
+    sector: operations
     capital_role:
     - capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
@@ -10222,7 +10222,7 @@ nodes:
     name: Saas Platform
     description: 'Venture: software-technology sector, Building status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role: capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -10237,7 +10237,7 @@ nodes:
     name: Mobile App Development
     description: 'Venture: software-technology sector, Building status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role: capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -10252,7 +10252,7 @@ nodes:
     name: Web Development Agency
     description: 'Venture: software-technology sector, Building status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role: capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -10267,7 +10267,7 @@ nodes:
     name: Custom Software Development
     description: 'Venture: software-technology sector, Building status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role: capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -10282,7 +10282,7 @@ nodes:
     name: Api Development
     description: 'Venture: software-technology sector, Building status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role: capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -10297,7 +10297,7 @@ nodes:
     name: Cloud Infrastructure
     description: 'Venture: software-technology sector, Pre-launch status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role:
     - capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
@@ -10313,7 +10313,7 @@ nodes:
     name: Devops Consulting
     description: 'Venture: software-technology sector, Building status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role: capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -10328,7 +10328,7 @@ nodes:
     name: Cybersecurity Service
     description: 'Venture: software-technology sector, Building status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role: capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -10343,7 +10343,7 @@ nodes:
     name: Data Analytics Platform
     description: 'Venture: software-technology sector, Pre-launch status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role:
     - capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
@@ -10359,7 +10359,7 @@ nodes:
     name: Business Intelligence Tool
     description: 'Venture: software-technology sector, Pre-launch status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role:
     - capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
@@ -10375,7 +10375,7 @@ nodes:
     name: Crm Platform
     description: 'Venture: software-technology sector, Pre-launch status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role:
     - capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
@@ -10391,7 +10391,7 @@ nodes:
     name: Project Management Tool
     description: 'Venture: software-technology sector, Pre-launch status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role:
     - capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
@@ -10407,7 +10407,7 @@ nodes:
     name: Communication Platform
     description: 'Venture: software-technology sector, Pre-launch status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role:
     - capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
@@ -10423,7 +10423,7 @@ nodes:
     name: Collaboration Software
     description: 'Venture: software-technology sector, Pre-launch status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role:
     - capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
@@ -10439,7 +10439,7 @@ nodes:
     name: Automation Platform
     description: 'Venture: software-technology sector, Pre-launch status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role:
     - capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
@@ -10455,7 +10455,7 @@ nodes:
     name: Ai
     description: 'Venture: software-technology sector, Pre-launch status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role:
     - capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
@@ -10471,7 +10471,7 @@ nodes:
     name: Chatbot Builder
     description: 'Venture: software-technology sector, Building status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role: capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -10486,7 +10486,7 @@ nodes:
     name: E Commerce Platform
     description: 'Venture: software-technology sector, Pre-launch status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role:
     - capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
@@ -10502,7 +10502,7 @@ nodes:
     name: Payment Processing
     description: 'Venture: software-technology sector, Building status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role: capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -10517,7 +10517,7 @@ nodes:
     name: Blockchain Platform
     description: 'Venture: software-technology sector, Pre-launch status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role:
     - capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
@@ -10533,7 +10533,7 @@ nodes:
     name: Iot Platform
     description: 'Venture: software-technology sector, Pre-launch status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role:
     - capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
@@ -10549,7 +10549,7 @@ nodes:
     name: Ar
     description: 'Venture: software-technology sector, Pre-launch status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role:
     - capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
@@ -10565,7 +10565,7 @@ nodes:
     name: Game Development
     description: 'Venture: software-technology sector, Building status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role: capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -10580,7 +10580,7 @@ nodes:
     name: Marketing Automation
     description: 'Venture: software-technology sector, Building status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role: capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -10595,7 +10595,7 @@ nodes:
     name: Sales Automation
     description: 'Venture: software-technology sector, Building status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role: capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -10610,7 +10610,7 @@ nodes:
     name: Hr Tech Platform
     description: 'Venture: software-technology sector, Pre-launch status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role:
     - capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
@@ -10626,7 +10626,7 @@ nodes:
     name: Legal Tech Platform
     description: 'Venture: software-technology sector, Pre-launch status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role:
     - capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
@@ -10642,7 +10642,7 @@ nodes:
     name: Health Tech Platform
     description: 'Venture: software-technology sector, Pre-launch status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role:
     - capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
@@ -10658,7 +10658,7 @@ nodes:
     name: Edtech Platform
     description: 'Venture: software-technology sector, Pre-launch status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role:
     - capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
@@ -10674,7 +10674,7 @@ nodes:
     name: Proptech Platform
     description: 'Venture: software-technology sector, Pre-launch status, SaaS business
       model'
-    sector: software-technology
+    sector: technology
     capital_role:
     - capital_receiver
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
@@ -11603,7 +11603,7 @@ nodes:
     node_type: venture
     name: con-001-ace-construction
     description: 'Venture: construction sector, Live status, Other business model'
-    sector: construction
+    sector: operations
     capital_role: capital_user
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -11645,7 +11645,7 @@ nodes:
     node_type: venture
     name: re-001-worldwidebro-holdings
     description: 'Venture: real-estate sector, Live status, Other business model'
-    sector: real-estate
+    sector: financial
     capital_role: capital_user
     parent_node_id: ENT-WORLDWIDE-BRO-HOLDINGS
     data_sources:
@@ -32331,3 +32331,51 @@ edge_counts:
   deploys_to: 64
   references: 1484
   potential_awards: 412
+sector_consolidation:
+  from_count: 19
+  to_count: 14
+  mapping:
+    education: education
+    education-training: education
+    technology: technology
+    software-technology: technology
+    construction: operations
+    real-estate: financial
+    unknown: operations
+    fitness-sports: fitness-sports
+  option: B
+  pre_consolidation:
+    e-commerce: 122
+    financial: 76
+    operations: 67
+    technology: 61
+    community: 51
+    emerging: 51
+    specialized: 50
+    education: 41
+    beauty-wellness: 40
+    food-hospitality: 35
+    logistics-transport: 30
+    software-technology: 30
+    fitness-sports: 25
+    professional-services: 25
+    media-content: 20
+    education-training: 15
+    unknown: 1
+    construction: 1
+    real-estate: 1
+  post_consolidation:
+    e-commerce: 122
+    technology: 91
+    financial: 77
+    operations: 69
+    education: 56
+    community: 51
+    emerging: 51
+    specialized: 50
+    beauty-wellness: 40
+    food-hospitality: 35
+    logistics-transport: 30
+    fitness-sports: 25
+    professional-services: 25
+    media-content: 20
