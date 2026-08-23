@@ -1,0 +1,170 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Capital Flow Graph Edge",
+  "description": "A directed edge between two capital flow graph nodes, representing a capital flow, funding relationship, contract, ownership, or operational connection.",
+  "type": "object",
+  "properties": {
+    "edge_id": {
+      "type": "string",
+      "description": "Unique ID for this edge"
+    },
+    "source_node_id": {
+      "type": "string",
+      "description": "Source node (money flows FROM here)"
+    },
+    "target_node_id": {
+      "type": "string",
+      "description": "Target node (money flows TO here)"
+    },
+    "edge_type": {
+      "type": "string",
+      "enum": [
+        "appropriates",
+        "funds",
+        "awards",
+        "subawards",
+        "contracts_with",
+        "invests_in",
+        "owns",
+        "controls",
+        "lends_to",
+        "guarantees",
+        "borrows_from",
+        "operates",
+        "supplies",
+        "employs",
+        "generates_revenue",
+        "pays",
+        "distributes",
+        "reinvests",
+        "sponsors",
+        "underwrites",
+        "subcontracts_with",
+        "subcontracts_to",
+        "receives_from",
+        "pays_to",
+        "allocates_to",
+        "charges",
+        "bills",
+        "purchases_from",
+        "sells_to",
+        "partners_with",
+        "joint_venture_with",
+        "spin_offs",
+        "merges_with",
+        "acquires"
+      ],
+      "description": "Type of relationship between the two nodes"
+    },
+    "direction": {
+      "type": "string",
+      "enum": ["one_way", "two_way"],
+      "description": "Whether the relationship is directional or bidirectional"
+    },
+    "amount": {
+      "type": "number",
+      "description": "Monetary value of the flow (award amount, contract value, investment size, loan amount)"
+    },
+    "currency": {
+      "type": "string",
+      "default": "USD"
+    },
+    "amount_type": {
+      "type": "string",
+      "enum": ["total", "annual", "monthly", "commitment", "outlay", "obligation", "approved", "awarded", "disbursed", "invested", "distributed"],
+      "description": "What the amount represents"
+    },
+    "term": {
+      "type": "string",
+      "description": "Term of the relationship (e.g., '5 years', '60 months', 'perpetual', 'project duration')"
+    },
+    "start_date": {
+      "type": "string",
+      "format": "date",
+      "description": "Start date of the relationship"
+    },
+    "end_date": {
+      "type": "string",
+      "format": "date",
+      "description": "End date or expected end date"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "proposed",
+        "approved",
+        "active",
+        "completed",
+        "terminated",
+        "expired",
+        "pending"
+      ],
+      "description": "Current status of this edge/relationship"
+    },
+    "award_type": {
+      "type": "string",
+      "enum": [
+        "grant",
+        "cooperative_agreement",
+        "contract",
+        "loan",
+        "loan_guarantee",
+        "direct_payment",
+        "other_assistance",
+        "equity",
+        "debt",
+        "mezzanine",
+        "convertible",
+        "revenue_based",
+        "asset_based",
+        "vendor_financing",
+        "crowdfunding"
+      ],
+      "description": "For funding edges, the type of award or capital instrument"
+    },
+    "percentage": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100,
+      "description": "Percentage ownership, allocation, or participation (for owns/controls/allocates edges)"
+    },
+    "conditions": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Conditions attached to this relationship (covenants, reporting requirements, milestone conditions)"
+    },
+    "reporting": {
+      "type": "object",
+      "description": "Reporting requirements for this edge",
+      "properties": {
+        "frequency": { "type": "string", "enum": ["none", "monthly", "quarterly", "semi_annual", "annual", "upon_completion", "event_driven"] },
+        "reports_required": { "type": "array", "items": { "type": "string" } },
+        "audits_required": { "type": "boolean" }
+      }
+    },
+    "data_source": {
+      "type": "string",
+      "description": "Source of this edge data (USAspending, Grants.gov, SAM.gov, Crunchbase, PitchBook, internal registry, etc.)"
+    },
+    "data_source_url": {
+      "type": "string",
+      "description": "URL to the source record if available"
+    },
+    "confidence": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 100,
+      "description": "Confidence in this edge (0 = inferred, 100 = verified from primary source)"
+    },
+    "notes": {
+      "type": "string",
+      "description": "Additional context about this relationship"
+    }
+  },
+  "required": [
+    "edge_id",
+    "source_node_id",
+    "target_node_id",
+    "edge_type"
+  ]
+}

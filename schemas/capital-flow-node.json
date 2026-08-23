@@ -1,0 +1,222 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Capital Flow Graph Node",
+  "description": "A node in the capital flow graph — represents a capital origin, allocator, vehicle, entity, or project in the money-flow ecosystem.",
+  "type": "object",
+  "properties": {
+    "node_id": {
+      "type": "string",
+      "description": "Unique ID for this node",
+      "pattern": "^(GOV|CAP|ENT|PRJ|VEH|AGY|PRG|AWARD|SUBAWARD|CONTRACT|VENDOR|HR|EMP|HOLDCO|OPCO|SPV|PROJECT|ASSET|FAMI|PE|VC|BANK|LP|GP|FUND|Lender)-[A-Z0-9]+-[A-Z0-9]+.*"
+    },
+    "node_type": {
+      "type": "string",
+      "enum": [
+        "government",
+        "agency",
+        "program",
+        "funding_opportunity",
+        "award",
+        "prime",
+        "subaward",
+        "subcontract",
+        "contractor",
+        "vendor",
+        "project",
+        "asset",
+        "opco",
+        "spv",
+        "holdco",
+        "family_office",
+        "pe_firm",
+        "vc_firm",
+        "bank",
+        "lender",
+        "lp",
+        "gp",
+        "fund",
+        "employee",
+        "contractor_worker",
+        "customer",
+        "venture"
+      ],
+      "description": "Category of this node in the capital flow graph"
+    },
+    "name": {
+      "type": "string",
+      "description": "Human-readable name"
+    },
+    "description": {
+      "type": "string",
+      "description": "What this node is and what role it plays in the capital flow"
+    },
+    "jurisdiction": {
+      "type": "string",
+      "description": "Geographic jurisdiction (federal, state, local, international)"
+    },
+    "sector": {
+      "type": "string",
+      "description": "Industry sector (logistics, construction, healthcare, finance, e-commerce, etc.)"
+    },
+    "naics": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "NAICS codes associated with this node"
+    },
+    "capital_role": {
+      "type": "string",
+      "enum": [
+        "capital_origin",
+        "capital_allocator",
+        "capital_vehicle",
+        "capital_receiver",
+        "capital_user",
+        "capital_distributor",
+        "capital_recycler"
+      ],
+      "description": "Role in the capital flow: where capital originates, how it's allocated, what vehicle carries it, who receives it, how it's used, how it's distributed, how it recycles"
+    },
+    "award_type": {
+      "type": "string",
+      "enum": [
+        "grant",
+        "cooperative_agreement",
+        "contract",
+        "loan",
+        "loan_guarantee",
+        "direct_payment",
+        "other_assistance",
+        "equity",
+        "debt",
+        "mezzanine",
+        "convertible",
+        "revenue_based",
+        "asset_based",
+        "vendor_financing",
+        "crowdfunding",
+        "donation"
+      ],
+      "description": "Type of award or capital instrument (for award/fund nodes)"
+    },
+    "amount": {
+      "type": "number",
+      "description": "Monetary amount associated with this node (award size, fund size, project budget)"
+    },
+    "currency": {
+      "type": "string",
+      "default": "USD",
+      "description": "Currency of the amount"
+    },
+    "amount_type": {
+      "type": "string",
+      "enum": ["total", "annual", "monthly", "commitment", "outlay", "obligation"],
+      "description": "What the amount represents"
+    },
+    "parent_node_id": {
+      "type": "string",
+      "description": "Parent in the hierarchy (e.g., agency → program → award → subaward → contractor)"
+    },
+    "ownership": {
+      "type": "object",
+      "description": "Ownership structure for entity nodes",
+      "properties": {
+        "owner_type": { "type": "string", "enum": ["individual", "family", "institution", "public", "employee", "other"] },
+        "owner_id": { "type": "string" },
+        "ownership_percentage": { "type": "number" },
+        "control_structure": { "type": "string", "enum": ["direct", "holdco", "spv_isolated", "partnership", "corporation", "llc", "trust"] }
+      }
+    },
+    "funding_sources": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Funding source IDs that feed this node"
+    },
+    "funding_recipients": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Node IDs that receive funding from this node"
+    },
+    "contracts": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Contract IDs associated with this node"
+    },
+    "subcontractors": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Node IDs that are subcontractors to this node"
+    },
+    "vendors": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Vendor node IDs that supply this node"
+    },
+    "employees": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Employee/worker node IDs associated with this node"
+    },
+    "investors": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Investor node IDs (LPs, family offices, HNW) for fund/entity nodes"
+    },
+    "assets": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Asset node IDs owned/controlled by this node"
+    },
+    "ventures": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Venture IDs operated by or connected to this node"
+    },
+    "risk_profile": {
+      "type": "object",
+      "description": "Risk characteristics of this node",
+      "properties": {
+        "risk_level": { "type": "string", "enum": ["low", "medium", "high", "very_high"] },
+        "risk_factors": { "type": "array", "items": { "type": "string" } },
+        "mitigations": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "compliance": {
+      "type": "object",
+      "description": "Compliance and regulatory status",
+      "properties": {
+        "registered": { "type": "boolean" },
+        "sam_uei": { "type": "string" },
+        "good_standing": { "type": "boolean" },
+        "licenses": { "type": "array", "items": { "type": "string" } },
+        "certifications": { "type": "array", "items": { "type": "string" } },
+        "audit_status": { "type": "string", "enum": ["none", "current", "past_due", "non_compliant"] }
+      }
+    },
+    "data_sources": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Data sources used to populate this node (USAspending, Grants.gov, SAM.gov, Crunchbase, PitchBook, etc.)"
+    },
+    "last_updated": {
+      "type": "string",
+      "format": "date",
+      "description": "Date this node was last updated"
+    },
+    "confidence": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 100,
+      "description": "Confidence in this node's data (0 = inferred, 100 = verified from primary source)"
+    },
+    "notes": {
+      "type": "string",
+      "description": "Additional context"
+    }
+  },
+  "required": [
+    "node_id",
+    "node_type",
+    "name",
+    "capital_role"
+  ]
+}
