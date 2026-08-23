@@ -364,6 +364,12 @@ for slug in sorted(gh.keys()):
         rstatus = 'Active'
 
     vu = vercel_proj.get(slug)
+    if not vu:
+        for proj in vercel_proj:
+            m = re.match(r'^(.+?)-[a-z0-9]{8,}$', proj)
+            if m and m.group(1) == slug:
+                vu = vercel_proj[proj]
+                break
     lang = info['language'] or ''
     is_starred = slug in starred_names
 

@@ -1,0 +1,415 @@
+{
+  "1_technology_inventory": {
+    "total_repositories": 1767,
+    "owned": 890,
+    "starred": 877,
+    "by_language_owned": {
+      "unknown": 544,
+      "Python": 169,
+      "TypeScript": 91,
+      "HTML": 38,
+      "C": 31,
+      "Shell": 8,
+      "JavaScript": 6,
+      "Go": 2,
+      "Cypher": 1
+    },
+    "by_type": {
+      "Infrastructure": 805,
+      "Application": 85,
+      "External": 877
+    },
+    "by_capability_category": {
+      "Operations": 235,
+      "Product": 242,
+      "Compliance": 58,
+      "AI": 447,
+      "Integration": 61,
+      "Data": 66,
+      "Infrastructure": 66
+    }
+  },
+  "2_venture_to_repository_map": {
+    "matched_pairs": 547,
+    "source": "registry/repositories.yaml[].venture, reconciliation pipeline output"
+  },
+  "3_orphaned_ventures": {
+    "count": "see audits/ventures-without-repos.yml",
+    "source": "audits/ventures-without-repos.yml"
+  },
+  "4_orphaned_repositories": {
+    "owned_unmatched": 343,
+    "source": "audits/unmatched-owned-repos.yml (171 platform/utility, 116 archived, 56 unclassified)"
+  },
+  "5_duplicate_venture_candidates": {
+    "method": "SequenceMatcher ratio > 0.82 on sector-prefix-stripped name \u2014 CANDIDATES for human review, not confirmed duplicates",
+    "cluster_count": 68,
+    "clusters": [
+      [
+        "BW-019-Salon-Management-Software",
+        "FS-018-Gym-Management-Software"
+      ],
+      [
+        "BW-026-Hair-Extension-Salon",
+        "BW-029-Hair-Extensions-Brand"
+      ],
+      [
+        "COMM-016-Community-Health-AI",
+        "COMM-025-Community-Legal-Aid",
+        "COMM-035-Community-Arts-AI"
+      ],
+      [
+        "COMM-026-Public-Education-AI",
+        "EDU-029-Music-Education-AI"
+      ],
+      [
+        "COMM-028-Public-Safety-AI",
+        "COMM-039-Public-Space-AI"
+      ],
+      [
+        "EC-001",
+        "EC-002",
+        "EC-003",
+        "EC-004",
+        "EC-005",
+        "EC-006",
+        "EC-007",
+        "EC-008",
+        "EC-009",
+        "EC-010",
+        "EM-001",
+        "TECH-001"
+      ],
+      [
+        "EC-007-Personal-Shopper-AI",
+        "EC-094-AI-Personal-Shopper",
+        "SPEC-018-AI-Personal-Shopper"
+      ],
+      [
+        "EC-034-Recommendation-Engine",
+        "TECH-020-Recommendation-Engine",
+        "TECH-052-Recommendation-Engine"
+      ],
+      [
+        "EC-044-Live-Commerce-Platform",
+        "ST-018-E-commerce-Platform"
+      ],
+      [
+        "EC-049-Rental-Marketplace",
+        "MC-020-NFT-Marketplace"
+      ],
+      [
+        "EC-057-AI-Quality-Control",
+        "OPS-018-Quality-Control-AI"
+      ],
+      [
+        "EDU-005-Coding-Bootcamp",
+        "ET-004-Coding-Bootcamp"
+      ],
+      [
+        "EDU-007-AI-Tutoring-Platform",
+        "ET-001-Online-Tutoring-Platform",
+        "TECH-023-AI-Testing-Platform",
+        "TECH-028-AI-Training-Platform",
+        "TECH-055-AI-Testing-Platform",
+        "TECH-060-AI-Training-Platform"
+      ],
+      [
+        "EDU-018-Online-Course-Creator",
+        "MC-017-Online-Course-Platform"
+      ],
+      [
+        "EDU-024-Language-Learning-AI",
+        "ET-002-Language-Learning-App"
+      ],
+      [
+        "EDU-026-Corporate-Training-AI",
+        "ET-006-Corporate-Training"
+      ],
+      [
+        "EDU-027-Medical-Education-AI",
+        "EDU-028-Legal-Education-AI",
+        "EDU-031-Physical-Education-AI"
+      ],
+      [
+        "EDU-030-Art-Education-AI",
+        "EDU-034-Math-Education-AI",
+        "SPEC-049-Smart-Education-AI"
+      ],
+      [
+        "EDU-040-Time-Management-AI",
+        "OPS-058-Time-Management-AI"
+      ],
+      [
+        "EM-019-Weather-Prediction-AI",
+        "EM-023-Disaster-Prediction-AI"
+      ],
+      [
+        "EM-042-Space-Agriculture-AI",
+        "SPEC-017-Smart-Agriculture-AI"
+      ],
+      [
+        "FH-015-AI-Nutrition-Planner",
+        "SPEC-044-AI-Aviation-Planner"
+      ],
+      [
+        "FH-033-Food-Photography-Service",
+        "PS-016-Photography-Service"
+      ],
+      [
+        "FIN-001",
+        "FIN-002",
+        "FIN-003",
+        "FIN-004",
+        "FIN-005",
+        "FIN-006",
+        "FIN-007",
+        "FIN-008",
+        "FIN-009",
+        "FIN-010",
+        "FIN-011",
+        "FIN-012",
+        "FIN-013",
+        "FIN-014",
+        "FIN-015",
+        "FIN-016",
+        "FIN-017",
+        "FIN-018",
+        "FIN-019",
+        "FIN-020",
+        "FIN-021",
+        "FIN-030",
+        "FIN-031"
+      ],
+      [
+        "FIN-022",
+        "FIN-023",
+        "FIN-024",
+        "FIN-025",
+        "FIN-026",
+        "FIN-027",
+        "FIN-028",
+        "FIN-029",
+        "FIN-032"
+      ]
+    ]
+  },
+  "6_duplicate_repository_candidates": {
+    "method": "exact case-insensitive name collisions among owned repos",
+    "cluster_count": 0,
+    "clusters": []
+  },
+  "7_thin_capabilities": {
+    "method": "capabilities with fewest owned-repo matches \u2014 candidates for genuine gaps or taxonomy blind spots",
+    "thinnest_5": [
+      {
+        "id": "authentication-identity",
+        "repo_count": 1
+      },
+      {
+        "id": "game-development",
+        "repo_count": 1
+      },
+      {
+        "id": "real-estate",
+        "repo_count": 4
+      },
+      {
+        "id": "hr-recruiting",
+        "repo_count": 4
+      },
+      {
+        "id": "healthcare",
+        "repo_count": 6
+      }
+    ]
+  },
+  "8_11_13_repository_reuse_reach": {
+    "method": "For each repo, union of OTHER ventures whose own repos share >=1 of its capability tags. Proxy for 'if extracted as shared infra, how many ventures could plug in' \u2014 NOT confirmed code-level reuse (dependency graph is empty, see item 21).",
+    "top_15": []
+  },
+  "9_12_capability_investment_ranking": [
+    {
+      "capability": "ai-ml",
+      "category": "AI",
+      "owned_repos": 399,
+      "ventures_served": 0
+    },
+    {
+      "capability": "agent-systems",
+      "category": "AI",
+      "owned_repos": 41,
+      "ventures_served": 0
+    },
+    {
+      "capability": "search-retrieval",
+      "category": "Data",
+      "owned_repos": 11,
+      "ventures_served": 0
+    },
+    {
+      "capability": "image-vision",
+      "category": "AI",
+      "owned_repos": 7,
+      "ventures_served": 0
+    },
+    {
+      "capability": "voice-audio",
+      "category": "Product",
+      "owned_repos": 13,
+      "ventures_served": 0
+    },
+    {
+      "capability": "video-media",
+      "category": "Product",
+      "owned_repos": 15,
+      "ventures_served": 0
+    },
+    {
+      "capability": "automation-orchestration",
+      "category": "Operations",
+      "owned_repos": 149,
+      "ventures_served": 0
+    },
+    {
+      "capability": "api-integration",
+      "category": "Integration",
+      "owned_repos": 52,
+      "ventures_served": 0
+    },
+    {
+      "capability": "authentication-identity",
+      "category": "Infrastructure",
+      "owned_repos": 1,
+      "ventures_served": 0
+    },
+    {
+      "capability": "payments-billing",
+      "category": "Product",
+      "owned_repos": 7,
+      "ventures_served": 0
+    },
+    {
+      "capability": "data-analytics",
+      "category": "Data",
+      "owned_repos": 30,
+      "ventures_served": 0
+    },
+    {
+      "capability": "database-storage",
+      "category": "Data",
+      "owned_repos": 10,
+      "ventures_served": 0
+    },
+    {
+      "capability": "frontend-ui",
+      "category": "Product",
+      "owned_repos": 22,
+      "ventures_served": 0
+    },
+    {
+      "capability": "backend-service",
+      "category": "Infrastructure",
+      "owned_repos": 19,
+      "ventures_served": 0
+    },
+    {
+      "capability": "mobile-app",
+      "category": "Product",
+      "owned_repos": 12,
+      "ventures_served": 0
+    }
+  ],
+  "16_dominant_capability_per_sector": {},
+  "17_19_standardize_candidates": [],
+  "18_engineering_leverage_ratio": [
+    {
+      "capability": "ai-ml",
+      "leverage_ratio": 0.0,
+      "category": "AI",
+      "owned_repos": 399,
+      "ventures_served": 0
+    },
+    {
+      "capability": "agent-systems",
+      "leverage_ratio": 0.0,
+      "category": "AI",
+      "owned_repos": 41,
+      "ventures_served": 0
+    },
+    {
+      "capability": "search-retrieval",
+      "leverage_ratio": 0.0,
+      "category": "Data",
+      "owned_repos": 11,
+      "ventures_served": 0
+    },
+    {
+      "capability": "image-vision",
+      "leverage_ratio": 0.0,
+      "category": "AI",
+      "owned_repos": 7,
+      "ventures_served": 0
+    },
+    {
+      "capability": "voice-audio",
+      "leverage_ratio": 0.0,
+      "category": "Product",
+      "owned_repos": 13,
+      "ventures_served": 0
+    },
+    {
+      "capability": "video-media",
+      "leverage_ratio": 0.0,
+      "category": "Product",
+      "owned_repos": 15,
+      "ventures_served": 0
+    },
+    {
+      "capability": "automation-orchestration",
+      "leverage_ratio": 0.0,
+      "category": "Operations",
+      "owned_repos": 149,
+      "ventures_served": 0
+    },
+    {
+      "capability": "api-integration",
+      "leverage_ratio": 0.0,
+      "category": "Integration",
+      "owned_repos": 52,
+      "ventures_served": 0
+    },
+    {
+      "capability": "authentication-identity",
+      "leverage_ratio": 0.0,
+      "category": "Infrastructure",
+      "owned_repos": 1,
+      "ventures_served": 0
+    },
+    {
+      "capability": "payments-billing",
+      "leverage_ratio": 0.0,
+      "category": "Product",
+      "owned_repos": 7,
+      "ventures_served": 0
+    }
+  ],
+  "28_platform_candidates": [],
+  "BLOCKED_items": {
+    "10_technology_roadmap": "Narrative synthesis, not a standalone computation \u2014 see written report, not this JSON.",
+    "14_capabilities_per_repository": "Directly readable per-record from registry/repositories.yaml \u2014 not a portfolio-level aggregate, omitted here to avoid a 1767-row dump.",
+    "15_consolidation_candidates": "Requires reading actual repo contents (step 2 audit), not just names/descriptions.",
+    "20_prioritization_narrative": "Judgment call using items 17-19's data, not a separate computation.",
+    "21_dependency_graph": "0/1767 repos have a populated 'dependencies' field \u2014 no source data exists yet (would require reading package.json/requirements.txt/go.mod per repo).",
+    "22_installation_order": "Depends on item 21.",
+    "23_optimal_stacks": "Partial via item 16 (per-sector dominant capabilities) \u2014 'optimal' claim would overreach beyond what keyword tagging supports.",
+    "24_incompatible_technologies": "Requires real technical audit (item 21 prerequisite).",
+    "25_common_infra_dependencies": "Requires item 21.",
+    "26_architectural_bottlenecks": "Requires item 21 + real usage/traffic data.",
+    "27_single_points_of_failure": "Requires item 21 + production deployment topology data, which does not exist in this registry.",
+    "29_library_package_candidates": "Speculative without code-level review; 'developer-tools' capability tag (29 repos) is the closest available proxy.",
+    "30_venture_templates": "Narrative synthesis from item 16, not a standalone computation.",
+    "31_40_agent_operations": "None of these are wired yet \u2014 no MCP tool or script currently exposes this registry to a live agent for query-time use. The data exists to support them; the query interface does not.",
+    "41_50_business_monetization": "Requires real revenue/market/licensing data not present in this registry (GitHub metadata only). Can propose CANDIDATES from capability/venture-reach data but cannot compute real economic value, SaaS feasibility, or acquisition valuation."
+  }
+}
