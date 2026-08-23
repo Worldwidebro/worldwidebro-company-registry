@@ -1,0 +1,196 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Funding Readiness",
+  "description": "Machine-readable funding readiness assessment for a venture. Scores 0-100 across 12 dimensions, plus funding-specific data.",
+  "type": "object",
+  "properties": {
+    "venture_id": {
+      "type": "string",
+      "description": "Reference to the venture this readiness assessment belongs to",
+      "pattern": "^[A-Z]+-\\d{3}.*"
+    },
+    "assessed_date": {
+      "type": "string",
+      "format": "date",
+      "description": "Date of this assessment"
+    },
+    "assessor": {
+      "type": "string",
+      "description": "Agent, human, or system that performed the assessment"
+    },
+    "dimensions": {
+      "type": "object",
+      "description": "12 scoring dimensions, each 0-100",
+      "properties": {
+        "legal": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Business identity: legal name, EIN, formation docs, licenses, registrations, ownership structure, beneficial ownership, NAICS/SIC"
+        },
+        "banking": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Banking & financial infrastructure: business bank account, merchant account, payment processor, accounting system"
+        },
+        "accounting": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Accounting: bookkeeping, bank statements, credit-card history, AR/AP, cash-flow records, balance sheet, P&L, cash-flow statement"
+        },
+        "credit": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Credit: business credit profile (D&B, Experian Business, Equifax Business), trade references, vendor accounts, Net-30, business credit cards, debt-to-income, existing debt schedule"
+        },
+        "revenue": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Revenue: current revenue, MRR, ARR, revenue history, revenue concentration, customer count, ACV, gross margin, EBITDA, revenue growth, AR aging, signed contracts, purchase orders"
+        },
+        "documentation": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Documentation completeness: loan/grant/investor applications, funding memorandum, cap table, ownership breakdown, debt schedule, personal financial statement, tax returns, financial projections, supporting contracts"
+        },
+        "business_plan": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Business plan: executive summary, problem, solution, target market, competitive analysis, business model, pricing, go-to-market, operations plan, management team, financial projections, use of funds, repayment/exit strategy"
+        },
+        "collateral": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Collateral & risk: equipment, vehicles, real estate, inventory, AR, IP, securities, personal guarantees, insurance, business continuity plan, risk assessment"
+        },
+        "investor_readiness": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Investor readiness: pitch deck, investment thesis, market size (TAM/SAM/SOM), traction, product, competitive moat, CAC, LTV, retention, growth metrics, cap table, valuation, data room"
+        },
+        "grant_readiness": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Grant readiness: eligibility (geographic, industry, entity), project description, community/economic impact, budget, timeline, matching funds, financial documentation, organizational capacity, reporting plan, certifications"
+        },
+        "sba_bank_readiness": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "SBA/bank readiness: business registration, EIN, good standing, bank account, financial statements, tax returns, debt schedule, business plan, personal financial statement, credit history, collateral info, loan purpose, cash-flow projections, repayment ability"
+        },
+        "alternative_funding": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Alternative funding readiness: revenue-based financing, equipment financing, PO financing, invoice factoring, asset-based lending, business credit cards, vendor financing, crowdfunding, angel/VC/strategic investment readiness"
+        }
+      },
+      "required": [
+        "legal",
+        "banking",
+        "accounting",
+        "credit",
+        "revenue",
+        "documentation",
+        "business_plan",
+        "collateral",
+        "investor_readiness",
+        "grant_readiness",
+        "sba_bank_readiness",
+        "alternative_funding"
+      ]
+    },
+    "overall": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 100,
+      "description": "Average of all 12 dimensions, weighted equally"
+    },
+    "funding_status": {
+      "type": "string",
+      "enum": [
+        "NOT_FUNDABLE",
+        "FUNDING_NOT_STARTED",
+        "FUNDING_IN_PROGRESS",
+        "FUNDING_READY_WITH_GAPS",
+        "FUNDING_READY",
+        "EXISTS_FUNDING"
+      ],
+      "description": "Overall funding readiness status derived from the overall score"
+    },
+    "funding_gaps": {
+      "type": "array",
+      "description": "Specific gaps that prevent funding at each level",
+      "items": {
+        "type": "object",
+        "properties": {
+          "dimension": { "type": "string" },
+          "current_score": { "type": "integer" },
+          "target_score": { "type": "integer" },
+          "gap_description": { "type": "string" },
+          "action_needed": { "type": "string" },
+          "estimated_effort": { "type": "string", "enum": ["low", "medium", "high"] }
+        }
+      }
+    },
+    "fundable_at": {
+      "type": "object",
+      "description": "At what funding level is this venture currently fundable?",
+      "properties": {
+        "micro": { "type": "boolean", "description": "< $25K (grants, microloans, credit cards, revenue-based financing)" },
+        "small": { "type": "boolean", "description": "$25K-$100K (SBA microloans, personal loans, friends/family, crowdfunding)" },
+        "medium": { "type": "boolean", "description": "$100K-$500K (SBA 7(a), angel, equipment financing, PO financing)" },
+        "large": { "type": "boolean", "description": "$500K-$2M (SBA 7(a)/504, VC, strategic investment, bank term loan)" },
+        "enterprise": { "type": "boolean", "description": "$2M+ (VC, PE, large bank, acquisition financing)" }
+      }
+    },
+    "funding_sources_eligible": {
+      "type": "array",
+      "description": "Funding sources this venture qualifies for based on readiness",
+      "items": {
+        "type": "string",
+        "enum": [
+          "grants",
+          "microloans",
+          "business_credit_cards",
+          "revenue_based_financing",
+          "equipment_financing",
+          "po_financing",
+          "invoice_factoring",
+          "asset_based_lending",
+          "vendor_financing",
+          "crowdfunding",
+          "angel_investment",
+          "venture_capital",
+          "strategic_investment",
+          "sba_7a",
+          "sba_504",
+          "bank_term_loan",
+          "private_equity",
+          "government_contracts"
+        ]
+      }
+    },
+    "notes": {
+      "type": "string",
+      "description": "Additional context about this assessment"
+    }
+  },
+  "required": [
+    "venture_id",
+    "assessed_date",
+    "dimensions",
+    "overall",
+    "funding_status"
+  ]
+}

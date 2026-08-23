@@ -1,0 +1,51 @@
+# Funding Readiness Template
+# 
+# One record per venture. Copy this template, fill in venture_id,
+# re-assess dimensions as new data arrives (Vercel deploy, revenue,
+# D&B profile, bank account, pitch deck, etc.), and write back.
+#
+# When no per-venture record exists, the system applies the defaults
+# in funding-readiness-defaults.yaml.
+
+venture_id: "<VENTURE_ID>"               # e.g. LT-011, CON-001, BW-001
+
+assessed_date: "2026-01-01"              # ISO date of this assessment
+assessor: "default"                      # "default" or agent/human name
+
+dimensions:
+  legal:              100                # 0-100: business identity, EIN, licenses, ownership
+  banking:             50                # 0-100: bank account, merchant account, payment processor
+  accounting:          20                # 0-100: bookkeeping, bank statements, AR/AP, P&L, cash-flow
+  credit:              10                # 0-100: D&B, Experian, trade references, vendor accounts, debt
+  revenue:             10                # 0-100: current revenue, MRR, ARR, customers, ACV, margin, growth
+  documentation:       80                # 0-100: applications, funding memo, cap table, tax returns, projections
+  business_plan:       75                # 0-100: exec summary, problem/solution, market, model, GTM, team
+  collateral:          15                # 0-100: equipment, vehicles, RE, inventory, AR, IP, insurance
+  investor_readiness:  30                # 0-100: pitch deck, TAM/SAM/SOM, traction, CAC, LTV, growth
+  grant_readiness:     50                # 0-100: eligibility, project description, impact, budget, reporting
+  sba_bank_readiness:  30               # 0-100: registration, EIN, financials, tax returns, debt schedule
+  alternative_funding: 35               # 0-100: RBF, equipment financing, PO financing, factoring, crowdfunding
+
+overall: 45                              # average of 12 dimensions (computed, can override)
+funding_status: "FUNDING_IN_PROGRESS"   # NOT_FUNDABLE | FUNDING_NOT_STARTED | FUNDING_IN_PROGRESS | FUNDING_READY_WITH_GAPS | FUNDING_READY | EXISTS_FUNDING
+
+funding_gaps: []                         # list of gap objects (filled when overall < threshold)
+                                          # example:
+                                          # - dimension: credit
+                                          #   current_score: 10
+                                          #   target_score: 65
+                                          #   gap_description: "No D&B profile, no business credit history"
+                                          #   action_needed: "Register with D&B, establish Net-30 vendor accounts"
+                                          #   estimated_effort: medium
+
+fundable_at:
+  micro: false     # < $25K (grants, microloans, credit cards, RBF) — overall ≥ 40
+  small: false     # $25K-$100K (SBA microloans, friends/family, crowdfunding) — overall ≥ 55
+  medium: false    # $100K-$500K (SBA 7(a), angel, equipment financing, PO financing) — overall ≥ 70
+  large: false     # $500K-$2M (SBA 7(a)/504, VC, strategic, bank term loan) — overall ≥ 80
+  enterprise: false # $2M+ (VC, PE, large bank, acquisition financing) — overall ≥ 90
+
+funding_sources_eligible: []             # list of funding sources this venture qualifies for
+                                         # e.g. [grants, microloans, business_credit_cards, crowdfunding]
+
+notes: ""                                # additional context about this assessment
