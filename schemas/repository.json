@@ -48,6 +48,22 @@
       "items": { "type": "string" },
       "description": "Capabilities this repo implements"
     },
+    "criticality": {
+      "type": ["string", "null"],
+      "enum": ["P0", "P1", "P2", "P3", null],
+      "description": "P0 = many ventures break without it. P3 = single-venture, low-stakes. Null until assessed."
+    },
+    "compound_use_score": {
+      "type": ["integer", "null"],
+      "minimum": 0,
+      "maximum": 100,
+      "description": "0-100, derived from how many ventures/repos depend on this repo's capabilities. Null until the capability+dependency graph is populated for this repo."
+    },
+    "recommended_action": {
+      "type": ["string", "null"],
+      "enum": ["KEEP", "STANDARDIZE", "MERGE", "FORK", "EXTRACT", "RENAME", "ARCHIVE", "REFERENCE", "REPLACE", "BUILD", null],
+      "description": "Consolidation-plan action. Must stay null until the repository audit (dependencies/capabilities/maturity) actually justifies it — do not set based on name pattern alone."
+    },
     "last_activity": {
       "type": ["string", "null"],
       "format": "date",

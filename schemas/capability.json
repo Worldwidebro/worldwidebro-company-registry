@@ -36,6 +36,11 @@
       "enum": ["Proposed", "Building", "Live", "Deprecated"],
       "description": "Capability maturity status"
     },
+    "provenance": {
+      "type": "string",
+      "enum": ["inferred", "audited"],
+      "description": "'inferred' = derived by keyword/pattern matching against repo name/description, not verified by reading code. 'audited' = confirmed by a real per-repo review. Per-repo confidence for 'inferred' entries lives in mappings/repository-capability.csv."
+    },
     "created_at": {
       "type": "string",
       "format": "date-time"

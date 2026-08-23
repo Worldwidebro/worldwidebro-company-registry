@@ -1,0 +1,45 @@
+registry:
+  generated_at: '2026-08-22'
+  sources:
+    github_owned: 890
+    github_starred: 877
+    t7_ventures: 788
+    t7_ventures_with_github: 687
+reconciliation:
+  owned_repos_matched_to_ventures: 547
+  owned_repos_unmatched: 343
+  ventures_without_repos: 101
+  starred_repos_also_owned: 0
+  duplicate_repo_records: 0
+  ambiguous_mappings: 0
+source_precedence:
+  github:
+  - repository existence
+  - ownership
+  - activity
+  - code
+  t7_registry:
+  - venture identity
+  - sector
+  - venture status
+  - business purpose
+  derived_intelligence:
+  - capabilities
+  - mappings
+  - compound score
+  - recommendations
+exception_counts:
+  ventures_without_repos:
+    planned: 0
+    conceptual: 50
+    external SaaS: 0
+    represented by another repo: 0
+    needs build: 1
+    missing mapping: 50
+    obsolete: 0
+  unmatched_owned_repos:
+    platform/utility: 171
+    archived: 116
+    unclassified: 56
+  orphaned_platform_repos: 171
+  naming_conflicts: 0

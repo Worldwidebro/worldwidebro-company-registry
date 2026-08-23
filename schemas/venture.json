@@ -63,6 +63,16 @@
       "items": { "type": "string" },
       "description": "List of agent identifiers"
     },
+    "criticality": {
+      "type": ["string", "null"],
+      "enum": ["P0", "P1", "P2", "P3", null],
+      "description": "Business criticality tier, null until assessed"
+    },
+    "platforms": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Shared-infrastructure platform identifiers this venture depends on (registry/platforms.yaml entries of type Shared Infrastructure)"
+    },
     "projects": {
       "type": "array",
       "items": { "type": "string" },

@@ -1,10 +1,56 @@
-# Platform registry — empty template
-# One record per platform presence. Validate against schemas/platform.json
-- id: ""
-  name: ""
-  type: ""
+# Platform registry — shared infrastructure platforms and distribution channels.
+# Validate against schemas/platform.json.
+# Populated 2026-08-23 with confirmed real repo records only (registry/repositories.yaml).
+# serves_ventures/provides_capabilities/compound_use_score are intentionally left empty/null —
+# scoring these requires the capability + dependency graph work, not yet done (see DEC-2026-0004).
+- id: "IZA-OS"
+  name: "IZA OS"
+  type: "Shared Infrastructure"
   url: null
   venture: null
-  status: ""
-  created_at: ""
-  updated_at: ""
+  repository: "iza-os-core"
+  provides_capabilities: []
+  serves_ventures: []
+  compound_use_score: null
+  status: "Live"
+  created_at: "2025-08-26T05:10:36Z"
+  updated_at: "2026-08-23T00:00:00Z"
+- id: "CIV-OS"
+  name: "Civilization OS"
+  type: "Shared Infrastructure"
+  url: null
+  venture: null
+  repository: "civilization-os"
+  provides_capabilities: []
+  serves_ventures: []
+  compound_use_score: null
+  status: "Live"
+  created_at: "2025-12-09T23:56:56Z"
+  updated_at: "2026-08-23T00:00:00Z"
+  notes: "This repo's own README claims '238 repositories' under management — a fifth conflicting portfolio-scale figure alongside the 890/788/687/712 already reconciled in project-civilization-os-scale memory. Not resolved, logged only."
+- id: "VEX"
+  name: "Vex"
+  type: "Shared Infrastructure"
+  url: null
+  venture: null
+  repository: "Vex"
+  provides_capabilities: []
+  serves_ventures: []
+  compound_use_score: null
+  status: "Live"
+  created_at: "2026-08-02T00:00:32Z"
+  updated_at: "2026-08-23T00:00:00Z"
+  notes: "Also present as a separate repo Worldwidebro/worldwidebro-venture-portal containing the same vex-hero-site package — unresolved canonical-repo conflict, see project-venture-portal-duplication memory. Do not treat as two platforms."
+- id: "AVS"
+  name: "Autonomous Venture Studio"
+  type: "Shared Infrastructure"
+  url: null
+  venture: null
+  repository: "avs-omni"
+  provides_capabilities: []
+  serves_ventures: []
+  compound_use_score: null
+  status: "Live"
+  created_at: "2025-09-27T03:54:03Z"
+  updated_at: "2026-08-23T00:00:00Z"
+  notes: "Duplicate-candidate repo Worldwidebro/Avs-Omni- also exists (created 2025-09-12, 15 days earlier) — likely a fork or naming-casing duplicate of avs-omni. Not merged/deleted; flagged as duplicate candidate only, per 'don't merge based on names' rule."

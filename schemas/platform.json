@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Platform",
-  "description": "A platform, marketplace, or distribution channel a venture reaches customers through.",
+  "description": "Either (a) a distribution channel a single venture reaches customers through (App Store, Marketplace, Retail...), or (b) shared internal infrastructure that provides capabilities to many ventures (type=Shared Infrastructure). These are deliberately kept in one schema with a type discriminator rather than two, since both are 'platform' entries a repository or venture can point at — but they use different relationship fields below, so do not conflate a distribution-channel record with a shared-infrastructure record.",
   "type": "object",
   "properties": {
     "id": {
@@ -14,8 +14,8 @@
     },
     "type": {
       "type": "string",
-      "enum": ["App Store", "Web", "Marketplace", "Retail", "API", "Partner", "Social", "Other"],
-      "description": "Platform category"
+      "enum": ["App Store", "Web", "Marketplace", "Retail", "API", "Partner", "Social", "Shared Infrastructure", "Other"],
+      "description": "Platform category. Use 'Shared Infrastructure' for internal platforms like IZA-OS/Civilization OS/VEX/AVS that provide capabilities to many ventures, rather than App Store/Web/Marketplace/etc which describe a single venture's distribution channel."
     },
     "url": {
       "type": ["string", "null"],
@@ -23,7 +23,27 @@
     },
     "venture": {
       "type": ["string", "null"],
-      "description": "Venture this platform entry belongs to"
+      "description": "For distribution-channel types only: the single venture this platform entry belongs to. Leave null for Shared Infrastructure types — use serves_ventures instead."
+    },
+    "repository": {
+      "type": ["string", "null"],
+      "description": "Repository identifier that implements this platform, if applicable"
+    },
+    "provides_capabilities": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "For Shared Infrastructure types: capability identifiers this platform provides"
+    },
+    "serves_ventures": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "For Shared Infrastructure types: venture identifiers that consume this platform. Distinct from 'venture' (singular, distribution-channel ownership)."
+    },
+    "compound_use_score": {
+      "type": ["integer", "null"],
+      "minimum": 0,
+      "maximum": 100,
+      "description": "0-100. Higher = used by more ventures with more dependencies pointing at it = more engineering attention deserved. Null until scored."
     },
     "status": {
       "type": "string",

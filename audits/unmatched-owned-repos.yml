@@ -1,1846 +1,3776 @@
-- slug: Applyingforjobs
-  name: Applyingforjobs
-  description: ''
-  language: Python
-  category: other
-- slug: Avs-Omni-
-  name: Avs-Omni-
-  description: The operating system for an autonomous venture studio
-  language: Python
-  category: other
-- slug: Ec-113kosmickitty
-  name: Ec-113kosmickitty
-  description: ''
-  language: TypeScript
-  category: other
-- slug: Resume
-  name: Resume
-  description: Personal resume
-  language: Python
-  category: other
-- slug: Worldwidebro
-  name: Worldwidebro
-  description: Antwuan Johns — @Worldwidebro profile
-  language: ''
-  category: other
-- slug: YES-LLC-CONTRACTOR-DELIVERY
-  name: YES-LLC-CONTRACTOR-DELIVERY
-  description: ''
-  language: ''
-  category: other
-- slug: _master-governance
-  name: _master-governance
+generated_at: '2026-08-22'
+count: 343
+repos:
+- full_name: Worldwidebro/_master-governance
+  repo: _master-governance
+  category: platform/utility
+  language: null
   description: Civilization OS — Chairman's Handbook, master CLAUDE.md, agent architecture, shared governance for all 835 repos
-  language: ''
-  category: other
-- slug: ace-community-impact-templates
-  name: ace-community-impact-templates
+  github:
+    archived: false
+    pushed_at: '2026-08-17T15:44:19Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ace-community-impact-templates
+  repo: ace-community-impact-templates
+  category: platform/utility
+  language: null
   description: Community Impact Business Templates (#273-312) - Social enterprises, nonprofits, and community-driven business models with impact measurement
-  language: ''
-  category: other
-- slug: ace-ecommerce-templates
-  name: ace-ecommerce-templates
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:28:24Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ace-ecommerce-templates
+  repo: ace-ecommerce-templates
+  category: platform/utility
+  language: null
   description: E-commerce Business Templates (#133-192) - Complete dropshipping, DTC, and online retail business templates with AI automation
-  language: ''
-  category: other
-- slug: acquisition-vehicle-automation
-  name: acquisition-vehicle-automation
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:28:22Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/acquisition-vehicle-automation
+  repo: acquisition-vehicle-automation
+  category: platform/utility
+  language: Python
   description: M&A operations automation for billionaire consciousness empire
-  language: Python
-  category: other
-- slug: agency-agents
-  name: agency-agents
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:28:20Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/agency-agents
+  repo: agency-agents
+  category: platform/utility
+  language: Shell
   description: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-  language: Shell
-  category: other
-- slug: ai-boss-holdings-v4
-  name: ai-boss-holdings-v4
-  description: AI Boss Holdings platform v4
+  github:
+    archived: false
+    pushed_at: '2026-07-01T17:23:00Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ai-001-ai-command-center
+  repo: ai-001-ai-command-center
+  category: archived
   language: Python
-  category: other
-- slug: ai-business-commander
-  name: ai-business-commander
-  description: AI-powered business management command center
-  language: TypeScript
-  category: other
-- slug: ai-venture-studio-template
-  name: ai-venture-studio-template
-  description: Template for creating AI-powered venture studios
-  language: Python
-  category: other
-- slug: aibossoslandingpage
-  name: aibossoslandingpage
-  description: AI Boss Holdings landing page
-  language: Python
-  category: other
-- slug: autonomous-venture-studio
-  name: autonomous-venture-studio
-  description: Core business logic & orchestration system for autonomous venture studio
-  language: Python
-  category: other
-- slug: avatar-engine
-  name: avatar-engine
-  description: 'Glue layer for talking-avatar generation: FastAPI + Redis queue + ComfyUI worker. Engine-agnostic (LivePortrait/SadTalker/Wan).'
-  language: Python
-  category: other
-- slug: avs-omni
-  name: avs-omni
-  description: 'IZA OS: avs-omni'
-  language: Python
-  category: other
-- slug: babystepsmatrix1
-  name: babystepsmatrix1
-  description: 'Archive: Old project (candidate for deletion)'
-  language: TypeScript
-  category: other
-- slug: billionaire-brain-assistant
-  name: billionaire-brain-assistant
-  description: AI-powered business intelligence for billionaire consciousness empire
-  language: Python
-  category: other
-- slug: billionaire-consciousness-empire
-  name: billionaire-consciousness-empire
-  description: Main business entity for billionaire consciousness empire operations
-  language: TypeScript
-  category: other
-- slug: billionaire-workflow-automation
-  name: billionaire-workflow-automation
-  description: Workflow automation for billionaire consciousness empire
-  language: Python
-  category: other
-- slug: business-template-marketplace
-  name: business-template-marketplace
-  description: 🏪 Complete Business Template Marketplace - 487 AI-powered business templates with automated generation, payment processing, and digital delivery system
-  language: Python
-  category: other
-- slug: bw-001-up-next-business
-  name: bw-001-up-next-business
-  description: 'BW-001 Up Next: Client intake, contracts, pricing & project planning'
-  language: HTML
-  category: other
-- slug: bw-001-up-next-code
-  name: bw-001-up-next-code
-  description: 'BW-001 Up Next: Monorepo - web app, mobile, backend (Appwrite + Supabase), AI, automation'
-  language: TypeScript
-  category: other
-- slug: bw-007-lash-kits---tools
-  name: bw-007-lash-kits---tools
-  description: Civilization OS — BW-007-Lash-Kits-&-Tools
-  language: ''
-  category: other
-- slug: bw-eroticafox
-  name: bw-eroticafox
-  description: ''
-  language: ''
-  category: other
-- slug: callitwhatyouwant
-  name: callitwhatyouwant
-  description: Back n forth
-  language: ''
-  category: other
-- slug: capital-orchestrator
-  name: capital-orchestrator
-  description: Capital allocation and orchestration platform
-  language: TypeScript
-  category: other
-- slug: career-ops
-  name: career-ops
-  description: Personal fork of career-ops job-search pipeline (+ pay enrichment & filterable explorer)
-  language: JavaScript
-  category: other
-- slug: claude-workflow-demo
-  name: claude-workflow-demo
-  description: Demo of Claude PR review automation with GitHub Actions
-  language: Shell
-  category: other
-- slug: clients
-  name: clients
-  description: Client management, agreements, onboarding systems, and lead generation
-  language: HTML
-  category: other
-- slug: clip
-  name: clip
-  description: ''
-  language: Python
-  category: other
-- slug: con-002-residential-construction
-  name: con-002-residential-construction
-  description: ''
-  language: HTML
-  category: other
-- slug: con-003-commercial-construction
-  name: con-003-commercial-construction
-  description: ''
-  language: HTML
-  category: other
-- slug: con-004-industrial-construction
-  name: con-004-industrial-construction
-  description: ''
-  language: HTML
-  category: other
-- slug: con-005-construction-equipment-rental
-  name: con-005-construction-equipment-rental
-  description: ''
-  language: HTML
-  category: other
-- slug: con-006-construction-project-management
-  name: con-006-construction-project-management
-  description: ''
-  language: HTML
-  category: other
-- slug: con-007-green-building-services
-  name: con-007-green-building-services
-  description: ''
-  language: HTML
-  category: other
-- slug: con-008-home-renovation-services
-  name: con-008-home-renovation-services
-  description: ''
-  language: HTML
-  category: other
-- slug: con-009-roofing-company
-  name: con-009-roofing-company
-  description: ''
-  language: HTML
-  category: other
-- slug: con-010-plumbing-services
-  name: con-010-plumbing-services
-  description: ''
-  language: HTML
-  category: other
-- slug: con-011-electrical-services
-  name: con-011-electrical-services
-  description: ''
-  language: HTML
-  category: other
-- slug: con-012-hvac-services
-  name: con-012-hvac-services
-  description: ''
-  language: HTML
-  category: other
-- slug: con-013-painting-services
-  name: con-013-painting-services
-  description: ''
-  language: HTML
-  category: other
-- slug: con-014-flooring-services
-  name: con-014-flooring-services
-  description: ''
-  language: HTML
-  category: other
-- slug: con-015-landscaping-services
-  name: con-015-landscaping-services
-  description: ''
-  language: HTML
-  category: other
-- slug: con-016-demolition-services
-  name: con-016-demolition-services
-  description: ''
-  language: HTML
-  category: other
-- slug: con-017-concrete-services
-  name: con-017-concrete-services
-  description: ''
-  language: HTML
-  category: other
-- slug: con-018-carpentry-services
-  name: con-018-carpentry-services
-  description: ''
-  language: HTML
-  category: other
-- slug: con-019-window-installation
-  name: con-019-window-installation
-  description: ''
-  language: HTML
-  category: other
-- slug: con-020-insulation-services
-  name: con-020-insulation-services
-  description: ''
-  language: HTML
-  category: other
-- slug: consciousness-deployment-system
-  name: consciousness-deployment-system
-  description: Autonomous deployment system for billionaire consciousness empire
-  language: Python
-  category: other
-- slug: consult-001-venture-consulting
-  name: consult-001-venture-consulting
-  description: 'Civilization OS: Strategy + operations consulting for 749 ventures (growth, M&A, board advisory)'
-  language: ''
-  category: other
-- slug: consulting-services-automation
-  name: consulting-services-automation
-  description: Consulting and advisory automation for billionaire consciousness empire
-  language: Python
-  category: other
-- slug: data-management
-  name: data-management
-  description: Unified data schemas and management systems
-  language: ''
-  category: other
-- slug: deliv-713-roadrunner-cannabis
-  name: deliv-713-roadrunner-cannabis
-  description: Roadrunner Cannabis Delivery Platform - DELIV-713 Venture | Customer shop, driver delivery app, admin operations dashboard with Express.js backend
-  language: Python
-  category: other
-- slug: deployment-orchestrator
-  name: deployment-orchestrator
-  description: Complete Docker & deployment automation system
-  language: Python
-  category: other
-- slug: design-system
-  name: design-system
-  description: ''
-  language: Shell
-  category: other
-- slug: design-team
-  name: design-team
-  description: Design system, brand guidelines, and 250+ prompts for venture studio
-  language: JavaScript
-  category: other
-- slug: ec-003-hella-scars
-  name: ec-003-hella-scars
-  description: 'EC-003: Hella Scars - Urban streetwear + edgy fragrances'
-  language: Python
-  category: other
-- slug: ec-004-godbody-luxuries
-  name: ec-004-godbody-luxuries
-  description: 'EC-004: GodBody Luxuries - Ultra-premium luxury fragrances'
-  language: ''
-  category: other
-- slug: ec-005-nwa-products
-  name: ec-005-nwa-products
-  description: 'EC-005: NWA Products - General marketplace, all categories'
-  language: ''
-  category: other
-- slug: ec-111-tve-fragrance
-  name: ec-111-tve-fragrance
-  description: ''
-  language: Python
-  category: other
-- slug: ec-commerceos
-  name: ec-commerceos
-  description: ''
-  language: TypeScript
-  category: other
-- slug: education-platform-system
-  name: education-platform-system
-  description: Educational services platform for billionaire consciousness empire
-  language: Python
-  category: other
-- slug: email-design-os
-  name: email-design-os
-  description: ''
-  language: HTML
-  category: other
-- slug: enhanced-cursor-rules
-  name: enhanced-cursor-rules
-  description: 'Enhanced Cursor Rules for AI Development: 47+ comprehensive rule files for Cursor, Windsurf, Claude Code. Business logic, AI orchestration, security standards, revenue optimization.'
-  language: Shell
-  category: other
-- slug: family-office-os
-  name: family-office-os
-  description: Holding company capital allocation, governance, and wealth management system
-  language: Python
-  category: other
-- slug: fh-014-cloud-kitchen
-  name: fh-014-cloud-kitchen
-  description: Civilization OS — FH-014-Cloud-Kitchen-
-  language: ''
-  category: other
-- slug: fh-023-bakery---pastry-shop
-  name: fh-023-bakery---pastry-shop
-  description: Civilization OS — FH-023-Bakery-&-Pastry-Shop
-  language: ''
-  category: other
-- slug: fin-033-legal-toolkit-ai
-  name: fin-033-legal-toolkit-ai
-  description: 'Civilization OS Venture: AI-powered legal toolkit'
-  language: ''
-  category: other
-- slug: fin-037-worldwidebro-trading-system
-  name: fin-037-worldwidebro-trading-system
-  description: ''
-  language: Python
-  category: other
-- slug: freeclaudecode
-  name: freeclaudecode
-  description: ''
-  language: Shell
-  category: other
-- slug: global-operations-automation
-  name: global-operations-automation
-  description: International operations automation for billionaire consciousness empire
-  language: Python
-  category: other
-- slug: innovation-hub-platform
-  name: innovation-hub-platform
-  description: Innovation and R&D platform for billionaire consciousness empire
-  language: Python
-  category: other
-- slug: ins-001-venture-insurance
-  name: ins-001-venture-insurance
-  description: 'Civilization OS: Insurance broker for 749 ventures (liability, property, workers comp, cyber)'
-  language: ''
-  category: other
-- slug: intellectual-property-management
-  name: intellectual-property-management
-  description: IP management system for billionaire consciousness empire
-  language: Python
-  category: other
-- slug: investment-fund-management
-  name: investment-fund-management
-  description: Investment management system for billionaire consciousness empire
-  language: Python
-  category: other
-- slug: legal-001-ai-boss-holdings
-  name: legal-001-ai-boss-holdings
-  description: 'Civilization OS: Parent holding company (AI Boss Holdings LLC) - Owns all 749 ventures'
-  language: ''
-  category: other
-- slug: legal-contract-templates
-  name: legal-contract-templates
-  description: Universal contract templates for all Civilization OS ventures (749+ businesses)
-  language: ''
-  category: other
-- slug: maps
-  name: maps
-  description: Ecosystem mapping, cartography system, licensing, and capital management
-  language: Python
-  category: other
-- slug: marketplace-core
-  name: marketplace-core
-  description: Shared marketplace platform (roofing + plumbing)
-  language: ''
-  category: other
-- slug: mcp-integration-hub
-  name: mcp-integration-hub
-  description: Model Context Protocol servers & integration system
-  language: Python
-  category: other
-- slug: media-empire-platform
-  name: media-empire-platform
-  description: Media and content creation platform for billionaire consciousness empire
-  language: Python
-  category: other
-- slug: mobile-access-manager
-  name: mobile-access-manager
-  description: Complete mobile optimization system for autonomous venture studio
-  language: Python
-  category: other
-- slug: nexus-ai-enterprise-platform
-  name: nexus-ai-enterprise-platform
-  description: Production-ready enterprise AI platform integrating ROMA hierarchical agents, Dria distributed network, and advanced ETL pipelines for Fortune 500 companies. Features microservices architecture, real-time monitoring, enterprise security, and multi-cloud deployment capabilities.
-  language: Python
-  category: other
-- slug: obsidian-vault
-  name: obsidian-vault
-  description: Knowledge base with venture memory, graphs, and documentation
-  language: Python
-  category: other
-- slug: op-001-venture-automation-agency
-  name: op-001-venture-automation-agency
-  description: ''
-  language: Python
-  category: other
-- slug: op-002-template-marketplace
-  name: op-002-template-marketplace
-  description: ''
-  language: Python
-  category: other
-- slug: op-003-agent-services-hub
-  name: op-003-agent-services-hub
-  description: ''
-  language: Python
-  category: other
-- slug: partnership-network-management
-  name: partnership-network-management
-  description: Strategic partnerships management for billionaire consciousness empire
-  language: Python
-  category: other
-- slug: re-002-os-property-management
-  name: re-002-os-property-management
-  description: Real estate operations platform for billionaire consciousness empire
-  language: TypeScript
-  category: other
-- slug: repo-template
-  name: repo-template
-  description: ''
-  language: ''
-  category: other
-- slug: research-lab-automation
-  name: research-lab-automation
-  description: Research and development automation for billionaire consciousness empire
-  language: Python
-  category: other
-- slug: research-os
-  name: research-os
-  description: ''
-  language: Cypher
-  category: other
-- slug: research-processing-pipeline
-  name: research-processing-pipeline
-  description: Advanced research analysis & knowledge management system
-  language: Python
-  category: other
-- slug: revenue-multiplication-system
-  name: revenue-multiplication-system
-  description: Revenue optimization system for billionaire consciousness empire
-  language: Python
-  category: other
-- slug: shared-kernels
-  name: shared-kernels
-  description: Civilization OS shared modules — intake forms, Stripe, auth, Supabase schema, dispatch logic. Every venture imports, never rebuilds.
-  language: ''
-  category: other
-- slug: sovereign-life
-  name: sovereign-life
-  description: Sovereign Life - Complete system organization and agentic ecosystem
-  language: Python
-  category: other
-- slug: tax-company-2026
-  name: tax-company-2026
-  description: 'Civilization OS Venture: Tax preparation service'
-  language: HTML
-  category: other
-- slug: tech-ventures-portfolio
-  name: tech-ventures-portfolio
-  description: Technology venture portfolio management for billionaire consciousness empire
-  language: Python
-  category: other
-- slug: testchat
-  name: testchat
-  description: ''
-  language: ''
-  category: other
-- slug: the-office
-  name: the-office
-  description: ''
-  language: TypeScript
-  category: other
-- slug: venture-contract-engine
-  name: venture-contract-engine
-  description: Auto-generate complete contract packages for any Civilization OS venture
-  language: Python
-  category: other
-- slug: venture-factory-core
-  name: venture-factory-core
-  description: Corporate architecture, automation scripts, and venture templates
-  language: TypeScript
-  category: other
-- slug: venture-pipeline
-  name: venture-pipeline
-  description: Active venture pipeline management with ACTIVE/PIPELINE/EXITED tracking
-  language: Python
-  category: other
-- slug: venture-studio-core
-  name: venture-studio-core
-  description: Venture creation platform for billionaire consciousness empire
-  language: Python
-  category: other
-- slug: ventures
-  name: ventures
-  description: Sector-organized venture database with 800+ ventures across 22 sectors
-  language: Python
-  category: other
-- slug: wealth-optimization-platform
-  name: wealth-optimization-platform
-  description: Wealth management platform for billionaire consciousness empire
-  language: Python
-  category: other
-- slug: worldwidebro-company-registry
-  name: worldwidebro-company-registry
-  description: Canonical company/venture/repository/capability/platform/decision registry for the Worldwidebro portfolio. Schemas, empty registry templates, audit framework, and architecture decision log.
-  language: ''
-  category: other
-- slug: worldwidebro-construction-os
-  name: worldwidebro-construction-os
-  description: 'CON OS: Construction operations system with deal automation, contract generation, payment splitting, and contractor reputation scoring'
-  language: Python
-  category: other
-- slug: worldwidebro-education-os
-  name: worldwidebro-education-os
-  description: IZA OS Core — Education sector operating system (EDU)
-  language: ''
-  category: other
-- slug: worldwidebro-finance-os
-  name: worldwidebro-finance-os
-  description: 🏦 Unified Financial Services Platform - Forecasting, Advisory, Compliance, Analytics, Investment Management
-  language: Python
-  category: other
-- slug: worldwidebro-marketing-os
-  name: worldwidebro-marketing-os
-  description: 📈 Unified Marketing Platform - Campaigns, Content, Analytics, Growth, Attribution
-  language: HTML
-  category: other
-- slug: worldwidebro-mathematical-os
-  name: worldwidebro-mathematical-os
-  description: ''
-  language: Python
-  category: other
-- slug: worldwidebro-os-business-engine
-  name: worldwidebro-os-business-engine
-  description: 'IZA OS: Core ecosystem integration layer'
-  language: TypeScript
-  category: other
-- slug: worldwidebro-os-core
-  name: worldwidebro-os-core
-  description: AI Boss OS holding layer, including IZA OS infrastrcture, Worldwidebro brand layer, and WWB Library Cor.
-  language: HTML
-  category: other
-- slug: worldwidebro-os-infrastructure
-  name: worldwidebro-os-infrastructure
-  description: Civilization OS infrastructure — scripts, configs, Docker stack, AOC, DeerFlow skills, agent workflows for 687 ventures
-  language: Python
-  category: other
-- slug: worldwidebro-os-knowledge-graph
-  name: worldwidebro-os-knowledge-graph
-  description: Iza OS scaffold — the source of truth for all machines, MCP servers, agents, ventures, and skills
-  language: Python
-  category: other
-- slug: worldwidebro-staffing-os
-  name: worldwidebro-staffing-os
-  description: IZA OS Core — Staffing sector operating system (STA)
-  language: ''
-  category: other
-- slug: worldwidebro-venture-portal
-  name: worldwidebro-venture-portal
-  description: ''
-  language: TypeScript
-  category: other
-- slug: xyops-integration
-  name: xyops-integration
-  description: xyOps integration for Civilization OS - Automated venture deployment and monitoring for 749+ business ventures
-  language: Shell
-  category: other
-- slug: OS-001-MATHEMATICAL-OS-REGISTRY
-  name: OS-001-MATHEMATICAL-OS-REGISTRY
-  description: ''
-  language: ''
-  category: venture-id-pattern
-- slug: Vex
-  name: Vex
-  description: ''
-  language: TypeScript
-  category: platform-infrastructure
-- slug: civilization-website
-  name: civilization-website
-  description: Full-stack website built with React, Vite, and Supabase - Part of Civilization OS integration
-  language: ''
-  category: platform-infrastructure
-- slug: fund-001-civilization-credit-fund
-  name: fund-001-civilization-credit-fund
-  description: 'Civilization OS: Internal lending + grant writing for 749 ventures (loans, SBIR/STTR grants, equipment financing)'
-  language: Python
-  category: platform-infrastructure
-- slug: genixbank-insight-compass
-  name: genixbank-insight-compass
-  description: GenixBank financial insights and analytics platform
-  language: TypeScript
-  category: platform-infrastructure
-- slug: hermes-agent-command-center
-  name: hermes-agent-command-center
-  description: Hermes Agent Command Center — dark-mode ops dashboard for an AI-agent organization (agents, tasks, decisions, approvals, OPCOs)
-  language: HTML
-  category: platform-infrastructure
-- slug: iza-os-agents
-  name: iza-os-agents
-  description: Modular agents (finance, marketing, QA, etc.)
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-ai-consciousness-platform
-  name: iza-os-ai-consciousness-platform
-  description: Consciousness AI platform for billionaire consciousness empire
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-ai-core-platform
-  name: iza-os-ai-core-platform
-  description: Core AI systems platform for billionaire consciousness empire
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-ai-nlp-platform
-  name: iza-os-ai-nlp-platform
-  description: Natural language processing platform for billionaire consciousness empire
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-ai-optimization-platform
-  name: iza-os-ai-optimization-platform
-  description: Optimization algorithms platform for billionaire consciousness empire
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-ai-orchestration
-  name: iza-os-ai-orchestration
-  description: 🎪 AI Orchestration - Multi-AI coordination
-  language: ''
-  category: platform-infrastructure
-- slug: iza-os-ai-prediction-platform
-  name: iza-os-ai-prediction-platform
-  description: Predictive analytics platform for billionaire consciousness empire
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-ai-vision-platform
-  name: iza-os-ai-vision-platform
-  description: Computer vision platform for billionaire consciousness empire
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-analytics
-  name: iza-os-analytics
-  description: 'IZA OS: Analytics and reporting engine'
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-api-gateway-bot
-  name: iza-os-api-gateway-bot
-  description: 🌐 API Gateway Bot - API management and routing automation
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-automation
-  name: iza-os-automation
-  description: ⚙️ IZA OS Automation - Workflow automation and orchestration
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-automation-integration
-  name: iza-os-automation-integration
-  description: Automation integration platform for billionaire consciousness empire
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-blockchain-core
-  name: iza-os-blockchain-core
-  description: Blockchain core platform for billionaire consciousness empire
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-business
-  name: iza-os-business
-  description: 'IZA OS: Business logic core module'
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-cli
-  name: iza-os-cli
-  description: 'IZA OS: iza-os-cli'
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-computer-vision
-  name: iza-os-computer-vision
-  description: 👁️ Computer Vision - Image and video analysis
-  language: ''
-  category: platform-infrastructure
-- slug: iza-os-core
-  name: iza-os-core
-  description: 🧠 IZA OS - Intelligent Zero-Administration Operating System | Your AI CEO that finds problems, launches ventures, and generates income | Mobile-optimized for Cursor IDE
-  language: TypeScript
-  category: platform-infrastructure
-- slug: iza-os-cryptocurrency-management
-  name: iza-os-cryptocurrency-management
-  description: Cryptocurrency management platform for billionaire consciousness empire
-  language: Go
-  category: platform-infrastructure
-- slug: iza-os-customer-core
-  name: iza-os-customer-core
-  description: 🤝 Unified Customer Experience Platform - Support, Communication, Satisfaction, Engagement
-  language: ''
-  category: platform-infrastructure
-- slug: iza-os-cybersecurity-monitoring-bot
-  name: iza-os-cybersecurity-monitoring-bot
-  description: 🔒 Cybersecurity Monitoring Bot - Advanced threat detection and response
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-data
-  name: iza-os-data
-  description: ETL pipelines + datasets + knowledge graph
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-data-integration-hub
-  name: iza-os-data-integration-hub
-  description: Data integration hub for billionaire consciousness empire
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-defi-platform
-  name: iza-os-defi-platform
-  description: DeFi operations platform for billionaire consciousness empire
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-deployment-automation-bot
-  name: iza-os-deployment-automation-bot
-  description: 🚀 Deployment Automation Bot - Automated deployment and scaling
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-docs
-  name: iza-os-docs
-  description: 'IZA OS: iza-os-docs'
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-embedding-service
-  name: iza-os-embedding-service
-  description: 📊 Embedding Service - Text and data embedding
-  language: ''
-  category: platform-infrastructure
-- slug: iza-os-enterprise-integrations
-  name: iza-os-enterprise-integrations
-  description: Enterprise integrations platform for billionaire consciousness empire
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-finance-core
-  name: iza-os-finance-core
-  description: IZA OS Core — Finance sector operating system (FIN)
-  language: ''
-  category: platform-infrastructure
-- slug: iza-os-funding
-  name: iza-os-funding
-  description: 'IZA OS: iza-os-funding'
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-hr-core
-  name: iza-os-hr-core
-  description: 👥 Unified HR Platform - Recruitment, Benefits, Performance, Compliance, Employee Experience
-  language: ''
-  category: platform-infrastructure
-- slug: iza-os-inference-engine
-  name: iza-os-inference-engine
-  description: ⚡ Inference Engine - Fast AI model inference
-  language: ''
-  category: platform-infrastructure
-- slug: iza-os-infra
-  name: iza-os-infra
-  description: 'IZA OS: iza-os-infra'
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-infrastructure
-  name: iza-os-infrastructure
-  description: 🏗️ IZA OS Infrastructure - DevOps, deployment, and infrastructure
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-infrastructure-monitoring-bot
-  name: iza-os-infrastructure-monitoring-bot
-  description: 🏗️ Infrastructure Monitoring Bot - Automated system monitoring and alerting
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-integrations
-  name: iza-os-integrations
-  description: 🔗 IZA OS Integrations - Third-party integrations and APIs
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-intelligence-core
-  name: iza-os-intelligence-core
-  description: 🧠 Unified Intelligence Platform - Analytics, Reporting, AI/ML, Insights, Data Science
-  language: ''
-  category: platform-infrastructure
-- slug: iza-os-inventory-management-analytics-bot
-  name: iza-os-inventory-management-analytics-bot
-  description: 🤖 Inventory Management Bot - Analytics automation and intelligence
-  language: TypeScript
-  category: platform-infrastructure
-- slug: iza-os-inventory-management-automation-bot
-  name: iza-os-inventory-management-automation-bot
-  description: 🤖 Inventory Management Bot - Automation automation and intelligence
-  language: TypeScript
-  category: platform-infrastructure
-- slug: iza-os-inventory-management-monitoring-bot
-  name: iza-os-inventory-management-monitoring-bot
-  description: 🤖 Inventory Management Bot - Monitoring automation and intelligence
-  language: TypeScript
-  category: platform-infrastructure
-- slug: iza-os-inventory-management-optimization-bot
-  name: iza-os-inventory-management-optimization-bot
-  description: 🤖 Inventory Management Bot - Optimization automation and intelligence
-  language: TypeScript
-  category: platform-infrastructure
-- slug: iza-os-knowledge-graph
-  name: iza-os-knowledge-graph
-  description: 🕸️ Knowledge Graph - Entity relationship mapping
-  language: ''
-  category: platform-infrastructure
-- slug: iza-os-legal-core
-  name: iza-os-legal-core
-  description: ⚖️ Unified Legal Platform - Contracts, Compliance, IP, Risk Management, Regulatory Affairs
-  language: ''
-  category: platform-infrastructure
-- slug: iza-os-legal-research-discovery-bot
-  name: iza-os-legal-research-discovery-bot
-  description: 🤖 Legal Research Bot - Discovery automation and intelligence
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-legal-research-processing-bot
-  name: iza-os-legal-research-processing-bot
-  description: 🤖 Legal Research Bot - Processing automation and intelligence
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-legal-research-synthesis-bot
-  name: iza-os-legal-research-synthesis-bot
-  description: 🤖 Legal Research Bot - Synthesis automation and intelligence
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-llm-adapter
-  name: iza-os-llm-adapter
-  description: 🧠 LLM Adapter - Large language model integration
-  language: ''
-  category: platform-infrastructure
-- slug: iza-os-market
-  name: iza-os-market
-  description: 'IZA OS: iza-os-market'
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-marketing-automation-analytics-bot
-  name: iza-os-marketing-automation-analytics-bot
-  description: 🤖 Marketing Automation Bot - Analytics automation and intelligence
-  language: C
-  category: platform-infrastructure
-- slug: iza-os-mcp
-  name: iza-os-mcp
-  description: 'IZA OS: iza-os-mcp'
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-ml
-  name: iza-os-ml
-  description: 'IZA OS: iza-os-ml'
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-mobile
-  name: iza-os-mobile
-  description: 'IZA OS: iza-os-mobile'
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-model-training
-  name: iza-os-model-training
-  description: 🎯 Model Training - AI model training pipeline
-  language: ''
-  category: platform-infrastructure
-- slug: iza-os-monitoring
-  name: iza-os-monitoring
-  description: 'IZA OS: iza-os-monitoring'
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-monitoring-integration
-  name: iza-os-monitoring-integration
-  description: Monitoring integration platform for billionaire consciousness empire
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-nft-platform
-  name: iza-os-nft-platform
-  description: NFT operations platform for billionaire consciousness empire
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-nlp-pipeline
-  name: iza-os-nlp-pipeline
-  description: 📝 NLP Pipeline - Natural language processing
-  language: ''
-  category: platform-infrastructure
-- slug: iza-os-notification-bot
-  name: iza-os-notification-bot
-  description: 🔔 Notification Bot - Intelligent notification and alerting system
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-operations-core
-  name: iza-os-operations-core
-  description: 🔧 Unified Operations Platform - Workflows, Integration, Monitoring, Security, Automation
-  language: ''
-  category: platform-infrastructure
-- slug: iza-os-ops
-  name: iza-os-ops
-  description: CI/CD, monitoring, DevOps infrastructure
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-orchestrator
-  name: iza-os-orchestrator
-  description: 'IZA OS: Main orchestration engine'
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-platform-core
-  name: iza-os-platform-core
-  description: 🏗️ Unified Platform Infrastructure - Core Systems, APIs, Deployment, Scaling, MCP Integration
-  language: ''
-  category: platform-infrastructure
-- slug: iza-os-playgrounds
-  name: iza-os-playgrounds
-  description: 'IZA OS: iza-os-playgrounds'
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-predictive-analytics-bot
-  name: iza-os-predictive-analytics-bot
-  description: 📊 Predictive Analytics Bot - AI-powered forecasting and predictions
-  language: JavaScript
-  category: platform-infrastructure
-- slug: iza-os-predictive-modeling
-  name: iza-os-predictive-modeling
-  description: 📈 Predictive Modeling - Future prediction models
-  language: ''
-  category: platform-infrastructure
-- slug: iza-os-prompt-engineering
-  name: iza-os-prompt-engineering
-  description: 💬 Prompt Engineering - LLM prompt optimization
-  language: ''
-  category: platform-infrastructure
-- slug: iza-os-quality-assurance-bot
-  name: iza-os-quality-assurance-bot
-  description: ✅ Quality Assurance Bot - Automated testing and quality control
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-rag-system
-  name: iza-os-rag-system
-  description: 📚 RAG System - Retrieval augmented generation
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-recommendation-engine
-  name: iza-os-recommendation-engine
-  description: 🎯 Recommendation Engine - AI recommendations
-  language: ''
-  category: platform-infrastructure
-- slug: iza-os-revenue
-  name: iza-os-revenue
-  description: 'IZA OS: Revenue tracking and optimization module'
-  language: JavaScript
-  category: platform-infrastructure
-- slug: iza-os-sales-core
-  name: iza-os-sales-core
-  description: 💰 Unified Sales Platform - Pipeline, CRM, Automation, Performance, Revenue Optimization
-  language: ''
-  category: platform-infrastructure
-- slug: iza-os-security
-  name: iza-os-security
-  description: 'IZA OS: iza-os-security'
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-security-compliance-bot
-  name: iza-os-security-compliance-bot
-  description: 🛡️ Security Compliance Bot - Automated security compliance monitoring
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-semantic-search
-  name: iza-os-semantic-search
-  description: 🔍 Semantic Search - AI-powered search
-  language: ''
-  category: platform-infrastructure
-- slug: iza-os-smart-contracts
-  name: iza-os-smart-contracts
-  description: Smart contracts platform for billionaire consciousness empire
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-specs
-  name: iza-os-specs
-  description: Enhanced AI Orchestrator - The operating system for an autonomous venture studio
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-speech-processing
-  name: iza-os-speech-processing
-  description: 🎤 Speech Processing - Audio analysis and synthesis
-  language: ''
-  category: platform-infrastructure
-- slug: iza-os-templates
-  name: iza-os-templates
-  description: 'IZA OS: iza-os-templates'
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-third-party-apis
-  name: iza-os-third-party-apis
-  description: Third-party APIs platform for billionaire consciousness empire
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-vector-database
-  name: iza-os-vector-database
-  description: 🔢 Vector Database - Vector storage and retrieval
-  language: ''
-  category: platform-infrastructure
-- slug: iza-os-web
-  name: iza-os-web
-  description: 'IZA OS: iza-os-web'
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-web3-integration
-  name: iza-os-web3-integration
-  description: Web3 integration platform for billionaire consciousness empire
-  language: Python
-  category: platform-infrastructure
-- slug: iza-os-workflow-integration
-  name: iza-os-workflow-integration
-  description: Workflow integration platform for billionaire consciousness empire
-  language: Python
-  category: platform-infrastructure
-- slug: unified-dashboard-system
-  name: unified-dashboard-system
-  description: Complete dashboard & monitoring system for autonomous venture studio
-  language: Python
-  category: platform-infrastructure
-- slug: ai-001-ai-command-center
-  name: ai-001-ai-command-center
   description: OpenClaw orchestration dashboard with AI agent management - Part of Civilization OS venture ecosystem
-  language: Python
+  github:
+    archived: true
+    pushed_at: '2026-02-13T18:10:58Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ai-002-api
+  repo: ai-002-api
   category: archived
-  reason: repo is archived
-- slug: ai-002-api
-  name: ai-002-api
+  language: null
   description: Backend API for the CogniFlow web application.
-  language: ''
+  github:
+    archived: true
+    pushed_at: '2025-10-23T16:05:20Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ai-002-ml-engine
+  repo: ai-002-ml-engine
   category: archived
-  reason: repo is archived
-- slug: ai-002-ml-engine
-  name: ai-002-ml-engine
+  language: null
   description: Machine learning models and training pipelines for CogniFlow.
-  language: ''
+  github:
+    archived: true
+    pushed_at: '2025-10-23T16:05:19Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ai-002-web-app
+  repo: ai-002-web-app
   category: archived
-  reason: repo is archived
-- slug: ai-002-web-app
-  name: ai-002-web-app
+  language: null
   description: Frontend application for CogniFlow's workflow management.
-  language: ''
-  category: archived
-  reason: repo is archived
-- slug: bw-001-contracts
-  name: bw-001-contracts
-  description: ARCHIVED → merged into bw-001-up-next-business
-  language: HTML
-  category: archived
-  reason: repo is archived
-- slug: bw-001-up-next
-  name: bw-001-up-next
-  description: ARCHIVED → merged into bw-001-up-next-business
-  language: ''
-  category: archived
-  reason: repo is archived
-- slug: bw-001-up-next-web
-  name: bw-001-up-next-web
-  description: ARCHIVED → merged into bw-001-up-next-code
+  github:
+    archived: true
+    pushed_at: '2025-10-23T16:05:17Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ai-boss-holdings-v4
+  repo: ai-boss-holdings-v4
+  category: platform/utility
   language: Python
-  category: archived
-  reason: repo is archived
-- slug: et-003-content
-  name: et-003-content
-  description: Instructional content and course materials for SkillForge.
-  language: ''
-  category: archived
-  reason: repo is archived
-- slug: et-003-platform
-  name: et-003-platform
-  description: Monorepo for the main SkillForge learning platform (frontend/backend).
-  language: ''
-  category: archived
-  reason: repo is archived
-- slug: ft-001-api-gateway
-  name: ft-001-api-gateway
-  description: API gateway for external services to interact with the QuantumLedger.
-  language: ''
-  category: archived
-  reason: repo is archived
-- slug: ft-001-core-ledger
-  name: ft-001-core-ledger
-  description: Core decentralized ledger and smart contract code for QuantumLedger.
-  language: ''
-  category: archived
-  reason: repo is archived
-- slug: ft-001-docs
-  name: ft-001-docs
-  description: Documentation, whitepapers, and technical specifications for QuantumLedger.
-  language: ''
-  category: archived
-  reason: repo is archived
-- slug: ht-004-data-api
-  name: ht-004-data-api
-  description: Secure API for handling sensitive patient data for VitalSense.
-  language: ''
-  category: archived
-  reason: repo is archived
-- slug: ht-004-firmware
-  name: ht-004-firmware
-  description: Embedded software for the VitalSense wearable device.
-  language: ''
-  category: archived
-  reason: repo is archived
-- slug: ht-004-mobile-app
-  name: ht-004-mobile-app
-  description: Mobile application (iOS/Android) for VitalSense data visualization.
-  language: ''
-  category: archived
-  reason: repo is archived
-- slug: iza-os-customer-service-automation-bot
-  name: iza-os-customer-service-automation-bot
-  description: Advanced customer service automation for billionaire consciousness empire
+  description: AI Boss Holdings platform v4
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:28:13Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ai-business-commander
+  repo: ai-business-commander
+  category: unclassified
   language: TypeScript
-  category: archived
-  reason: repo is archived
-- slug: iza-os-customer-service-chatbot-bot
-  name: iza-os-customer-service-chatbot-bot
-  description: Advanced customer service chatbot for billionaire consciousness empire
+  description: AI-powered business management command center
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:28:11Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ai-venture-studio-template
+  repo: ai-venture-studio-template
+  category: platform/utility
+  language: Python
+  description: Template for creating AI-powered venture studios
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:28:09Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/aibossoslandingpage
+  repo: aibossoslandingpage
+  category: platform/utility
+  language: Python
+  description: AI Boss Holdings landing page
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:28:08Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/Applyingforjobs
+  repo: Applyingforjobs
+  category: unclassified
+  language: Python
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-06-07T01:59:51Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/arbitrage-nexus
+  repo: arbitrage-nexus
+  category: platform/utility
   language: TypeScript
-  category: archived
-  reason: repo is archived
-- slug: iza-os-customer-service-email-bot
-  name: iza-os-customer-service-email-bot
-  description: Advanced customer service email automation for billionaire consciousness empire
-  language: TypeScript
-  category: archived
-  reason: repo is archived
-- slug: iza-os-customer-service-escalation-bot
-  name: iza-os-customer-service-escalation-bot
-  description: Advanced customer service escalation automation for billionaire consciousness empire
-  language: TypeScript
-  category: archived
-  reason: repo is archived
-- slug: iza-os-customer-service-faq-bot
-  name: iza-os-customer-service-faq-bot
-  description: Advanced customer service FAQ automation for billionaire consciousness empire
-  language: TypeScript
-  category: archived
-  reason: repo is archived
-- slug: iza-os-customer-service-knowledge-bot
-  name: iza-os-customer-service-knowledge-bot
-  description: Advanced customer service knowledge management for billionaire consciousness empire
-  language: TypeScript
-  category: archived
-  reason: repo is archived
-- slug: iza-os-customer-service-phone-bot
-  name: iza-os-customer-service-phone-bot
-  description: Advanced customer service phone automation for billionaire consciousness empire
-  language: TypeScript
-  category: archived
-  reason: repo is archived
-- slug: iza-os-customer-service-social-bot
-  name: iza-os-customer-service-social-bot
-  description: Advanced customer service social media automation for billionaire consciousness empire
-  language: TypeScript
-  category: archived
-  reason: repo is archived
-- slug: iza-os-customer-service-ticket-bot
-  name: iza-os-customer-service-ticket-bot
-  description: Advanced customer service ticket management for billionaire consciousness empire
-  language: TypeScript
-  category: archived
-  reason: repo is archived
-- slug: iza-os-finance-advisor-alerting-bot
-  name: iza-os-finance-advisor-alerting-bot
-  description: 🤖 Finance Advisor Bot - Alerting automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-finance-advisor-analytics-bot
-  name: iza-os-finance-advisor-analytics-bot
-  description: 🤖 Finance Advisor Bot - Analytics automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-finance-advisor-automation-bot
-  name: iza-os-finance-advisor-automation-bot
-  description: 🤖 Finance Advisor Bot - Automation automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-finance-advisor-compliance-bot
-  name: iza-os-finance-advisor-compliance-bot
-  description: 🤖 Finance Advisor Bot - Compliance automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-finance-advisor-discovery-bot
-  name: iza-os-finance-advisor-discovery-bot
-  description: 🤖 Finance Advisor Bot - Discovery automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-finance-advisor-forecasting-bot
-  name: iza-os-finance-advisor-forecasting-bot
-  description: Advanced financial forecasting bot for billionaire consciousness empire
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-finance-advisor-integration-bot
-  name: iza-os-finance-advisor-integration-bot
-  description: 🤖 Finance Advisor Bot - Integration automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-finance-advisor-intelligence-bot
-  name: iza-os-finance-advisor-intelligence-bot
-  description: 🤖 Finance Advisor Bot - Intelligence automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-finance-advisor-management-bot
-  name: iza-os-finance-advisor-management-bot
-  description: 🤖 Finance Advisor Bot - Management automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-finance-advisor-monitoring-bot
-  name: iza-os-finance-advisor-monitoring-bot
-  description: 🤖 Finance Advisor Bot - Monitoring automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-finance-advisor-optimization-bot
-  name: iza-os-finance-advisor-optimization-bot
-  description: 🤖 Finance Advisor Bot - Optimization automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-finance-advisor-orchestration-bot
-  name: iza-os-finance-advisor-orchestration-bot
-  description: 🤖 Finance Advisor Bot - Orchestration automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-finance-advisor-processing-bot
-  name: iza-os-finance-advisor-processing-bot
-  description: 🤖 Finance Advisor Bot - Processing automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-finance-advisor-reporting-bot
-  name: iza-os-finance-advisor-reporting-bot
-  description: 🤖 Finance Advisor Bot - Reporting automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-finance-advisor-security-bot
-  name: iza-os-finance-advisor-security-bot
-  description: 🤖 Finance Advisor Bot - Security automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-finance-advisor-synthesis-bot
-  name: iza-os-finance-advisor-synthesis-bot
-  description: 🤖 Finance Advisor Bot - Synthesis automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-hr-analytics-bot
-  name: iza-os-hr-analytics-bot
-  description: Advanced HR analytics automation for billionaire consciousness empire
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-hr-benefits-bot
-  name: iza-os-hr-benefits-bot
-  description: Advanced HR benefits management for billionaire consciousness empire
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-hr-compliance-bot
-  name: iza-os-hr-compliance-bot
-  description: Advanced HR compliance automation for billionaire consciousness empire
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-hr-onboarding-bot
-  name: iza-os-hr-onboarding-bot
-  description: Advanced HR onboarding automation for billionaire consciousness empire
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-hr-payroll-bot
-  name: iza-os-hr-payroll-bot
-  description: Advanced HR payroll automation for billionaire consciousness empire
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-hr-performance-bot
-  name: iza-os-hr-performance-bot
-  description: Advanced HR performance management for billionaire consciousness empire
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-hr-recruitment-bot
-  name: iza-os-hr-recruitment-bot
-  description: Advanced HR recruitment automation for billionaire consciousness empire
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-hr-training-bot
-  name: iza-os-hr-training-bot
-  description: Advanced HR training automation for billionaire consciousness empire
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-inventory-management-compliance-bot
-  name: iza-os-inventory-management-compliance-bot
-  description: 🤖 Inventory Management Bot - Compliance automation and intelligence
-  language: TypeScript
-  category: archived
-  reason: repo is archived
-- slug: iza-os-inventory-management-integration-bot
-  name: iza-os-inventory-management-integration-bot
-  description: 🤖 Inventory Management Bot - Integration automation and intelligence
-  language: TypeScript
-  category: archived
-  reason: repo is archived
-- slug: iza-os-inventory-management-reporting-bot
-  name: iza-os-inventory-management-reporting-bot
-  description: 🤖 Inventory Management Bot - Reporting automation and intelligence
-  language: TypeScript
-  category: archived
-  reason: repo is archived
-- slug: iza-os-inventory-management-security-bot
-  name: iza-os-inventory-management-security-bot
-  description: 🤖 Inventory Management Bot - Security automation and intelligence
-  language: TypeScript
-  category: archived
-  reason: repo is archived
-- slug: iza-os-legal-research-alerting-bot
-  name: iza-os-legal-research-alerting-bot
-  description: 🤖 Legal Research Bot - Alerting automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-legal-research-compliance-bot
-  name: iza-os-legal-research-compliance-bot
-  description: 🤖 Legal Research Bot - Compliance automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-legal-research-integration-bot
-  name: iza-os-legal-research-integration-bot
-  description: 🤖 Legal Research Bot - Integration automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-legal-research-intelligence-bot
-  name: iza-os-legal-research-intelligence-bot
-  description: 🤖 Legal Research Bot - Intelligence automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-legal-research-management-bot
-  name: iza-os-legal-research-management-bot
-  description: 🤖 Legal Research Bot - Management automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-legal-research-optimization-bot
-  name: iza-os-legal-research-optimization-bot
-  description: 🤖 Legal Research Bot - Optimization automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-legal-research-orchestration-bot
-  name: iza-os-legal-research-orchestration-bot
-  description: 🤖 Legal Research Bot - Orchestration automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-legal-research-reporting-bot
-  name: iza-os-legal-research-reporting-bot
-  description: 🤖 Legal Research Bot - Reporting automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-legal-research-security-bot
-  name: iza-os-legal-research-security-bot
-  description: 🤖 Legal Research Bot - Security automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-marketing-automation-alerting-bot
-  name: iza-os-marketing-automation-alerting-bot
-  description: 🤖 Marketing Automation Bot - Alerting automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-marketing-automation-automation-bot
-  name: iza-os-marketing-automation-automation-bot
-  description: 🤖 Marketing Automation Bot - Automation automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-marketing-automation-campaign-bot
-  name: iza-os-marketing-automation-campaign-bot
-  description: Advanced marketing campaign bot for billionaire consciousness empire
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-marketing-automation-compliance-bot
-  name: iza-os-marketing-automation-compliance-bot
-  description: 🤖 Marketing Automation Bot - Compliance automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-marketing-automation-discovery-bot
-  name: iza-os-marketing-automation-discovery-bot
-  description: 🤖 Marketing Automation Bot - Discovery automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-marketing-automation-integration-bot
-  name: iza-os-marketing-automation-integration-bot
-  description: 🤖 Marketing Automation Bot - Integration automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-marketing-automation-intelligence-bot
-  name: iza-os-marketing-automation-intelligence-bot
-  description: 🤖 Marketing Automation Bot - Intelligence automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-marketing-automation-management-bot
-  name: iza-os-marketing-automation-management-bot
-  description: 🤖 Marketing Automation Bot - Management automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-marketing-automation-monitoring-bot
-  name: iza-os-marketing-automation-monitoring-bot
-  description: 🤖 Marketing Automation Bot - Monitoring automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-marketing-automation-optimization-bot
-  name: iza-os-marketing-automation-optimization-bot
-  description: 🤖 Marketing Automation Bot - Optimization automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-marketing-automation-orchestration-bot
-  name: iza-os-marketing-automation-orchestration-bot
-  description: 🤖 Marketing Automation Bot - Orchestration automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-marketing-automation-processing-bot
-  name: iza-os-marketing-automation-processing-bot
-  description: 🤖 Marketing Automation Bot - Processing automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-marketing-automation-reporting-bot
-  name: iza-os-marketing-automation-reporting-bot
-  description: 🤖 Marketing Automation Bot - Reporting automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-marketing-automation-security-bot
-  name: iza-os-marketing-automation-security-bot
-  description: 🤖 Marketing Automation Bot - Security automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-marketing-automation-synthesis-bot
-  name: iza-os-marketing-automation-synthesis-bot
-  description: 🤖 Marketing Automation Bot - Synthesis automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-operations-analytics-bot
-  name: iza-os-operations-analytics-bot
-  description: Advanced operations analytics for billionaire consciousness empire
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-operations-automation-bot
-  name: iza-os-operations-automation-bot
-  description: Advanced operations automation for billionaire consciousness empire
-  language: JavaScript
-  category: archived
-  reason: repo is archived
-- slug: iza-os-operations-compliance-bot
-  name: iza-os-operations-compliance-bot
-  description: Advanced operations compliance for billionaire consciousness empire
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-operations-integration-bot
-  name: iza-os-operations-integration-bot
-  description: Advanced operations integration for billionaire consciousness empire
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-operations-intelligence-bot
-  name: iza-os-operations-intelligence-bot
-  description: Advanced operations intelligence for billionaire consciousness empire
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-operations-monitoring-bot
-  name: iza-os-operations-monitoring-bot
-  description: Advanced operations monitoring for billionaire consciousness empire
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-operations-optimization-bot
-  name: iza-os-operations-optimization-bot
-  description: Advanced operations optimization for billionaire consciousness empire
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-operations-reporting-bot
-  name: iza-os-operations-reporting-bot
-  description: Advanced operations reporting for billionaire consciousness empire
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-operations-security-bot
-  name: iza-os-operations-security-bot
-  description: Advanced operations security for billionaire consciousness empire
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-project-management-alerting-bot
-  name: iza-os-project-management-alerting-bot
-  description: 🤖 Project Management Bot - Alerting automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-project-management-analytics-bot
-  name: iza-os-project-management-analytics-bot
-  description: 🤖 Project Management Bot - Analytics automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-project-management-automation-bot
-  name: iza-os-project-management-automation-bot
-  description: 🤖 Project Management Bot - Automation automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-project-management-compliance-bot
-  name: iza-os-project-management-compliance-bot
-  description: 🤖 Project Management Bot - Compliance automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-project-management-discovery-bot
-  name: iza-os-project-management-discovery-bot
-  description: 🤖 Project Management Bot - Discovery automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-project-management-integration-bot
-  name: iza-os-project-management-integration-bot
-  description: 🤖 Project Management Bot - Integration automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-project-management-intelligence-bot
-  name: iza-os-project-management-intelligence-bot
-  description: 🤖 Project Management Bot - Intelligence automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-project-management-management-bot
-  name: iza-os-project-management-management-bot
-  description: 🤖 Project Management Bot - Management automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-project-management-monitoring-bot
-  name: iza-os-project-management-monitoring-bot
-  description: 🤖 Project Management Bot - Monitoring automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-project-management-optimization-bot
-  name: iza-os-project-management-optimization-bot
-  description: 🤖 Project Management Bot - Optimization automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-project-management-orchestration-bot
-  name: iza-os-project-management-orchestration-bot
-  description: 🤖 Project Management Bot - Orchestration automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-project-management-processing-bot
-  name: iza-os-project-management-processing-bot
-  description: 🤖 Project Management Bot - Processing automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-project-management-reporting-bot
-  name: iza-os-project-management-reporting-bot
-  description: 🤖 Project Management Bot - Reporting automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-project-management-security-bot
-  name: iza-os-project-management-security-bot
-  description: 🤖 Project Management Bot - Security automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-project-management-synthesis-bot
-  name: iza-os-project-management-synthesis-bot
-  description: 🤖 Project Management Bot - Synthesis automation and intelligence
-  language: Python
-  category: archived
-  reason: repo is archived
-- slug: iza-os-sales-automation-alerting-bot
-  name: iza-os-sales-automation-alerting-bot
-  description: 🤖 Sales Automation Bot - Alerting automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-sales-automation-analytics-bot
-  name: iza-os-sales-automation-analytics-bot
-  description: 🤖 Sales Automation Bot - Analytics automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-sales-automation-automation-bot
-  name: iza-os-sales-automation-automation-bot
-  description: 🤖 Sales Automation Bot - Automation automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-sales-automation-compliance-bot
-  name: iza-os-sales-automation-compliance-bot
-  description: 🤖 Sales Automation Bot - Compliance automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-sales-automation-discovery-bot
-  name: iza-os-sales-automation-discovery-bot
-  description: 🤖 Sales Automation Bot - Discovery automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-sales-automation-integration-bot
-  name: iza-os-sales-automation-integration-bot
-  description: 🤖 Sales Automation Bot - Integration automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-sales-automation-intelligence-bot
-  name: iza-os-sales-automation-intelligence-bot
-  description: 🤖 Sales Automation Bot - Intelligence automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-sales-automation-management-bot
-  name: iza-os-sales-automation-management-bot
-  description: 🤖 Sales Automation Bot - Management automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-sales-automation-monitoring-bot
-  name: iza-os-sales-automation-monitoring-bot
-  description: 🤖 Sales Automation Bot - Monitoring automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-sales-automation-optimization-bot
-  name: iza-os-sales-automation-optimization-bot
-  description: 🤖 Sales Automation Bot - Optimization automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-sales-automation-orchestration-bot
-  name: iza-os-sales-automation-orchestration-bot
-  description: 🤖 Sales Automation Bot - Orchestration automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-sales-automation-processing-bot
-  name: iza-os-sales-automation-processing-bot
-  description: 🤖 Sales Automation Bot - Processing automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-sales-automation-reporting-bot
-  name: iza-os-sales-automation-reporting-bot
-  description: 🤖 Sales Automation Bot - Reporting automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-sales-automation-security-bot
-  name: iza-os-sales-automation-security-bot
-  description: 🤖 Sales Automation Bot - Security automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: iza-os-sales-automation-synthesis-bot
-  name: iza-os-sales-automation-synthesis-bot
-  description: 🤖 Sales Automation Bot - Synthesis automation and intelligence
-  language: C
-  category: archived
-  reason: repo is archived
-- slug: up-next-marketplace
-  name: up-next-marketplace
-  description: ARCHIVED → merged into bw-001-up-next-code
-  language: ''
-  category: archived
-  reason: repo is archived
-- slug: arbitrage-nexus
-  name: arbitrage-nexus
   description: Arbitrage opportunity detection and execution platform
+  github:
+    archived: false
+    pushed_at: '2026-07-11T20:36:53Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/autonomous-venture-studio
+  repo: autonomous-venture-studio
+  category: platform/utility
+  language: Python
+  description: Core business logic & orchestration system for autonomous venture studio
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:28:06Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/avatar-engine
+  repo: avatar-engine
+  category: platform/utility
+  language: Python
+  description: 'Glue layer for talking-avatar generation: FastAPI + Redis queue + ComfyUI worker. Engine-agnostic (LivePortrait/SadTalker/Wan).'
+  github:
+    archived: false
+    pushed_at: '2026-06-26T15:26:15Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/avs-omni
+  repo: avs-omni
+  category: platform/utility
+  language: Python
+  description: 'IZA OS: avs-omni'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:28:04Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/Avs-Omni-
+  repo: Avs-Omni-
+  category: platform/utility
+  language: Python
+  description: The operating system for an autonomous venture studio
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:28:03Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/babystepsmatrix1
+  repo: babystepsmatrix1
+  category: unclassified
   language: TypeScript
-  category: platform-with-deploy
-  vercel_url: arbitrage-nexus-dmjzjijml-worldwidebros-projects.vercel.app
-- slug: bloom-community-hub
-  name: bloom-community-hub
+  description: 'Archive: Old project (candidate for deletion)'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:28:01Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/billionaire-brain-assistant
+  repo: billionaire-brain-assistant
+  category: unclassified
+  language: Python
+  description: AI-powered business intelligence for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:27:59Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/billionaire-consciousness-empire
+  repo: billionaire-consciousness-empire
+  category: unclassified
+  language: TypeScript
+  description: Main business entity for billionaire consciousness empire operations
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:27:58Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/billionaire-workflow-automation
+  repo: billionaire-workflow-automation
+  category: platform/utility
+  language: Python
+  description: Workflow automation for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:27:56Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/bloom-community-hub
+  repo: bloom-community-hub
+  category: platform/utility
+  language: TypeScript
   description: Bloom — unified Community sector hub, one page per real venture
+  github:
+    archived: false
+    pushed_at: '2026-07-07T22:48:16Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/business-template-marketplace
+  repo: business-template-marketplace
+  category: platform/utility
+  language: Python
+  description: 🏪 Complete Business Template Marketplace - 487 AI-powered business templates with automated generation, payment processing, and digital delivery system
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:27:55Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/bw-001-contracts
+  repo: bw-001-contracts
+  category: archived
+  language: HTML
+  description: ARCHIVED → merged into bw-001-up-next-business
+  github:
+    archived: true
+    pushed_at: '2026-03-31T17:12:18Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/bw-001-up-next
+  repo: bw-001-up-next
+  category: archived
+  language: null
+  description: ARCHIVED → merged into bw-001-up-next-business
+  github:
+    archived: true
+    pushed_at: '2026-03-31T15:36:25Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/bw-001-up-next-business
+  repo: bw-001-up-next-business
+  category: platform/utility
+  language: HTML
+  description: 'BW-001 Up Next: Client intake, contracts, pricing & project planning'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T22:01:29Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/bw-001-up-next-code
+  repo: bw-001-up-next-code
+  category: platform/utility
   language: TypeScript
-  category: platform-with-deploy
-  vercel_url: bloom-community-emadcck9i-worldwidebros-projects.vercel.app
-- slug: civilization-os
-  name: civilization-os
+  description: 'BW-001 Up Next: Monorepo - web app, mobile, backend (Appwrite + Supabase), AI, automation'
+  github:
+    archived: false
+    pushed_at: '2026-04-17T02:15:53Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/bw-001-up-next-web
+  repo: bw-001-up-next-web
+  category: archived
+  language: Python
+  description: ARCHIVED → merged into bw-001-up-next-code
+  github:
+    archived: true
+    pushed_at: '2026-03-31T13:29:47Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/bw-007-lash-kits---tools
+  repo: bw-007-lash-kits---tools
+  category: platform/utility
+  language: null
+  description: Civilization OS — BW-007-Lash-Kits-&-Tools
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:06:09Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/bw-eroticafox
+  repo: bw-eroticafox
+  category: unclassified
+  language: null
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-08-15T22:14:56Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/callitwhatyouwant
+  repo: callitwhatyouwant
+  category: unclassified
+  language: null
+  description: 'Back n forth '
+  github:
+    archived: false
+    pushed_at: '2026-07-17T05:52:06Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/capital-orchestrator
+  repo: capital-orchestrator
+  category: platform/utility
+  language: TypeScript
+  description: Capital allocation and orchestration platform
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:07:11Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/career-ops
+  repo: career-ops
+  category: unclassified
+  language: JavaScript
+  description: Personal fork of career-ops job-search pipeline (+ pay enrichment & filterable explorer)
+  github:
+    archived: false
+    pushed_at: '2026-08-22T06:43:11Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/civilization-os
+  repo: civilization-os
+  category: platform/utility
+  language: TypeScript
   description: 🌍 Civilization OS - Master orchestrator for the entire IZA-OS ecosystem, managing 101 genius folders, 553 AI agents, 100+ MCP servers, and 238 repositories
+  github:
+    archived: false
+    pushed_at: '2026-08-04T22:36:15Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/civilization-website
+  repo: civilization-website
+  category: platform/utility
+  language: null
+  description: Full-stack website built with React, Vite, and Supabase - Part of Civilization OS integration
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:27:33Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/claude-workflow-demo
+  repo: claude-workflow-demo
+  category: platform/utility
+  language: Shell
+  description: Demo of Claude PR review automation with GitHub Actions
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:27:31Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/clients
+  repo: clients
+  category: platform/utility
+  language: HTML
+  description: Client management, agreements, onboarding systems, and lead generation
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:38:18Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/clip
+  repo: clip
+  category: platform/utility
+  language: Python
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-06-11T01:44:51Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/con-001-ace-construction
+  repo: con-001-ace-construction
+  category: unclassified
   language: TypeScript
-  category: platform-with-deploy
-  vercel_url: civilization-6xfrjjnzz-worldwidebros-projects.vercel.app
-- slug: con-001-ace-construction
-  name: con-001-ace-construction
   description: 'CON-001: Ace Construction - Construction services venture'
-  language: TypeScript
-  category: platform-with-deploy
-  vercel_url: con-001-ace-construction-nfh5swwa4-worldwidebros-projects.vercel.app
-- slug: divine-johns-portfolio
-  name: divine-johns-portfolio
+  github:
+    archived: false
+    pushed_at: '2026-08-19T21:10:51Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/con-002-residential-construction
+  repo: con-002-residential-construction
+  category: unclassified
+  language: HTML
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:27:10Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/con-003-commercial-construction
+  repo: con-003-commercial-construction
+  category: unclassified
+  language: HTML
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:27:08Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/con-004-industrial-construction
+  repo: con-004-industrial-construction
+  category: unclassified
+  language: HTML
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:27:07Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/con-005-construction-equipment-rental
+  repo: con-005-construction-equipment-rental
+  category: unclassified
+  language: HTML
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:27:07Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/con-006-construction-project-management
+  repo: con-006-construction-project-management
+  category: unclassified
+  language: HTML
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:27:04Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/con-007-green-building-services
+  repo: con-007-green-building-services
+  category: unclassified
+  language: HTML
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:27:03Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/con-008-home-renovation-services
+  repo: con-008-home-renovation-services
+  category: unclassified
+  language: HTML
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:27:01Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/con-009-roofing-company
+  repo: con-009-roofing-company
+  category: unclassified
+  language: HTML
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-06-10T20:06:22Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/con-010-plumbing-services
+  repo: con-010-plumbing-services
+  category: unclassified
+  language: HTML
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-06-10T20:06:24Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/con-011-electrical-services
+  repo: con-011-electrical-services
+  category: unclassified
+  language: HTML
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:26:57Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/con-012-hvac-services
+  repo: con-012-hvac-services
+  category: unclassified
+  language: HTML
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:26:55Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/con-013-painting-services
+  repo: con-013-painting-services
+  category: unclassified
+  language: HTML
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:26:54Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/con-014-flooring-services
+  repo: con-014-flooring-services
+  category: unclassified
+  language: HTML
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:26:52Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/con-015-landscaping-services
+  repo: con-015-landscaping-services
+  category: platform/utility
+  language: HTML
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:26:51Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/con-016-demolition-services
+  repo: con-016-demolition-services
+  category: unclassified
+  language: HTML
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:26:49Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/con-017-concrete-services
+  repo: con-017-concrete-services
+  category: unclassified
+  language: HTML
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:26:48Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/con-018-carpentry-services
+  repo: con-018-carpentry-services
+  category: unclassified
+  language: HTML
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:26:46Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/con-019-window-installation
+  repo: con-019-window-installation
+  category: unclassified
+  language: HTML
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:26:45Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/con-020-insulation-services
+  repo: con-020-insulation-services
+  category: unclassified
+  language: HTML
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:26:43Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/consciousness-deployment-system
+  repo: consciousness-deployment-system
+  category: unclassified
+  language: Python
+  description: Autonomous deployment system for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:26:42Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/consult-001-venture-consulting
+  repo: consult-001-venture-consulting
+  category: platform/utility
+  language: null
+  description: 'Civilization OS: Strategy + operations consulting for 749 ventures (growth, M&A, board advisory)'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:26:40Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/consulting-services-automation
+  repo: consulting-services-automation
+  category: platform/utility
+  language: Python
+  description: Consulting and advisory automation for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:26:38Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/data-management
+  repo: data-management
+  category: unclassified
+  language: null
+  description: Unified data schemas and management systems
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:38:17Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/deliv-713-roadrunner-cannabis
+  repo: deliv-713-roadrunner-cannabis
+  category: platform/utility
+  language: Python
+  description: Roadrunner Cannabis Delivery Platform - DELIV-713 Venture | Customer shop, driver delivery app, admin operations dashboard with Express.js backend
+  github:
+    archived: false
+    pushed_at: '2026-06-07T01:20:53Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/deployment-orchestrator
+  repo: deployment-orchestrator
+  category: platform/utility
+  language: Python
+  description: Complete Docker & deployment automation system
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:26:37Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/design-system
+  repo: design-system
+  category: unclassified
+  language: Shell
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:26:36Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/design-team
+  repo: design-team
+  category: platform/utility
+  language: JavaScript
+  description: Design system, brand guidelines, and 250+ prompts for venture studio
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:38:15Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/divine-johns-portfolio
+  repo: divine-johns-portfolio
+  category: unclassified
+  language: HTML
   description: Personal portfolio website
+  github:
+    archived: false
+    pushed_at: '2026-07-21T20:07:05Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ec-003-hella-scars
+  repo: ec-003-hella-scars
+  category: unclassified
+  language: Python
+  description: 'EC-003: Hella Scars - Urban streetwear + edgy fragrances'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:26:30Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ec-004-godbody-luxuries
+  repo: ec-004-godbody-luxuries
+  category: unclassified
+  language: null
+  description: 'EC-004: GodBody Luxuries - Ultra-premium luxury fragrances'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:26:27Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ec-005-nwa-products
+  repo: ec-005-nwa-products
+  category: unclassified
+  language: null
+  description: 'EC-005: NWA Products - General marketplace, all categories'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:26:24Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ec-111-miss-toys
+  repo: ec-111-miss-toys
+  category: unclassified
   language: HTML
-  category: platform-with-deploy
-  vercel_url: divine-johns-portfolio-66sasz13x-worldwidebros-projects.vercel.app
-- slug: ec-111-miss-toys
-  name: ec-111-miss-toys
   description: 'EC-111 — Miss Toys: luxury adult wellness e-commerce (Medusa backend + custom storefront)'
+  github:
+    archived: false
+    pushed_at: '2026-07-21T17:36:09Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ec-111-tve-fragrance
+  repo: ec-111-tve-fragrance
+  category: unclassified
+  language: Python
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:28:35Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ec-112-cosmic-kitty
+  repo: ec-112-cosmic-kitty
+  category: platform/utility
   language: HTML
-  category: platform-with-deploy
-  vercel_url: ec-111-miss-toys-dvk26zgrb-worldwidebros-projects.vercel.app
-- slug: ec-112-cosmic-kitty
-  name: ec-112-cosmic-kitty
   description: 'EC-112 — Cosmic Kitty: BDSM-focused luxury adult wellness e-commerce (Medusa backend + custom storefront)'
+  github:
+    archived: false
+    pushed_at: '2026-08-22T21:43:27Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/Ec-113kosmickitty
+  repo: Ec-113kosmickitty
+  category: platform/utility
+  language: TypeScript
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-08-22T03:39:26Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ec-commerceos
+  repo: ec-commerceos
+  category: platform/utility
+  language: TypeScript
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-08-22T04:38:49Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/education-platform-system
+  repo: education-platform-system
+  category: platform/utility
+  language: Python
+  description: Educational services platform for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:20:24Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/email-design-os
+  repo: email-design-os
+  category: platform/utility
   language: HTML
-  category: platform-with-deploy
-  vercel_url: ec-112-cosmic-kitty-myp0hjzid-worldwidebros-projects.vercel.app
-- slug: genixbank-financial-system
-  name: genixbank-financial-system
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-07-25T13:23:46Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/enhanced-cursor-rules
+  repo: enhanced-cursor-rules
+  category: unclassified
+  language: Shell
+  description: 'Enhanced Cursor Rules for AI Development: 47+ comprehensive rule files for Cursor, Windsurf, Claude Code. Business logic, AI orchestration, security standards, revenue optimization.'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:19:05Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/et-003-content
+  repo: et-003-content
+  category: archived
+  language: null
+  description: Instructional content and course materials for SkillForge.
+  github:
+    archived: true
+    pushed_at: '2025-10-23T16:05:23Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/et-003-platform
+  repo: et-003-platform
+  category: archived
+  language: null
+  description: Monorepo for the main SkillForge learning platform (frontend/backend).
+  github:
+    archived: true
+    pushed_at: '2025-10-23T16:05:21Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/family-office-os
+  repo: family-office-os
+  category: platform/utility
+  language: Python
+  description: Holding company capital allocation, governance, and wealth management system
+  github:
+    archived: false
+    pushed_at: '2026-07-28T16:29:34Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/fh-014-cloud-kitchen
+  repo: fh-014-cloud-kitchen
+  category: platform/utility
+  language: null
+  description: Civilization OS — FH-014-Cloud-Kitchen-
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:18:15Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/fh-023-bakery---pastry-shop
+  repo: fh-023-bakery---pastry-shop
+  category: platform/utility
+  language: null
+  description: Civilization OS — FH-023-Bakery-&-Pastry-Shop
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:18:01Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/fin-033-legal-toolkit-ai
+  repo: fin-033-legal-toolkit-ai
+  category: platform/utility
+  language: null
+  description: 'Civilization OS Venture: AI-powered legal toolkit'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:16:48Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/fin-037-worldwidebro-trading-system
+  repo: fin-037-worldwidebro-trading-system
+  category: unclassified
+  language: Python
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-08-06T04:15:00Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/freeclaudecode
+  repo: freeclaudecode
+  category: unclassified
+  language: Shell
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-06-28T14:56:35Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ft-001-api-gateway
+  repo: ft-001-api-gateway
+  category: archived
+  language: null
+  description: API gateway for external services to interact with the QuantumLedger.
+  github:
+    archived: true
+    pushed_at: '2025-10-23T16:05:14Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ft-001-core-ledger
+  repo: ft-001-core-ledger
+  category: archived
+  language: null
+  description: Core decentralized ledger and smart contract code for QuantumLedger.
+  github:
+    archived: true
+    pushed_at: '2025-10-23T16:05:13Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ft-001-docs
+  repo: ft-001-docs
+  category: archived
+  language: null
+  description: Documentation, whitepapers, and technical specifications for QuantumLedger.
+  github:
+    archived: true
+    pushed_at: '2025-10-23T16:05:16Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/fund-001-civilization-credit-fund
+  repo: fund-001-civilization-credit-fund
+  category: platform/utility
+  language: Python
+  description: 'Civilization OS: Internal lending + grant writing for 749 ventures (loans, SBIR/STTR grants, equipment financing)'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:15:52Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/genixbank-financial-system
+  repo: genixbank-financial-system
+  category: platform/utility
+  language: HTML
   description: Comprehensive financial operations & banking platform
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:15:50Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/genixbank-insight-compass
+  repo: genixbank-insight-compass
+  category: platform/utility
+  language: TypeScript
+  description: GenixBank financial insights and analytics platform
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:15:48Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/global-operations-automation
+  repo: global-operations-automation
+  category: platform/utility
+  language: Python
+  description: International operations automation for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:56:11Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/hermes-agent-command-center
+  repo: hermes-agent-command-center
+  category: platform/utility
   language: HTML
-  category: platform-with-deploy
-  vercel_url: genixbank-financial-system-hizjxlq4r-worldwidebros-projects.vercel.app
-- slug: iza-os-enterprise
-  name: iza-os-enterprise
+  description: Hermes Agent Command Center — dark-mode ops dashboard for an AI-agent organization (agents, tasks, decisions, approvals, OPCOs)
+  github:
+    archived: false
+    pushed_at: '2026-07-19T04:25:56Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ht-004-data-api
+  repo: ht-004-data-api
+  category: archived
+  language: null
+  description: Secure API for handling sensitive patient data for VitalSense.
+  github:
+    archived: true
+    pushed_at: '2025-10-23T16:05:27Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ht-004-firmware
+  repo: ht-004-firmware
+  category: archived
+  language: null
+  description: Embedded software for the VitalSense wearable device.
+  github:
+    archived: true
+    pushed_at: '2025-10-23T16:05:24Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ht-004-mobile-app
+  repo: ht-004-mobile-app
+  category: archived
+  language: null
+  description: Mobile application (iOS/Android) for VitalSense data visualization.
+  github:
+    archived: true
+    pushed_at: '2025-10-23T16:05:26Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/innovation-hub-platform
+  repo: innovation-hub-platform
+  category: platform/utility
+  language: Python
+  description: Innovation and R&D platform for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:56:06Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ins-001-venture-insurance
+  repo: ins-001-venture-insurance
+  category: platform/utility
+  language: null
+  description: 'Civilization OS: Insurance broker for 749 ventures (liability, property, workers comp, cyber)'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:56:05Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/intellectual-property-management
+  repo: intellectual-property-management
+  category: unclassified
+  language: Python
+  description: IP management system for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:56:03Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/investment-fund-management
+  repo: investment-fund-management
+  category: unclassified
+  language: Python
+  description: Investment management system for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:56:01Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-agents
+  repo: iza-os-agents
+  category: platform/utility
+  language: Python
+  description: Modular agents (finance, marketing, QA, etc.)
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:56:00Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-ai-consciousness-platform
+  repo: iza-os-ai-consciousness-platform
+  category: platform/utility
+  language: Python
+  description: Consciousness AI platform for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:58Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-ai-core-platform
+  repo: iza-os-ai-core-platform
+  category: platform/utility
+  language: Python
+  description: Core AI systems platform for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:56Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-ai-nlp-platform
+  repo: iza-os-ai-nlp-platform
+  category: platform/utility
+  language: Python
+  description: Natural language processing platform for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:53Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-ai-optimization-platform
+  repo: iza-os-ai-optimization-platform
+  category: platform/utility
+  language: Python
+  description: Optimization algorithms platform for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:52Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-ai-orchestration
+  repo: iza-os-ai-orchestration
+  category: platform/utility
+  language: null
+  description: 🎪 AI Orchestration - Multi-AI coordination
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:28:26Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-ai-prediction-platform
+  repo: iza-os-ai-prediction-platform
+  category: platform/utility
+  language: Python
+  description: Predictive analytics platform for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:49Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-ai-vision-platform
+  repo: iza-os-ai-vision-platform
+  category: platform/utility
+  language: Python
+  description: Computer vision platform for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:45Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-analytics
+  repo: iza-os-analytics
+  category: platform/utility
+  language: Python
+  description: 'IZA OS: Analytics and reporting engine'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:44Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-api-gateway-bot
+  repo: iza-os-api-gateway-bot
+  category: platform/utility
+  language: Python
+  description: 🌐 API Gateway Bot - API management and routing automation
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:42Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-automation
+  repo: iza-os-automation
+  category: platform/utility
+  language: Python
+  description: ⚙️ IZA OS Automation - Workflow automation and orchestration
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:41Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-automation-integration
+  repo: iza-os-automation-integration
+  category: platform/utility
+  language: Python
+  description: Automation integration platform for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:39Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-blockchain-core
+  repo: iza-os-blockchain-core
+  category: platform/utility
+  language: Python
+  description: Blockchain core platform for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:38Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-business
+  repo: iza-os-business
+  category: platform/utility
+  language: Python
+  description: 'IZA OS: Business logic core module'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:36Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-cli
+  repo: iza-os-cli
+  category: platform/utility
+  language: Python
+  description: 'IZA OS: iza-os-cli'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:34Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-computer-vision
+  repo: iza-os-computer-vision
+  category: platform/utility
+  language: null
+  description: 👁️ Computer Vision - Image and video analysis
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:31Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-core
+  repo: iza-os-core
+  category: platform/utility
+  language: TypeScript
+  description: 🧠 IZA OS - Intelligent Zero-Administration Operating System | Your AI CEO that finds problems, launches ventures, and generates income | Mobile-optimized for Cursor IDE
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:30Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-cryptocurrency-management
+  repo: iza-os-cryptocurrency-management
+  category: platform/utility
+  language: Go
+  description: Cryptocurrency management platform for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:28Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-customer-core
+  repo: iza-os-customer-core
+  category: platform/utility
+  language: null
+  description: 🤝 Unified Customer Experience Platform - Support, Communication, Satisfaction, Engagement
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:26Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-customer-service-automation-bot
+  repo: iza-os-customer-service-automation-bot
+  category: archived
+  language: TypeScript
+  description: Advanced customer service automation for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:30:48Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-customer-service-chatbot-bot
+  repo: iza-os-customer-service-chatbot-bot
+  category: archived
+  language: TypeScript
+  description: Advanced customer service chatbot for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:31:16Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-customer-service-email-bot
+  repo: iza-os-customer-service-email-bot
+  category: archived
+  language: TypeScript
+  description: Advanced customer service email automation for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:30:37Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-customer-service-escalation-bot
+  repo: iza-os-customer-service-escalation-bot
+  category: archived
+  language: TypeScript
+  description: Advanced customer service escalation automation for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:29:31Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-customer-service-faq-bot
+  repo: iza-os-customer-service-faq-bot
+  category: archived
+  language: TypeScript
+  description: Advanced customer service FAQ automation for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:29:51Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-customer-service-knowledge-bot
+  repo: iza-os-customer-service-knowledge-bot
+  category: archived
+  language: TypeScript
+  description: Advanced customer service knowledge management for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:30:02Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-customer-service-phone-bot
+  repo: iza-os-customer-service-phone-bot
+  category: archived
+  language: TypeScript
+  description: Advanced customer service phone automation for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:30:23Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-customer-service-social-bot
+  repo: iza-os-customer-service-social-bot
+  category: archived
+  language: TypeScript
+  description: Advanced customer service social media automation for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:30:12Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-customer-service-ticket-bot
+  repo: iza-os-customer-service-ticket-bot
+  category: archived
+  language: TypeScript
+  description: Advanced customer service ticket management for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:29:41Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-cybersecurity-monitoring-bot
+  repo: iza-os-cybersecurity-monitoring-bot
+  category: platform/utility
+  language: Python
+  description: 🔒 Cybersecurity Monitoring Bot - Advanced threat detection and response
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:12Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-data
+  repo: iza-os-data
+  category: platform/utility
+  language: Python
+  description: ETL pipelines + datasets + knowledge graph
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:11Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-data-integration-hub
+  repo: iza-os-data-integration-hub
+  category: platform/utility
+  language: Python
+  description: Data integration hub for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:09Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-defi-platform
+  repo: iza-os-defi-platform
+  category: platform/utility
+  language: Python
+  description: DeFi operations platform for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:08Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-deployment-automation-bot
+  repo: iza-os-deployment-automation-bot
+  category: platform/utility
+  language: Python
+  description: 🚀 Deployment Automation Bot - Automated deployment and scaling
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:06Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-docs
+  repo: iza-os-docs
+  category: platform/utility
+  language: Python
+  description: 'IZA OS: iza-os-docs'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:04Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-embedding-service
+  repo: iza-os-embedding-service
+  category: platform/utility
+  language: null
+  description: 📊 Embedding Service - Text and data embedding
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:55:01Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-enterprise
+  repo: iza-os-enterprise
+  category: platform/utility
+  language: TypeScript
   description: 🏢 IZA OS Enterprise - Business intelligence and revenue optimization
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:54:59Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-enterprise-integrations
+  repo: iza-os-enterprise-integrations
+  category: platform/utility
+  language: Python
+  description: Enterprise integrations platform for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:54:58Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-finance-advisor-alerting-bot
+  repo: iza-os-finance-advisor-alerting-bot
+  category: archived
+  language: Python
+  description: 🤖 Finance Advisor Bot - Alerting automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:31:37Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-finance-advisor-analytics-bot
+  repo: iza-os-finance-advisor-analytics-bot
+  category: archived
+  language: Python
+  description: 🤖 Finance Advisor Bot - Analytics automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:21:12Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-finance-advisor-automation-bot
+  repo: iza-os-finance-advisor-automation-bot
+  category: archived
+  language: Python
+  description: 🤖 Finance Advisor Bot - Automation automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:31:57Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-finance-advisor-compliance-bot
+  repo: iza-os-finance-advisor-compliance-bot
+  category: archived
+  language: Python
+  description: 🤖 Finance Advisor Bot - Compliance automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:31:45Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-finance-advisor-discovery-bot
+  repo: iza-os-finance-advisor-discovery-bot
+  category: archived
+  language: Python
+  description: 🤖 Finance Advisor Bot - Discovery automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:21:22Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-finance-advisor-forecasting-bot
+  repo: iza-os-finance-advisor-forecasting-bot
+  category: archived
+  language: Python
+  description: Advanced financial forecasting bot for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:31:27Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-finance-advisor-integration-bot
+  repo: iza-os-finance-advisor-integration-bot
+  category: archived
+  language: Python
+  description: 🤖 Finance Advisor Bot - Integration automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:31:53Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-finance-advisor-intelligence-bot
+  repo: iza-os-finance-advisor-intelligence-bot
+  category: archived
+  language: Python
+  description: 🤖 Finance Advisor Bot - Intelligence automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:21:30Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-finance-advisor-management-bot
+  repo: iza-os-finance-advisor-management-bot
+  category: archived
+  language: Python
+  description: 🤖 Finance Advisor Bot - Management automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:31:34Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-finance-advisor-monitoring-bot
+  repo: iza-os-finance-advisor-monitoring-bot
+  category: archived
+  language: Python
+  description: 🤖 Finance Advisor Bot - Monitoring automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:32:02Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-finance-advisor-optimization-bot
+  repo: iza-os-finance-advisor-optimization-bot
+  category: archived
+  language: Python
+  description: 🤖 Finance Advisor Bot - Optimization automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:31:24Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-finance-advisor-orchestration-bot
+  repo: iza-os-finance-advisor-orchestration-bot
+  category: archived
+  language: Python
+  description: 🤖 Finance Advisor Bot - Orchestration automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:31:31Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-finance-advisor-processing-bot
+  repo: iza-os-finance-advisor-processing-bot
+  category: archived
+  language: Python
+  description: 🤖 Finance Advisor Bot - Processing automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:21:26Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-finance-advisor-reporting-bot
+  repo: iza-os-finance-advisor-reporting-bot
+  category: archived
+  language: Python
+  description: 🤖 Finance Advisor Bot - Reporting automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:31:41Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-finance-advisor-security-bot
+  repo: iza-os-finance-advisor-security-bot
+  category: archived
+  language: Python
+  description: 🤖 Finance Advisor Bot - Security automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:31:49Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-finance-advisor-synthesis-bot
+  repo: iza-os-finance-advisor-synthesis-bot
+  category: archived
+  language: Python
+  description: 🤖 Finance Advisor Bot - Synthesis automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:21:19Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-finance-core
+  repo: iza-os-finance-core
+  category: platform/utility
+  language: null
+  description: IZA OS Core — Finance sector operating system (FIN)
+  github:
+    archived: false
+    pushed_at: '2026-07-23T18:35:04Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-funding
+  repo: iza-os-funding
+  category: platform/utility
+  language: Python
+  description: 'IZA OS: iza-os-funding'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:54:37Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-hr-analytics-bot
+  repo: iza-os-hr-analytics-bot
+  category: archived
+  language: Python
+  description: Advanced HR analytics automation for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:27:53Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-hr-benefits-bot
+  repo: iza-os-hr-benefits-bot
+  category: archived
+  language: Python
+  description: Advanced HR benefits management for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:27:47Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-hr-compliance-bot
+  repo: iza-os-hr-compliance-bot
+  category: archived
+  language: Python
+  description: Advanced HR compliance automation for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:27:50Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-hr-core
+  repo: iza-os-hr-core
+  category: platform/utility
+  language: null
+  description: 👥 Unified HR Platform - Recruitment, Benefits, Performance, Compliance, Employee Experience
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:54:32Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-hr-onboarding-bot
+  repo: iza-os-hr-onboarding-bot
+  category: archived
+  language: Python
+  description: Advanced HR onboarding automation for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:27:36Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-hr-payroll-bot
+  repo: iza-os-hr-payroll-bot
+  category: archived
+  language: Python
+  description: Advanced HR payroll automation for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:27:43Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-hr-performance-bot
+  repo: iza-os-hr-performance-bot
+  category: archived
+  language: Python
+  description: Advanced HR performance management for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:27:40Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-hr-recruitment-bot
+  repo: iza-os-hr-recruitment-bot
+  category: archived
+  language: Python
+  description: Advanced HR recruitment automation for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:27:33Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-hr-training-bot
+  repo: iza-os-hr-training-bot
+  category: archived
+  language: Python
+  description: Advanced HR training automation for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:29:20Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-inference-engine
+  repo: iza-os-inference-engine
+  category: platform/utility
+  language: null
+  description: ⚡ Inference Engine - Fast AI model inference
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:54:24Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-infra
+  repo: iza-os-infra
+  category: platform/utility
+  language: Python
+  description: 'IZA OS: iza-os-infra'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:54:22Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-infrastructure
+  repo: iza-os-infrastructure
+  category: platform/utility
+  language: Python
+  description: 🏗️ IZA OS Infrastructure - DevOps, deployment, and infrastructure
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:54:21Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-infrastructure-monitoring-bot
+  repo: iza-os-infrastructure-monitoring-bot
+  category: platform/utility
+  language: Python
+  description: 🏗️ Infrastructure Monitoring Bot - Automated system monitoring and alerting
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:54:19Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-integrations
+  repo: iza-os-integrations
+  category: platform/utility
+  language: Python
+  description: 🔗 IZA OS Integrations - Third-party integrations and APIs
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:28:30Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-intelligence-core
+  repo: iza-os-intelligence-core
+  category: platform/utility
+  language: null
+  description: 🧠 Unified Intelligence Platform - Analytics, Reporting, AI/ML, Insights, Data Science
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:54:16Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-inventory-management-analytics-bot
+  repo: iza-os-inventory-management-analytics-bot
+  category: platform/utility
   language: TypeScript
-  category: platform-with-deploy
-  vercel_url: iza-os-enterprise-ou1xcivlz-worldwidebros-projects.vercel.app
-- slug: ops-staff-001-staffing
-  name: ops-staff-001-staffing
-  description: 'Civilization OS: Staffing + HR + AI agent deployment for 749 ventures (human + AI workers, payroll)'
+  description: 🤖 Inventory Management Bot - Analytics automation and intelligence
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:54:15Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-inventory-management-automation-bot
+  repo: iza-os-inventory-management-automation-bot
+  category: platform/utility
+  language: TypeScript
+  description: 🤖 Inventory Management Bot - Automation automation and intelligence
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:54:13Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-inventory-management-compliance-bot
+  repo: iza-os-inventory-management-compliance-bot
+  category: archived
+  language: TypeScript
+  description: 🤖 Inventory Management Bot - Compliance automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:30:57Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-inventory-management-integration-bot
+  repo: iza-os-inventory-management-integration-bot
+  category: archived
+  language: TypeScript
+  description: 🤖 Inventory Management Bot - Integration automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:31:00Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-inventory-management-monitoring-bot
+  repo: iza-os-inventory-management-monitoring-bot
+  category: platform/utility
+  language: TypeScript
+  description: 🤖 Inventory Management Bot - Monitoring automation and intelligence
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:54:10Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-inventory-management-optimization-bot
+  repo: iza-os-inventory-management-optimization-bot
+  category: platform/utility
+  language: TypeScript
+  description: 🤖 Inventory Management Bot - Optimization automation and intelligence
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:54:08Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-inventory-management-reporting-bot
+  repo: iza-os-inventory-management-reporting-bot
+  category: archived
+  language: TypeScript
+  description: 🤖 Inventory Management Bot - Reporting automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:30:53Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-inventory-management-security-bot
+  repo: iza-os-inventory-management-security-bot
+  category: archived
+  language: TypeScript
+  description: 🤖 Inventory Management Bot - Security automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:31:04Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-knowledge-graph
+  repo: iza-os-knowledge-graph
+  category: platform/utility
+  language: null
+  description: 🕸️ Knowledge Graph - Entity relationship mapping
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:28:42Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-legal-core
+  repo: iza-os-legal-core
+  category: platform/utility
+  language: null
+  description: ⚖️ Unified Legal Platform - Contracts, Compliance, IP, Risk Management, Regulatory Affairs
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:54:02Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-legal-research-alerting-bot
+  repo: iza-os-legal-research-alerting-bot
+  category: archived
+  language: Python
+  description: 🤖 Legal Research Bot - Alerting automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:34:20Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-legal-research-compliance-bot
+  repo: iza-os-legal-research-compliance-bot
+  category: archived
+  language: Python
+  description: 🤖 Legal Research Bot - Compliance automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:34:28Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-legal-research-discovery-bot
+  repo: iza-os-legal-research-discovery-bot
+  category: platform/utility
+  language: Python
+  description: 🤖 Legal Research Bot - Discovery automation and intelligence
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:53:58Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-legal-research-integration-bot
+  repo: iza-os-legal-research-integration-bot
+  category: archived
+  language: Python
+  description: 🤖 Legal Research Bot - Integration automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:34:36Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-legal-research-intelligence-bot
+  repo: iza-os-legal-research-intelligence-bot
+  category: archived
+  language: Python
+  description: 🤖 Legal Research Bot - Intelligence automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:34:08Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-legal-research-management-bot
+  repo: iza-os-legal-research-management-bot
+  category: archived
+  language: Python
+  description: 🤖 Legal Research Bot - Management automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:34:16Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-legal-research-optimization-bot
+  repo: iza-os-legal-research-optimization-bot
+  category: archived
+  language: Python
+  description: 🤖 Legal Research Bot - Optimization automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:34:40Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-legal-research-orchestration-bot
+  repo: iza-os-legal-research-orchestration-bot
+  category: archived
+  language: Python
+  description: 🤖 Legal Research Bot - Orchestration automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:34:12Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-legal-research-processing-bot
+  repo: iza-os-legal-research-processing-bot
+  category: platform/utility
+  language: Python
+  description: 🤖 Legal Research Bot - Processing automation and intelligence
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:53:49Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-legal-research-reporting-bot
+  repo: iza-os-legal-research-reporting-bot
+  category: archived
+  language: Python
+  description: 🤖 Legal Research Bot - Reporting automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:34:24Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-legal-research-security-bot
+  repo: iza-os-legal-research-security-bot
+  category: archived
+  language: Python
+  description: 🤖 Legal Research Bot - Security automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:34:32Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-legal-research-synthesis-bot
+  repo: iza-os-legal-research-synthesis-bot
+  category: platform/utility
+  language: Python
+  description: 🤖 Legal Research Bot - Synthesis automation and intelligence
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:53:44Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-llm-adapter
+  repo: iza-os-llm-adapter
+  category: platform/utility
+  language: null
+  description: 🧠 LLM Adapter - Large language model integration
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:53:42Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-market
+  repo: iza-os-market
+  category: platform/utility
+  language: Python
+  description: 'IZA OS: iza-os-market'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:53:40Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-marketing-automation-alerting-bot
+  repo: iza-os-marketing-automation-alerting-bot
+  category: archived
+  language: C
+  description: 🤖 Marketing Automation Bot - Alerting automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:32:30Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-marketing-automation-analytics-bot
+  repo: iza-os-marketing-automation-analytics-bot
+  category: platform/utility
+  language: C
+  description: 🤖 Marketing Automation Bot - Analytics automation and intelligence
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:53:37Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-marketing-automation-automation-bot
+  repo: iza-os-marketing-automation-automation-bot
+  category: archived
+  language: C
+  description: 🤖 Marketing Automation Bot - Automation automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:32:55Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-marketing-automation-campaign-bot
+  repo: iza-os-marketing-automation-campaign-bot
+  category: archived
+  language: C
+  description: Advanced marketing campaign bot for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:31:20Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-marketing-automation-compliance-bot
+  repo: iza-os-marketing-automation-compliance-bot
+  category: archived
+  language: C
+  description: 🤖 Marketing Automation Bot - Compliance automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:32:38Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-marketing-automation-discovery-bot
+  repo: iza-os-marketing-automation-discovery-bot
+  category: archived
+  language: C
+  description: 🤖 Marketing Automation Bot - Discovery automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:32:11Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-marketing-automation-integration-bot
+  repo: iza-os-marketing-automation-integration-bot
+  category: archived
+  language: C
+  description: 🤖 Marketing Automation Bot - Integration automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:32:47Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-marketing-automation-intelligence-bot
+  repo: iza-os-marketing-automation-intelligence-bot
+  category: archived
+  language: C
+  description: 🤖 Marketing Automation Bot - Intelligence automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:32:19Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-marketing-automation-management-bot
+  repo: iza-os-marketing-automation-management-bot
+  category: archived
+  language: C
+  description: 🤖 Marketing Automation Bot - Management automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:32:26Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-marketing-automation-monitoring-bot
+  repo: iza-os-marketing-automation-monitoring-bot
+  category: archived
+  language: C
+  description: 🤖 Marketing Automation Bot - Monitoring automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:32:58Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-marketing-automation-optimization-bot
+  repo: iza-os-marketing-automation-optimization-bot
+  category: archived
+  language: C
+  description: 🤖 Marketing Automation Bot - Optimization automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:32:51Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-marketing-automation-orchestration-bot
+  repo: iza-os-marketing-automation-orchestration-bot
+  category: archived
+  language: C
+  description: 🤖 Marketing Automation Bot - Orchestration automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:32:22Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-marketing-automation-processing-bot
+  repo: iza-os-marketing-automation-processing-bot
+  category: archived
+  language: C
+  description: 🤖 Marketing Automation Bot - Processing automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:32:15Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-marketing-automation-reporting-bot
+  repo: iza-os-marketing-automation-reporting-bot
+  category: archived
+  language: C
+  description: 🤖 Marketing Automation Bot - Reporting automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:32:35Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-marketing-automation-security-bot
+  repo: iza-os-marketing-automation-security-bot
+  category: archived
+  language: C
+  description: 🤖 Marketing Automation Bot - Security automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:32:43Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-marketing-automation-synthesis-bot
+  repo: iza-os-marketing-automation-synthesis-bot
+  category: archived
+  language: C
+  description: 🤖 Marketing Automation Bot - Synthesis automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:32:06Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-mcp
+  repo: iza-os-mcp
+  category: platform/utility
+  language: Python
+  description: 'IZA OS: iza-os-mcp'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:53:15Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-ml
+  repo: iza-os-ml
+  category: platform/utility
+  language: Python
+  description: 'IZA OS: iza-os-ml'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:53:13Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-mobile
+  repo: iza-os-mobile
+  category: platform/utility
+  language: Python
+  description: 'IZA OS: iza-os-mobile'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:53:11Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-model-training
+  repo: iza-os-model-training
+  category: platform/utility
+  language: null
+  description: 🎯 Model Training - AI model training pipeline
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:53:09Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-monitoring
+  repo: iza-os-monitoring
+  category: platform/utility
+  language: Python
+  description: 'IZA OS: iza-os-monitoring'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:53:07Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-monitoring-integration
+  repo: iza-os-monitoring-integration
+  category: platform/utility
+  language: Python
+  description: Monitoring integration platform for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:53:05Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-nft-platform
+  repo: iza-os-nft-platform
+  category: platform/utility
+  language: Python
+  description: NFT operations platform for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:53:03Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-nlp-pipeline
+  repo: iza-os-nlp-pipeline
+  category: platform/utility
+  language: null
+  description: 📝 NLP Pipeline - Natural language processing
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:52:55Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-notification-bot
+  repo: iza-os-notification-bot
+  category: platform/utility
+  language: Python
+  description: 🔔 Notification Bot - Intelligent notification and alerting system
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:52:54Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-operations-analytics-bot
+  repo: iza-os-operations-analytics-bot
+  category: archived
+  language: Python
+  description: Advanced operations analytics for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:28:17Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-operations-automation-bot
+  repo: iza-os-operations-automation-bot
+  category: archived
+  language: JavaScript
+  description: Advanced operations automation for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:29:05Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-operations-compliance-bot
+  repo: iza-os-operations-compliance-bot
+  category: archived
+  language: Python
+  description: Advanced operations compliance for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:28:07Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-operations-core
+  repo: iza-os-operations-core
+  category: platform/utility
+  language: null
+  description: 🔧 Unified Operations Platform - Workflows, Integration, Monitoring, Security, Automation
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:52:48Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-operations-integration-bot
+  repo: iza-os-operations-integration-bot
+  category: archived
+  language: Python
+  description: Advanced operations integration for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:28:14Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-operations-intelligence-bot
+  repo: iza-os-operations-intelligence-bot
+  category: archived
+  language: Python
+  description: Advanced operations intelligence for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:28:21Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-operations-monitoring-bot
+  repo: iza-os-operations-monitoring-bot
+  category: archived
+  language: Python
+  description: Advanced operations monitoring for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:27:57Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-operations-optimization-bot
+  repo: iza-os-operations-optimization-bot
+  category: archived
+  language: Python
+  description: Advanced operations optimization for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:28:00Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-operations-reporting-bot
+  repo: iza-os-operations-reporting-bot
+  category: archived
+  language: Python
+  description: Advanced operations reporting for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:28:04Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-operations-security-bot
+  repo: iza-os-operations-security-bot
+  category: archived
+  language: Python
+  description: Advanced operations security for billionaire consciousness empire
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:28:11Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-ops
+  repo: iza-os-ops
+  category: platform/utility
+  language: Python
+  description: CI/CD, monitoring, DevOps infrastructure
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:52:39Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-orchestrator
+  repo: iza-os-orchestrator
+  category: platform/utility
+  language: Python
+  description: 'IZA OS: Main orchestration engine'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:52:37Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-platform-core
+  repo: iza-os-platform-core
+  category: platform/utility
+  language: null
+  description: 🏗️ Unified Platform Infrastructure - Core Systems, APIs, Deployment, Scaling, MCP Integration
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:52:36Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-playgrounds
+  repo: iza-os-playgrounds
+  category: platform/utility
+  language: Python
+  description: 'IZA OS: iza-os-playgrounds'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:52:34Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-predictive-analytics-bot
+  repo: iza-os-predictive-analytics-bot
+  category: platform/utility
+  language: JavaScript
+  description: 📊 Predictive Analytics Bot - AI-powered forecasting and predictions
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:52:32Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-predictive-modeling
+  repo: iza-os-predictive-modeling
+  category: platform/utility
+  language: null
+  description: 📈 Predictive Modeling - Future prediction models
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:52:31Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-project-management-alerting-bot
+  repo: iza-os-project-management-alerting-bot
+  category: archived
+  language: Python
+  description: 🤖 Project Management Bot - Alerting automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:26:20Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-project-management-analytics-bot
+  repo: iza-os-project-management-analytics-bot
+  category: archived
+  language: Python
+  description: 🤖 Project Management Bot - Analytics automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:26:44Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-project-management-automation-bot
+  repo: iza-os-project-management-automation-bot
+  category: archived
+  language: Python
+  description: 🤖 Project Management Bot - Automation automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:25:56Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-project-management-compliance-bot
+  repo: iza-os-project-management-compliance-bot
+  category: archived
+  language: Python
+  description: 🤖 Project Management Bot - Compliance automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:26:11Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-project-management-discovery-bot
+  repo: iza-os-project-management-discovery-bot
+  category: archived
+  language: Python
+  description: 🤖 Project Management Bot - Discovery automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:23:24Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-project-management-integration-bot
+  repo: iza-os-project-management-integration-bot
+  category: archived
+  language: Python
+  description: 🤖 Project Management Bot - Integration automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:26:04Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-project-management-intelligence-bot
+  repo: iza-os-project-management-intelligence-bot
+  category: archived
+  language: Python
+  description: 🤖 Project Management Bot - Intelligence automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:26:27Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-project-management-management-bot
+  repo: iza-os-project-management-management-bot
+  category: archived
+  language: Python
+  description: 🤖 Project Management Bot - Management automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:26:23Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-project-management-monitoring-bot
+  repo: iza-os-project-management-monitoring-bot
+  category: archived
+  language: Python
+  description: 🤖 Project Management Bot - Monitoring automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:25:52Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-project-management-optimization-bot
+  repo: iza-os-project-management-optimization-bot
+  category: archived
+  language: Python
+  description: 🤖 Project Management Bot - Optimization automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:25:59Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-project-management-orchestration-bot
+  repo: iza-os-project-management-orchestration-bot
+  category: archived
+  language: Python
+  description: 🤖 Project Management Bot - Orchestration automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:23:28Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-project-management-processing-bot
+  repo: iza-os-project-management-processing-bot
+  category: archived
+  language: Python
+  description: 🤖 Project Management Bot - Processing automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:23:21Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-project-management-reporting-bot
+  repo: iza-os-project-management-reporting-bot
+  category: archived
+  language: Python
+  description: 🤖 Project Management Bot - Reporting automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:26:16Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-project-management-security-bot
+  repo: iza-os-project-management-security-bot
+  category: archived
+  language: Python
+  description: 🤖 Project Management Bot - Security automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:26:08Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-project-management-synthesis-bot
+  repo: iza-os-project-management-synthesis-bot
+  category: archived
+  language: Python
+  description: 🤖 Project Management Bot - Synthesis automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:23:31Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-prompt-engineering
+  repo: iza-os-prompt-engineering
+  category: platform/utility
+  language: null
+  description: 💬 Prompt Engineering - LLM prompt optimization
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:52:10Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-quality-assurance-bot
+  repo: iza-os-quality-assurance-bot
+  category: platform/utility
+  language: Python
+  description: ✅ Quality Assurance Bot - Automated testing and quality control
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:52:08Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-rag-system
+  repo: iza-os-rag-system
+  category: platform/utility
+  language: Python
+  description: 📚 RAG System - Retrieval augmented generation
+  github:
+    archived: false
+    pushed_at: '2026-04-17T00:16:47Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-recommendation-engine
+  repo: iza-os-recommendation-engine
+  category: platform/utility
+  language: null
+  description: 🎯 Recommendation Engine - AI recommendations
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:52:06Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-revenue
+  repo: iza-os-revenue
+  category: platform/utility
+  language: JavaScript
+  description: 'IZA OS: Revenue tracking and optimization module'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:52:04Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-sales-automation-alerting-bot
+  repo: iza-os-sales-automation-alerting-bot
+  category: archived
+  language: C
+  description: 🤖 Sales Automation Bot - Alerting automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:33:23Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-sales-automation-analytics-bot
+  repo: iza-os-sales-automation-analytics-bot
+  category: archived
+  language: C
+  description: 🤖 Sales Automation Bot - Analytics automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:33:45Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-sales-automation-automation-bot
+  repo: iza-os-sales-automation-automation-bot
+  category: archived
+  language: C
+  description: 🤖 Sales Automation Bot - Automation automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:33:48Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-sales-automation-compliance-bot
+  repo: iza-os-sales-automation-compliance-bot
+  category: archived
+  language: C
+  description: 🤖 Sales Automation Bot - Compliance automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:33:32Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-sales-automation-discovery-bot
+  repo: iza-os-sales-automation-discovery-bot
+  category: archived
+  language: C
+  description: 🤖 Sales Automation Bot - Discovery automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:33:05Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-sales-automation-integration-bot
+  repo: iza-os-sales-automation-integration-bot
+  category: archived
+  language: C
+  description: 🤖 Sales Automation Bot - Integration automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:33:38Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-sales-automation-intelligence-bot
+  repo: iza-os-sales-automation-intelligence-bot
+  category: archived
+  language: C
+  description: 🤖 Sales Automation Bot - Intelligence automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:33:12Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-sales-automation-management-bot
+  repo: iza-os-sales-automation-management-bot
+  category: archived
+  language: C
+  description: 🤖 Sales Automation Bot - Management automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:33:20Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-sales-automation-monitoring-bot
+  repo: iza-os-sales-automation-monitoring-bot
+  category: archived
+  language: C
+  description: 🤖 Sales Automation Bot - Monitoring automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:33:53Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-sales-automation-optimization-bot
+  repo: iza-os-sales-automation-optimization-bot
+  category: archived
+  language: C
+  description: 🤖 Sales Automation Bot - Optimization automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:33:42Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-sales-automation-orchestration-bot
+  repo: iza-os-sales-automation-orchestration-bot
+  category: archived
+  language: C
+  description: 🤖 Sales Automation Bot - Orchestration automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:33:16Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-sales-automation-processing-bot
+  repo: iza-os-sales-automation-processing-bot
+  category: archived
+  language: C
+  description: 🤖 Sales Automation Bot - Processing automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:33:09Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-sales-automation-reporting-bot
+  repo: iza-os-sales-automation-reporting-bot
+  category: archived
+  language: C
+  description: 🤖 Sales Automation Bot - Reporting automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:33:27Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-sales-automation-security-bot
+  repo: iza-os-sales-automation-security-bot
+  category: archived
+  language: C
+  description: 🤖 Sales Automation Bot - Security automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:33:35Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-sales-automation-synthesis-bot
+  repo: iza-os-sales-automation-synthesis-bot
+  category: archived
+  language: C
+  description: 🤖 Sales Automation Bot - Synthesis automation and intelligence
+  github:
+    archived: true
+    pushed_at: '2025-09-28T16:33:02Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-sales-core
+  repo: iza-os-sales-core
+  category: platform/utility
+  language: null
+  description: 💰 Unified Sales Platform - Pipeline, CRM, Automation, Performance, Revenue Optimization
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:51:44Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-security
+  repo: iza-os-security
+  category: platform/utility
+  language: Python
+  description: 'IZA OS: iza-os-security'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:51:42Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-security-compliance-bot
+  repo: iza-os-security-compliance-bot
+  category: platform/utility
+  language: Python
+  description: 🛡️ Security Compliance Bot - Automated security compliance monitoring
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:51:41Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-semantic-search
+  repo: iza-os-semantic-search
+  category: platform/utility
+  language: null
+  description: 🔍 Semantic Search - AI-powered search
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:51:39Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-smart-contracts
+  repo: iza-os-smart-contracts
+  category: platform/utility
+  language: Python
+  description: Smart contracts platform for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:51:37Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-specs
+  repo: iza-os-specs
+  category: platform/utility
+  language: Python
+  description: Enhanced AI Orchestrator - The operating system for an autonomous venture studio
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:51:35Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-speech-processing
+  repo: iza-os-speech-processing
+  category: platform/utility
+  language: null
+  description: 🎤 Speech Processing - Audio analysis and synthesis
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:51:34Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-templates
+  repo: iza-os-templates
+  category: platform/utility
+  language: Python
+  description: 'IZA OS: iza-os-templates'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:51:32Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-third-party-apis
+  repo: iza-os-third-party-apis
+  category: platform/utility
+  language: Python
+  description: Third-party APIs platform for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:51:31Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-vector-database
+  repo: iza-os-vector-database
+  category: platform/utility
+  language: null
+  description: 🔢 Vector Database - Vector storage and retrieval
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:51:27Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-web
+  repo: iza-os-web
+  category: platform/utility
+  language: Python
+  description: 'IZA OS: iza-os-web'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:51:26Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-web3-integration
+  repo: iza-os-web3-integration
+  category: platform/utility
+  language: Python
+  description: Web3 integration platform for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:51:24Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/iza-os-workflow-integration
+  repo: iza-os-workflow-integration
+  category: platform/utility
+  language: Python
+  description: Workflow integration platform for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T03:28:27Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/legal-001-ai-boss-holdings
+  repo: legal-001-ai-boss-holdings
+  category: platform/utility
+  language: null
+  description: 'Civilization OS: Parent holding company (AI Boss Holdings LLC) - Owns all 749 ventures'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:51:21Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/legal-contract-templates
+  repo: legal-contract-templates
+  category: platform/utility
+  language: null
+  description: Universal contract templates for all Civilization OS ventures (749+ businesses)
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:51:19Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/maps
+  repo: maps
+  category: platform/utility
+  language: Python
+  description: Ecosystem mapping, cartography system, licensing, and capital management
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:38:14Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/marketplace-core
+  repo: marketplace-core
+  category: platform/utility
+  language: null
+  description: Shared marketplace platform (roofing + plumbing)
+  github:
+    archived: false
+    pushed_at: '2026-06-10T20:06:21Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/mcp-integration-hub
+  repo: mcp-integration-hub
+  category: platform/utility
+  language: Python
+  description: Model Context Protocol servers & integration system
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:49:57Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/media-empire-platform
+  repo: media-empire-platform
+  category: platform/utility
+  language: Python
+  description: Media and content creation platform for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-07-31T00:03:17Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/mobile-access-manager
+  repo: mobile-access-manager
+  category: platform/utility
+  language: Python
+  description: Complete mobile optimization system for autonomous venture studio
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:49:54Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/nexus-ai-enterprise-platform
+  repo: nexus-ai-enterprise-platform
+  category: platform/utility
+  language: Python
+  description: Production-ready enterprise AI platform integrating ROMA hierarchical agents, Dria distributed network, and advanced ETL pipelines for Fortune 500 companies. Features microservices architecture, real-time monitoring, enterprise security, and multi-cloud deployment capabilities.
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:49:53Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/obsidian-vault
+  repo: obsidian-vault
+  category: unclassified
+  language: Python
+  description: Knowledge base with venture memory, graphs, and documentation
+  github:
+    archived: false
+    pushed_at: '2026-05-15T23:34:37Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/op-001-venture-automation-agency
+  repo: op-001-venture-automation-agency
+  category: platform/utility
+  language: Python
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:49:49Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/op-002-template-marketplace
+  repo: op-002-template-marketplace
+  category: platform/utility
+  language: Python
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:47:56Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/op-003-agent-services-hub
+  repo: op-003-agent-services-hub
+  category: platform/utility
+  language: Python
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:47:55Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ops-staff-001-staffing
+  repo: ops-staff-001-staffing
+  category: platform/utility
   language: HTML
-  category: platform-with-deploy
-  vercel_url: ops-staff-001-staffing-bpf4uzvrg-worldwidebros-projects.vercel.app
-- slug: pitch-kit
-  name: pitch-kit
+  description: 'Civilization OS: Staffing + HR + AI agent deployment for 749 ventures (human + AI workers, payroll)'
+  github:
+    archived: false
+    pushed_at: '2026-08-19T19:48:30Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/OS-001-MATHEMATICAL-OS-REGISTRY
+  repo: OS-001-MATHEMATICAL-OS-REGISTRY
+  category: platform/utility
+  language: null
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-07-27T23:53:56Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/partnership-network-management
+  repo: partnership-network-management
+  category: unclassified
+  language: Python
+  description: Strategic partnerships management for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:47:33Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/pitch-kit
+  repo: pitch-kit
+  category: unclassified
+  language: TypeScript
   description: Interactive Demo & Presentation System — Story + Interaction + Live Product + Visual Proof
-  language: TypeScript
-  category: platform-with-deploy
-  vercel_url: pitch-9ij8h9p3e-worldwidebros-projects.vercel.app
-- slug: quantum-brain-sync-website
-  name: quantum-brain-sync-website
+  github:
+    archived: false
+    pushed_at: '2026-04-18T20:53:35Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/quantum-brain-sync-website
+  repo: quantum-brain-sync-website
+  category: platform/utility
+  language: Python
   description: Professional website for Quantum Brain Sync - AI research automation package
-  language: Python
-  category: platform-with-deploy
-  vercel_url: quantum-brain-sync-website-a3veip5wi-worldwidebros-projects.vercel.app
-- slug: re-001-worldwidebro-holdings
-  name: re-001-worldwidebro-holdings
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:46:56Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/re-001-worldwidebro-holdings
+  repo: re-001-worldwidebro-holdings
+  category: platform/utility
+  language: TypeScript
   description: 'Civilization OS: Real estate + equipment leasing for 749 ventures (SBA 504 loans, property mgmt)'
+  github:
+    archived: false
+    pushed_at: '2026-08-21T00:42:24Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/re-002-os-property-management
+  repo: re-002-os-property-management
+  category: platform/utility
   language: TypeScript
-  category: platform-with-deploy
-  vercel_url: re-001-worldwidebro-holdings-i4mauskmp-worldwidebros-projects.vercel.app
-- slug: venture-hub
-  name: venture-hub
-  description: IZA OS Venture Hub - Central command for 687 ventures across 22 sectors
-  language: TypeScript
-  category: platform-with-deploy
-  vercel_url: venture-qw5w8zr8f-worldwidebros-projects.vercel.app
-- slug: worldwidebro-holdings
-  name: worldwidebro-holdings
-  description: Holding company structure for billionaire consciousness empire
+  description: Real estate operations platform for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-07-29T12:39:46Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/repo-template
+  repo: repo-template
+  category: platform/utility
+  language: null
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:46:51Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/research-lab-automation
+  repo: research-lab-automation
+  category: platform/utility
   language: Python
-  category: platform-via-vercel
-  vercel_match: re-001-worldwidebro-holdings
+  description: Research and development automation for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:46:49Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/research-os
+  repo: research-os
+  category: platform/utility
+  language: Cypher
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-08-17T15:44:20Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/research-processing-pipeline
+  repo: research-processing-pipeline
+  category: unclassified
+  language: Python
+  description: Advanced research analysis & knowledge management system
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:46:47Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/Resume
+  repo: Resume
+  category: unclassified
+  language: Python
+  description: Personal resume
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:46:46Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/revenue-multiplication-system
+  repo: revenue-multiplication-system
+  category: unclassified
+  language: Python
+  description: Revenue optimization system for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:46:44Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/shared-kernels
+  repo: shared-kernels
+  category: platform/utility
+  language: null
+  description: Civilization OS shared modules — intake forms, Stripe, auth, Supabase schema, dispatch logic. Every venture imports, never rebuilds.
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:46:42Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/sovereign-life
+  repo: sovereign-life
+  category: platform/utility
+  language: Python
+  description: Sovereign Life - Complete system organization and agentic ecosystem
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:46:41Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/tax-company-2026
+  repo: tax-company-2026
+  category: platform/utility
+  language: HTML
+  description: 'Civilization OS Venture: Tax preparation service'
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:46:38Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/tech-ventures-portfolio
+  repo: tech-ventures-portfolio
+  category: unclassified
+  language: Python
+  description: Technology venture portfolio management for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:38:41Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/testchat
+  repo: testchat
+  category: unclassified
+  language: null
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-07-17T05:58:09Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/the-office
+  repo: the-office
+  category: unclassified
+  language: TypeScript
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-04-18T21:14:57Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/unified-dashboard-system
+  repo: unified-dashboard-system
+  category: platform/utility
+  language: Python
+  description: Complete dashboard & monitoring system for autonomous venture studio
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:38:37Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/up-next-marketplace
+  repo: up-next-marketplace
+  category: archived
+  language: null
+  description: ARCHIVED → merged into bw-001-up-next-code
+  github:
+    archived: true
+    pushed_at: '2026-03-31T13:25:18Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/venture-contract-engine
+  repo: venture-contract-engine
+  category: platform/utility
+  language: Python
+  description: Auto-generate complete contract packages for any Civilization OS venture
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:38:35Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/venture-factory-core
+  repo: venture-factory-core
+  category: platform/utility
+  language: TypeScript
+  description: Corporate architecture, automation scripts, and venture templates
+  github:
+    archived: false
+    pushed_at: '2026-04-16T23:27:35Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/venture-hub
+  repo: venture-hub
+  category: platform/utility
+  language: TypeScript
+  description: IZA OS Venture Hub - Central command for 687 ventures across 22 sectors
+  github:
+    archived: false
+    pushed_at: '2026-08-22T17:45:12Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/venture-pipeline
+  repo: venture-pipeline
+  category: unclassified
+  language: Python
+  description: Active venture pipeline management with ACTIVE/PIPELINE/EXITED tracking
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:38:09Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/venture-studio-core
+  repo: venture-studio-core
+  category: platform/utility
+  language: Python
+  description: Venture creation platform for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:38:30Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/ventures
+  repo: ventures
+  category: platform/utility
+  language: Python
+  description: Sector-organized venture database with 800+ ventures across 22 sectors
+  github:
+    archived: false
+    pushed_at: '2026-08-19T14:48:01Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/Vex
+  repo: Vex
+  category: unclassified
+  language: TypeScript
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-08-19T17:46:15Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/wealth-optimization-platform
+  repo: wealth-optimization-platform
+  category: platform/utility
+  language: Python
+  description: Wealth management platform for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-07-28T14:49:32Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/Worldwidebro
+  repo: Worldwidebro
+  category: unclassified
+  language: null
+  description: Antwuan Johns — @Worldwidebro profile
+  github:
+    archived: false
+    pushed_at: '2026-07-27T18:49:11Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/worldwidebro-company-registry
+  repo: worldwidebro-company-registry
+  category: platform/utility
+  language: null
+  description: Canonical company/venture/repository/capability/platform/decision registry for the Worldwidebro portfolio. Schemas, empty registry templates, audit framework, and architecture decision log.
+  github:
+    archived: false
+    pushed_at: '2026-08-23T00:07:48Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/worldwidebro-construction-os
+  repo: worldwidebro-construction-os
+  category: platform/utility
+  language: Python
+  description: 'CON OS: Construction operations system with deal automation, contract generation, payment splitting, and contractor reputation scoring'
+  github:
+    archived: false
+    pushed_at: '2026-06-22T12:52:34Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/worldwidebro-education-os
+  repo: worldwidebro-education-os
+  category: platform/utility
+  language: null
+  description: IZA OS Core — Education sector operating system (EDU)
+  github:
+    archived: false
+    pushed_at: '2026-07-23T18:35:02Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/worldwidebro-finance-os
+  repo: worldwidebro-finance-os
+  category: platform/utility
+  language: Python
+  description: 🏦 Unified Financial Services Platform - Forecasting, Advisory, Compliance, Analytics, Investment Management
+  github:
+    archived: false
+    pushed_at: '2026-06-12T03:15:51Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/worldwidebro-holdings
+  repo: worldwidebro-holdings
+  category: unclassified
+  language: Python
+  description: Holding company structure for billionaire consciousness empire
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:38:25Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/worldwidebro-marketing-os
+  repo: worldwidebro-marketing-os
+  category: platform/utility
+  language: HTML
+  description: 📈 Unified Marketing Platform - Campaigns, Content, Analytics, Growth, Attribution
+  github:
+    archived: false
+    pushed_at: '2026-07-21T18:44:20Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/worldwidebro-mathematical-os
+  repo: worldwidebro-mathematical-os
+  category: platform/utility
+  language: Python
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-08-07T16:18:55Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/worldwidebro-os-business-engine
+  repo: worldwidebro-os-business-engine
+  category: platform/utility
+  language: TypeScript
+  description: 'IZA OS: Core ecosystem integration layer'
+  github:
+    archived: false
+    pushed_at: '2026-05-19T02:26:21Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/worldwidebro-os-core
+  repo: worldwidebro-os-core
+  category: platform/utility
+  language: HTML
+  description: AI Boss OS holding layer, including IZA OS infrastrcture, Worldwidebro brand layer, and WWB Library Cor.
+  github:
+    archived: false
+    pushed_at: '2026-07-29T02:48:53Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/worldwidebro-os-infrastructure
+  repo: worldwidebro-os-infrastructure
+  category: platform/utility
+  language: Python
+  description: Civilization OS infrastructure — scripts, configs, Docker stack, AOC, DeerFlow skills, agent workflows for 687 ventures
+  github:
+    archived: false
+    pushed_at: '2026-07-27T16:15:30Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/worldwidebro-os-knowledge-graph
+  repo: worldwidebro-os-knowledge-graph
+  category: platform/utility
+  language: Python
+  description: Iza OS scaffold — the source of truth for all machines, MCP servers, agents, ventures, and skills
+  github:
+    archived: false
+    pushed_at: '2026-05-28T22:46:07Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/worldwidebro-staffing-os
+  repo: worldwidebro-staffing-os
+  category: platform/utility
+  language: null
+  description: IZA OS Core — Staffing sector operating system (STA)
+  github:
+    archived: false
+    pushed_at: '2026-07-23T18:35:00Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/worldwidebro-venture-portal
+  repo: worldwidebro-venture-portal
+  category: unclassified
+  language: TypeScript
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-08-20T15:51:29Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/xyops-integration
+  repo: xyops-integration
+  category: platform/utility
+  language: Shell
+  description: xyOps integration for Civilization OS - Automated venture deployment and monitoring for 749+ business ventures
+  github:
+    archived: false
+    pushed_at: '2026-04-16T02:38:23Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
+- full_name: Worldwidebro/YES-LLC-CONTRACTOR-DELIVERY
+  repo: YES-LLC-CONTRACTOR-DELIVERY
+  category: unclassified
+  language: null
+  description: null
+  github:
+    archived: false
+    pushed_at: '2026-06-04T21:56:35Z'
+  derived:
+    mapping_status: unmatched
+    reason: no exact T7 repository claim
