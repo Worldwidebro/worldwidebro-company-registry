@@ -1,0 +1,5 @@
+repositories: 1767
+content_audited: 0
+unavailable_for_content_audit: 1767
+method: local README and bounded first-party source scan; no remote retrieval
+next_required_input: valid GitHub authentication or local clones for unavailable repositories
