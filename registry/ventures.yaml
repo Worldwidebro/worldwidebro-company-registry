@@ -1,13 +1,101 @@
-# Venture registry — empty template
-# One record per venture. Validate against schemas/venture.json
-- id: ""
-  name: ""
-  opco: ""
-  sector: ""
-  business_model: ""
-  status: ""
-  product: null
-  customers: null
+# Venture registry — populated from Obsidian vault evidence
+# Sources: CURRENT-STATE.md, vercel_deployments.csv, Venture-OS-Canonical-Architecture.md, mappings/*.csv
+# Validate against schemas/venture.json
+- id: CON-001
+  name: Ace Construction
+  opco: Worldwidebro Holdings
+  sector: Construction Tech
+  business_model: B2B Services
+  status: Live
+  product: con-001-ace-construction
+  customers: Construction contractors seeking licensed ACE-certified subcontractors
+  revenue: null
+  costs: null
+  repositories:
+    - con-001-ace-construction
+  capabilities:
+    - Provider Registry
+    - Work Order Management
+    - Payment Processing
+    - Lead Management
+  agents:
+    - CON-001 Payment Processing Agent Team
+  projects:
+    - CON-001 SOP — Lindsey's 31-step service manager workflow
+  kpis: []
+  risks:
+    - Vercel deploy errors on admin pages (work orders, leads, draws) — build failures 2026-08-19
+  decisions:
+    - DEC-2026-0001
+  created_at: "2026-07-26T00:00:00Z"
+  updated_at: "2026-08-19T21:10:53Z"
+
+- id: LT-005
+  name: Medical Courier Dispatch
+  opco: Worldwidebro Logistics
+  sector: Logistics
+  business_model: B2B Services
+  status: Live
+  product: lt-005-medical-courier-dispatch
+  customers: Medical facilities requiring certified courier dispatch
+  revenue: null
+  costs: null
+  repositories:
+    - lt-005-medical-courier-dispatch
+  capabilities:
+    - Medical Dispatch
+    - Certification Qualification
+    - Dispatch Console
+  agents: []
+  projects:
+    - LT-005 master form index (247-form target architecture)
+  kpis: []
+  risks: []
+  decisions:
+    - DEC-2026-0001
+  created_at: "2026-08-13T00:00:00Z"
+  updated_at: "2026-08-14T15:01:21Z"
+
+- id: LT-011
+  name: DispatchOS
+  opco: Worldwidebro Logistics
+  sector: Logistics
+  business_model: B2B Services
+  status: Building
+  product: lt-011-dispatch-software
+  customers: Dispatch operations needing freight and courier assignment
+  revenue: null
+  costs: null
+  repositories:
+    - venture-hub
+    - dispatch-platform
+    - lt-011-dispatch-software
+  capabilities:
+    - Dispatch Core v1
+    - Freight Tender Pipeline
+    - Direct Assign (courier path)
+    - Loop Infrastructure (19 Supabase tables + 9 scripts)
+  agents: []
+  projects:
+    - Dispatch Core v1 (16 exit criteria)
+    - venture-hub PR #2 — fix/broken-symlinks-production-build (unmerged)
+  kpis: []
+  risks:
+    - venture-hub production build broken since 2026-08-01; PR #2 open, blocked on ESLint debt
+  decisions:
+    - DEC-2026-0001
+    - DEC-2026-0002
+  created_at: "2026-06-12T00:00:00Z"
+  updated_at: "2026-08-19T19:44:52Z"
+
+- id: RE-001
+  name: Real Estate
+  opco: Worldwidebro Real Estate
+  sector: Real Estate
+  business_model: B2B Services
+  status: Live
+  product: ""
+  customers: ""
   revenue: null
   costs: null
   repositories: []
@@ -16,6 +104,28 @@
   projects: []
   kpis: []
   risks: []
-  decisions: []
-  created_at: ""
-  updated_at: ""
+  decisions:
+    - DEC-2026-0001
+  created_at: "2026-08-22T00:00:00Z"
+  updated_at: "2026-08-22T00:00:00Z"
+
+- id: OPS-001
+  name: Operations
+  opco: Worldwidebro Operations
+  sector: Operations
+  business_model: B2B Services
+  status: Live
+  product: ""
+  customers: ""
+  revenue: null
+  costs: null
+  repositories: []
+  capabilities: []
+  agents: []
+  projects: []
+  kpis: []
+  risks: []
+  decisions:
+    - DEC-2026-0001
+  created_at: "2026-08-22T00:00:00Z"
+  updated_at: "2026-08-22T00:00:00Z"

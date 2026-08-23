@@ -1,15 +1,107 @@
-# Repository registry — empty template
-# One record per repository. Validate against schemas/repository.json
-- id: ""
-  full_name: ""
-  venture: null
-  type: ""
-  language: null
+# Repository registry — populated from vercel_deployments.csv and CURRENT-STATE.md
+# Validate against schemas/repository.json
+- id: venture-hub
+  full_name: Worldwidebro/venture-hub
+  venture: LT-011
+  type: Application
+  language: typescript
   production_url: null
-  status: ""
-  deploy_target: null
+  status: Active
+  deploy_target: Vercel
   dependencies: []
-  capabilities: []
+  capabilities:
+    - Venture loop infrastructure
+    - Supabase backend (19 tables)
+    - 9 automation scripts
+  last_activity: "2026-08-01"
+  created_at: "2026-03-15T00:00:00Z"
+  updated_at: "2026-08-22T00:00:00Z"
+
+- id: dispatch-platform
+  full_name: Worldwidebro/dispatch-platform
+  venture: LT-011
+  type: Application
+  language: python
+  production_url: null
+  status: Active
+  deploy_target: null
+  dependencies:
+    - venture-hub
+  capabilities:
+    - Dispatch Core
+    - Freight Tender
+    - Driver Assignment
   last_activity: null
-  created_at: ""
-  updated_at: ""
+  created_at: "2026-08-22T00:00:00Z"
+  updated_at: "2026-08-22T00:00:00Z"
+
+- id: lt-011-dispatch-software
+  full_name: Worldwidebro/lt-011-dispatch-software
+  venture: LT-011
+  type: Application
+  language: unknown
+  production_url: https://lt-011-dispatch-software-38u4agv46-worldwidebros-projects.vercel.app
+  status: Active
+  deploy_target: Vercel
+  dependencies:
+    - venture-hub
+  capabilities:
+    - DispatchOS Console
+    - Portals
+    - API Backend
+  last_activity: "2026-08-19"
+  created_at: "2026-08-05T00:00:00Z"
+  updated_at: "2026-08-19T19:44:52Z"
+
+- id: lt-005-medical-courier-dispatch
+  full_name: Worldwidebro/lt-005-medical-courier-dispatch
+  venture: LT-005
+  type: Application
+  language: unknown
+  production_url: https://lt-005-medical-courier-dispatch-56aufruu9.vercel.app
+  status: Active
+  deploy_target: Vercel
+  dependencies: []
+  capabilities:
+    - Medical Dispatch
+    - Certification Qualification
+  last_activity: "2026-08-14"
+  created_at: "2026-08-13T00:00:00Z"
+  updated_at: "2026-08-14T15:01:21Z"
+
+- id: con-001-ace-construction
+  full_name: Worldwidebro/con-001-ace-construction
+  venture: CON-001
+  type: Application
+  language: react
+  production_url: https://con-001-ace-construction-nfh5swwa4-worldwidebros-projects.vercel.app
+  status: Active
+  deploy_target: Vercel
+  dependencies: []
+  capabilities:
+    - Provider Registry
+    - Work Order Management
+    - Payment Processing
+    - Lead Management
+  last_activity: "2026-08-19"
+  created_at: "2026-07-26T00:00:00Z"
+  updated_at: "2026-08-19T21:10:53Z"
+
+- id: vex-hero-site
+  full_name: Worldwidebro/vex-hero-site
+  venture: ""
+  type: Application
+  language: javascript
+  production_url: https://vex-hero-site-cnw4rprcq-worldwidebros-projects.vercel.app
+  status: Active
+  deploy_target: Vercel
+  dependencies: []
+  capabilities:
+    - Portfolio Dashboard
+    - Sector Pages
+    - OPCO Drill-down
+    - Venture Registry (788 ventures)
+    - Partner/JV Application Flows
+  last_activity: "2026-08-20"
+  created_at: "2026-06-04T00:00:00Z"
+  updated_at: "2026-08-20T00:14:13Z"
