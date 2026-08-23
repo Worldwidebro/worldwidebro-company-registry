@@ -1,0 +1,74 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Work OS Task Object",
+  "description": "Standard task object for the Work OS execution engine. Every piece of work becomes a task with id, objective, owner, inputs, dependencies, actions, acceptance criteria, and evidence.",
+  "type": "object",
+  "properties": {
+    "id": {"type": "string", "description": "Unique task identifier (e.g. TASK-001, SYSTEM-COMPLETE-CHECK, LT-011-PROD-READY)"},
+    "task_type": {"type": "string", "description": "Category of task: system-verification, venture-launch, repo-audit, funding-discovery, deployment, maintenance"},
+    "objective": {"type": "string", "description": "What this task achieves — one clear sentence"},
+    "owner": {"type": "string", "description": "Who/what owns this task: Hermes Agent, human name, agent id"},
+    "description": {"type": "string", "description": "Longer context for the task"},
+    "priority": {"type": "string", "enum": ["P0", "P1", "P2", "P3"], "description": "Priority tier: P0=critical, P1=high, P2=medium, P3=low"},
+    "sector_focus": {"type": "string", "description": "Sector this task applies to (or 'all sectors')"},
+    "venture_focus": {"type": "string", "description": "Specific venture ID this task targets (or empty for general)"},
+    "inputs": {"type": "array", "items": {"type": "string"}, "description": "Input files, data sources, or artifacts required"},
+    "dependencies": {"type": "array", "items": {"type": "string"}, "description": "External dependencies: gh auth, vercel access, registry, api keys"},
+    "actions": {"type": "array", "description": "Ordered list of actions to execute",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {"type": "string", "enum": ["terminal", "file_read", "file_write", "check", "web_search", "web_extract"], "description": "Action type"},
+          "description": {"type": "string", "description": "Human-readable description of what this action does"},
+          "command": {"type": "string", "description": "Shell command (for terminal actions)"},
+          "workdir": {"type": "string", "description": "Working directory for terminal actions"},
+          "timeout": {"type": "integer", "description": "Timeout in seconds (default 120)"},
+          "path": {"type": "string", "description": "File path (for file_read, file_write, check)"},
+          "content": {"type": "string", "description": "Content to write (for file_write)"},
+          "limit": {"type": "integer", "description": "Max lines to read (for file_read, default 2000)"},
+          "offset": {"type": "integer", "description": "Start line (for file_read, default 1)"},
+          "check_type": {"type": "string", "enum": ["file_exists", "yaml_parse", "grep", "count"], "description": "Check type (for check actions)"},
+          "pattern": {"type": "string", "description": "Search pattern (for grep checks)"},
+          "urls": {"type": "array", "items": {"type": "string"}, "description": "URLs to extract (for web_extract)"},
+          "query": {"type": "string", "description": "Search query (for web_search)"},
+          "limit": {"type": "integer", "description": "Max results (for web_search)"}
+        },
+        "required": ["type"]
+      }
+    },
+    "acceptance_criteria": {"type": "array", "items": {"type": "string"}, "description": "List of criteria that must pass for task to be COMPLETED"},
+    "notes": {"type": "string", "description": "Additional context, caveats, or guidance"},
+    "status": {"type": "string", "enum": ["queued", "in_progress", "completed", "blocked", "failed"], "description": "Current task status"},
+    "evidence": {"type": "array", "description": "Evidence collected during execution (populated by task runner)",
+      "items": {
+        "type": "object",
+        "properties": {
+          "phase": {"type": "string"},
+          "status": {"type": "string"},
+          "action": {"type": "string"},
+          "output_preview": {"type": "string"},
+          "passed": {"type": "boolean"},
+          "evidence": {"type": "string"},
+          "criteria_passed": {"type": "integer"},
+          "criteria_total": {"type": "integer"},
+          "lessons": {"type": "array", "items": {"type": "string"}}
+        }
+      }
+    },
+    "result": {"type": "object", "description": "Final result (populated by task runner)",
+      "properties": {
+        "status": {"type": "string", "enum": ["completed", "blocked", "failed"]},
+        "started_at": {"type": "string", "format": "date-time"},
+        "completed_at": {"type": "string", "format": "date-time"},
+        "duration_seconds": {"type": "integer"},
+        "actions_total": {"type": "integer"},
+        "actions_success": {"type": "integer"},
+        "actions_failed": {"type": "integer"},
+        "criteria_total": {"type": "integer"},
+        "criteria_passed": {"type": "integer"},
+        "criteria_failed": {"type": "integer"}
+      }
+    }
+  },
+  "required": ["id", "objective", "owner", "actions", "acceptance_criteria"]
+}

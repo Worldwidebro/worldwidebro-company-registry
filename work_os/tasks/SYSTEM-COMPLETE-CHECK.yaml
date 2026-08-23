@@ -1,0 +1,119 @@
+id: SYSTEM-COMPLETE-CHECK
+task_type: system-verification
+objective: Verify the Worldwidebro registry system is complete and wired end-to-end
+owner: Hermes Agent
+description: 'Comprehensive system verification: registry counts, schemas, seed data,
+  audit reports, capability analyses, GitHub state, Work OS, sector consolidation.
+  This task confirms the system is in a coherent, committed, and accessible state.'
+priority: P0
+sector_focus: all sectors
+inputs:
+- registry/ventures.yaml (742 ventures)
+- registry/capital-flow-graph-seed.yaml (759 nodes, 2711 edges)
+- registry/funding-readiness-defaults.yaml (742 venture assessments)
+- schemas/ (5 schema files)
+- audits/ (7 audit reports)
+- work_os/ (task runner + schema)
+- github.com/Worldwidebro/worldwidebro-company-registry
+dependencies:
+- registry access
+- gh auth
+actions:
+- type: check
+  check_type: yaml_parse
+  path: /Users/divinejohns/Documents/Obsidian Vault/worldwidebro-company-registry/registry/ventures.yaml
+  description: Parse ventures.yaml to verify 742 ventures load cleanly
+- type: terminal
+  command: 'cd /Users/divinejohns/Documents/Obsidian\ Vault/worldwidebro-company-registry
+    && python3 -c "import yaml; v=yaml.safe_load(open(''registry/ventures.yaml''));
+    print(f''Ventures: {len(v)}'')"'
+  description: Count ventures in registry
+- type: terminal
+  command: cd /Users/divinejohns/Documents/Obsidian\ Vault/worldwidebro-company-registry
+    && git log --oneline -5
+  description: Show last 5 commits to verify push state
+- type: check
+  check_type: file_exists
+  path: /Users/divinejohns/Documents/Obsidian Vault/worldwidebro-company-registry/schemas/funding-readiness.json
+  description: Verify funding-readiness.json schema exists
+- type: check
+  check_type: file_exists
+  path: /Users/divinejohns/Documents/Obsidian Vault/worldwidebro-company-registry/schemas/capital-flow-node.json
+  description: Verify capital-flow-node.json schema exists
+- type: check
+  check_type: file_exists
+  path: /Users/divinejohns/Documents/Obsidian Vault/worldwidebro-company-registry/schemas/capital-flow-edge.json
+  description: Verify capital-flow-edge.json schema exists
+- type: check
+  check_type: file_exists
+  path: /Users/divinejohns/Documents/Obsidian Vault/worldwidebro-company-registry/schemas/business-taxonomy.json
+  description: Verify business-taxonomy.json schema exists
+- type: check
+  check_type: file_exists
+  path: /Users/divinejohns/Documents/Obsidian Vault/worldwidebro-company-registry/registry/capital-flow-graph-seed.yaml
+  description: Verify capital-flow-graph-seed.yaml exists (759 nodes, 2711 edges)
+- type: check
+  check_type: file_exists
+  path: /Users/divinejohns/Documents/Obsidian Vault/worldwidebro-company-registry/registry/funding-readiness-defaults.yaml
+  description: Verify funding-readiness-defaults.yaml exists (742 venture defaults)
+- type: check
+  check_type: file_exists
+  path: /Users/divinejohns/Documents/Obsidian Vault/worldwidebro-company-registry/audits/financial-analysis.md
+  description: Verify financial-analysis.md exists
+- type: check
+  check_type: file_exists
+  path: /Users/divinejohns/Documents/Obsidian Vault/worldwidebro-company-registry/audits/capital-flow-graph-report.md
+  description: Verify capital-flow-graph-report.md exists
+- type: check
+  check_type: file_exists
+  path: /Users/divinejohns/Documents/Obsidian Vault/worldwidebro-company-registry/audits/funding-readiness-report.md
+  description: Verify funding-readiness-report.md exists
+- type: check
+  check_type: file_exists
+  path: /Users/divinejohns/Documents/Obsidian Vault/worldwidebro-company-registry/audits/starred-analysis/STARRED-CAPABILITY-ANALYSIS.md
+  description: Verify starred capability analysis exists
+- type: check
+  check_type: file_exists
+  path: /Users/divinejohns/Documents/Obsidian Vault/worldwidebro-company-registry/audits/owned-repo-capability/OWNED-REPO-CAPABILITY-ANALYSIS.md
+  description: Verify owned repo capability analysis exists
+- type: terminal
+  command: 'cd /Users/divinejohns/Documents/Obsidian\ Vault/worldwidebro-company-registry
+    && python3 -c "import yaml; s=yaml.safe_load(open(''registry/capital-flow-graph-seed.yaml''));
+    print(f''Nodes: {s["node_counts"]["total"]}, Edges: {s["edge_counts"]["total"]}'')"'
+  description: Verify capital flow graph seed has 759 nodes and 2711 edges
+- type: terminal
+  command: 'cd /Users/divinejohns/Documents/Obsidian\ Vault/worldwidebro-company-registry
+    && python3 -c "import yaml; s=yaml.safe_load(open(''registry/capital-flow-graph-seed.yaml''));
+    sectors=set(n.get(''sector'',''?'') for n in s[''nodes''][''ventures'']); print(f''Unique
+    sectors in seed: {len(sectors)}''); [print(f''  {s}'') for s in sorted(sectors)]"'
+  description: Verify sectors in seed are consolidated to 14
+- type: check
+  check_type: file_exists
+  path: /Users/divinejohns/Documents/Obsidian Vault/worldwidebro-company-registry/work_os/task_runner.py
+  description: Verify Work OS task runner exists
+- type: check
+  check_type: file_exists
+  path: /Users/divinejohns/Documents/Obsidian Vault/worldwidebro-company-registry/work_os/task-schema.json
+  description: Verify Work OS task schema exists
+- type: terminal
+  command: cd /Users/divinejohns/Documents/Obsidian\ Vault/worldwidebro-company-registry
+    && gh repo view Worldwidebro/worldwidebro-company-registry --json name,description,visibility,updatedAt
+    --jq '.[].name + " | " + .[].description + " | " + .[].visibility + " | " + .[].updatedAt'
+  description: Verify GitHub repo is visible and pushed
+acceptance_criteria:
+- ventures.yaml contains 742 ventures and parses cleanly
+- last 5 commits show pushed state on main
+- all 5 schema files exist (funding-readiness, capital-flow-node, capital-flow-edge,
+  business-taxonomy, task-schema)
+- capital-flow-graph-seed.yaml exists with 759 nodes
+- funding-readiness-defaults.yaml exists with 742 venture assessments
+- financial-analysis.md exists
+- capital-flow-graph-report.md exists
+- funding-readiness-report.md exists
+- starred capability analysis exists
+- owned repo capability analysis exists
+- work os task runner exists
+- work os task schema exists
+- GitHub repo is visible and pushed with recent commit
+notes: This task should PASS if the system is fully wired. If any criterion fails,
+  that's the gap to close.

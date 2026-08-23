@@ -1,0 +1,102 @@
+id: LT-011-PROD-READY
+task_type: system-verification
+objective: 'Verify LT-011 Dispatch Software is production-ready: repo exists, deployed,
+  funded, in registry'
+owner: Hermes Agent
+description: 'LT-011 Dispatch Software is a P2 logistics-venture in Pre-launch/Building
+  status. This task verifies every layer: registry entry, GitHub repo, Vercel deployment,
+  capital flow graph node, funding readiness, and taxonomy coverage. Answers: is LT-011
+  ready to go live?'
+priority: P2
+sector_focus: logistics-transport
+inputs:
+- registry/ventures.yaml
+- registry/repositories.yaml
+- vercel_deployments.csv
+- registry/capital-flow-graph-seed.yaml
+- registry/funding-readiness-defaults.yaml
+- schemas/business-taxonomy.json
+- 'GitHub: Worldwidebro/lt-011-dispatch-software'
+dependencies:
+- registry access
+- gh auth
+- Vercel deploy status
+actions:
+- type: check
+  check_type: yaml_parse
+  path: /Users/divinejohns/Documents/Obsidian Vault/worldwidebro-company-registry/registry/ventures.yaml
+  description: Find LT-011 in ventures.yaml
+- type: terminal
+  command: 'cd /Users/divinejohns/Documents/Obsidian\ Vault/worldwidebro-company-registry
+    && python3 -c "import yaml; v=yaml.safe_load(open(''registry/ventures.yaml''));
+    lt=[x for x in v if x[''id''].startswith(''LT-011'')]; print(yaml.dump(lt[0] if
+    lt else {''not_found'': True}))"'
+  description: Extract LT-011 venture record
+- type: check
+  check_type: file_exists
+  path: /Users/divinejohns/Documents/Obsidian Vault/worldwidebro-company-registry/vercel_deployments.csv
+  description: Verify vercel_deployments.csv exists
+- type: terminal
+  command: cd /Users/divinejohns/Documents/Obsidian\ Vault && grep "LT-011\|lt-011\|dispatch-software"
+    vercel_deployments.csv 2>/dev/null | head -5
+  description: Find LT-011 Vercel deployments
+- type: check
+  check_type: file_exists
+  path: /Users/divinejohns/Documents/Obsidian Vault/worldwidebro-company-registry/registry/repositories.yaml
+  description: Verify repositories.yaml exists
+- type: terminal
+  command: 'cd /Users/divinejohns/Documents/Obsidian\ Vault/worldwidebro-company-registry
+    && python3 -c "import yaml; r=yaml.safe_load(open(''registry/repositories.yaml''));
+    lt=[x for x in r if ''lt-011'' in x[''full_name''].lower() or ''lt_011'' in x[''full_name''].lower()];
+    print(yaml.dump(lt[0] if lt else {''not_found'': True}))"'
+  description: Find LT-011 repository record
+- type: terminal
+  command: cd /Users/divinejohns/Documents/Obsidian\ Vault/worldwidebro-company-registry
+    && gh repo view Worldwidebro/lt-011-dispatch-software --json name,description,visibility,verified,stargazersCount,language,primaryLanguage,updatedAt,pushedAt,createdAt
+    --jq '[.name, .description, .visibility, .language, .primaryLanguage.name, .stargazersCount,
+    .updatedAt, .pushedAt]'
+  description: Check LT-011 GitHub repo status via gh CLI
+- type: terminal
+  command: cd /Users/divinejohns/Documents/Obsidian\ Vault/worldwidebro-company-registry
+    && gh api repos/Worldwidebro/lt-011-dispatch-software --jq '.[owner.login, name,
+    description, stargazers_count, forks_count, open_issues_count, has_issues, has_downloads,
+    has_wiki, homepage, language, allows_forking, is_template, visibility]'
+  description: Get detailed LT-011 repo metadata from GitHub API
+- type: terminal
+  command: cd /Users/divinejohns/Documents/Obsidian\ Vault/worldwidebro-company-registry
+    && gh api user/starred --paginate -q '.[].full_name' 2>/dev/null | grep -i "lt-011\|dispatch-software"
+    | head -5
+  description: Check if LT-011 is in Worldwidebro starred repos
+- type: terminal
+  command: 'cd /Users/divinejohns/Documents/Obsidian\ Vault/worldwidebro-company-registry
+    && python3 -c "import yaml; s=yaml.safe_load(open(''registry/capital-flow-graph-seed.yaml''));
+    lt=[n for n in s[''nodes''][''ventures''] if n[''venture_registry_id''].startswith(''LT-011'')];
+    print(yaml.dump(lt[0] if lt else {''not_found'': True}))"'
+  description: Check LT-011 in capital flow graph seed
+- type: terminal
+  command: 'cd /Users/divinejohns/Documents/Obsidian\ Vault/worldwidebro-company-registry
+    && python3 -c "import yaml; f=yaml.safe_load(open(''registry/funding-readiness-defaults.yaml''));
+    lt=[x for x in f if x[''venture_id''].startswith(''LT-011'')]; print(yaml.dump(lt[0]
+    if lt else {''not_found'': True}))"'
+  description: Check LT-011 funding readiness
+- type: check
+  check_type: file_exists
+  path: /Users/divinejohns/Documents/Obsidian Vault/worldwidebro-company-registry/schemas/business-taxonomy.json
+  description: Verify business taxonomy schema exists
+- type: terminal
+  command: 'cd /Users/divinejohns/Documents/Obsidian\ Vault/worldwidebro-company-registry
+    && python3 -c "import json; t=json.load(open(''schemas/business-taxonomy.json''));
+    log=[s for s in t[''macro_sectors''] if s[''id'']==''logistics-transport'']; print(f''Logistics
+    subsectors: {len(log[0][''subsectors''])}''); [print(f''  {s}'') for s in log[0][''subsectors'']]"'
+  description: Verify logistics-transport subsectors available in taxonomy
+acceptance_criteria:
+- LT-011 exists in ventures.yaml with sector, status, and Vercel URL
+- LT-011 has a Vercel production URL in the registry
+- LT-011 repository exists on GitHub under Worldwidebro/
+- LT-011 funding readiness is computed in funding-readiness-defaults.yaml
+- LT-011 has a node in the capital flow graph seed
+- business taxonomy has logistics-transport subsectors available
+- LT-011 repo is accessible via gh CLI
+notes: LT-011 is a P2 venture. If Vercel URL exists and repo is live, it's production-ready
+  from a deployment standpoint. Funding readiness and capital flow graph integration
+  show if it's ready from a funding standpoint.

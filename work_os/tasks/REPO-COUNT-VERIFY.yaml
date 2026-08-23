@@ -1,0 +1,82 @@
+id: REPO-COUNT-VERIFY
+task_type: system-verification
+objective: Verify all 990 owned repos are accounted for in the registry with correct
+  counts, types, and Vercel URLs
+owner: Hermes Agent
+description: 'Repository count verification: 890 GitHub owned repos, 990 in registry
+  (890 + 100 starred-ext reference), 73 with Vercel URLs, 116 archived, type/language
+  distributions. Confirms the repository registry is complete and accurate.'
+priority: P1
+sector_focus: all sectors
+inputs:
+- registry/repositories.yaml (990 repos)
+- gh CLI authenticated as Worldwidebro
+- audits/owned-repo-capability/
+dependencies:
+- registry access
+- gh auth
+actions:
+- type: check
+  check_type: yaml_parse
+  path: /Users/divinejohns/Documents/Obsidian Vault/worldwidebro-company-registry/registry/repositories.yaml
+  description: Parse repositories.yaml to verify 990 repos load cleanly
+- type: terminal
+  command: 'cd /Users/divinejohns/Documents/Obsidian\ Vault/worldwidebro-company-registry
+    && python3 -c "import yaml; r=yaml.safe_load(open(''registry/repositories.yaml''));
+    print(f''Repos: {len(r)}'')"'
+  description: Count repos in registry
+- type: terminal
+  command: cd /Users/divinejohns/Documents/Obsidian\ Vault/worldwidebro-company-registry
+    && python3 -c "import yaml; from collections import Counter; r=yaml.safe_load(open('registry/repositories.yaml'));
+    types=Counter(x.get('type','?') for x in r); print(f'Types:'); [print(f'  {t:20}
+    {c:4}') for t,c in sorted(types.items(), key=lambda x:-x[1])]"
+  description: Show repo type distribution
+- type: terminal
+  command: cd /Users/divinejohns/Documents/Obsidian\ Vault/worldwidebro-company-registry
+    && python3 -c "import yaml; from collections import Counter; r=yaml.safe_load(open('registry/repositories.yaml'));
+    langs=Counter(x.get('language','?') for x in r); print(f'Languages:'); [print(f'  {l:20}
+    {c:4}') for l,c in sorted(langs.items(), key=lambda x:-x[1]) if l != '?']"
+  description: Show repo language distribution
+- type: terminal
+  command: 'cd /Users/divinejohns/Documents/Obsidian\ Vault/worldwidebro-company-registry
+    && python3 -c "import yaml; from collections import Counter; r=yaml.safe_load(open(''registry/repositories.yaml''));
+    vercel=Counter(bool(x.get(''production_url'')) for x in r); print(f''With Vercel:
+    {vercel[True]}, Without: {vercel[False]}'')"'
+  description: Count repos with Vercel production URLs
+- type: terminal
+  command: cd /Users/divinejohns/Documents/Obsidian\ Vault/worldwidebro-company-registry
+    && python3 -c "import yaml; from collections import Counter; r=yaml.safe_load(open('registry/repositories.yaml'));
+    arch=Counter(x.get('status','?') for x in r); print(f'Status:'); [print(f'  {s:10}
+    {c:4}') for s,c in sorted(arch.items(), key=lambda x:-x[1])]"
+  description: Show repo status distribution (active/archived/private/public)
+- type: terminal
+  command: 'cd /Users/divinejohns/Documents/Obsidian\ Vault/worldwidebro-company-registry
+    && gh repo list Worldwidebro --limit 100 --json name,isPrivate,isArchived --jq
+    ''[.[] | {name: .name, isPrivate: .isPrivate, isArchived: .isArchived}] | length'''
+  description: Verify GitHub owned repo count from gh CLI
+- type: terminal
+  command: cd /Users/divinejohns/Documents/Obsidian\ Vault/worldwidebro-company-registry
+    && gh repo list Worldwidebro --limit 1000 --json name,isArchived --jq '.[] | select(.isArchived)
+    | .name' | wc -l
+  description: Count archived repos from GitHub
+- type: check
+  check_type: file_exists
+  path: /Users/divinejohns/Documents/Obsidian Vault/worldwidebro-company-registry/audits/owned-repo-capability/OWNED-REPO-CAPABILITY-ANALYSIS.md
+  description: Verify owned repo capability analysis exists
+- type: terminal
+  command: 'cd /Users/divinejohns/Documents/Obsidian\ Vault/worldwidebro-company-registry
+    && python3 -c "import yaml; s=yaml.safe_load(open(''registry/capital-flow-graph-seed.yaml''));
+    print(f''Seed nodes: {s["node_counts"]["total"]}, Seed edges: {s["edge_counts"]["total"]}'')"'
+  description: Verify capital flow graph seed is intact
+acceptance_criteria:
+- repositories.yaml contains 990 repos and parses cleanly
+- Repo type distribution shows DevOps/Infrastructure (~297), Frontend/UI (~159), Venture
+  Studio (~146)
+- Repo language distribution populated for at least 346 repos
+- 73 repos have Vercel production URLs
+- "GitHub owned repo count from gh CLI \u2248 890"
+- Owned repo capability analysis exists
+- Capital flow graph seed has 759 nodes and 2711 edges
+notes: 'This task confirms the repository registry matches GitHub reality. If counts
+  diverge, investigate: new repos pushed since last reconciliation, repos deleted,
+  or registry corruption.'
