@@ -6,7 +6,7 @@
   "properties": {
     "id": {
       "type": "string",
-      "pattern": "^(CON|LT|RE|OPS|TR|MED|FIN|SEC|AI|OTH)-\\d{3}$",
+      "pattern": "^[A-Za-z]+-\\d{3}.*",
       "description": "Unique venture identifier, e.g. CON-001"
     },
     "name": {
