@@ -1,0 +1,2735 @@
+{
+  "e-commerce": {
+    "needed_capabilities": [
+      "AI/LLM/GenAI",
+      "Frontend/UI Frameworks",
+      "API/Backend Infrastructure",
+      "Database/Storage",
+      "Payments/Billing",
+      "Email/SMS/Comms",
+      "E-commerce",
+      "Cloud/Serverless"
+    ],
+    "total_matches": 294,
+    "top_10": [
+      {
+        "name": "deliv-713-roadrunner-cannabis",
+        "full_name": "Worldwidebro/deliv-713-roadrunner-cannabis",
+        "score": 4,
+        "language": "Python",
+        "description": "Roadrunner Cannabis Delivery Platform - DELIV-713 Venture | Customer shop, driver delivery app, admi",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "E-commerce",
+          "Logistics/Transport",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "nexus-ai-enterprise-platform",
+        "full_name": "Worldwidebro/nexus-ai-enterprise-platform",
+        "score": 4,
+        "language": "Python",
+        "description": "Production-ready enterprise AI platform integrating ROMA hierarchical agents, Dria distributed netwo",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "API/Backend Infrastructure",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Cloud/Serverless",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Community/Platform"
+        ]
+      },
+      {
+        "name": "ec-112-cosmic-kitty",
+        "full_name": "Worldwidebro/ec-112-cosmic-kitty",
+        "score": 3,
+        "language": "HTML",
+        "description": "EC-112 \u2014 Cosmic Kitty: BDSM-focused luxury adult wellness e-commerce (Medusa backend + custom storef",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "E-commerce"
+        ]
+      },
+      {
+        "name": "civilization-os",
+        "full_name": "Worldwidebro/civilization-os",
+        "score": 3,
+        "language": "TypeScript",
+        "description": "\ud83c\udf0d Civilization OS - Master orchestrator for the entire IZA-OS ecosystem, managing 101 genius folders",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure"
+        ]
+      },
+      {
+        "name": "avatar-engine",
+        "full_name": "Worldwidebro/avatar-engine",
+        "score": 3,
+        "language": "Python",
+        "description": "Glue layer for talking-avatar generation: FastAPI + Redis queue + ComfyUI worker. Engine-agnostic (L",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "Database/Storage"
+        ]
+      },
+      {
+        "name": "shared-kernels",
+        "full_name": "Worldwidebro/shared-kernels",
+        "score": 3,
+        "language": "none",
+        "description": "Civilization OS shared modules \u2014 intake forms, Stripe, auth, Supabase schema, dispatch logic. Every ",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Payments/Billing",
+          "Logistics/Transport",
+          "Construction",
+          "Governance/Compliance",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "ec-111-miss-toys",
+        "full_name": "Worldwidebro/ec-111-miss-toys",
+        "score": 3,
+        "language": "HTML",
+        "description": "EC-111 \u2014 Miss Toys: luxury adult wellness e-commerce (Medusa backend + custom storefront)",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "E-commerce"
+        ]
+      },
+      {
+        "name": "et-003-platform",
+        "full_name": "Worldwidebro/et-003-platform",
+        "score": 3,
+        "language": "none",
+        "description": "Monorepo for the main SkillForge learning platform (frontend/backend).",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Education/Learning"
+        ]
+      },
+      {
+        "name": "capital-orchestrator",
+        "full_name": "Worldwidebro/capital-orchestrator",
+        "score": 3,
+        "language": "TypeScript",
+        "description": "Capital allocation and orchestration platform",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Workflow/Orchestration"
+        ]
+      },
+      {
+        "name": "_master-governance",
+        "full_name": "Worldwidebro/_master-governance",
+        "score": 2,
+        "language": "none",
+        "description": "Civilization OS \u2014 Chairman's Handbook, master CLAUDE.md, agent architecture, shared governance for a",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Open Knowledge/Wiki",
+          "Governance/Compliance"
+        ]
+      }
+    ]
+  },
+  "financial": {
+    "needed_capabilities": [
+      "AI/LLM/GenAI",
+      "API/Backend Infrastructure",
+      "Database/Storage",
+      "Security",
+      "Payments/Billing",
+      "Finance/Fintech",
+      "Cloud/Serverless"
+    ],
+    "total_matches": 186,
+    "top_10": [
+      {
+        "name": "nexus-ai-enterprise-platform",
+        "full_name": "Worldwidebro/nexus-ai-enterprise-platform",
+        "score": 5,
+        "language": "Python",
+        "description": "Production-ready enterprise AI platform integrating ROMA hierarchical agents, Dria distributed netwo",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "API/Backend Infrastructure",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Cloud/Serverless",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Community/Platform"
+        ]
+      },
+      {
+        "name": "enhanced-cursor-rules",
+        "full_name": "Worldwidebro/enhanced-cursor-rules",
+        "score": 3,
+        "language": "Shell",
+        "description": "Enhanced Cursor Rules for AI Development: 47+ comprehensive rule files for Cursor, Windsurf, Claude ",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "DevOps/Infrastructure",
+          "Observability/Monitoring",
+          "Security",
+          "Workflow/Orchestration",
+          "Payments/Billing",
+          "Governance/Compliance"
+        ]
+      },
+      {
+        "name": "shared-kernels",
+        "full_name": "Worldwidebro/shared-kernels",
+        "score": 3,
+        "language": "none",
+        "description": "Civilization OS shared modules \u2014 intake forms, Stripe, auth, Supabase schema, dispatch logic. Every ",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Payments/Billing",
+          "Logistics/Transport",
+          "Construction",
+          "Governance/Compliance",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "worldwidebro-company-registry",
+        "full_name": "Worldwidebro/worldwidebro-company-registry",
+        "score": 2,
+        "language": "none",
+        "description": "Canonical company/venture/repository/capability/platform/decision registry for the Worldwidebro port",
+        "capabilities": [
+          "CLI/Dev Tools",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Governance/Compliance",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "_master-governance",
+        "full_name": "Worldwidebro/_master-governance",
+        "score": 2,
+        "language": "none",
+        "description": "Civilization OS \u2014 Chairman's Handbook, master CLAUDE.md, agent architecture, shared governance for a",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Open Knowledge/Wiki",
+          "Governance/Compliance"
+        ]
+      },
+      {
+        "name": "civilization-os",
+        "full_name": "Worldwidebro/civilization-os",
+        "score": 2,
+        "language": "TypeScript",
+        "description": "\ud83c\udf0d Civilization OS - Master orchestrator for the entire IZA-OS ecosystem, managing 101 genius folders",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure"
+        ]
+      },
+      {
+        "name": "avatar-engine",
+        "full_name": "Worldwidebro/avatar-engine",
+        "score": 2,
+        "language": "Python",
+        "description": "Glue layer for talking-avatar generation: FastAPI + Redis queue + ComfyUI worker. Engine-agnostic (L",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "Database/Storage"
+        ]
+      },
+      {
+        "name": "worldwidebro-finance-os",
+        "full_name": "Worldwidebro/worldwidebro-finance-os",
+        "score": 2,
+        "language": "Python",
+        "description": "\ud83c\udfe6 Unified Financial Services Platform - Forecasting, Advisory, Compliance, Analytics, Investment Man",
+        "capabilities": [
+          "CLI/Dev Tools",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Finance/Fintech",
+          "Governance/Compliance"
+        ]
+      },
+      {
+        "name": "deliv-713-roadrunner-cannabis",
+        "full_name": "Worldwidebro/deliv-713-roadrunner-cannabis",
+        "score": 2,
+        "language": "Python",
+        "description": "Roadrunner Cannabis Delivery Platform - DELIV-713 Venture | Customer shop, driver delivery app, admi",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "E-commerce",
+          "Logistics/Transport",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "business-template-marketplace",
+        "full_name": "Worldwidebro/business-template-marketplace",
+        "score": 2,
+        "language": "Python",
+        "description": "\ud83c\udfea Complete Business Template Marketplace - 487 AI-powered business templates with automated generati",
+        "capabilities": [
+          "DevOps/Infrastructure",
+          "Payments/Billing",
+          "Finance/Fintech",
+          "Logistics/Transport"
+        ]
+      }
+    ]
+  },
+  "logistics-transport": {
+    "needed_capabilities": [
+      "AI/LLM/GenAI",
+      "API/Backend Infrastructure",
+      "Database/Storage",
+      "Logistics/Transport",
+      "CLI/Dev Tools",
+      "DevOps/CI/CD"
+    ],
+    "total_matches": 177,
+    "top_10": [
+      {
+        "name": "deliv-713-roadrunner-cannabis",
+        "full_name": "Worldwidebro/deliv-713-roadrunner-cannabis",
+        "score": 3,
+        "language": "Python",
+        "description": "Roadrunner Cannabis Delivery Platform - DELIV-713 Venture | Customer shop, driver delivery app, admi",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "E-commerce",
+          "Logistics/Transport",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "nexus-ai-enterprise-platform",
+        "full_name": "Worldwidebro/nexus-ai-enterprise-platform",
+        "score": 3,
+        "language": "Python",
+        "description": "Production-ready enterprise AI platform integrating ROMA hierarchical agents, Dria distributed netwo",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "API/Backend Infrastructure",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Cloud/Serverless",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Community/Platform"
+        ]
+      },
+      {
+        "name": "worldwidebro-os-knowledge-graph",
+        "full_name": "Worldwidebro/worldwidebro-os-knowledge-graph",
+        "score": 3,
+        "language": "Python",
+        "description": "Iza OS scaffold \u2014 the source of truth for all machines, MCP servers, agents, ventures, and skills",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "API/Backend Infrastructure",
+          "CLI/Dev Tools",
+          "DevOps/Infrastructure",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "worldwidebro-company-registry",
+        "full_name": "Worldwidebro/worldwidebro-company-registry",
+        "score": 2,
+        "language": "none",
+        "description": "Canonical company/venture/repository/capability/platform/decision registry for the Worldwidebro port",
+        "capabilities": [
+          "CLI/Dev Tools",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Governance/Compliance",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "_master-governance",
+        "full_name": "Worldwidebro/_master-governance",
+        "score": 2,
+        "language": "none",
+        "description": "Civilization OS \u2014 Chairman's Handbook, master CLAUDE.md, agent architecture, shared governance for a",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Open Knowledge/Wiki",
+          "Governance/Compliance"
+        ]
+      },
+      {
+        "name": "civilization-os",
+        "full_name": "Worldwidebro/civilization-os",
+        "score": 2,
+        "language": "TypeScript",
+        "description": "\ud83c\udf0d Civilization OS - Master orchestrator for the entire IZA-OS ecosystem, managing 101 genius folders",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure"
+        ]
+      },
+      {
+        "name": "worldwidebro-os-infrastructure",
+        "full_name": "Worldwidebro/worldwidebro-os-infrastructure",
+        "score": 2,
+        "language": "Python",
+        "description": "Civilization OS infrastructure \u2014 scripts, configs, Docker stack, AOC, DeerFlow skills, agent workflo",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "CLI/Dev Tools",
+          "DevOps/Infrastructure",
+          "Documentation/Docs",
+          "Workflow/Orchestration",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "avatar-engine",
+        "full_name": "Worldwidebro/avatar-engine",
+        "score": 2,
+        "language": "Python",
+        "description": "Glue layer for talking-avatar generation: FastAPI + Redis queue + ComfyUI worker. Engine-agnostic (L",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "Database/Storage"
+        ]
+      },
+      {
+        "name": "worldwidebro-finance-os",
+        "full_name": "Worldwidebro/worldwidebro-finance-os",
+        "score": 2,
+        "language": "Python",
+        "description": "\ud83c\udfe6 Unified Financial Services Platform - Forecasting, Advisory, Compliance, Analytics, Investment Man",
+        "capabilities": [
+          "CLI/Dev Tools",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Finance/Fintech",
+          "Governance/Compliance"
+        ]
+      },
+      {
+        "name": "shared-kernels",
+        "full_name": "Worldwidebro/shared-kernels",
+        "score": 2,
+        "language": "none",
+        "description": "Civilization OS shared modules \u2014 intake forms, Stripe, auth, Supabase schema, dispatch logic. Every ",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Payments/Billing",
+          "Logistics/Transport",
+          "Construction",
+          "Governance/Compliance",
+          "Venture Creation/Studio"
+        ]
+      }
+    ]
+  },
+  "software-technology": {
+    "needed_capabilities": [
+      "AI/LLM/GenAI",
+      "Agent Frameworks",
+      "API/Backend Infrastructure",
+      "Frontend/UI Frameworks",
+      "DevOps/CI/CD",
+      "Cloud/Serverless",
+      "CLI/Dev Tools",
+      "SDK/Library"
+    ],
+    "total_matches": 270,
+    "top_10": [
+      {
+        "name": "nexus-ai-enterprise-platform",
+        "full_name": "Worldwidebro/nexus-ai-enterprise-platform",
+        "score": 5,
+        "language": "Python",
+        "description": "Production-ready enterprise AI platform integrating ROMA hierarchical agents, Dria distributed netwo",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "API/Backend Infrastructure",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Cloud/Serverless",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Community/Platform"
+        ]
+      },
+      {
+        "name": "civilization-os",
+        "full_name": "Worldwidebro/civilization-os",
+        "score": 4,
+        "language": "TypeScript",
+        "description": "\ud83c\udf0d Civilization OS - Master orchestrator for the entire IZA-OS ecosystem, managing 101 genius folders",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure"
+        ]
+      },
+      {
+        "name": "ai-001-ai-command-center",
+        "full_name": "Worldwidebro/ai-001-ai-command-center",
+        "score": 4,
+        "language": "Python",
+        "description": "OpenClaw orchestration dashboard with AI agent management - Part of Civilization OS venture ecosyste",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "Frontend/UI Frameworks",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Workflow/Orchestration",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "worldwidebro-os-knowledge-graph",
+        "full_name": "Worldwidebro/worldwidebro-os-knowledge-graph",
+        "score": 4,
+        "language": "Python",
+        "description": "Iza OS scaffold \u2014 the source of truth for all machines, MCP servers, agents, ventures, and skills",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "API/Backend Infrastructure",
+          "CLI/Dev Tools",
+          "DevOps/Infrastructure",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "worldwidebro-os-core",
+        "full_name": "Worldwidebro/worldwidebro-os-core",
+        "score": 3,
+        "language": "HTML",
+        "description": "AI Boss OS holding layer, including IZA OS infrastrcture, Worldwidebro brand layer, and WWB Library ",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "CLI/Dev Tools",
+          "SDK/Library",
+          "DevOps/Infrastructure"
+        ]
+      },
+      {
+        "name": "worldwidebro-os-infrastructure",
+        "full_name": "Worldwidebro/worldwidebro-os-infrastructure",
+        "score": 3,
+        "language": "Python",
+        "description": "Civilization OS infrastructure \u2014 scripts, configs, Docker stack, AOC, DeerFlow skills, agent workflo",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "CLI/Dev Tools",
+          "DevOps/Infrastructure",
+          "Documentation/Docs",
+          "Workflow/Orchestration",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "hermes-agent-command-center",
+        "full_name": "Worldwidebro/hermes-agent-command-center",
+        "score": 3,
+        "language": "HTML",
+        "description": "Hermes Agent Command Center \u2014 dark-mode ops dashboard for an AI-agent organization (agents, tasks, d",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "Frontend/UI Frameworks",
+          "DevOps/Infrastructure"
+        ]
+      },
+      {
+        "name": "agency-agents",
+        "full_name": "Worldwidebro/agency-agents",
+        "score": 3,
+        "language": "Shell",
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "Frontend/UI Frameworks",
+          "Community/Platform"
+        ]
+      },
+      {
+        "name": "ops-staff-001-staffing",
+        "full_name": "Worldwidebro/ops-staff-001-staffing",
+        "score": 3,
+        "language": "HTML",
+        "description": "Civilization OS: Staffing + HR + AI agent deployment for 749 ventures (human + AI workers, payroll)",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "Frontend/UI Frameworks",
+          "DevOps/Infrastructure",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "clients",
+        "full_name": "Worldwidebro/clients",
+        "score": 3,
+        "language": "HTML",
+        "description": "Client management, agreements, onboarding systems, and lead generation",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "CLI/Dev Tools",
+          "SDK/Library"
+        ]
+      }
+    ]
+  },
+  "beauty-wellness": {
+    "needed_capabilities": [
+      "Frontend/UI Frameworks",
+      "AI/LLM/GenAI",
+      "API/Backend Infrastructure",
+      "Database/Storage",
+      "Email/SMS/Comms",
+      "E-commerce"
+    ],
+    "total_matches": 282,
+    "top_10": [
+      {
+        "name": "deliv-713-roadrunner-cannabis",
+        "full_name": "Worldwidebro/deliv-713-roadrunner-cannabis",
+        "score": 4,
+        "language": "Python",
+        "description": "Roadrunner Cannabis Delivery Platform - DELIV-713 Venture | Customer shop, driver delivery app, admi",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "E-commerce",
+          "Logistics/Transport",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "ec-112-cosmic-kitty",
+        "full_name": "Worldwidebro/ec-112-cosmic-kitty",
+        "score": 3,
+        "language": "HTML",
+        "description": "EC-112 \u2014 Cosmic Kitty: BDSM-focused luxury adult wellness e-commerce (Medusa backend + custom storef",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "E-commerce"
+        ]
+      },
+      {
+        "name": "civilization-os",
+        "full_name": "Worldwidebro/civilization-os",
+        "score": 3,
+        "language": "TypeScript",
+        "description": "\ud83c\udf0d Civilization OS - Master orchestrator for the entire IZA-OS ecosystem, managing 101 genius folders",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure"
+        ]
+      },
+      {
+        "name": "avatar-engine",
+        "full_name": "Worldwidebro/avatar-engine",
+        "score": 3,
+        "language": "Python",
+        "description": "Glue layer for talking-avatar generation: FastAPI + Redis queue + ComfyUI worker. Engine-agnostic (L",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "Database/Storage"
+        ]
+      },
+      {
+        "name": "nexus-ai-enterprise-platform",
+        "full_name": "Worldwidebro/nexus-ai-enterprise-platform",
+        "score": 3,
+        "language": "Python",
+        "description": "Production-ready enterprise AI platform integrating ROMA hierarchical agents, Dria distributed netwo",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "API/Backend Infrastructure",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Cloud/Serverless",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Community/Platform"
+        ]
+      },
+      {
+        "name": "ec-111-miss-toys",
+        "full_name": "Worldwidebro/ec-111-miss-toys",
+        "score": 3,
+        "language": "HTML",
+        "description": "EC-111 \u2014 Miss Toys: luxury adult wellness e-commerce (Medusa backend + custom storefront)",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "E-commerce"
+        ]
+      },
+      {
+        "name": "et-003-platform",
+        "full_name": "Worldwidebro/et-003-platform",
+        "score": 3,
+        "language": "none",
+        "description": "Monorepo for the main SkillForge learning platform (frontend/backend).",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Education/Learning"
+        ]
+      },
+      {
+        "name": "capital-orchestrator",
+        "full_name": "Worldwidebro/capital-orchestrator",
+        "score": 3,
+        "language": "TypeScript",
+        "description": "Capital allocation and orchestration platform",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Workflow/Orchestration"
+        ]
+      },
+      {
+        "name": "_master-governance",
+        "full_name": "Worldwidebro/_master-governance",
+        "score": 2,
+        "language": "none",
+        "description": "Civilization OS \u2014 Chairman's Handbook, master CLAUDE.md, agent architecture, shared governance for a",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Open Knowledge/Wiki",
+          "Governance/Compliance"
+        ]
+      },
+      {
+        "name": "hermes-agent-command-center",
+        "full_name": "Worldwidebro/hermes-agent-command-center",
+        "score": 2,
+        "language": "HTML",
+        "description": "Hermes Agent Command Center \u2014 dark-mode ops dashboard for an AI-agent organization (agents, tasks, d",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "Frontend/UI Frameworks",
+          "DevOps/Infrastructure"
+        ]
+      }
+    ]
+  },
+  "education-training": {
+    "needed_capabilities": [
+      "AI/LLM/GenAI",
+      "Education/Learning",
+      "Frontend/UI Frameworks",
+      "API/Backend Infrastructure",
+      "Database/Storage"
+    ],
+    "total_matches": 280,
+    "top_10": [
+      {
+        "name": "et-003-platform",
+        "full_name": "Worldwidebro/et-003-platform",
+        "score": 4,
+        "language": "none",
+        "description": "Monorepo for the main SkillForge learning platform (frontend/backend).",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Education/Learning"
+        ]
+      },
+      {
+        "name": "civilization-os",
+        "full_name": "Worldwidebro/civilization-os",
+        "score": 3,
+        "language": "TypeScript",
+        "description": "\ud83c\udf0d Civilization OS - Master orchestrator for the entire IZA-OS ecosystem, managing 101 genius folders",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure"
+        ]
+      },
+      {
+        "name": "avatar-engine",
+        "full_name": "Worldwidebro/avatar-engine",
+        "score": 3,
+        "language": "Python",
+        "description": "Glue layer for talking-avatar generation: FastAPI + Redis queue + ComfyUI worker. Engine-agnostic (L",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "Database/Storage"
+        ]
+      },
+      {
+        "name": "deliv-713-roadrunner-cannabis",
+        "full_name": "Worldwidebro/deliv-713-roadrunner-cannabis",
+        "score": 3,
+        "language": "Python",
+        "description": "Roadrunner Cannabis Delivery Platform - DELIV-713 Venture | Customer shop, driver delivery app, admi",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "E-commerce",
+          "Logistics/Transport",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "nexus-ai-enterprise-platform",
+        "full_name": "Worldwidebro/nexus-ai-enterprise-platform",
+        "score": 3,
+        "language": "Python",
+        "description": "Production-ready enterprise AI platform integrating ROMA hierarchical agents, Dria distributed netwo",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "API/Backend Infrastructure",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Cloud/Serverless",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Community/Platform"
+        ]
+      },
+      {
+        "name": "tech-025-machine-learning-builder",
+        "full_name": "Worldwidebro/tech-025-machine-learning-builder",
+        "score": 3,
+        "language": "none",
+        "description": "Tech 025 Machine Learning Builder - Part of Civilization OS venture ecosystem",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Frontend/UI Frameworks",
+          "Education/Learning",
+          "Construction",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "tech-057-machine-learning-builder",
+        "full_name": "Worldwidebro/tech-057-machine-learning-builder",
+        "score": 3,
+        "language": "none",
+        "description": "Tech 057 Machine Learning Builder - Part of Civilization OS venture ecosystem",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Frontend/UI Frameworks",
+          "Education/Learning",
+          "Construction",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "capital-orchestrator",
+        "full_name": "Worldwidebro/capital-orchestrator",
+        "score": 3,
+        "language": "TypeScript",
+        "description": "Capital allocation and orchestration platform",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Workflow/Orchestration"
+        ]
+      },
+      {
+        "name": "ec-112-cosmic-kitty",
+        "full_name": "Worldwidebro/ec-112-cosmic-kitty",
+        "score": 2,
+        "language": "HTML",
+        "description": "EC-112 \u2014 Cosmic Kitty: BDSM-focused luxury adult wellness e-commerce (Medusa backend + custom storef",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "E-commerce"
+        ]
+      },
+      {
+        "name": "_master-governance",
+        "full_name": "Worldwidebro/_master-governance",
+        "score": 2,
+        "language": "none",
+        "description": "Civilization OS \u2014 Chairman's Handbook, master CLAUDE.md, agent architecture, shared governance for a",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Open Knowledge/Wiki",
+          "Governance/Compliance"
+        ]
+      }
+    ]
+  },
+  "community": {
+    "needed_capabilities": [
+      "AI/LLM/GenAI",
+      "Frontend/UI Frameworks",
+      "API/Backend Infrastructure",
+      "Email/SMS/Comms",
+      "Database/Storage",
+      "Community/Platform"
+    ],
+    "total_matches": 281,
+    "top_10": [
+      {
+        "name": "nexus-ai-enterprise-platform",
+        "full_name": "Worldwidebro/nexus-ai-enterprise-platform",
+        "score": 4,
+        "language": "Python",
+        "description": "Production-ready enterprise AI platform integrating ROMA hierarchical agents, Dria distributed netwo",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "API/Backend Infrastructure",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Cloud/Serverless",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Community/Platform"
+        ]
+      },
+      {
+        "name": "civilization-os",
+        "full_name": "Worldwidebro/civilization-os",
+        "score": 3,
+        "language": "TypeScript",
+        "description": "\ud83c\udf0d Civilization OS - Master orchestrator for the entire IZA-OS ecosystem, managing 101 genius folders",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure"
+        ]
+      },
+      {
+        "name": "agency-agents",
+        "full_name": "Worldwidebro/agency-agents",
+        "score": 3,
+        "language": "Shell",
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "Frontend/UI Frameworks",
+          "Community/Platform"
+        ]
+      },
+      {
+        "name": "avatar-engine",
+        "full_name": "Worldwidebro/avatar-engine",
+        "score": 3,
+        "language": "Python",
+        "description": "Glue layer for talking-avatar generation: FastAPI + Redis queue + ComfyUI worker. Engine-agnostic (L",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "Database/Storage"
+        ]
+      },
+      {
+        "name": "deliv-713-roadrunner-cannabis",
+        "full_name": "Worldwidebro/deliv-713-roadrunner-cannabis",
+        "score": 3,
+        "language": "Python",
+        "description": "Roadrunner Cannabis Delivery Platform - DELIV-713 Venture | Customer shop, driver delivery app, admi",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "E-commerce",
+          "Logistics/Transport",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "et-003-platform",
+        "full_name": "Worldwidebro/et-003-platform",
+        "score": 3,
+        "language": "none",
+        "description": "Monorepo for the main SkillForge learning platform (frontend/backend).",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Education/Learning"
+        ]
+      },
+      {
+        "name": "capital-orchestrator",
+        "full_name": "Worldwidebro/capital-orchestrator",
+        "score": 3,
+        "language": "TypeScript",
+        "description": "Capital allocation and orchestration platform",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Workflow/Orchestration"
+        ]
+      },
+      {
+        "name": "ec-112-cosmic-kitty",
+        "full_name": "Worldwidebro/ec-112-cosmic-kitty",
+        "score": 2,
+        "language": "HTML",
+        "description": "EC-112 \u2014 Cosmic Kitty: BDSM-focused luxury adult wellness e-commerce (Medusa backend + custom storef",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "E-commerce"
+        ]
+      },
+      {
+        "name": "_master-governance",
+        "full_name": "Worldwidebro/_master-governance",
+        "score": 2,
+        "language": "none",
+        "description": "Civilization OS \u2014 Chairman's Handbook, master CLAUDE.md, agent architecture, shared governance for a",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Open Knowledge/Wiki",
+          "Governance/Compliance"
+        ]
+      },
+      {
+        "name": "hermes-agent-command-center",
+        "full_name": "Worldwidebro/hermes-agent-command-center",
+        "score": 2,
+        "language": "HTML",
+        "description": "Hermes Agent Command Center \u2014 dark-mode ops dashboard for an AI-agent organization (agents, tasks, d",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "Frontend/UI Frameworks",
+          "DevOps/Infrastructure"
+        ]
+      }
+    ]
+  },
+  "food-hospitality": {
+    "needed_capabilities": [
+      "AI/LLM/GenAI",
+      "Frontend/UI Frameworks",
+      "API/Backend Infrastructure",
+      "Database/Storage",
+      "Payments/Billing",
+      "E-commerce"
+    ],
+    "total_matches": 280,
+    "top_10": [
+      {
+        "name": "deliv-713-roadrunner-cannabis",
+        "full_name": "Worldwidebro/deliv-713-roadrunner-cannabis",
+        "score": 4,
+        "language": "Python",
+        "description": "Roadrunner Cannabis Delivery Platform - DELIV-713 Venture | Customer shop, driver delivery app, admi",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "E-commerce",
+          "Logistics/Transport",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "ec-112-cosmic-kitty",
+        "full_name": "Worldwidebro/ec-112-cosmic-kitty",
+        "score": 3,
+        "language": "HTML",
+        "description": "EC-112 \u2014 Cosmic Kitty: BDSM-focused luxury adult wellness e-commerce (Medusa backend + custom storef",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "E-commerce"
+        ]
+      },
+      {
+        "name": "civilization-os",
+        "full_name": "Worldwidebro/civilization-os",
+        "score": 3,
+        "language": "TypeScript",
+        "description": "\ud83c\udf0d Civilization OS - Master orchestrator for the entire IZA-OS ecosystem, managing 101 genius folders",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure"
+        ]
+      },
+      {
+        "name": "avatar-engine",
+        "full_name": "Worldwidebro/avatar-engine",
+        "score": 3,
+        "language": "Python",
+        "description": "Glue layer for talking-avatar generation: FastAPI + Redis queue + ComfyUI worker. Engine-agnostic (L",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "Database/Storage"
+        ]
+      },
+      {
+        "name": "nexus-ai-enterprise-platform",
+        "full_name": "Worldwidebro/nexus-ai-enterprise-platform",
+        "score": 3,
+        "language": "Python",
+        "description": "Production-ready enterprise AI platform integrating ROMA hierarchical agents, Dria distributed netwo",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "API/Backend Infrastructure",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Cloud/Serverless",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Community/Platform"
+        ]
+      },
+      {
+        "name": "shared-kernels",
+        "full_name": "Worldwidebro/shared-kernels",
+        "score": 3,
+        "language": "none",
+        "description": "Civilization OS shared modules \u2014 intake forms, Stripe, auth, Supabase schema, dispatch logic. Every ",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Payments/Billing",
+          "Logistics/Transport",
+          "Construction",
+          "Governance/Compliance",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "ec-111-miss-toys",
+        "full_name": "Worldwidebro/ec-111-miss-toys",
+        "score": 3,
+        "language": "HTML",
+        "description": "EC-111 \u2014 Miss Toys: luxury adult wellness e-commerce (Medusa backend + custom storefront)",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "E-commerce"
+        ]
+      },
+      {
+        "name": "et-003-platform",
+        "full_name": "Worldwidebro/et-003-platform",
+        "score": 3,
+        "language": "none",
+        "description": "Monorepo for the main SkillForge learning platform (frontend/backend).",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Education/Learning"
+        ]
+      },
+      {
+        "name": "capital-orchestrator",
+        "full_name": "Worldwidebro/capital-orchestrator",
+        "score": 3,
+        "language": "TypeScript",
+        "description": "Capital allocation and orchestration platform",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Workflow/Orchestration"
+        ]
+      },
+      {
+        "name": "_master-governance",
+        "full_name": "Worldwidebro/_master-governance",
+        "score": 2,
+        "language": "none",
+        "description": "Civilization OS \u2014 Chairman's Handbook, master CLAUDE.md, agent architecture, shared governance for a",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Open Knowledge/Wiki",
+          "Governance/Compliance"
+        ]
+      }
+    ]
+  },
+  "fitness-sports": {
+    "needed_capabilities": [
+      "AI/LLM/GenAI",
+      "Frontend/UI Frameworks",
+      "API/Backend Infrastructure",
+      "Database/Storage",
+      "Multimodal (Vision/Audio)"
+    ],
+    "total_matches": 251,
+    "top_10": [
+      {
+        "name": "civilization-os",
+        "full_name": "Worldwidebro/civilization-os",
+        "score": 3,
+        "language": "TypeScript",
+        "description": "\ud83c\udf0d Civilization OS - Master orchestrator for the entire IZA-OS ecosystem, managing 101 genius folders",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure"
+        ]
+      },
+      {
+        "name": "avatar-engine",
+        "full_name": "Worldwidebro/avatar-engine",
+        "score": 3,
+        "language": "Python",
+        "description": "Glue layer for talking-avatar generation: FastAPI + Redis queue + ComfyUI worker. Engine-agnostic (L",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "Database/Storage"
+        ]
+      },
+      {
+        "name": "deliv-713-roadrunner-cannabis",
+        "full_name": "Worldwidebro/deliv-713-roadrunner-cannabis",
+        "score": 3,
+        "language": "Python",
+        "description": "Roadrunner Cannabis Delivery Platform - DELIV-713 Venture | Customer shop, driver delivery app, admi",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "E-commerce",
+          "Logistics/Transport",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "nexus-ai-enterprise-platform",
+        "full_name": "Worldwidebro/nexus-ai-enterprise-platform",
+        "score": 3,
+        "language": "Python",
+        "description": "Production-ready enterprise AI platform integrating ROMA hierarchical agents, Dria distributed netwo",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "API/Backend Infrastructure",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Cloud/Serverless",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Community/Platform"
+        ]
+      },
+      {
+        "name": "et-003-platform",
+        "full_name": "Worldwidebro/et-003-platform",
+        "score": 3,
+        "language": "none",
+        "description": "Monorepo for the main SkillForge learning platform (frontend/backend).",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Education/Learning"
+        ]
+      },
+      {
+        "name": "capital-orchestrator",
+        "full_name": "Worldwidebro/capital-orchestrator",
+        "score": 3,
+        "language": "TypeScript",
+        "description": "Capital allocation and orchestration platform",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Workflow/Orchestration"
+        ]
+      },
+      {
+        "name": "ec-112-cosmic-kitty",
+        "full_name": "Worldwidebro/ec-112-cosmic-kitty",
+        "score": 2,
+        "language": "HTML",
+        "description": "EC-112 \u2014 Cosmic Kitty: BDSM-focused luxury adult wellness e-commerce (Medusa backend + custom storef",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "E-commerce"
+        ]
+      },
+      {
+        "name": "_master-governance",
+        "full_name": "Worldwidebro/_master-governance",
+        "score": 2,
+        "language": "none",
+        "description": "Civilization OS \u2014 Chairman's Handbook, master CLAUDE.md, agent architecture, shared governance for a",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Open Knowledge/Wiki",
+          "Governance/Compliance"
+        ]
+      },
+      {
+        "name": "hermes-agent-command-center",
+        "full_name": "Worldwidebro/hermes-agent-command-center",
+        "score": 2,
+        "language": "HTML",
+        "description": "Hermes Agent Command Center \u2014 dark-mode ops dashboard for an AI-agent organization (agents, tasks, d",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "Frontend/UI Frameworks",
+          "DevOps/Infrastructure"
+        ]
+      },
+      {
+        "name": "agency-agents",
+        "full_name": "Worldwidebro/agency-agents",
+        "score": 2,
+        "language": "Shell",
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "Frontend/UI Frameworks",
+          "Community/Platform"
+        ]
+      }
+    ]
+  },
+  "media-content": {
+    "needed_capabilities": [
+      "Multimodal (Vision/Audio)",
+      "AI/LLM/GenAI",
+      "Frontend/UI Frameworks",
+      "API/Backend Infrastructure",
+      "Database/Storage",
+      "Media/Content"
+    ],
+    "total_matches": 276,
+    "top_10": [
+      {
+        "name": "civilization-os",
+        "full_name": "Worldwidebro/civilization-os",
+        "score": 3,
+        "language": "TypeScript",
+        "description": "\ud83c\udf0d Civilization OS - Master orchestrator for the entire IZA-OS ecosystem, managing 101 genius folders",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure"
+        ]
+      },
+      {
+        "name": "avatar-engine",
+        "full_name": "Worldwidebro/avatar-engine",
+        "score": 3,
+        "language": "Python",
+        "description": "Glue layer for talking-avatar generation: FastAPI + Redis queue + ComfyUI worker. Engine-agnostic (L",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "Database/Storage"
+        ]
+      },
+      {
+        "name": "deliv-713-roadrunner-cannabis",
+        "full_name": "Worldwidebro/deliv-713-roadrunner-cannabis",
+        "score": 3,
+        "language": "Python",
+        "description": "Roadrunner Cannabis Delivery Platform - DELIV-713 Venture | Customer shop, driver delivery app, admi",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "E-commerce",
+          "Logistics/Transport",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "nexus-ai-enterprise-platform",
+        "full_name": "Worldwidebro/nexus-ai-enterprise-platform",
+        "score": 3,
+        "language": "Python",
+        "description": "Production-ready enterprise AI platform integrating ROMA hierarchical agents, Dria distributed netwo",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "API/Backend Infrastructure",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Cloud/Serverless",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Community/Platform"
+        ]
+      },
+      {
+        "name": "worldwidebro-marketing-os",
+        "full_name": "Worldwidebro/worldwidebro-marketing-os",
+        "score": 3,
+        "language": "HTML",
+        "description": "\ud83d\udcc8 Unified Marketing Platform - Campaigns, Content, Analytics, Growth, Attribution",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "CLI/Dev Tools",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Media/Content"
+        ]
+      },
+      {
+        "name": "et-003-platform",
+        "full_name": "Worldwidebro/et-003-platform",
+        "score": 3,
+        "language": "none",
+        "description": "Monorepo for the main SkillForge learning platform (frontend/backend).",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Education/Learning"
+        ]
+      },
+      {
+        "name": "capital-orchestrator",
+        "full_name": "Worldwidebro/capital-orchestrator",
+        "score": 3,
+        "language": "TypeScript",
+        "description": "Capital allocation and orchestration platform",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Workflow/Orchestration"
+        ]
+      },
+      {
+        "name": "ec-112-cosmic-kitty",
+        "full_name": "Worldwidebro/ec-112-cosmic-kitty",
+        "score": 2,
+        "language": "HTML",
+        "description": "EC-112 \u2014 Cosmic Kitty: BDSM-focused luxury adult wellness e-commerce (Medusa backend + custom storef",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "E-commerce"
+        ]
+      },
+      {
+        "name": "_master-governance",
+        "full_name": "Worldwidebro/_master-governance",
+        "score": 2,
+        "language": "none",
+        "description": "Civilization OS \u2014 Chairman's Handbook, master CLAUDE.md, agent architecture, shared governance for a",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Open Knowledge/Wiki",
+          "Governance/Compliance"
+        ]
+      },
+      {
+        "name": "hermes-agent-command-center",
+        "full_name": "Worldwidebro/hermes-agent-command-center",
+        "score": 2,
+        "language": "HTML",
+        "description": "Hermes Agent Command Center \u2014 dark-mode ops dashboard for an AI-agent organization (agents, tasks, d",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "Frontend/UI Frameworks",
+          "DevOps/Infrastructure"
+        ]
+      }
+    ]
+  },
+  "professional-services": {
+    "needed_capabilities": [
+      "AI/LLM/GenAI",
+      "Frontend/UI Frameworks",
+      "API/Backend Infrastructure",
+      "CLI/Dev Tools",
+      "Database/Storage"
+    ],
+    "total_matches": 271,
+    "top_10": [
+      {
+        "name": "civilization-os",
+        "full_name": "Worldwidebro/civilization-os",
+        "score": 3,
+        "language": "TypeScript",
+        "description": "\ud83c\udf0d Civilization OS - Master orchestrator for the entire IZA-OS ecosystem, managing 101 genius folders",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure"
+        ]
+      },
+      {
+        "name": "avatar-engine",
+        "full_name": "Worldwidebro/avatar-engine",
+        "score": 3,
+        "language": "Python",
+        "description": "Glue layer for talking-avatar generation: FastAPI + Redis queue + ComfyUI worker. Engine-agnostic (L",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "Database/Storage"
+        ]
+      },
+      {
+        "name": "deliv-713-roadrunner-cannabis",
+        "full_name": "Worldwidebro/deliv-713-roadrunner-cannabis",
+        "score": 3,
+        "language": "Python",
+        "description": "Roadrunner Cannabis Delivery Platform - DELIV-713 Venture | Customer shop, driver delivery app, admi",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "E-commerce",
+          "Logistics/Transport",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "nexus-ai-enterprise-platform",
+        "full_name": "Worldwidebro/nexus-ai-enterprise-platform",
+        "score": 3,
+        "language": "Python",
+        "description": "Production-ready enterprise AI platform integrating ROMA hierarchical agents, Dria distributed netwo",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "API/Backend Infrastructure",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Cloud/Serverless",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Community/Platform"
+        ]
+      },
+      {
+        "name": "worldwidebro-os-knowledge-graph",
+        "full_name": "Worldwidebro/worldwidebro-os-knowledge-graph",
+        "score": 3,
+        "language": "Python",
+        "description": "Iza OS scaffold \u2014 the source of truth for all machines, MCP servers, agents, ventures, and skills",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "API/Backend Infrastructure",
+          "CLI/Dev Tools",
+          "DevOps/Infrastructure",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "worldwidebro-marketing-os",
+        "full_name": "Worldwidebro/worldwidebro-marketing-os",
+        "score": 3,
+        "language": "HTML",
+        "description": "\ud83d\udcc8 Unified Marketing Platform - Campaigns, Content, Analytics, Growth, Attribution",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "CLI/Dev Tools",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Media/Content"
+        ]
+      },
+      {
+        "name": "et-003-platform",
+        "full_name": "Worldwidebro/et-003-platform",
+        "score": 3,
+        "language": "none",
+        "description": "Monorepo for the main SkillForge learning platform (frontend/backend).",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Education/Learning"
+        ]
+      },
+      {
+        "name": "capital-orchestrator",
+        "full_name": "Worldwidebro/capital-orchestrator",
+        "score": 3,
+        "language": "TypeScript",
+        "description": "Capital allocation and orchestration platform",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Workflow/Orchestration"
+        ]
+      },
+      {
+        "name": "worldwidebro-company-registry",
+        "full_name": "Worldwidebro/worldwidebro-company-registry",
+        "score": 2,
+        "language": "none",
+        "description": "Canonical company/venture/repository/capability/platform/decision registry for the Worldwidebro port",
+        "capabilities": [
+          "CLI/Dev Tools",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Governance/Compliance",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "ec-112-cosmic-kitty",
+        "full_name": "Worldwidebro/ec-112-cosmic-kitty",
+        "score": 2,
+        "language": "HTML",
+        "description": "EC-112 \u2014 Cosmic Kitty: BDSM-focused luxury adult wellness e-commerce (Medusa backend + custom storef",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "E-commerce"
+        ]
+      }
+    ]
+  },
+  "specialized": {
+    "needed_capabilities": [
+      "AI/LLM/GenAI",
+      "Multimodal (Vision/Audio)",
+      "API/Backend Infrastructure"
+    ],
+    "total_matches": 44,
+    "top_10": [
+      {
+        "name": "civilization-os",
+        "full_name": "Worldwidebro/civilization-os",
+        "score": 2,
+        "language": "TypeScript",
+        "description": "\ud83c\udf0d Civilization OS - Master orchestrator for the entire IZA-OS ecosystem, managing 101 genius folders",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure"
+        ]
+      },
+      {
+        "name": "nexus-ai-enterprise-platform",
+        "full_name": "Worldwidebro/nexus-ai-enterprise-platform",
+        "score": 2,
+        "language": "Python",
+        "description": "Production-ready enterprise AI platform integrating ROMA hierarchical agents, Dria distributed netwo",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "API/Backend Infrastructure",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Cloud/Serverless",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Community/Platform"
+        ]
+      },
+      {
+        "name": "worldwidebro-os-knowledge-graph",
+        "full_name": "Worldwidebro/worldwidebro-os-knowledge-graph",
+        "score": 2,
+        "language": "Python",
+        "description": "Iza OS scaffold \u2014 the source of truth for all machines, MCP servers, agents, ventures, and skills",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "API/Backend Infrastructure",
+          "CLI/Dev Tools",
+          "DevOps/Infrastructure",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "ec-112-cosmic-kitty",
+        "full_name": "Worldwidebro/ec-112-cosmic-kitty",
+        "score": 1,
+        "language": "HTML",
+        "description": "EC-112 \u2014 Cosmic Kitty: BDSM-focused luxury adult wellness e-commerce (Medusa backend + custom storef",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "E-commerce"
+        ]
+      },
+      {
+        "name": "_master-governance",
+        "full_name": "Worldwidebro/_master-governance",
+        "score": 1,
+        "language": "none",
+        "description": "Civilization OS \u2014 Chairman's Handbook, master CLAUDE.md, agent architecture, shared governance for a",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Open Knowledge/Wiki",
+          "Governance/Compliance"
+        ]
+      },
+      {
+        "name": "worldwidebro-os-infrastructure",
+        "full_name": "Worldwidebro/worldwidebro-os-infrastructure",
+        "score": 1,
+        "language": "Python",
+        "description": "Civilization OS infrastructure \u2014 scripts, configs, Docker stack, AOC, DeerFlow skills, agent workflo",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "CLI/Dev Tools",
+          "DevOps/Infrastructure",
+          "Documentation/Docs",
+          "Workflow/Orchestration",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "hermes-agent-command-center",
+        "full_name": "Worldwidebro/hermes-agent-command-center",
+        "score": 1,
+        "language": "HTML",
+        "description": "Hermes Agent Command Center \u2014 dark-mode ops dashboard for an AI-agent organization (agents, tasks, d",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "Frontend/UI Frameworks",
+          "DevOps/Infrastructure"
+        ]
+      },
+      {
+        "name": "agency-agents",
+        "full_name": "Worldwidebro/agency-agents",
+        "score": 1,
+        "language": "Shell",
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "Frontend/UI Frameworks",
+          "Community/Platform"
+        ]
+      },
+      {
+        "name": "avatar-engine",
+        "full_name": "Worldwidebro/avatar-engine",
+        "score": 1,
+        "language": "Python",
+        "description": "Glue layer for talking-avatar generation: FastAPI + Redis queue + ComfyUI worker. Engine-agnostic (L",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "Database/Storage"
+        ]
+      },
+      {
+        "name": "deliv-713-roadrunner-cannabis",
+        "full_name": "Worldwidebro/deliv-713-roadrunner-cannabis",
+        "score": 1,
+        "language": "Python",
+        "description": "Roadrunner Cannabis Delivery Platform - DELIV-713 Venture | Customer shop, driver delivery app, admi",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "E-commerce",
+          "Logistics/Transport",
+          "Venture Creation/Studio"
+        ]
+      }
+    ]
+  },
+  "operations": {
+    "needed_capabilities": [
+      "AI/LLM/GenAI",
+      "DevOps/CI/CD",
+      "Workflow/Orchestration",
+      "API/Backend Infrastructure",
+      "CLI/Dev Tools",
+      "Database/Storage"
+    ],
+    "total_matches": 160,
+    "top_10": [
+      {
+        "name": "worldwidebro-os-infrastructure",
+        "full_name": "Worldwidebro/worldwidebro-os-infrastructure",
+        "score": 3,
+        "language": "Python",
+        "description": "Civilization OS infrastructure \u2014 scripts, configs, Docker stack, AOC, DeerFlow skills, agent workflo",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "CLI/Dev Tools",
+          "DevOps/Infrastructure",
+          "Documentation/Docs",
+          "Workflow/Orchestration",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "nexus-ai-enterprise-platform",
+        "full_name": "Worldwidebro/nexus-ai-enterprise-platform",
+        "score": 3,
+        "language": "Python",
+        "description": "Production-ready enterprise AI platform integrating ROMA hierarchical agents, Dria distributed netwo",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "API/Backend Infrastructure",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Cloud/Serverless",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Community/Platform"
+        ]
+      },
+      {
+        "name": "worldwidebro-os-knowledge-graph",
+        "full_name": "Worldwidebro/worldwidebro-os-knowledge-graph",
+        "score": 3,
+        "language": "Python",
+        "description": "Iza OS scaffold \u2014 the source of truth for all machines, MCP servers, agents, ventures, and skills",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "API/Backend Infrastructure",
+          "CLI/Dev Tools",
+          "DevOps/Infrastructure",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "capital-orchestrator",
+        "full_name": "Worldwidebro/capital-orchestrator",
+        "score": 3,
+        "language": "TypeScript",
+        "description": "Capital allocation and orchestration platform",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Workflow/Orchestration"
+        ]
+      },
+      {
+        "name": "worldwidebro-company-registry",
+        "full_name": "Worldwidebro/worldwidebro-company-registry",
+        "score": 2,
+        "language": "none",
+        "description": "Canonical company/venture/repository/capability/platform/decision registry for the Worldwidebro port",
+        "capabilities": [
+          "CLI/Dev Tools",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Governance/Compliance",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "_master-governance",
+        "full_name": "Worldwidebro/_master-governance",
+        "score": 2,
+        "language": "none",
+        "description": "Civilization OS \u2014 Chairman's Handbook, master CLAUDE.md, agent architecture, shared governance for a",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Open Knowledge/Wiki",
+          "Governance/Compliance"
+        ]
+      },
+      {
+        "name": "civilization-os",
+        "full_name": "Worldwidebro/civilization-os",
+        "score": 2,
+        "language": "TypeScript",
+        "description": "\ud83c\udf0d Civilization OS - Master orchestrator for the entire IZA-OS ecosystem, managing 101 genius folders",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure"
+        ]
+      },
+      {
+        "name": "avatar-engine",
+        "full_name": "Worldwidebro/avatar-engine",
+        "score": 2,
+        "language": "Python",
+        "description": "Glue layer for talking-avatar generation: FastAPI + Redis queue + ComfyUI worker. Engine-agnostic (L",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "Database/Storage"
+        ]
+      },
+      {
+        "name": "worldwidebro-finance-os",
+        "full_name": "Worldwidebro/worldwidebro-finance-os",
+        "score": 2,
+        "language": "Python",
+        "description": "\ud83c\udfe6 Unified Financial Services Platform - Forecasting, Advisory, Compliance, Analytics, Investment Man",
+        "capabilities": [
+          "CLI/Dev Tools",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Finance/Fintech",
+          "Governance/Compliance"
+        ]
+      },
+      {
+        "name": "deliv-713-roadrunner-cannabis",
+        "full_name": "Worldwidebro/deliv-713-roadrunner-cannabis",
+        "score": 2,
+        "language": "Python",
+        "description": "Roadrunner Cannabis Delivery Platform - DELIV-713 Venture | Customer shop, driver delivery app, admi",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "E-commerce",
+          "Logistics/Transport",
+          "Venture Creation/Studio"
+        ]
+      }
+    ]
+  },
+  "emerging": {
+    "needed_capabilities": [
+      "AI/LLM/GenAI",
+      "Agent Frameworks",
+      "Model Fine-tuning",
+      "RAG/Vector DB",
+      "Multimodal (Vision/Audio)"
+    ],
+    "total_matches": 39,
+    "top_10": [
+      {
+        "name": "_master-governance",
+        "full_name": "Worldwidebro/_master-governance",
+        "score": 2,
+        "language": "none",
+        "description": "Civilization OS \u2014 Chairman's Handbook, master CLAUDE.md, agent architecture, shared governance for a",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Open Knowledge/Wiki",
+          "Governance/Compliance"
+        ]
+      },
+      {
+        "name": "civilization-os",
+        "full_name": "Worldwidebro/civilization-os",
+        "score": 2,
+        "language": "TypeScript",
+        "description": "\ud83c\udf0d Civilization OS - Master orchestrator for the entire IZA-OS ecosystem, managing 101 genius folders",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure"
+        ]
+      },
+      {
+        "name": "worldwidebro-os-infrastructure",
+        "full_name": "Worldwidebro/worldwidebro-os-infrastructure",
+        "score": 2,
+        "language": "Python",
+        "description": "Civilization OS infrastructure \u2014 scripts, configs, Docker stack, AOC, DeerFlow skills, agent workflo",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "CLI/Dev Tools",
+          "DevOps/Infrastructure",
+          "Documentation/Docs",
+          "Workflow/Orchestration",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "hermes-agent-command-center",
+        "full_name": "Worldwidebro/hermes-agent-command-center",
+        "score": 2,
+        "language": "HTML",
+        "description": "Hermes Agent Command Center \u2014 dark-mode ops dashboard for an AI-agent organization (agents, tasks, d",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "Frontend/UI Frameworks",
+          "DevOps/Infrastructure"
+        ]
+      },
+      {
+        "name": "agency-agents",
+        "full_name": "Worldwidebro/agency-agents",
+        "score": 2,
+        "language": "Shell",
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "Frontend/UI Frameworks",
+          "Community/Platform"
+        ]
+      },
+      {
+        "name": "nexus-ai-enterprise-platform",
+        "full_name": "Worldwidebro/nexus-ai-enterprise-platform",
+        "score": 2,
+        "language": "Python",
+        "description": "Production-ready enterprise AI platform integrating ROMA hierarchical agents, Dria distributed netwo",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "API/Backend Infrastructure",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Cloud/Serverless",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Community/Platform"
+        ]
+      },
+      {
+        "name": "ai-001-ai-command-center",
+        "full_name": "Worldwidebro/ai-001-ai-command-center",
+        "score": 2,
+        "language": "Python",
+        "description": "OpenClaw orchestration dashboard with AI agent management - Part of Civilization OS venture ecosyste",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "Frontend/UI Frameworks",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Workflow/Orchestration",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "ops-staff-001-staffing",
+        "full_name": "Worldwidebro/ops-staff-001-staffing",
+        "score": 2,
+        "language": "HTML",
+        "description": "Civilization OS: Staffing + HR + AI agent deployment for 749 ventures (human + AI workers, payroll)",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "Frontend/UI Frameworks",
+          "DevOps/Infrastructure",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "worldwidebro-os-knowledge-graph",
+        "full_name": "Worldwidebro/worldwidebro-os-knowledge-graph",
+        "score": 2,
+        "language": "Python",
+        "description": "Iza OS scaffold \u2014 the source of truth for all machines, MCP servers, agents, ventures, and skills",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "API/Backend Infrastructure",
+          "CLI/Dev Tools",
+          "DevOps/Infrastructure",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "sovereign-life",
+        "full_name": "Worldwidebro/sovereign-life",
+        "score": 2,
+        "language": "Python",
+        "description": "Sovereign Life - Complete system organization and agentic ecosystem",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks"
+        ]
+      }
+    ]
+  },
+  "construction": {
+    "needed_capabilities": [
+      "AI/LLM/GenAI",
+      "API/Backend Infrastructure",
+      "Database/Storage",
+      "Frontend/UI Frameworks",
+      "Construction"
+    ],
+    "total_matches": 256,
+    "top_10": [
+      {
+        "name": "civilization-os",
+        "full_name": "Worldwidebro/civilization-os",
+        "score": 3,
+        "language": "TypeScript",
+        "description": "\ud83c\udf0d Civilization OS - Master orchestrator for the entire IZA-OS ecosystem, managing 101 genius folders",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure"
+        ]
+      },
+      {
+        "name": "avatar-engine",
+        "full_name": "Worldwidebro/avatar-engine",
+        "score": 3,
+        "language": "Python",
+        "description": "Glue layer for talking-avatar generation: FastAPI + Redis queue + ComfyUI worker. Engine-agnostic (L",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "Database/Storage"
+        ]
+      },
+      {
+        "name": "deliv-713-roadrunner-cannabis",
+        "full_name": "Worldwidebro/deliv-713-roadrunner-cannabis",
+        "score": 3,
+        "language": "Python",
+        "description": "Roadrunner Cannabis Delivery Platform - DELIV-713 Venture | Customer shop, driver delivery app, admi",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "E-commerce",
+          "Logistics/Transport",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "nexus-ai-enterprise-platform",
+        "full_name": "Worldwidebro/nexus-ai-enterprise-platform",
+        "score": 3,
+        "language": "Python",
+        "description": "Production-ready enterprise AI platform integrating ROMA hierarchical agents, Dria distributed netwo",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "API/Backend Infrastructure",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Cloud/Serverless",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Community/Platform"
+        ]
+      },
+      {
+        "name": "shared-kernels",
+        "full_name": "Worldwidebro/shared-kernels",
+        "score": 3,
+        "language": "none",
+        "description": "Civilization OS shared modules \u2014 intake forms, Stripe, auth, Supabase schema, dispatch logic. Every ",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Payments/Billing",
+          "Logistics/Transport",
+          "Construction",
+          "Governance/Compliance",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "tech-025-machine-learning-builder",
+        "full_name": "Worldwidebro/tech-025-machine-learning-builder",
+        "score": 3,
+        "language": "none",
+        "description": "Tech 025 Machine Learning Builder - Part of Civilization OS venture ecosystem",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Frontend/UI Frameworks",
+          "Education/Learning",
+          "Construction",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "tech-057-machine-learning-builder",
+        "full_name": "Worldwidebro/tech-057-machine-learning-builder",
+        "score": 3,
+        "language": "none",
+        "description": "Tech 057 Machine Learning Builder - Part of Civilization OS venture ecosystem",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Frontend/UI Frameworks",
+          "Education/Learning",
+          "Construction",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "et-003-platform",
+        "full_name": "Worldwidebro/et-003-platform",
+        "score": 3,
+        "language": "none",
+        "description": "Monorepo for the main SkillForge learning platform (frontend/backend).",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Education/Learning"
+        ]
+      },
+      {
+        "name": "capital-orchestrator",
+        "full_name": "Worldwidebro/capital-orchestrator",
+        "score": 3,
+        "language": "TypeScript",
+        "description": "Capital allocation and orchestration platform",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Workflow/Orchestration"
+        ]
+      },
+      {
+        "name": "ec-112-cosmic-kitty",
+        "full_name": "Worldwidebro/ec-112-cosmic-kitty",
+        "score": 2,
+        "language": "HTML",
+        "description": "EC-112 \u2014 Cosmic Kitty: BDSM-focused luxury adult wellness e-commerce (Medusa backend + custom storef",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "E-commerce"
+        ]
+      }
+    ]
+  },
+  "real-estate": {
+    "needed_capabilities": [
+      "AI/LLM/GenAI",
+      "Frontend/UI Frameworks",
+      "API/Backend Infrastructure",
+      "Database/Storage",
+      "Real Estate"
+    ],
+    "total_matches": 256,
+    "top_10": [
+      {
+        "name": "civilization-os",
+        "full_name": "Worldwidebro/civilization-os",
+        "score": 3,
+        "language": "TypeScript",
+        "description": "\ud83c\udf0d Civilization OS - Master orchestrator for the entire IZA-OS ecosystem, managing 101 genius folders",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure"
+        ]
+      },
+      {
+        "name": "avatar-engine",
+        "full_name": "Worldwidebro/avatar-engine",
+        "score": 3,
+        "language": "Python",
+        "description": "Glue layer for talking-avatar generation: FastAPI + Redis queue + ComfyUI worker. Engine-agnostic (L",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "Database/Storage"
+        ]
+      },
+      {
+        "name": "deliv-713-roadrunner-cannabis",
+        "full_name": "Worldwidebro/deliv-713-roadrunner-cannabis",
+        "score": 3,
+        "language": "Python",
+        "description": "Roadrunner Cannabis Delivery Platform - DELIV-713 Venture | Customer shop, driver delivery app, admi",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "E-commerce",
+          "Logistics/Transport",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "nexus-ai-enterprise-platform",
+        "full_name": "Worldwidebro/nexus-ai-enterprise-platform",
+        "score": 3,
+        "language": "Python",
+        "description": "Production-ready enterprise AI platform integrating ROMA hierarchical agents, Dria distributed netwo",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "API/Backend Infrastructure",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Cloud/Serverless",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Community/Platform"
+        ]
+      },
+      {
+        "name": "et-003-platform",
+        "full_name": "Worldwidebro/et-003-platform",
+        "score": 3,
+        "language": "none",
+        "description": "Monorepo for the main SkillForge learning platform (frontend/backend).",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Education/Learning"
+        ]
+      },
+      {
+        "name": "re-002-os-property-management",
+        "full_name": "Worldwidebro/re-002-os-property-management",
+        "score": 3,
+        "language": "TypeScript",
+        "description": "Real estate operations platform for billionaire consciousness empire",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Real Estate"
+        ]
+      },
+      {
+        "name": "capital-orchestrator",
+        "full_name": "Worldwidebro/capital-orchestrator",
+        "score": 3,
+        "language": "TypeScript",
+        "description": "Capital allocation and orchestration platform",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Workflow/Orchestration"
+        ]
+      },
+      {
+        "name": "ec-112-cosmic-kitty",
+        "full_name": "Worldwidebro/ec-112-cosmic-kitty",
+        "score": 2,
+        "language": "HTML",
+        "description": "EC-112 \u2014 Cosmic Kitty: BDSM-focused luxury adult wellness e-commerce (Medusa backend + custom storef",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "E-commerce"
+        ]
+      },
+      {
+        "name": "_master-governance",
+        "full_name": "Worldwidebro/_master-governance",
+        "score": 2,
+        "language": "none",
+        "description": "Civilization OS \u2014 Chairman's Handbook, master CLAUDE.md, agent architecture, shared governance for a",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Open Knowledge/Wiki",
+          "Governance/Compliance"
+        ]
+      },
+      {
+        "name": "hermes-agent-command-center",
+        "full_name": "Worldwidebro/hermes-agent-command-center",
+        "score": 2,
+        "language": "HTML",
+        "description": "Hermes Agent Command Center \u2014 dark-mode ops dashboard for an AI-agent organization (agents, tasks, d",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "Frontend/UI Frameworks",
+          "DevOps/Infrastructure"
+        ]
+      }
+    ]
+  },
+  "technology": {
+    "needed_capabilities": [
+      "AI/LLM/GenAI",
+      "Agent Frameworks",
+      "API/Backend Infrastructure",
+      "Cloud/Serverless",
+      "DevOps/CI/CD",
+      "Database/Storage"
+    ],
+    "total_matches": 119,
+    "top_10": [
+      {
+        "name": "nexus-ai-enterprise-platform",
+        "full_name": "Worldwidebro/nexus-ai-enterprise-platform",
+        "score": 5,
+        "language": "Python",
+        "description": "Production-ready enterprise AI platform integrating ROMA hierarchical agents, Dria distributed netwo",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "API/Backend Infrastructure",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Cloud/Serverless",
+          "Database/Storage",
+          "Observability/Monitoring",
+          "Security",
+          "Community/Platform"
+        ]
+      },
+      {
+        "name": "_master-governance",
+        "full_name": "Worldwidebro/_master-governance",
+        "score": 3,
+        "language": "none",
+        "description": "Civilization OS \u2014 Chairman's Handbook, master CLAUDE.md, agent architecture, shared governance for a",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "Open Knowledge/Wiki",
+          "Governance/Compliance"
+        ]
+      },
+      {
+        "name": "civilization-os",
+        "full_name": "Worldwidebro/civilization-os",
+        "score": 3,
+        "language": "TypeScript",
+        "description": "\ud83c\udf0d Civilization OS - Master orchestrator for the entire IZA-OS ecosystem, managing 101 genius folders",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure"
+        ]
+      },
+      {
+        "name": "worldwidebro-os-knowledge-graph",
+        "full_name": "Worldwidebro/worldwidebro-os-knowledge-graph",
+        "score": 3,
+        "language": "Python",
+        "description": "Iza OS scaffold \u2014 the source of truth for all machines, MCP servers, agents, ventures, and skills",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "MCP",
+          "API/Backend Infrastructure",
+          "CLI/Dev Tools",
+          "DevOps/Infrastructure",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "worldwidebro-os-infrastructure",
+        "full_name": "Worldwidebro/worldwidebro-os-infrastructure",
+        "score": 2,
+        "language": "Python",
+        "description": "Civilization OS infrastructure \u2014 scripts, configs, Docker stack, AOC, DeerFlow skills, agent workflo",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "CLI/Dev Tools",
+          "DevOps/Infrastructure",
+          "Documentation/Docs",
+          "Workflow/Orchestration",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "hermes-agent-command-center",
+        "full_name": "Worldwidebro/hermes-agent-command-center",
+        "score": 2,
+        "language": "HTML",
+        "description": "Hermes Agent Command Center \u2014 dark-mode ops dashboard for an AI-agent organization (agents, tasks, d",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "Frontend/UI Frameworks",
+          "DevOps/Infrastructure"
+        ]
+      },
+      {
+        "name": "agency-agents",
+        "full_name": "Worldwidebro/agency-agents",
+        "score": 2,
+        "language": "Shell",
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "Frontend/UI Frameworks",
+          "Community/Platform"
+        ]
+      },
+      {
+        "name": "avatar-engine",
+        "full_name": "Worldwidebro/avatar-engine",
+        "score": 2,
+        "language": "Python",
+        "description": "Glue layer for talking-avatar generation: FastAPI + Redis queue + ComfyUI worker. Engine-agnostic (L",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "Database/Storage"
+        ]
+      },
+      {
+        "name": "deliv-713-roadrunner-cannabis",
+        "full_name": "Worldwidebro/deliv-713-roadrunner-cannabis",
+        "score": 2,
+        "language": "Python",
+        "description": "Roadrunner Cannabis Delivery Platform - DELIV-713 Venture | Customer shop, driver delivery app, admi",
+        "capabilities": [
+          "Frontend/UI Frameworks",
+          "API/Backend Infrastructure",
+          "DevOps/Infrastructure",
+          "Database/Storage",
+          "E-commerce",
+          "Logistics/Transport",
+          "Venture Creation/Studio"
+        ]
+      },
+      {
+        "name": "ai-001-ai-command-center",
+        "full_name": "Worldwidebro/ai-001-ai-command-center",
+        "score": 2,
+        "language": "Python",
+        "description": "OpenClaw orchestration dashboard with AI agent management - Part of Civilization OS venture ecosyste",
+        "capabilities": [
+          "AI/LLM/GenAI",
+          "Agent Frameworks",
+          "Frontend/UI Frameworks",
+          "SDK/Library",
+          "DevOps/Infrastructure",
+          "Workflow/Orchestration",
+          "Venture Creation/Studio"
+        ]
+      }
+    ]
+  }
+}
