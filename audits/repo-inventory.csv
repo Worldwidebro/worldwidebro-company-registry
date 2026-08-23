@@ -1,4 +1,7 @@
 repo_id,full_name,language,type,status,last_activity,production_url
-venture-hub,Worldwidebro/venture-hub,python,Application,Active,2026-08-22,
-dispatch-platform,Worldwidebro/dispatch-platform,python,Application,Active,2026-08-22,
-vex-hero-site,Worldwidebro/vex-hero-site,javascript,Application,Active,2026-08-22,https://vex-hero-site.vercel.app
+venture-hub,Worldwidebro/venture-hub,typescript,Application,Active,2026-08-01,
+dispatch-platform,Worldwidebro/dispatch-platform,python,Application,Active,,
+lt-011-dispatch-software,Worldwidebro/lt-011-dispatch-software,unknown,Application,Active,2026-08-19,https://lt-011-dispatch-software-38u4agv46-worldwidebros-projects.vercel.app
+lt-005-medical-courier-dispatch,Worldwidebro/lt-005-medical-courier-dispatch,unknown,Application,Active,2026-08-14,https://lt-005-medical-courier-dispatch-56aufruu9.vercel.app
+con-001-ace-construction,Worldwidebro/con-001-ace-construction,react,Application,Active,2026-08-19,https://con-001-ace-construction-nfh5swwa4-worldwidebros-projects.vercel.app
+vex-hero-site,Worldwidebro/vex-hero-site,javascript,Application,Active,2026-08-20,https://vex-hero-site-cnw4rprcq-worldwidebros-projects.vercel.app
