@@ -1,0 +1,68 @@
+id: LT-005-PROD-READY
+name: LT-005 Medical Courier Dispatch Production-Ready Verification
+objective: "Verify LT-005 Medical Courier Dispatch is production-ready: venture in registry, repo on GitHub, deployed on Vercel, funding readiness computed, capital flow graph node exists, business taxonomy covers logistics-transport"
+owner: Hermes Agent
+inputs:
+  - registry/ventures.yaml
+  - registry/repositories.yaml
+  - vercel_deployments.csv
+  - registry/funding-readiness-defaults.yaml
+  - registry/capital-flow-graph-seed.yaml
+  - schemas/business-taxonomy.json
+dependencies:
+  - gh CLI authenticated as Worldwidebro
+  - Python 3 with yaml, json, csv
+  - registry files committed to disk
+actions:
+  - id: LT-005-PROD-READY-action-1
+    type: check
+    description: Verify LT-005 exists in registry/ventures.yaml
+    success_when: "venture found with id containing LT-005"
+  - id: LT-005-PROD-READY-action-2
+    type: check
+    description: Extract LT-005 venture record and verify fields
+    success_when: "record has name, sector, status, Vercel URL"
+  - id: LT-005-PROD-READY-action-3
+    type: check
+    description: Verify vercel_deployments.csv exists and has LT-005 rows
+    success_when: "file exists and has rows with lt-005 in project"
+  - id: LT-005-PROD-READY-action-4
+    type: check
+    description: Find LT-005 Vercel deployments with READY state
+    success_when: "at least one READY deployment found"
+  - id: LT-005-PROD-READY-action-5
+    type: check
+    description: Verify registry/repositories.yaml exists
+    success_when: "file exists"
+  - id: LT-005-PROD-READY-action-6
+    type: check
+    description: Find LT-005 repository record
+    success_when: "repo found with id containing lt-005"
+  - id: LT-005-PROD-READY-action-7
+    type: terminal
+    description: Check LT-005 GitHub repo via gh CLI
+    command: "gh repo view Worldwidebro/lt-005-medical-courier-dispatch --json name,description,isPrivate,isArchived,createdAt,pushedAt,primaryLanguage"
+    success_when: "exit code 0"
+  - id: LT-005-PROD-READY-action-8
+    type: check
+    description: Verify LT-005 funding readiness computed
+    success_when: "venture found in funding-readiness-defaults.yaml"
+  - id: LT-005-PROD-READY-action-9
+    type: check
+    description: Verify LT-005 node in capital flow graph seed
+    success_when: "node found with id containing LT-005"
+  - id: LT-005-PROD-READY-action-10
+    type: check
+    description: Verify business taxonomy covers logistics-transport
+    success_when: "file exists with logistics-transport macro_sector"
+acceptance_criteria:
+  - LT-005 exists in registry/ventures.yaml with name, sector, status, Vercel URL
+  - LT-005 has a Vercel production URL that is READY
+  - LT-005 repository exists on GitHub under Worldwidebro/
+  - LT-005 funding readiness is computed in funding-readiness-defaults.yaml
+  - LT-005 has a node in the capital flow graph seed
+  - business taxonomy has logistics-transport subsectors available
+  - LT-005 repo is accessible via gh CLI
+status: queued
+evidence: []
+result: null
