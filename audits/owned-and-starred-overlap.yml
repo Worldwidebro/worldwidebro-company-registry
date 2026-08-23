@@ -1,3 +1,8 @@
-generated_at: '2026-08-22'
-count: 0
-repositories: []
+- slug: agency-agents
+  full_name: Worldwidebro/agency-agents
+  language: Shell
+  description: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+- slug: career-ops
+  full_name: Worldwidebro/career-ops
+  language: JavaScript
+  description: Personal fork of career-ops job-search pipeline (+ pay enrichment & filterable explorer)

@@ -1,1505 +1,3009 @@
-- id: ai-ml
-  name: AI / ML Models
-  description: Repositories whose name/description/language match the 'AI / ML Models' keyword set (heuristic, not code-audited).
+- id: ai-agents
+  name: AI Agents
+  description: AI & Agents → Agent Infrastructure → AI Agents
   category: AI
   owners: []
   repositories:
-  - 500-ai-agents-projects
-  - _master-governance
-  - a-curated-list-of-ml-system-design-case-studies
-  - ace-ecommerce-templates
-  - agency-agents
-  - ai-001-ai-command-center
-  - ai-002-api
-  - ai-002-ml-engine
-  - ai-002-web-app
-  - ai-agents-for-beginners
-  - ai-boss-holdings-v4
-  - ai-business-commander
-  - ai-dev-tasks
-  - ai-devkit
-  - ai-engineering-from-scratch
-  - ai-engineering-hub
-  - ai-for-grant-writing
-  - ai-hedge-fund
-  - ai-job-search
-  - ai-trader
-  - ai-venture-studio-template
-  - ai-website-cloner-template
-  - ai_agents_az
-  - aibossoslandingpage
-  - anthropic-cybersecurity-skills
-  - awesome-ai-agents
-  - awesome-ai-apps
-  - awesome-ai-hacking-agents
-  - awesome-claude-agents
-  - awesome-claude-code
-  - awesome-claude-skills
-  - awesome-llm-apps
-  - awesome-local-llm
-  - billionaire-brain-assistant
-  - business-template-marketplace
-  - bw-001-up-next-code
-  - bw-020-ai-nail-design-generator
-  - bw-033-ai-hairstyle-simulator
-  - call-center-ai
-  - civilization-os
-  - cl1_llm_encoder
-  - claude-ads
-  - claude-code
-  - claude-code-action
-  - claude-code-best-practice
-  - claude-code-cookbook
-  - claude-code-everything-you-need-to-know
-  - claude-code-game-studios
-  - claude-code-remote
-  - claude-code-router
-  - claude-code-source
-  - claude-code-telegram
-  - claude-code-templates
-  - claude-code-tips
-  - claude-code-voice-skill
-  - claude-cookbooks
-  - claude-howto
-  - claude-hud
-  - claude-in-mobile
-  - claude-mem
-  - claude-osint
-  - claude-plugins-official
-  - claude-quickstarts
-  - claude-seo
-  - claude-skills
-  - claude-squad
-  - claude-trading-skills
-  - claude-video
-  - claude-workflow-demo
-  - collection-claude-code-source-code
-  - comm-005-ace-food-security-ai
-  - comm-006-community-technology-access-ai
-  - comm-007-youth-leadership-ai
-  - comm-008-community-fundraising-ai
-  - comm-009-volunteer-hub-ai
-  - comm-010-disaster-relief-ai
-  - comm-012-black-art-museum-ai
-  - comm-014-veterans-support-ai
-  - comm-016-community-health-ai
-  - comm-018-neighborhood-watch-ai
-  - comm-019-community-garden-ai
-  - comm-020-public-transportation-ai
-  - comm-021-housing-assistance-ai
-  - comm-023-elder-companion-ai
-  - comm-024-youth-sports-ai
-  - comm-026-public-education-ai
-  - comm-027-local-government-ai
-  - comm-028-public-safety-ai
-  - comm-029-community-wellness-ai
-  - comm-030-cultural-exchange-ai
-  - comm-031-community-investment-ai
-  - comm-032-public-health-ai
-  - comm-035-community-arts-ai
-  - comm-036-public-infrastructure-ai
-  - comm-037-neighborhood-development-ai
-  - comm-038-community-policing-ai
-  - comm-039-public-space-ai
-  - comm-040-community-recycling-ai
-  - comm-041-public-wi-fi-ai
-  - comm-042-community-energy-ai
-  - comm-043-local-food-network-ai
-  - comm-044-community-volunteering-ai
-  - comm-045-public-childcare-ai
-  - comm-046-community-pet-care-ai
-  - comm-047-public-fitness-ai
-  - comm-048-community-transportation-ai
-  - comm-049-public-event-ai
-  - comm-050-community-cultural-ai
-  - deep-dive-claude-code
-  - ec-005-sunglasses-ai
-  - ec-007-personal-shopper-ai
-  - ec-008-custom-sneaker-ai
-  - ec-009-sustainable-fashion-ai
-  - ec-010-jewelry-designer-ai
-  - ec-011-virtual-try-on-ai
-  - ec-012-fashion-designer-ai
-  - ec-014-subscription-box-ai
-  - ec-015-surf-gear-ai
-  - ec-016-ski-gear-ai
-  - ec-017-golf-gear-ai
-  - ec-018-fishing-gear-ai
-  - ec-019-yoga-gear-ai
-  - ec-020-costume-shop-ai
-  - ec-021-luggage-ai
-  - ec-022-home-appliance-ai
-  - ec-023-tool-shop-ai
-  - ec-024-garden-supply-ai
-  - ec-025-collectible-ai
-  - ec-026-hobby-shop-ai
-  - ec-030-ai-product-photographer
-  - ec-033-ad-optimizer-ai
-  - ec-035-review-aggregator-ai
-  - ec-036-fulfillment-network-ai
-  - ec-037-return-optimization-ai
-  - ec-039-visual-search-ai
-  - ec-048-wholesale-marketplace-ai
-  - ec-050-ai-product-descriptions
-  - ec-051-ai-email-marketing
-  - ec-052-ai-product-bundler
-  - ec-053-ai-visual-merchandiser
-  - ec-054-ai-demand-forecasting
-  - ec-055-ai-warehouse-management
-  - ec-056-ai-supplier-matching
-  - ec-057-ai-quality-control
-  - ec-058-ai-packaging-designer
-  - ec-059-ai-logistics-planner
-  - ec-060-ai-customer-loyalty
-  - ec-061-ai-gift-finder
-  - ec-062-ai-trend-hunter
-  - ec-063-ai-market-research
-  - ec-064-ai-competitor-watcher
-  - ec-065-ai-product-development
-  - ec-066-ai-customer-journey
-  - ec-067-ai-payment-optimization
-  - ec-068-ai-returns-management
-  - ec-069-ai-shipping-labeler
-  - ec-070-ai-product-launch-coach
-  - ec-071-ai-vendor-negotiator
-  - ec-072-ai-product-cataloger
-  - ec-073-ai-order-prioritizer
-  - ec-074-ai-customer-segmentation
-  - ec-075-ai-pricing-analyst
-  - ec-076-ai-sales-forecasting
-  - ec-077-ai-inventory-reordering
-  - ec-078-ai-product-comparison
-  - ec-079-ai-customer-feedback
-  - ec-080-ai-product-updates
-  - ec-081-ai-cross-selling
-  - ec-082-ai-up-selling
-  - ec-083-ai-product-education
-  - ec-084-ai-purchase-timing
-  - ec-085-ai-customer-support
-  - ec-086-ai-order-tracking
-  - ec-087-ai-product-reviews
-  - ec-088-ai-customer-community
-  - ec-089-ai-product-customization
-  - ec-090-ai-gift-registry
-  - ec-091-ai-wedding-registry
-  - ec-092-ai-baby-registry
-  - ec-093-ai-holiday-planner
-  - ec-094-ai-personal-shopper
-  - ec-095-ai-color-match
-  - ec-096-ai-fabric-advisor
-  - ec-097-ai-fit-recommendation
-  - ec-098-ai-outfit-builder
-  - ec-099-ai-seasonal-forecast
-  - ec-100-ai-wardrobe-planner
-  - ec-101-ai-accessory-match
-  - ec-102-ai-shoe-match
-  - ec-103-ai-jewelry-match
-  - ec-104-ai-bag-match
-  - ec-105-ai-color-palette
-  - ec-106-ai-outfit-recycling
-  - ec-107-ai-style-evolution
-  - ec-108-ai-budget-stylist
-  - ec-109-ai-trend-archive
-  - ec-110-ai-vintage-advisor
-  - edu-002-ai-literacy-program
-  - edu-006-homeschooling-content-ai
-  - edu-007-ai-tutoring-platform
-  - edu-015-ai-legal-doc-generator
-  - edu-017-ai-coding-tutor
-  - edu-022-ai-research-assistant
-  - edu-024-language-learning-ai
-  - edu-025-test-preparation-ai
-  - edu-026-corporate-training-ai
-  - edu-027-medical-education-ai
-  - edu-028-legal-education-ai
-  - edu-029-music-education-ai
-  - edu-030-art-education-ai
-  - edu-031-physical-education-ai
-  - edu-032-environmental-education-ai
-  - edu-033-social-studies-ai
-  - edu-034-math-education-ai
-  - edu-035-science-education-ai
-  - edu-036-reading-comprehension-ai
-  - edu-037-writing-instruction-ai
-  - edu-038-critical-thinking-ai
-  - edu-039-emotional-intelligence-ai
-  - edu-040-time-management-ai
-  - em-001-space-habitat-ai
-  - em-002-fusion-energy-ai
-  - em-003-teleportation-research-ai
-  - em-004-climate-solutions-ai
-  - em-005-holographic-events-ai
-  - em-006-neurofeedback-ai
-  - em-007-autonomous-delivery-ai
-  - em-008-gene-editing-ai
-  - em-009-space-tourism-ai
-  - em-010-wearables-ai
-  - em-011-metaverse-hub-ai
-  - em-012-energy-grid-ai
-  - em-014-ocean-cleanup-ai
-  - em-015-crypto-trading-ai
-  - em-016-synthetic-media-ai
-  - em-017-space-mining-ai
-  - em-018-vr-therapy-ai
-  - em-019-weather-prediction-ai
-  - em-020-autonomous-farming-ai
-  - em-021-traffic-optimizer-ai
-  - em-022-smart-grid-ai
-  - em-023-disaster-prediction-ai
-  - em-024-nanotech-ai
-  - em-025-personalized-medicine-ai
-  - em-026-ai-diagnostic-lab
-  - em-027-sustainable-cities-ai
-  - em-028-renewable-energy-ai
-  - em-029-climate-modeling-ai
-  - em-030-policy-advisor-ai
-  - em-031-governance-hub-ai
-  - em-032-global-challenges-ai
-  - em-033-space-exploration-ai
-  - em-034-education-equity-ai
-  - em-035-health-equity-ai
-  - em-036-economic-equity-ai
-  - em-037-environmental-justice-ai
-  - em-038-human-rights-ai
-  - em-039-peacebuilding-ai
-  - em-040-telemedicine-ai
-  - em-041-ai-climate-adaptation
-  - em-042-space-agriculture-ai
-  - em-043-quantum-communication-ai
-  - em-044-robotics-surgery-ai
-  - em-045-ai-disaster-response
-  - em-047-ai-environmental-monitoring
-  - em-048-space-manufacturing-ai
-  - em-049-ai-ocean-exploration
-  - em-050-ai-archaeology
-  - enhanced-cursor-rules
-  - fh-015-ai-nutrition-planner
-  - fin-003-ai-boss-hub-lite
-  - fin-004-genixbanks-ai-treasurer
-  - fin-010-ai-powered-garbage-collection
-  - fin-012-invoice-factoring-ai
-  - fin-013-charity-donation-ai
-  - fin-014-expense-tracker-ai
-  - fin-016-trade-finance-ai
-  - fin-017-remittance-ai
-  - fin-018-wealth-transfer-ai
-  - fin-019-payment-gateway-ai
-  - fin-020-debt-consolidation-ai
-  - fin-022-budget-forecasting-ai
-  - fin-023-investment-portfolio-ai
-  - fin-024-crowdfunding-ai
-  - fin-027-patent-writer-ai
-  - fin-028-legal-analyzer-ai
-  - fin-030-local-seo-ranker-ai
-  - fin-032-legal-toolkit-ai
-  - fin-033-ai-tax-preparation-service
-  - fin-033-legal-toolkit-ai
-  - fin-035-insurance-underwriting-ai
-  - free-claude-code
-  - fs-017-ai-personal-trainer
-  - gpt-oss
-  - gpt-sovits
-  - gpt_api_free
-  - hermes-agent-command-center
-  - iza-os-ai-consciousness-platform
-  - iza-os-ai-core-platform
-  - iza-os-ai-nlp-platform
-  - iza-os-ai-optimization-platform
-  - iza-os-ai-orchestration
-  - iza-os-ai-prediction-platform
-  - iza-os-ai-vision-platform
-  - iza-os-core
-  - iza-os-embedding-service
-  - iza-os-inference-engine
-  - iza-os-intelligence-core
-  - iza-os-llm-adapter
-  - iza-os-ml
-  - iza-os-model-training
-  - iza-os-predictive-analytics-bot
-  - iza-os-prompt-engineering
-  - iza-os-recommendation-engine
-  - iza-os-semantic-search
-  - iza-os-specs
-  - learn-claude-code
-  - legal-001-ai-boss-holdings
-  - llm
-  - llm-app
-  - llm-council
-  - lt-014-ai-route-optimization
-  - lt-028-freight-ai-optimization
-  - made-with-ml
-  - mcp-integration-hub
-  - natively-cluely-ai-assistant
-  - next-ai-draw-io
-  - nexus-ai-enterprise-platform
-  - no-ai-slop
-  - open-claude-cowork
-  - open-generative-ai
-  - open-llm-vtuber
-  - openai-cookbook
-  - ops-003-event-planning-ai
-  - ops-004-inventory-management-ai
-  - ops-005-project-management-ai
-  - ops-006-document-automation-ai
-  - ops-007-meeting-assistant-ai
-  - ops-008-recruitment-ai
-  - ops-009-onboarding-ai
-  - ops-010-training-platform-ai
-  - ops-011-performance-review-ai
-  - ops-012-it-support-ai
-  - ops-013-facilities-management-ai
-  - ops-014-travel-booking-ai
-  - ops-015-expense-management-ai
-  - ops-staff-001-staffing
-  - pandas-ai
-  - quantum-brain-sync-website
-  - scrapegraph-ai
-  - spec-001-ai-auction-house
-  - spec-017-smart-agriculture-ai
-  - spec-018-ai-personal-shopper
-  - spec-038-ai-comedy-writer
-  - system-prompts-and-models-of-ai-tools
-  - tech-001-quantum-algorithm-ai
-  - tech-002-ai-compliance-scanner
-  - tech-003-cloud-management-ai
-  - tech-004-robotics-training-ai
-  - tech-005-customer-insights-ai
-  - tech-006-voice-assistant-ai
-  - tech-007-blockchain-verifier-ai
-  - tech-009-content-studio-ai
-  - tech-010-smart-home-ai
-  - tech-012-data-visualization-ai
-  - tech-015-image-recognition-ai
-  - tech-016-video-editor-ai
-  - tech-017-speech-to-text-ai
-  - tech-018-text-to-speech-ai
-  - tech-021-network-security-ai
-  - tech-023-ai-testing-platform
-  - tech-026-ai-ethics-auditor
-  - tech-027-predictive-analytics-ai
-  - tech-028-ai-training-platform
-  - tech-029-digital-twin-ai
-  - tech-030-ai-monitoring-system
-  - tech-031-edge-computing-ai
-  - tech-032-ai-integration-hub
-  - tech-033-quantum-algorithm-ai
-  - tech-034-ai-compliance-scanner
-  - tech-035-cloud-management-ai
-  - tech-037-customer-insights-ai
-  - tech-038-voice-assistant-ai
-  - tech-039-blockchain-verifier-ai
-  - tech-041-content-studio-ai
-  - tech-042-smart-home-ai
-  - tech-044-data-visualization-ai
-  - tech-047-image-recognition-ai
-  - tech-048-video-editor-ai
-  - tech-049-speech-to-text-ai
-  - tech-051-fraud-prevention-ai
-  - tech-053-network-security-ai
-  - tech-055-ai-testing-platform
-  - tech-058-ai-ethics-auditor
-  - tech-059-predictive-analytics-ai
-  - tech-060-ai-training-platform
-  - the-algorithm-ml
-  - thinking-claude
-  - worldwidebro-os-core
+  - Worldwidebro/ai-001-ai-command-center
+  - Worldwidebro/civilization-os
+  - Worldwidebro/hermes-agent-command-center
+  - Worldwidebro/ops-staff-001-staffing
+  - Worldwidebro/sovereign-life
+  - a2aproject/a2a
+  - aaif-goose/goose
+  - activepieces/activepieces
+  - aetherai3/agentic-loops
+  - ai4finance-foundation/finrobot
+  - airweave-ai/airweave
+  - anthropics/claude-code
+  - ashishpatel26/500-ai-agents-projects
+  - bigbodycobain/shadowbroker
+  - browser-use/browser-use
+  - browseros-ai/browseros
+  - budibase/budibase
+  - bytedance/ui-tars-desktop
+  - calesthio/openmontage
+  - canner/wrenai
+  - charmbracelet/crush
+  - citrolabs/ego-lite
+  - cloudflare/agentic-inbox
+  - cobusgreyling/muse-glimmer
+  - context-machine-lab/sleepless-agent
+  - coreyhaines31/marketingskills
+  - crewaiinc/crewai
+  - crshdn/mission-control
+  - crystaldba/postgres-mcp
+  - dair-ai/prompt-engineering-guide
+  - darkzogx/youtube-automation-agent
+  - dietrichgebert/ponytail
+  - donchitos/claude-code-game-studios
+  - dtyq/magic
+  - e2b-dev/awesome-ai-agents
+  - earendil-works/pi
+  - emcie-co/parlant
+  - enescingoz/awesome-n8n-templates
+  - evoiz/agentic-design-patterns
+  - evomap/evolver
+  - fareedkhan-dev/production-grade-agentic-system
+  - ferroxlabs/wayland
+  - fosowl/agenticseek
+  - future-agi/future-agi
+  - getzep/graphiti
+  - github/gh-aw-mcpg
+  - gitroomhq/postiz-app
+  - google/adk-go
+  - googlecloudplatform/agent-starter-pack
+  - hkuds/deepcode
+  - hkuds/vimax
+  - insforge/insforge
+  - interviewstreet/hiring-agent
+  - iofficeai/officecli
+  - jetbrains/koog
+  - jonradoff/lastsaas
+  - karpathy/autoresearch
+  - klavis-ai/klavis
+  - kuberwastaken/claurst
+  - langgenius/dify
+  - mem0ai/mem0
+  - microsoft/agent-framework
+  - microsoft/agent-lightning
+  - microsoft/ai-agents-for-beginners
+  - microsoft/autogen
+  - microsoft/call-center-ai
+  - mukul975/anthropic-cybersecurity-skills
+  - musistudio/claude-code-router
+  - mvanhorn/last30days-skill
+  - nowork-studio/notfair-plugin
+  - nvidia-ai-blueprints/retail-agentic-commerce
+  - obra/superpowers
+  - open-gitagent/opengap
+  - openbb-finance/openbb
+  - openclaw/peekaboo
+  - opendatalab/mineru
+  - opensandbox-group/opensandbox
+  - osaurus-ai/osaurus
+  - panniantong/agent-reach
+  - paralleldrive/jiron
+  - patchy631/ai-engineering-hub
+  - phuryn/pm-skills
+  - pluviobyte/rnskill
+  - preset-io/agor
+  - rixinhahaha/snip
+  - shanraisshan/claude-code-best-practice
+  - shubhamsaboo/awesome-llm-apps
+  - sickn33/agentic-awesome-skills
+  - simstudioai/sim
+  - simular-ai/agent-s
+  - sonarsource/sonarqube-mcp-server
+  - taracodlabs/aiden
+  - tencentcloud/tencentdb-agent-memory
+  - the-swarm-corporation/autohedge
+  - tooljet/tooljet
+  - topoteretes/cognee
+  - triggerdotdev/trigger.dev
+  - trycompai/crm
+  - untrivial-ai/agent-orchestrator
+  - vercel-labs/agent-browser
+  - virattt/dexter
+  - volcengine/openviking
+  - voltagent/voltagent
+  - waooai/waoowaoo
+  - warpdotdev/warp
+  - wshobson/agents
+  - yoanbernabeu/grepai
+  - zerobootdev/zeroboot
   status: Proposed
   provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: agent-systems
-  name: Agent Systems
-  description: Repositories whose name/description/language match the 'Agent Systems' keyword set (heuristic, not code-audited).
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: multi-agent-systems
+  name: Multi-Agent Systems
+  description: AI & Agents → Agent Infrastructure → Multi-Agent Systems
   category: AI
   owners: []
   repositories:
-  - Avs-Omni-
-  - _master-governance
-  - agency-agents
-  - agent-browser
-  - agent-framework
-  - agent-lightning
-  - agent-orchestrator
-  - agent-reach
-  - agent-s
-  - agent-skills
-  - agent-starter-pack
-  - agentic-awesome-skills
-  - agentic-design-patterns
-  - agentic-inbox
-  - agentic-loops
-  - ai-001-ai-command-center
-  - autonomous-venture-studio
-  - awesome-agent-skills
-  - awesome-hermes-agent
-  - consciousness-deployment-system
-  - em-007-autonomous-delivery-ai
-  - em-020-autonomous-farming-ai
-  - event-driven-autonomous-loop
-  - hermes-agent
-  - hermes-agent-command-center
-  - hiring-agent
-  - iza-os-specs
-  - learn-coding-agent
-  - mobile-access-manager
-  - op-003-agent-services-hub
-  - ops-staff-001-staffing
-  - page-agent
-  - prime-agent
-  - production-grade-agentic-system
-  - retail-agentic-commerce
-  - sleepless-agent
-  - sovereign-life
-  - tencentdb-agent-memory
-  - unified-dashboard-system
-  - worldwidebro-os-infrastructure
-  - youtube-automation-agent
+  - 666ghj/mirofish
+  - camel-ai/owl
+  - hkuds/deepcode
+  - microsoft/agent-framework
+  - nanobrowser/nanobrowser
+  - openbmb/chatdev
+  - sentient-agi/roma
+  - skyworkai/deepresearchagent
+  - tauricresearch/tradingagents
+  - the-swarm-corporation/autohedge
+  - valuecell-ai/valuecell
+  - yeachan-heo/oh-my-claudecode
   status: Proposed
   provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: search-retrieval
-  name: Search & Retrieval
-  description: Repositories whose name/description/language match the 'Search & Retrieval' keyword set (heuristic, not code-audited).
-  category: Data
-  owners: []
-  repositories:
-  - ai-job-search
-  - brave-search-mcp-server
-  - career-ops
-  - code-graph-rag
-  - ec-039-visual-search-ai
-  - iza-os-embedding-service
-  - iza-os-rag-system
-  - iza-os-semantic-search
-  - iza-os-vector-database
-  - llama_index
-  - rag-anything
-  status: Proposed
-  provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: image-vision
-  name: Image / Vision
-  description: Repositories whose name/description/language match the 'Image / Vision' keyword set (heuristic, not code-audited).
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: agent-orchestration
+  name: Agent Orchestration
+  description: AI & Agents → Agent Infrastructure → Agent Orchestration
   category: AI
   owners: []
   repositories:
-  - deepseek-ocr
-  - iza-os-ai-vision-platform
-  - iza-os-computer-vision
-  - screenshot-to-code
-  - tech-015-image-recognition-ai
-  - tech-047-image-recognition-ai
-  - unlimited-ocr
+  - Worldwidebro/ai-001-ai-command-center
+  - Worldwidebro/autonomous-venture-studio
+  - Worldwidebro/capital-orchestrator
+  - Worldwidebro/civilization-os
+  - Worldwidebro/deployment-orchestrator
+  - Worldwidebro/enhanced-cursor-rules
+  - Worldwidebro/iza-os-ai-orchestration
+  - Worldwidebro/iza-os-automation
+  - Worldwidebro/iza-os-finance-advisor-orchestration-bot
+  - Worldwidebro/iza-os-legal-research-orchestration-bot
+  - Worldwidebro/iza-os-marketing-automation-orchestration-bot
+  - Worldwidebro/iza-os-orchestrator
+  - Worldwidebro/iza-os-project-management-orchestration-bot
+  - Worldwidebro/iza-os-sales-automation-orchestration-bot
+  - Worldwidebro/iza-os-specs
+  - agentlas-ai/agentlas-os
+  - cadence-workflow/cadence
+  - cobusgreyling/loop-engineering
+  - crewaiinc/crewai
+  - deepset-ai/haystack
+  - getpaseo/paseo
+  - hkuds/deepcode
+  - kestra-io/kestra
+  - labring/fastgpt
+  - microsoft/agent-framework
+  - microsoft/mcp-for-beginners
+  - microsoft/poml
+  - musistudio/claude-code-router
+  - pinchtab/pinchtab
+  - tinyhumansai/openhuman
+  - untrivial-ai/agent-orchestrator
+  - vijaythecoder/awesome-claude-agents
+  - yeachan-heo/oh-my-claudecode
   status: Proposed
   provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: voice-audio
-  name: Voice & Audio
-  description: Repositories whose name/description/language match the 'Voice & Audio' keyword set (heuristic, not code-audited).
-  category: Product
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: agent-memory
+  name: Agent Memory
+  description: AI & Agents → Agent Infrastructure → Agent Memory
+  category: AI
   owners: []
   repositories:
-  - claude-code-voice-skill
-  - fish-speech
-  - insanely-fast-whisper
-  - iza-os-speech-processing
-  - mc-002-podcast-network
-  - qwen3-tts
-  - tech-006-voice-assistant-ai
-  - tech-017-speech-to-text-ai
-  - tech-018-text-to-speech-ai
-  - tech-038-voice-assistant-ai
-  - tech-049-speech-to-text-ai
-  - tts
-  - voice-pro
+  - mem0ai/mem0
+  - tencentcloud/tencentdb-agent-memory
+  - volcengine/openviking
   status: Proposed
   provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: video-media
-  name: Video & Media
-  description: Repositories whose name/description/language match the 'Video & Media' keyword set (heuristic, not code-audited).
-  category: Product
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: agent-planning
+  name: Agent Planning
+  description: AI & Agents → Agent Infrastructure → Agent Planning
+  category: AI
   owners: []
   repositories:
-  - claude-video
-  - em-016-synthetic-media-ai
-  - iza-os-computer-vision
-  - iza-os-customer-service-social-bot
-  - mc-001-youtube-channel-network
-  - mc-006-video-production-company
-  - mc-010-stock-video
-  - mcp-youtube
-  - media-empire-platform
-  - pixelle-video
-  - ps-020-social-media-management
-  - tech-016-video-editor-ai
-  - tech-048-video-editor-ai
-  - video-shotcraft
-  - youtube-automation-agent
+  - skyworkai/deepresearchagent
   status: Proposed
   provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: automation-orchestration
-  name: Automation & Orchestration
-  description: Repositories whose name/description/language match the 'Automation & Orchestration' keyword set (heuristic, not code-audited).
-  category: Operations
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: agent-evaluation
+  name: Agent Evaluation
+  description: AI & Agents → Agent Infrastructure → Agent Evaluation
+  category: AI
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: agent-tool-use
+  name: Agent Tool Use
+  description: AI & Agents → Agent Infrastructure → Agent Tool Use
+  category: AI
   owners: []
   repositories:
-  - ace-ecommerce-templates
-  - acquisition-vehicle-automation
-  - agent-orchestrator
-  - ai-001-ai-command-center
-  - ai-002-web-app
-  - automate-faceless-content
-  - autonomous-venture-studio
-  - billionaire-workflow-automation
-  - bw-001-up-next-code
-  - capital-orchestrator
-  - career-ops
-  - civilization-os
-  - claude-workflow-demo
-  - consulting-services-automation
-  - deployment-orchestrator
-  - enhanced-cursor-rules
-  - fin-002-credit-repair-automation
-  - fin-025-escrow-automation
-  - fin-034-payroll-automation
-  - global-operations-automation
-  - iza-os-ai-orchestration
-  - iza-os-api-gateway-bot
-  - iza-os-automation
-  - iza-os-automation-integration
-  - iza-os-customer-service-automation-bot
-  - iza-os-customer-service-email-bot
-  - iza-os-customer-service-escalation-bot
-  - iza-os-customer-service-faq-bot
-  - iza-os-customer-service-phone-bot
-  - iza-os-customer-service-social-bot
-  - iza-os-deployment-automation-bot
-  - iza-os-finance-advisor-alerting-bot
-  - iza-os-finance-advisor-analytics-bot
-  - iza-os-finance-advisor-automation-bot
-  - iza-os-finance-advisor-compliance-bot
-  - iza-os-finance-advisor-discovery-bot
-  - iza-os-finance-advisor-integration-bot
-  - iza-os-finance-advisor-intelligence-bot
-  - iza-os-finance-advisor-management-bot
-  - iza-os-finance-advisor-monitoring-bot
-  - iza-os-finance-advisor-optimization-bot
-  - iza-os-finance-advisor-orchestration-bot
-  - iza-os-finance-advisor-processing-bot
-  - iza-os-finance-advisor-reporting-bot
-  - iza-os-finance-advisor-security-bot
-  - iza-os-finance-advisor-synthesis-bot
-  - iza-os-hr-analytics-bot
-  - iza-os-hr-compliance-bot
-  - iza-os-hr-onboarding-bot
-  - iza-os-hr-payroll-bot
-  - iza-os-hr-recruitment-bot
-  - iza-os-hr-training-bot
-  - iza-os-inventory-management-analytics-bot
-  - iza-os-inventory-management-automation-bot
-  - iza-os-inventory-management-compliance-bot
-  - iza-os-inventory-management-integration-bot
-  - iza-os-inventory-management-monitoring-bot
-  - iza-os-inventory-management-optimization-bot
-  - iza-os-inventory-management-reporting-bot
-  - iza-os-inventory-management-security-bot
-  - iza-os-legal-research-alerting-bot
-  - iza-os-legal-research-compliance-bot
-  - iza-os-legal-research-discovery-bot
-  - iza-os-legal-research-integration-bot
-  - iza-os-legal-research-intelligence-bot
-  - iza-os-legal-research-management-bot
-  - iza-os-legal-research-optimization-bot
-  - iza-os-legal-research-orchestration-bot
-  - iza-os-legal-research-processing-bot
-  - iza-os-legal-research-reporting-bot
-  - iza-os-legal-research-security-bot
-  - iza-os-legal-research-synthesis-bot
-  - iza-os-marketing-automation-alerting-bot
-  - iza-os-marketing-automation-analytics-bot
-  - iza-os-marketing-automation-automation-bot
-  - iza-os-marketing-automation-campaign-bot
-  - iza-os-marketing-automation-compliance-bot
-  - iza-os-marketing-automation-discovery-bot
-  - iza-os-marketing-automation-integration-bot
-  - iza-os-marketing-automation-intelligence-bot
-  - iza-os-marketing-automation-management-bot
-  - iza-os-marketing-automation-monitoring-bot
-  - iza-os-marketing-automation-optimization-bot
-  - iza-os-marketing-automation-orchestration-bot
-  - iza-os-marketing-automation-processing-bot
-  - iza-os-marketing-automation-reporting-bot
-  - iza-os-marketing-automation-security-bot
-  - iza-os-marketing-automation-synthesis-bot
-  - iza-os-model-training
-  - iza-os-nlp-pipeline
-  - iza-os-operations-automation-bot
-  - iza-os-operations-core
-  - iza-os-orchestrator
-  - iza-os-project-management-alerting-bot
-  - iza-os-project-management-analytics-bot
-  - iza-os-project-management-automation-bot
-  - iza-os-project-management-compliance-bot
-  - iza-os-project-management-discovery-bot
-  - iza-os-project-management-integration-bot
-  - iza-os-project-management-intelligence-bot
-  - iza-os-project-management-management-bot
-  - iza-os-project-management-monitoring-bot
-  - iza-os-project-management-optimization-bot
-  - iza-os-project-management-orchestration-bot
-  - iza-os-project-management-processing-bot
-  - iza-os-project-management-reporting-bot
-  - iza-os-project-management-security-bot
-  - iza-os-project-management-synthesis-bot
-  - iza-os-sales-automation-alerting-bot
-  - iza-os-sales-automation-analytics-bot
-  - iza-os-sales-automation-automation-bot
-  - iza-os-sales-automation-compliance-bot
-  - iza-os-sales-automation-discovery-bot
-  - iza-os-sales-automation-integration-bot
-  - iza-os-sales-automation-intelligence-bot
-  - iza-os-sales-automation-management-bot
-  - iza-os-sales-automation-monitoring-bot
-  - iza-os-sales-automation-optimization-bot
-  - iza-os-sales-automation-orchestration-bot
-  - iza-os-sales-automation-processing-bot
-  - iza-os-sales-automation-reporting-bot
-  - iza-os-sales-automation-security-bot
-  - iza-os-sales-automation-synthesis-bot
-  - iza-os-sales-core
-  - iza-os-specs
-  - iza-os-workflow-integration
-  - lt-001-truck-dispatch-company
-  - lt-003-logistics-dispatch-service
-  - lt-004-last-mile-delivery-dispatch
-  - lt-005-medical-courier-dispatch
-  - lt-007-construction-dispatch
-  - lt-008-towing-dispatch
-  - lt-009-hvac-technician-dispatch
-  - lt-010-field-service-dispatch
-  - lt-011-dispatch-software
-  - lt-013-logistics-automation-system
-  - op-001-venture-automation-agency
-  - ops-006-document-automation-ai
-  - quantum-brain-sync-website
-  - research-lab-automation
-  - research-processing-pipeline
-  - shared-kernels
-  - spec-workflow-mcp
-  - tech-013-workflow-automation
-  - tech-045-workflow-automation
-  - venture-factory-core
-  - venture-pipeline
-  - worldwidebro-construction-os
-  - youtube-automation-agent
+  - cobusgreyling/muse-glimmer
   status: Proposed
   provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: api-integration
-  name: API & Integration
-  description: Repositories whose name/description/language match the 'API & Integration' keyword set (heuristic, not code-audited).
-  category: Integration
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: agent-frameworks
+  name: Agent Frameworks
+  description: AI & Agents → Agent Infrastructure → Agent Frameworks
+  category: AI
   owners: []
   repositories:
-  - ai-002-api
-  - api-mega-list
-  - awesome-mcp-servers
-  - brave-search-mcp-server
-  - civilization-os
-  - civilization-website
-  - codebase-memory-mcp
-  - fastapi_mcp
-  - ft-001-api-gateway
-  - git-mcp
-  - go-sdk
-  - gpt_api_free
-  - ht-004-data-api
-  - iza-os-api-gateway-bot
-  - iza-os-automation-integration
-  - iza-os-data-integration-hub
-  - iza-os-finance-advisor-integration-bot
-  - iza-os-inventory-management-integration-bot
-  - iza-os-legal-research-integration-bot
-  - iza-os-llm-adapter
-  - iza-os-marketing-automation-integration-bot
-  - iza-os-mcp
-  - iza-os-monitoring-integration
-  - iza-os-operations-core
-  - iza-os-operations-integration-bot
-  - iza-os-platform-core
-  - iza-os-project-management-integration-bot
-  - iza-os-sales-automation-integration-bot
-  - iza-os-web3-integration
-  - iza-os-workflow-integration
-  - magic-mcp
-  - mcp
-  - mcp-for-beginners
-  - mcp-go
-  - mcp-integration-hub
-  - mcp-registry
-  - mcp-server-qdrant
-  - mcp-toolbox
-  - mcp-youtube
-  - n8n-mcp
-  - node-telegram-bot-api
-  - perplexity-mcp
-  - postgres-mcp
-  - ps-016-photography-service
-  - software-planning-mcp
-  - sonarqube-mcp-server
-  - spec-workflow-mcp
-  - tech-032-ai-integration-hub
-  - toolsdk-mcp-registry
-  - worldwidebro-os-business-engine
-  - worldwidebro-os-knowledge-graph
-  - xyops-integration
+  - crewaiinc/crewai
+  - langchain-ai/langgraph
+  - sentient-agi/roma
+  - voltagent/voltagent
   status: Proposed
   provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: authentication-identity
-  name: Authentication & Identity
-  description: Repositories whose name/description/language match the 'Authentication & Identity' keyword set (heuristic, not code-audited).
-  category: Infrastructure
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: llm-applications
+  name: LLM Applications
+  description: AI & Agents → LLM Systems → LLM Applications
+  category: AI
   owners: []
   repositories:
-  - shared-kernels
+  - 21st-dev/magic-mcp
+  - 4r7i5t/cl1_llm_encoder
+  - Worldwidebro/_master-governance
+  - Worldwidebro/claude-workflow-demo
+  - Worldwidebro/enhanced-cursor-rules
+  - Worldwidebro/freeclaudecode
+  - Worldwidebro/iza-os-llm-adapter
+  - Worldwidebro/iza-os-prompt-engineering
+  - aaif-goose/goose
+  - abracadabra50/claude-code-voice-skill
+  - aetherai3/agentic-loops
+  - affaan-m/ecc
+  - agiprolabs/claude-trading-skills
+  - agricidaniel/claude-ads
+  - agricidaniel/claude-seo
+  - ai4finance-foundation/finrobot
+  - alekspetrov/navigator
+  - alexgladkov/claude-in-mobile
+  - alibaba/open-code-review
+  - alirezarezvani/claude-skills
+  - alishahryar1/free-claude-code
+  - allenai/olmocr
+  - anthropics/claude-code
+  - anthropics/claude-code-action
+  - anthropics/claude-cookbooks
+  - anthropics/claude-plugins-official
+  - anthropics/claude-quickstarts
+  - anthropics/knowledge-work-plugins
+  - anthropics/prompt-eng-interactive-tutorial
+  - anymorph-ai/claudable
+  - arthur-ficial/apfel
+  - asgeirtj/system_prompts_leaks
+  - berriai/litellm
+  - bloopai/vibe-kanban
+  - bradautomates/claude-video
+  - breferrari/obsidian-mind
+  - buckle42/claude-code-remote
+  - cathrynlavery/diagram-design
+  - chauncygu/collection-claude-code-source-code
+  - christopherkahler/paul
+  - citrolabs/ego-lite
+  - colbymchenry/codegraph
+  - composio-community/open-claude-cowork
+  - composiohq/awesome-claude-skills
+  - confident-ai/deepeval
+  - context-machine-lab/sleepless-agent
+  - coreyhaines31/marketingskills
+  - czlonkowski/n8n-mcp
+  - darkzogx/youtube-automation-agent
+  - davila7/claude-code-templates
+  - decolua/9router
+  - deepset-ai/haystack
+  - diegosouzapw/omniglyph
+  - diegosouzapw/omniroute
+  - dkyazzentwatwa/supernavigator
+  - donchitos/claude-code-game-studios
+  - droidrun/mobilerun
+  - earendil-works/pi
+  - egonex-ai/understand-anything
+  - eigent-ai/eigent
+  - elementalsouls/claude-osint
+  - emcie-co/parlant
+  - enescingoz/awesome-n8n-templates
+  - eugeniughelbur/obsidian-second-brain
+  - future-agi/future-agi
+  - ggml-org/llama.cpp
+  - google/tunix
+  - graphify-labs/graphify
+  - gsd-build/get-shit-done
+  - hainrixz/the-architect
+  - hangsman/claude-code-source
+  - headroomlabs-ai/headroom
+  - hesreallyhim/awesome-claude-code
+  - hsliuping/tradingagents-cn
+  - hubeiqiao/apple-bento-grid
+  - humanlayer/12-factor-agents
+  - imbad0202/academic-research-skills
+  - inkeep/open-knowledge
+  - iofficeai/aionui
+  - itsowen/cyberscraper-2077
+  - jarrodwatts/claude-hud
+  - jetbrains/koog
+  - jingyaogong/minimind
+  - juliusbrussee/caveman
+  - karpathy/llm-council
+  - kvcache-ai/ktransformers
+  - langfuse/langfuse
+  - lmcache/lmcache
+  - luongnv89/claude-howto
+  - madslorentzen/ai-job-search
+  - manavarya09/design-extract
+  - mark3labs/mcp-go
+  - memorilabs/memori
+  - microsoft/skillopt
+  - mukul975/anthropic-cybersecurity-skills
+  - multica-ai/andrej-karpathy-skills
+  - multica-ai/multica
+  - musistudio/claude-code-router
+  - nanobrowser/nanobrowser
+  - nanonets/graft
+  - nexu-io/open-design
+  - njerschow/textme
+  - numman-ali/cc-mirror
+  - omnara-ai/omnara
+  - onyx-dot-app/onyx
+  - open-llm-vtuber/open-llm-vtuber
+  - openai/gpt-oss
+  - openai/openai-cookbook
+  - openai/plugins
+  - openbmb/chatdev
+  - opendatalab/mineru
+  - openobserve/openobserve
+  - othmanadi/planning-with-files
+  - pathwaycom/llm-app
+  - pathwaycom/pathway
+  - qwenlm/qwen3-coder
+  - qwenlm/qwen3-vl
+  - rafska/awesome-local-llm
+  - richardatct/claude-code-telegram
+  - richards199999/thinking-claude
+  - ruvnet/ruflo
+  - santifer/career-ops
+  - shanraisshan/claude-code-best-practice
+  - shareai-lab/learn-claude-code
+  - shubhamsaboo/awesome-llm-apps
+  - simonw/llm
+  - smtg-ai/claude-squad
+  - sooryathejas/metatron
+  - superclaude-org/superclaude_framework
+  - tashfeenahmed/freellmapi
+  - tauricresearch/tradingagents
+  - tencent/weknora
+  - tencentcloud/tencentdb-agent-memory
+  - the-vibe-company/companion
+  - thedotmack/claude-mem
+  - unclecode/crawl4ai
+  - vijaythecoder/awesome-claude-agents
+  - vincentwei1021/video-shotcraft
+  - virgiliojr94/book-to-skill
+  - voltagent/awesome-agent-skills
+  - vrsen/openswarm
+  - waiterxiaoyy/deep-dive-claude-code
+  - wasabeef/claude-code-cookbook
+  - wesammustafa/claude-code-everything-you-need-to-know
+  - winfunc/opcode
+  - wshobson/agents
+  - x1xhlol/system-prompts-and-models-of-ai-tools
+  - yeachan-heo/oh-my-claudecode
+  - yishentu/claudian
+  - ykdojo/claude-code-tips
+  - zhaoxuya520/reverse-skill
+  - zhulinsen/daily_stock_analysis
   status: Proposed
   provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: payments-billing
-  name: Payments & Billing
-  description: Repositories whose name/description/language match the 'Payments & Billing' keyword set (heuristic, not code-audited).
-  category: Product
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: llm-inference
+  name: LLM Inference
+  description: AI & Agents → LLM Systems → LLM Inference
+  category: AI
   owners: []
   repositories:
-  - business-template-marketplace
-  - ec-014-subscription-box-ai
-  - ec-067-ai-payment-optimization
-  - fin-012-invoice-factoring-ai
-  - fin-019-payment-gateway-ai
-  - shared-kernels
-  - worldwidebro-construction-os
+  - Worldwidebro/iza-os-inference-engine
+  - fareedkhan-dev/kimi-k3-in-c
+  - ggml-org/llama.cpp
+  - kvcache-ai/ktransformers
+  - microsoft/bitnet
+  - ubicloud/ubicloud
+  - vllm-project/vllm
   status: Proposed
   provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: data-analytics
-  name: Data & Analytics
-  description: Repositories whose name/description/language match the 'Data & Analytics' keyword set (heuristic, not code-audited).
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: llm-serving
+  name: LLM Serving
+  description: AI & Agents → LLM Systems → LLM Serving
+  category: AI
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: llm-gateways
+  name: LLM Gateways
+  description: AI & Agents → LLM Systems → LLM Gateways
+  category: AI
+  owners: []
+  repositories:
+  - berriai/litellm
+  - diegosouzapw/omniroute
+  - insforge/insforge
+  - kong/kong
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: model-routing
+  name: Model Routing
+  description: AI & Agents → LLM Systems → Model Routing
+  category: AI
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: model-fine-tuning
+  name: Model Fine-Tuning
+  description: AI & Agents → LLM Systems → Model Fine-Tuning
+  category: AI
+  owners: []
+  repositories:
+  - kvcache-ai/ktransformers
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: model-training
+  name: Model Training
+  description: AI & Agents → LLM Systems → Model Training
+  category: AI
+  owners: []
+  repositories:
+  - Worldwidebro/iza-os-model-training
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: embeddings
+  name: Embeddings
+  description: AI & Agents → LLM Systems → Embeddings
+  category: AI
+  owners: []
+  repositories:
+  - Worldwidebro/iza-os-embedding-service
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: multimodal-ai
+  name: Multimodal AI
+  description: AI & Agents → AI Modalities → Multimodal AI
+  category: AI
+  owners: []
+  repositories:
+  - bytedance/ui-tars-desktop
+  - cobusgreyling/muse-glimmer
+  - deepset-ai/haystack
+  - qwenlm/qwen3-vl
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: computer-vision
+  name: Computer Vision
+  description: AI & Agents → AI Modalities → Computer Vision
+  category: AI
+  owners: []
+  repositories:
+  - Worldwidebro/iza-os-ai-vision-platform
+  - Worldwidebro/iza-os-computer-vision
+  - Worldwidebro/tech-015-image-recognition-ai
+  - Worldwidebro/tech-047-image-recognition-ai
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: speech-ai
+  name: Speech AI
+  description: AI & Agents → AI Modalities → Speech AI
+  category: AI
+  owners: []
+  repositories:
+  - Worldwidebro/iza-os-speech-processing
+  - Worldwidebro/tech-017-speech-to-text-ai
+  - Worldwidebro/tech-018-text-to-speech-ai
+  - Worldwidebro/tech-049-speech-to-text-ai
+  - cjpais/handy
+  - coqui-ai/tts
+  - fishaudio/fish-speech
+  - k2-fsa/sherpa-onnx
+  - openbmb/voxcpm
+  - qwenlm/qwen3-tts
+  - watzon/pindrop
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: generative-ai
+  name: Generative AI
+  description: AI & Agents → AI Modalities → Generative AI
+  category: AI
+  owners: []
+  repositories:
+  - youmind-openlab/awesome-nano-banana-pro-prompts
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: knowledge-management
+  name: Knowledge Management
+  description: Knowledge, Search & Data → Knowledge Systems → Knowledge Management
   category: Data
   owners: []
   repositories:
-  - ai-001-ai-command-center
-  - deliv-713-roadrunner-cannabis
-  - fin-031-investor-dashboard-builder
-  - fs-019-wearable-analytics-platform
-  - genixbank-insight-compass
-  - hermes-agent-command-center
-  - iza-os-ai-prediction-platform
-  - iza-os-analytics
-  - iza-os-finance-advisor-analytics-bot
-  - iza-os-finance-advisor-reporting-bot
-  - iza-os-hr-analytics-bot
-  - iza-os-intelligence-core
-  - iza-os-inventory-management-analytics-bot
-  - iza-os-inventory-management-reporting-bot
-  - iza-os-legal-research-reporting-bot
-  - iza-os-marketing-automation-analytics-bot
-  - iza-os-marketing-automation-reporting-bot
-  - iza-os-operations-analytics-bot
-  - iza-os-operations-reporting-bot
-  - iza-os-predictive-analytics-bot
-  - iza-os-project-management-analytics-bot
-  - iza-os-project-management-reporting-bot
-  - iza-os-sales-automation-analytics-bot
-  - iza-os-sales-automation-reporting-bot
-  - lt-029-supply-chain-analytics
-  - tech-027-predictive-analytics-ai
-  - tech-059-predictive-analytics-ai
-  - unified-dashboard-system
-  - worldwidebro-finance-os
-  - worldwidebro-marketing-os
+  - Worldwidebro/iza-os-customer-service-knowledge-bot
+  - Worldwidebro/obsidian-vault
+  - Worldwidebro/research-processing-pipeline
+  - toeverything/affine
+  - triliumnext/trilium
+  - zhaoxuya520/reverse-skill
   status: Proposed
   provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: database-storage
-  name: Database & Storage
-  description: Repositories whose name/description/language match the 'Database & Storage' keyword set (heuristic, not code-audited).
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: knowledge-graphs
+  name: Knowledge Graphs
+  description: Knowledge, Search & Data → Knowledge Systems → Knowledge Graphs
   category: Data
   owners: []
   repositories:
-  - avatar-engine
-  - bw-001-up-next-code
-  - civilization-website
-  - iza-os-vector-database
-  - lt-023-storage-business
-  - postgres-mcp
-  - shared-kernels
-  - tech-022-database-optimizer
-  - tech-054-database-optimizer
-  - ventures
+  - Worldwidebro/iza-os-data
+  - Worldwidebro/iza-os-knowledge-graph
+  - abhigyanpatwari/gitnexus
+  - colbymchenry/codegraph
+  - deusdata/codebase-memory-mcp
+  - egonex-ai/understand-anything
+  - getzep/graphiti
+  - graphify-labs/graphify
+  - topoteretes/cognee
+  - vitali87/code-graph-rag
   status: Proposed
   provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: frontend-ui
-  name: Frontend / UI
-  description: Repositories whose name/description/language match the 'Frontend / UI' keyword set (heuristic, not code-audited).
-  category: Product
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: entity-resolution
+  name: Entity Resolution
+  description: Knowledge, Search & Data → Knowledge Systems → Entity Resolution
+  category: Data
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: entity-management
+  name: Entity Management
+  description: Knowledge, Search & Data → Knowledge Systems → Entity Management
+  category: Data
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: rag
+  name: RAG
+  description: Knowledge, Search & Data → Knowledge Systems → RAG
+  category: Data
   owners: []
   repositories:
-  - agency-agents
-  - ai-002-web-app
-  - ai-website-cloner-template
-  - aibossoslandingpage
-  - awesome-react
-  - bw-001-contracts
-  - bw-001-up-next
-  - bw-001-up-next-business
-  - bw-001-up-next-code
-  - bw-001-up-next-web
-  - chat-ui
-  - civilization-website
-  - divine-johns-portfolio
-  - et-003-platform
-  - frontend-dev-bookmarks
-  - mc-012-news-website
-  - next-ai-draw-io
-  - next-js-boilerplate
-  - quantum-brain-sync-website
-  - ui-tars-desktop
-  - ui-ux-pro-max-skill
-  - up-next-marketplace
+  - Worldwidebro/iza-os-rag-system
+  - abhigyanpatwari/gitnexus
+  - arindam200/awesome-ai-apps
+  - bragai/brag-langchain
+  - dair-ai/prompt-engineering-guide
+  - dataease/sqlbot
+  - deepset-ai/haystack
+  - enescingoz/awesome-n8n-templates
+  - headroomlabs-ai/headroom
+  - hkuds/rag-anything
+  - labring/fastgpt
+  - langgenius/dify
+  - natively-ai-assistant/natively-cluely-ai-assistant
+  - pathwaycom/llm-app
+  - pathwaycom/pathway
+  - ruvnet/ruflo
+  - shubhamsaboo/awesome-llm-apps
+  - sinaptik-ai/pandas-ai
+  - startrail-org/leann
+  - tencent/weknora
+  - vectifyai/pageindex
+  - vitali87/code-graph-rag
+  - volcengine/openviking
   status: Proposed
   provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: backend-service
-  name: Backend Service
-  description: Repositories whose name/description/language match the 'Backend Service' keyword set (heuristic, not code-audited).
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: semantic-search
+  name: Semantic Search
+  description: Knowledge, Search & Data → Knowledge Systems → Semantic Search
+  category: Data
+  owners: []
+  repositories:
+  - Worldwidebro/iza-os-semantic-search
+  - deepset-ai/haystack
+  - eugeniughelbur/obsidian-second-brain
+  - giancarloerra/socraticode
+  - yoanbernabeu/grepai
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: full-text-search
+  name: Full-Text Search
+  description: Knowledge, Search & Data → Knowledge Systems → Full-Text Search
+  category: Data
+  owners: []
+  repositories:
+  - karakeep-app/karakeep
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: vector-databases
+  name: Vector Databases
+  description: Knowledge, Search & Data → Knowledge Systems → Vector Databases
+  category: Data
+  owners: []
+  repositories:
+  - Worldwidebro/iza-os-vector-database
+  - perone/vectorvfs
+  - qdrant/mcp-server-qdrant
+  - qdrant/qdrant
+  - typesense/typesense
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: data-catalogs
+  name: Data Catalogs
+  description: Knowledge, Search & Data → Knowledge Systems → Data Catalogs
+  category: Data
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: data-discovery
+  name: Data Discovery
+  description: Knowledge, Search & Data → Knowledge Systems → Data Discovery
+  category: Data
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: data-pipelines
+  name: Data Pipelines
+  description: Knowledge, Search & Data → Data Engineering → Data Pipelines
+  category: Data
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: etl
+  name: ETL
+  description: Knowledge, Search & Data → Data Engineering → ETL
+  category: Data
+  owners: []
+  repositories:
+  - Worldwidebro/iza-os-data
+  - Worldwidebro/nexus-ai-enterprise-platform
+  - blockchain-etl/ethereum-etl
+  - etlcpp/etl
+  - pathwaycom/pathway
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: elt
+  name: ELT
+  description: Knowledge, Search & Data → Data Engineering → ELT
+  category: Data
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: data-integration
+  name: Data Integration
+  description: Knowledge, Search & Data → Data Engineering → Data Integration
+  category: Data
+  owners: []
+  repositories:
+  - Worldwidebro/iza-os-data-integration-hub
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: data-transformation
+  name: Data Transformation
+  description: Knowledge, Search & Data → Data Engineering → Data Transformation
+  category: Data
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: data-quality
+  name: Data Quality
+  description: Knowledge, Search & Data → Data Engineering → Data Quality
+  category: Data
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: data-governance
+  name: Data Governance
+  description: Knowledge, Search & Data → Data Engineering → Data Governance
+  category: Data
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: metadata-management
+  name: Metadata Management
+  description: Knowledge, Search & Data → Data Engineering → Metadata Management
+  category: Data
+  owners: []
+  repositories:
+  - open-metadata/openmetadata
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: document-intelligence
+  name: Document Intelligence
+  description: Knowledge, Search & Data → Data Engineering → Document Intelligence
+  category: Data
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: information-extraction
+  name: Information Extraction
+  description: Knowledge, Search & Data → Data Engineering → Information Extraction
+  category: Data
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: cloud-infrastructure
+  name: Cloud Infrastructure
+  description: Infrastructure & Cloud → Cloud Platform → Cloud Infrastructure
+  category: Infrastructure
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: containerization
+  name: Containerization
+  description: Infrastructure & Cloud → Cloud Platform → Containerization
+  category: Infrastructure
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: docker
+  name: Docker
+  description: Infrastructure & Cloud → Cloud Platform → Docker
   category: Infrastructure
   owners: []
   repositories:
-  - ai-002-api
-  - avatar-engine
-  - brave-search-mcp-server
-  - bw-001-up-next-code
-  - code-server
-  - convex-backend
-  - deliv-713-roadrunner-cannabis
-  - ec-111-miss-toys
-  - ec-112-cosmic-kitty
-  - et-003-platform
-  - fastapi_mcp
-  - full-stack-fastapi-template
-  - how-to-secure-a-linux-server
-  - mcp-server-qdrant
-  - nats-server
-  - rabbitmq-server
-  - server
-  - server-survival
-  - sonarqube-mcp-server
+  - Worldwidebro/deployment-orchestrator
+  - Worldwidebro/worldwidebro-os-infrastructure
+  - adembc/lazyssh
+  - docker/awesome-compose
+  - docker/mcp-registry
+  - fastapi/full-stack-fastapi-template
+  - jesseduffield/lazydocker
+  - nginxproxymanager/nginx-proxy-manager
+  - orbstack/orbstack
+  - ottermind/chat2db
+  - ovexro/dockpanel
+  - pathwaycom/llm-app
+  - sansan0/trendradar
   status: Proposed
   provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: mobile-app
-  name: Mobile App
-  description: Repositories whose name/description/language match the 'Mobile App' keyword set (heuristic, not code-audited).
-  category: Product
-  owners: []
-  repositories:
-  - bw-001-up-next-code
-  - bw-002-mobile-lash-service
-  - bw-012-mobile-nail-tech
-  - bw-023-mobile-hairstyling
-  - bw-037-mobile-makeup-artist
-  - claude-in-mobile
-  - ht-004-mobile-app
-  - iza-os-core
-  - iza-os-mobile
-  - mobile-access-manager
-  - open-source-ios-apps
-  - telegram-ios
-  status: Proposed
-  provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: devops-infra
-  name: DevOps & Infrastructure
-  description: Repositories whose name/description/language match the 'DevOps & Infrastructure' keyword set (heuristic, not code-audited).
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: kubernetes
+  name: Kubernetes
+  description: Infrastructure & Cloud → Cloud Platform → Kubernetes
   category: Infrastructure
   owners: []
   repositories:
-  - argo-cd
-  - aws-devops-zero-to-hero
-  - comm-036-public-infrastructure-ai
-  - consciousness-deployment-system
-  - deployment-orchestrator
-  - iza-os-deployment-automation-bot
-  - iza-os-infra
-  - iza-os-infrastructure
-  - iza-os-infrastructure-monitoring-bot
-  - iza-os-ops
-  - iza-os-platform-core
-  - nexus-ai-enterprise-platform
-  - ops-staff-001-staffing
-  - terraform
-  - terraform-provider-aws
-  - worldwidebro-os-infrastructure
-  - xyops-integration
+  - argoproj/argo-cd
+  - external-secrets/external-secrets
+  - kubernetes-sigs/kustomize
+  - ubicloud/ubicloud
   status: Proposed
   provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: security-compliance
-  name: Security & Compliance
-  description: Repositories whose name/description/language match the 'Security & Compliance' keyword set (heuristic, not code-audited).
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: k3s
+  name: K3s
+  description: Infrastructure & Cloud → Cloud Platform → K3s
+  category: Infrastructure
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: serverless
+  name: Serverless
+  description: Infrastructure & Cloud → Cloud Platform → Serverless
+  category: Infrastructure
+  owners: []
+  repositories:
+  - localstack/localstack
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: infrastructure-as-code
+  name: Infrastructure as Code
+  description: Infrastructure & Cloud → Cloud Platform → Infrastructure as Code
+  category: Infrastructure
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: terraform
+  name: Terraform
+  description: Infrastructure & Cloud → Cloud Platform → Terraform
+  category: Infrastructure
+  owners: []
+  repositories:
+  - hashicorp/terraform
+  - hashicorp/terraform-provider-aws
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: configuration-management
+  name: Configuration Management
+  description: Infrastructure & Cloud → Cloud Platform → Configuration Management
+  category: Infrastructure
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: service-discovery
+  name: Service Discovery
+  description: Infrastructure & Cloud → Cloud Platform → Service Discovery
+  category: Infrastructure
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: api-gateways
+  name: API Gateways
+  description: Infrastructure & Cloud → Networking & Scale → API Gateways
+  category: Infrastructure
+  owners: []
+  repositories:
+  - Worldwidebro/ft-001-api-gateway
+  - Worldwidebro/iza-os-api-gateway-bot
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: load-balancing
+  name: Load Balancing
+  description: Infrastructure & Cloud → Networking & Scale → Load Balancing
+  category: Infrastructure
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: reverse-proxies
+  name: Reverse Proxies
+  description: Infrastructure & Cloud → Networking & Scale → Reverse Proxies
+  category: Infrastructure
+  owners: []
+  repositories:
+  - oauth2-proxy/oauth2-proxy
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: networking
+  name: Networking
+  description: Infrastructure & Cloud → Networking & Scale → Networking
+  category: Infrastructure
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: dns
+  name: DNS
+  description: Infrastructure & Cloud → Networking & Scale → DNS
+  category: Infrastructure
+  owners: []
+  repositories:
+  - adguardteam/adguardhome
+  - digitalplatdev/freedomain
+  - ovexro/dockpanel
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: cdn
+  name: CDN
+  description: Infrastructure & Cloud → Networking & Scale → CDN
+  category: Infrastructure
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: object-storage
+  name: Object Storage
+  description: Infrastructure & Cloud → Networking & Scale → Object Storage
+  category: Infrastructure
+  owners: []
+  repositories:
+  - pathwaycom/llm-app
+  - seaweedfs/seaweedfs
+  - simplifaisoul/osiris
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: distributed-systems
+  name: Distributed Systems
+  description: Infrastructure & Cloud → Networking & Scale → Distributed Systems
+  category: Infrastructure
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: edge-computing
+  name: Edge Computing
+  description: Infrastructure & Cloud → Networking & Scale → Edge Computing
+  category: Infrastructure
+  owners: []
+  repositories:
+  - Worldwidebro/tech-031-edge-computing-ai
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: infrastructure-automation
+  name: Infrastructure Automation
+  description: Infrastructure & Cloud → Networking & Scale → Infrastructure Automation
+  category: Infrastructure
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: relational-databases
+  name: Relational Databases
+  description: Databases & Storage → Database Systems → Relational Databases
+  category: Data
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: postgresql
+  name: PostgreSQL
+  description: Databases & Storage → Database Systems → PostgreSQL
+  category: Data
+  owners: []
+  repositories:
+  - canner/wrenai
+  - crystaldba/postgres-mcp
+  - fastapi/full-stack-fastapi-template
+  - grafana/grafana
+  - graphile/starter
+  - itusiai/mokersaas
+  - nextjs/saas-starter
+  - pathwaycom/llm-app
+  - ubicloud/ubicloud
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: mysql
+  name: MySQL
+  description: Databases & Storage → Database Systems → MySQL
+  category: Data
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: sqlite
+  name: SQLite
+  description: Databases & Storage → Database Systems → SQLite
+  category: Data
+  owners: []
+  repositories:
+  - gentleman-programming/engram
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: nosql-databases
+  name: NoSQL Databases
+  description: Databases & Storage → Database Systems → NoSQL Databases
+  category: Data
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: document-databases
+  name: Document Databases
+  description: Databases & Storage → Database Systems → Document Databases
+  category: Data
+  owners: []
+  repositories:
+  - async-labs/saas
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: graph-databases
+  name: Graph Databases
+  description: Databases & Storage → Database Systems → Graph Databases
+  category: Data
+  owners: []
+  repositories:
+  - neo4j/neo4j
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: time-series-databases
+  name: Time-Series Databases
+  description: Databases & Storage → Database Systems → Time-Series Databases
+  category: Data
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: vector-storage
+  name: Vector Storage
+  description: Databases & Storage → Database Systems → Vector Storage
+  category: Data
+  owners: []
+  repositories:
+  - graphify-labs/graphify
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: caching
+  name: Caching
+  description: Databases & Storage → Database Systems → Caching
+  category: Data
+  owners: []
+  repositories:
+  - lmcache/lmcache
+  - momenbasel/puremac
+  - pirate/wikipedia-mirror
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: redis
+  name: Redis
+  description: Databases & Storage → Data Durability → Redis
+  category: Data
+  owners: []
+  repositories:
+  - Worldwidebro/avatar-engine
+  - feremabraz/bloomberg-terminal
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: message-queues
+  name: Message Queues
+  description: Databases & Storage → Data Durability → Message Queues
+  category: Data
+  owners: []
+  repositories:
+  - apache/kafka
+  - pathwaycom/llm-app
+  - rabbitmq/rabbitmq-server
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: event-stores
+  name: Event Stores
+  description: Databases & Storage → Data Durability → Event Stores
+  category: Data
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: data-warehouses
+  name: Data Warehouses
+  description: Databases & Storage → Data Durability → Data Warehouses
+  category: Data
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: data-lakes
+  name: Data Lakes
+  description: Databases & Storage → Data Durability → Data Lakes
+  category: Data
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: file-storage
+  name: File Storage
+  description: Databases & Storage → Data Durability → File Storage
+  category: Data
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: backup-systems
+  name: Backup Systems
+  description: Databases & Storage → Data Durability → Backup Systems
+  category: Data
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: replication
+  name: Replication
+  description: Databases & Storage → Data Durability → Replication
+  category: Data
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: database-migration
+  name: Database Migration
+  description: Databases & Storage → Data Durability → Database Migration
+  category: Data
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: database-administration
+  name: Database Administration
+  description: Databases & Storage → Data Durability → Database Administration
+  category: Data
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: code-generation
+  name: Code Generation
+  description: Developer Tools & Software Engineering → Developer Experience → Code Generation
+  category: Product
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: code-intelligence
+  name: Code Intelligence
+  description: Developer Tools & Software Engineering → Developer Experience → Code Intelligence
+  category: Product
+  owners: []
+  repositories:
+  - abhigyanpatwari/gitnexus
+  - deusdata/codebase-memory-mcp
+  - tirth8205/code-review-graph
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: code-search
+  name: Code Search
+  description: Developer Tools & Software Engineering → Developer Experience → Code Search
+  category: Product
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: repository-management
+  name: Repository Management
+  description: Developer Tools & Software Engineering → Developer Experience → Repository Management
+  category: Product
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: git-tooling
+  name: Git Tooling
+  description: Developer Tools & Software Engineering → Developer Experience → Git Tooling
+  category: Product
+  owners: []
+  repositories:
+  - abhigyanpatwari/gitnexus
+  - anthropics/claude-code
+  - automazeio/ccpm
+  - azat-io/todoctor
+  - context-machine-lab/sleepless-agent
+  - jesseduffield/lazygit
+  - kunchenguid/no-mistakes
+  - ovexro/dockpanel
+  - tiimgreen/github-cheat-sheet
+  - vinzent03/obsidian-git
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: github-automation
+  name: GitHub Automation
+  description: Developer Tools & Software Engineering → Developer Experience → GitHub Automation
+  category: Product
+  owners: []
+  repositories:
+  - Worldwidebro/claude-workflow-demo
+  - nektos/act
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: developer-portals
+  name: Developer Portals
+  description: Developer Tools & Software Engineering → Developer Experience → Developer Portals
+  category: Product
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: ide-extensions
+  name: IDE Extensions
+  description: Developer Tools & Software Engineering → Developer Experience → IDE Extensions
+  category: Product
+  owners: []
+  repositories:
+  - pimzino/spec-workflow-mcp
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: cli-tools
+  name: CLI Tools
+  description: Developer Tools & Software Engineering → Developer Experience → CLI Tools
+  category: Product
+  owners: []
+  repositories:
+  - Worldwidebro/bw-001-up-next-business
+  - Worldwidebro/ps-016-photography-service
+  - abhigyanpatwari/gitnexus
+  - agarrharr/awesome-cli-apps
+  - agiprolabs/claude-trading-skills
+  - alirezarezvani/claude-skills
+  - anymorph-ai/claudable
+  - anyproto/anytype-ts
+  - arthur-ficial/apfel
+  - ayn2op/discordo
+  - azat-io/todoctor
+  - breferrari/obsidian-mind
+  - campfirein/byterover-cli
+  - canner/wrenai
+  - cloudflare/agentic-inbox
+  - cobusgreyling/loop-engineering
+  - composio-community/awesome-codex-skills
+  - dbeaver/dbeaver
+  - decolua/9router
+  - devlikeapro/waha
+  - diegosouzapw/omniglyph
+  - diegosouzapw/omniroute
+  - earendil-works/pi
+  - egonex-ai/understand-anything
+  - eugeniughelbur/obsidian-second-brain
+  - finnhub-stock-api/finnhub-python
+  - gentleman-programming/engram
+  - graphify-labs/graphify
+  - graphile/starter
+  - hoppscotch/hoppscotch
+  - iofficeai/aionui
+  - jlevy/the-art-of-command-line
+  - kepano/obsidian-skills
+  - makeplane/plane
+  - massive-com/client-python
+  - modelcontextprotocol/go-sdk
+  - moonshotai/kimi-cli
+  - mountain-loop/yaak
+  - mukul975/anthropic-cybersecurity-skills
+  - nexu-io/open-design
+  - once-ui-system/cli
+  - openclaw/peekaboo
+  - ottermind/chat2db
+  - panniantong/agent-reach
+  - pranshuparmar/witr
+  - prefecthq/fastmcp
+  - punitarani/fli
+  - qeeqbox/social-analyzer
+  - qwen-code-dev-bot/oh-my-cli
+  - santifer/career-ops
+  - sickn33/agentic-awesome-skills
+  - simeg/eureka
+  - tirth8205/code-review-graph
+  - trimstray/the-book-of-secret-knowledge
+  - twelvedata/twelvedata-python
+  - vercel-labs/agent-browser
+  - voltagent/awesome-agent-skills
+  - zhaoxuya520/reverse-skill
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: sdks
+  name: SDKs
+  description: Developer Tools & Software Engineering → Developer Experience → SDKs
+  category: Product
+  owners: []
+  repositories:
+  - alpacahq/alpaca-py
+  - berriai/litellm
+  - browserbase/stagehand
+  - langfuse/langfuse
+  - modelcontextprotocol/go-sdk
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: api-clients
+  name: API Clients
+  description: Developer Tools & Software Engineering → Software Quality → API Clients
+  category: Product
+  owners: []
+  repositories:
+  - finnhub-stock-api/finnhub-python
+  - mountain-loop/yaak
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: software-testing
+  name: Software Testing
+  description: Developer Tools & Software Engineering → Software Quality → Software Testing
+  category: Product
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: unit-testing
+  name: Unit Testing
+  description: Developer Tools & Software Engineering → Software Quality → Unit Testing
+  category: Product
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: integration-testing
+  name: Integration Testing
+  description: Developer Tools & Software Engineering → Software Quality → Integration Testing
+  category: Product
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: end-to-end-testing
+  name: End-to-End Testing
+  description: Developer Tools & Software Engineering → Software Quality → End-to-End Testing
+  category: Product
+  owners: []
+  repositories:
+  - future-agi/future-agi
+  - insforge/insforge
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: test-automation
+  name: Test Automation
+  description: Developer Tools & Software Engineering → Software Quality → Test Automation
+  category: Product
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: static-analysis
+  name: Static Analysis
+  description: Developer Tools & Software Engineering → Software Quality → Static Analysis
+  category: Product
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: dependency-management
+  name: Dependency Management
+  description: Developer Tools & Software Engineering → Software Quality → Dependency Management
+  category: Product
+  owners: []
+  repositories:
+  - python-poetry/poetry
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: package-management
+  name: Package Management
+  description: Developer Tools & Software Engineering → Software Quality → Package Management
+  category: Product
+  owners: []
+  repositories:
+  - othmanadi/planning-with-files
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: software-architecture
+  name: Software Architecture
+  description: Developer Tools & Software Engineering → Software Quality → Software Architecture
+  category: Product
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: ci-cd
+  name: CI/CD
+  description: DevOps, Deployment & Observability → Delivery → CI/CD
+  category: Infrastructure
+  owners: []
+  repositories:
+  - Worldwidebro/iza-os-ops
+  - googlecloudplatform/agent-starter-pack
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: github-actions
+  name: GitHub Actions
+  description: DevOps, Deployment & Observability → Delivery → GitHub Actions
+  category: Infrastructure
+  owners: []
+  repositories:
+  - Worldwidebro/claude-workflow-demo
+  - nektos/act
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: deployment-automation
+  name: Deployment Automation
+  description: DevOps, Deployment & Observability → Delivery → Deployment Automation
+  category: Infrastructure
+  owners: []
+  repositories:
+  - Worldwidebro/consciousness-deployment-system
+  - Worldwidebro/deployment-orchestrator
+  - Worldwidebro/iza-os-deployment-automation-bot
+  - Worldwidebro/iza-os-infrastructure
+  - Worldwidebro/iza-os-platform-core
+  - Worldwidebro/nexus-ai-enterprise-platform
+  - Worldwidebro/ops-staff-001-staffing
+  - Worldwidebro/xyops-integration
+  - anthropics/claude-quickstarts
+  - anymorph-ai/claudable
+  - argoproj/argo-cd
+  - coollabsio/coolify
+  - gokumohandas/made-with-ml
+  - google/adk-go
+  - labring/fastgpt
+  - langgenius/dify
+  - memorilabs/memori
+  - microsoft/agent-framework
+  - microsoft/skillopt
+  - nitrojs/nitro
+  - openobserve/openobserve
+  - ovexro/dockpanel
+  - ruvnet/ruflo
+  - simstudioai/sim
+  - triggerdotdev/trigger.dev
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: release-management
+  name: Release Management
+  description: DevOps, Deployment & Observability → Delivery → Release Management
+  category: Infrastructure
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: version-management
+  name: Version Management
+  description: DevOps, Deployment & Observability → Delivery → Version Management
+  category: Infrastructure
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: feature-flags
+  name: Feature Flags
+  description: DevOps, Deployment & Observability → Delivery → Feature Flags
+  category: Infrastructure
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: environment-management
+  name: Environment Management
+  description: DevOps, Deployment & Observability → Delivery → Environment Management
+  category: Infrastructure
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: secrets-management
+  name: Secrets Management
+  description: DevOps, Deployment & Observability → Delivery → Secrets Management
+  category: Infrastructure
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: service-monitoring
+  name: Service Monitoring
+  description: DevOps, Deployment & Observability → Observability & Reliability → Service Monitoring
+  category: Infrastructure
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: application-monitoring
+  name: Application Monitoring
+  description: DevOps, Deployment & Observability → Observability & Reliability → Application Monitoring
+  category: Infrastructure
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: infrastructure-monitoring
+  name: Infrastructure Monitoring
+  description: DevOps, Deployment & Observability → Observability & Reliability → Infrastructure Monitoring
+  category: Infrastructure
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: logging
+  name: Logging
+  description: DevOps, Deployment & Observability → Observability & Reliability → Logging
+  category: Infrastructure
+  owners: []
+  repositories:
+  - berriai/litellm
+  - blockchain-etl/ethereum-etl
+  - grafana/grafana
+  - grafana/loki
+  - headroomlabs-ai/headroom
+  - openobserve/openobserve
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: distributed-tracing
+  name: Distributed Tracing
+  description: DevOps, Deployment & Observability → Observability & Reliability → Distributed Tracing
+  category: Infrastructure
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: observability
+  name: Observability
+  description: DevOps, Deployment & Observability → Observability & Reliability → Observability
+  category: Infrastructure
+  owners: []
+  repositories:
+  - cilium/cilium
+  - googlecloudplatform/agent-starter-pack
+  - grafana/grafana
+  - juspay/hyperswitch
+  - langfuse/langfuse
+  - openobserve/openobserve
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: error-tracking
+  name: Error Tracking
+  description: DevOps, Deployment & Observability → Observability & Reliability → Error Tracking
+  category: Infrastructure
+  owners: []
+  repositories:
+  - getsentry/sentry
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: performance-monitoring
+  name: Performance Monitoring
+  description: DevOps, Deployment & Observability → Observability & Reliability → Performance Monitoring
+  category: Infrastructure
+  owners: []
+  repositories:
+  - getsentry/sentry
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: uptime-monitoring
+  name: Uptime Monitoring
+  description: DevOps, Deployment & Observability → Observability & Reliability → Uptime Monitoring
+  category: Infrastructure
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: apm
+  name: APM
+  description: DevOps, Deployment & Observability → Observability & Reliability → APM
+  category: Infrastructure
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: incident-management
+  name: Incident Management
+  description: DevOps, Deployment & Observability → Observability & Reliability → Incident Management
+  category: Infrastructure
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: sre
+  name: SRE
+  description: DevOps, Deployment & Observability → Observability & Reliability → SRE
+  category: Infrastructure
+  owners: []
+  repositories:
+  - tracer-cloud/opensre
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: cybersecurity
+  name: Cybersecurity
+  description: Security, Identity & Compliance → Identity & Access → Cybersecurity
+  category: Compliance
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: authentication
+  name: Authentication
+  description: Security, Identity & Compliance → Identity & Access → Authentication
   category: Compliance
   owners: []
   repositories:
-  - comm-005-ace-food-security-ai
-  - enhanced-cursor-rules
-  - external-secrets
-  - fin-026-financial-compliance-scanner
-  - fin-029-compliance-wallet-saas
-  - iza-os-finance-advisor-compliance-bot
-  - iza-os-finance-advisor-security-bot
-  - iza-os-hr-compliance-bot
-  - iza-os-hr-core
-  - iza-os-inventory-management-compliance-bot
-  - iza-os-inventory-management-security-bot
-  - iza-os-legal-core
-  - iza-os-legal-research-compliance-bot
-  - iza-os-legal-research-security-bot
-  - iza-os-marketing-automation-compliance-bot
-  - iza-os-marketing-automation-security-bot
-  - iza-os-operations-compliance-bot
-  - iza-os-operations-core
-  - iza-os-operations-security-bot
-  - iza-os-project-management-compliance-bot
-  - iza-os-project-management-security-bot
-  - iza-os-sales-automation-compliance-bot
-  - iza-os-sales-automation-security-bot
-  - iza-os-security
-  - iza-os-security-compliance-bot
-  - nexus-ai-enterprise-platform
-  - spec-019-smart-home-security
-  - tech-002-ai-compliance-scanner
-  - tech-021-network-security-ai
-  - tech-034-ai-compliance-scanner
-  - tech-053-network-security-ai
-  - worldwidebro-company-registry
-  - worldwidebro-finance-os
+  - Worldwidebro/shared-kernels
+  - insforge/insforge
+  - oauth2-proxy/oauth2-proxy
+  - scosman/cmsaasstarter
+  - tadata-org/fastapi_mcp
   status: Proposed
   provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: cms-content
-  name: CMS & Content
-  description: Repositories whose name/description/language match the 'CMS & Content' keyword set (heuristic, not code-audited).
-  category: Product
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: authorization
+  name: Authorization
+  description: Security, Identity & Compliance → Identity & Access → Authorization
+  category: Compliance
   owners: []
   repositories:
-  - automate-faceless-content
-  - ec-043-ugc-content-aggregator
-  - edu-006-homeschooling-content-ai
-  - et-003-content
-  - et-012-educational-content-library
-  - fh-017-cooking-content-brand
-  - mc-003-blog-network
-  - mc-005-content-creation-studio
-  - media-empire-platform
-  - ps-016-photography-service
-  - tech-009-content-studio-ai
-  - tech-016-video-editor-ai
-  - tech-041-content-studio-ai
-  - tech-048-video-editor-ai
-  - worldwidebro-marketing-os
+  - juspay/hyperswitch
   status: Proposed
   provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: identity-management
+  name: Identity Management
+  description: Security, Identity & Compliance → Identity & Access → Identity Management
+  category: Compliance
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: rbac
+  name: RBAC
+  description: Security, Identity & Compliance → Identity & Access → RBAC
+  category: Compliance
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: oauth
+  name: OAuth
+  description: Security, Identity & Compliance → Identity & Access → OAuth
+  category: Compliance
+  owners: []
+  repositories:
+  - diwenne/openreply
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: sso
+  name: SSO
+  description: Security, Identity & Compliance → Identity & Access → SSO
+  category: Compliance
+  owners: []
+  repositories:
+  - netbirdio/netbird
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: api-security
+  name: API Security
+  description: Security, Identity & Compliance → Identity & Access → API Security
+  category: Compliance
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: secrets
+  name: Secrets
+  description: Security, Identity & Compliance → Identity & Access → Secrets
+  category: Compliance
+  owners: []
+  repositories:
+  - external-secrets/external-secrets
+  - infisical/infisical
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: encryption
+  name: Encryption
+  description: Security, Identity & Compliance → Identity & Access → Encryption
+  category: Compliance
+  owners: []
+  repositories:
+  - tashfeenahmed/freellmapi
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: key-management
+  name: Key Management
+  description: Security, Identity & Compliance → Identity & Access → Key Management
+  category: Compliance
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: zero-trust
+  name: Zero Trust
+  description: Security, Identity & Compliance → Identity & Access → Zero Trust
+  category: Compliance
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: network-security
+  name: Network Security
+  description: Security, Identity & Compliance → Security Operations → Network Security
+  category: Compliance
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: vulnerability-management
+  name: Vulnerability Management
+  description: Security, Identity & Compliance → Security Operations → Vulnerability Management
+  category: Compliance
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: dependency-security
+  name: Dependency Security
+  description: Security, Identity & Compliance → Security Operations → Dependency Security
+  category: Compliance
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: security-scanning
+  name: Security Scanning
+  description: Security, Identity & Compliance → Security Operations → Security Scanning
+  category: Compliance
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: privacy
+  name: Privacy
+  description: Security, Identity & Compliance → Security Operations → Privacy
+  category: Compliance
+  owners: []
+  repositories:
+  - amruthpillai/reactive-resume
+  - blinkospace/blinko
+  - f/prompts.chat
+  - toeverything/affine
+  - zackriya-solutions/meetily
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: compliance
+  name: Compliance
+  description: Security, Identity & Compliance → Security Operations → Compliance
+  category: Compliance
+  owners: []
+  repositories:
+  - Worldwidebro/fin-026-financial-compliance-scanner
+  - Worldwidebro/fin-029-compliance-wallet-saas
+  - Worldwidebro/iza-os-finance-advisor-compliance-bot
+  - Worldwidebro/iza-os-hr-compliance-bot
+  - Worldwidebro/iza-os-hr-core
+  - Worldwidebro/iza-os-inventory-management-compliance-bot
+  - Worldwidebro/iza-os-legal-core
+  - Worldwidebro/iza-os-legal-research-compliance-bot
+  - Worldwidebro/iza-os-marketing-automation-compliance-bot
+  - Worldwidebro/iza-os-operations-compliance-bot
+  - Worldwidebro/iza-os-project-management-compliance-bot
+  - Worldwidebro/iza-os-sales-automation-compliance-bot
+  - Worldwidebro/iza-os-security-compliance-bot
+  - Worldwidebro/tech-002-ai-compliance-scanner
+  - Worldwidebro/tech-034-ai-compliance-scanner
+  - Worldwidebro/worldwidebro-finance-os
+  - alirezarezvani/claude-skills
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: audit-logging
+  name: Audit Logging
+  description: Security, Identity & Compliance → Security Operations → Audit Logging
+  category: Compliance
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: governance
+  name: Governance
+  description: Security, Identity & Compliance → Security Operations → Governance
+  category: Compliance
+  owners: []
+  repositories:
+  - Worldwidebro/_master-governance
+  - Worldwidebro/em-031-governance-hub-ai
+  - Worldwidebro/em-046-smart-city-governance
+  - Worldwidebro/family-office-os
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: crm
+  name: CRM
+  description: Business Operations → Business Administration → CRM
+  category: Operations
+  owners: []
+  repositories:
+  - Worldwidebro/iza-os-sales-core
+  - trycompai/crm
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: erp
+  name: ERP
+  description: Business Operations → Business Administration → ERP
+  category: Operations
+  owners: []
+  repositories:
+  - frappe/erpnext
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: hr
+  name: HR
+  description: Business Operations → Business Administration → HR
+  category: Operations
+  owners: []
+  repositories:
+  - Worldwidebro/iza-os-hr-analytics-bot
+  - Worldwidebro/iza-os-hr-benefits-bot
+  - Worldwidebro/iza-os-hr-compliance-bot
+  - Worldwidebro/iza-os-hr-core
+  - Worldwidebro/iza-os-hr-onboarding-bot
+  - Worldwidebro/iza-os-hr-payroll-bot
+  - Worldwidebro/iza-os-hr-performance-bot
+  - Worldwidebro/iza-os-hr-recruitment-bot
+  - Worldwidebro/iza-os-hr-training-bot
+  - Worldwidebro/ops-staff-001-staffing
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: recruiting
+  name: Recruiting
+  description: Business Operations → Business Administration → Recruiting
+  category: Operations
+  owners: []
+  repositories:
+  - Worldwidebro/iza-os-hr-core
+  - Worldwidebro/iza-os-hr-recruitment-bot
+  - Worldwidebro/ops-008-recruitment-ai
+  - Worldwidebro/ps-024-recruiting-agency
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: staffing
+  name: Staffing
+  description: Business Operations → Business Administration → Staffing
+  category: Operations
+  owners: []
+  repositories:
+  - Worldwidebro/ops-staff-001-staffing
+  - Worldwidebro/worldwidebro-staffing-os
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: payroll
+  name: Payroll
+  description: Business Operations → Business Administration → Payroll
+  category: Operations
+  owners: []
+  repositories:
+  - Worldwidebro/fin-034-payroll-automation
+  - Worldwidebro/iza-os-hr-payroll-bot
+  - Worldwidebro/ops-staff-001-staffing
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: accounting
+  name: Accounting
+  description: Business Operations → Business Administration → Accounting
+  category: Operations
+  owners: []
+  repositories:
+  - Worldwidebro/ps-003-accounting-services
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: bookkeeping
+  name: Bookkeeping
+  description: Business Operations → Business Administration → Bookkeeping
+  category: Operations
+  owners: []
+  repositories:
+  - Worldwidebro/fin-011-automated-bookkeeping
+  - Worldwidebro/ps-009-bookkeeping-service
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: financial-management
+  name: Financial Management
+  description: Business Operations → Business Administration → Financial Management
+  category: Operations
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: procurement
+  name: Procurement
+  description: Business Operations → Business Administration → Procurement
+  category: Operations
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: inventory-management
+  name: Inventory Management
+  description: Business Operations → Business Administration → Inventory Management
+  category: Operations
+  owners: []
+  repositories:
+  - Worldwidebro/iza-os-inventory-management-analytics-bot
+  - Worldwidebro/iza-os-inventory-management-automation-bot
+  - Worldwidebro/iza-os-inventory-management-compliance-bot
+  - Worldwidebro/iza-os-inventory-management-integration-bot
+  - Worldwidebro/iza-os-inventory-management-monitoring-bot
+  - Worldwidebro/iza-os-inventory-management-optimization-bot
+  - Worldwidebro/iza-os-inventory-management-reporting-bot
+  - Worldwidebro/iza-os-inventory-management-security-bot
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: supply-chain
+  name: Supply Chain
+  description: Business Operations → Business Administration → Supply Chain
+  category: Operations
+  owners: []
+  repositories:
+  - Worldwidebro/tech-011-supply-chain-optimizer
+  - Worldwidebro/tech-043-supply-chain-optimizer
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: project-management
+  name: Project Management
+  description: Business Operations → Work Management → Project Management
+  category: Operations
+  owners: []
+  repositories:
+  - Worldwidebro/iza-os-project-management-alerting-bot
+  - Worldwidebro/iza-os-project-management-analytics-bot
+  - Worldwidebro/iza-os-project-management-automation-bot
+  - Worldwidebro/iza-os-project-management-compliance-bot
+  - Worldwidebro/iza-os-project-management-discovery-bot
+  - Worldwidebro/iza-os-project-management-integration-bot
+  - Worldwidebro/iza-os-project-management-intelligence-bot
+  - Worldwidebro/iza-os-project-management-management-bot
+  - Worldwidebro/iza-os-project-management-monitoring-bot
+  - Worldwidebro/iza-os-project-management-optimization-bot
+  - Worldwidebro/iza-os-project-management-orchestration-bot
+  - Worldwidebro/iza-os-project-management-processing-bot
+  - Worldwidebro/iza-os-project-management-reporting-bot
+  - Worldwidebro/iza-os-project-management-security-bot
+  - Worldwidebro/iza-os-project-management-synthesis-bot
+  - automazeio/ccpm
+  - hcengineering/platform
+  - leantime/leantime
+  - makeplane/plane
+  - usekaneo/kaneo
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: task-management
+  name: Task Management
+  description: Business Operations → Work Management → Task Management
+  category: Operations
+  owners: []
+  repositories:
+  - snarktank/ai-dev-tasks
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: workflow-management
+  name: Workflow Management
+  description: Business Operations → Work Management → Workflow Management
+  category: Operations
+  owners: []
+  repositories:
+  - Worldwidebro/ai-002-web-app
+  - Worldwidebro/billionaire-workflow-automation
+  - Worldwidebro/claude-workflow-demo
+  - Worldwidebro/iza-os-automation
+  - Worldwidebro/iza-os-operations-core
+  - Worldwidebro/iza-os-workflow-integration
+  - Worldwidebro/tech-013-workflow-automation
+  - Worldwidebro/tech-045-workflow-automation
+  - Worldwidebro/worldwidebro-os-infrastructure
+  - activepieces/activepieces
+  - anthropics/claude-code
+  - arindam200/awesome-ai-apps
+  - composio-community/awesome-codex-skills
+  - composiohq/awesome-claude-skills
+  - czlonkowski/n8n-mcp
+  - deepset-ai/haystack
+  - donchitos/claude-code-game-studios
+  - dtyq/magic
+  - enescingoz/awesome-n8n-templates
+  - github/gh-aw-mcpg
+  - harry0703/moneyprinterturbo
+  - labring/fastgpt
+  - langgenius/dify
+  - microsoft/agent-framework
+  - microsoft/mcp-for-beginners
+  - modernrelay/omnigraph
+  - n8n-io/n8n
+  - nanobrowser/nanobrowser
+  - opendatalab/mineru
+  - pimzino/spec-workflow-mcp
+  - pixlcore/xyops
+  - primeintellect-ai/prime-agent
+  - ruvnet/ruflo
+  - simstudioai/sim
+  - skyvern-ai/skyvern
+  - taracodlabs/aiden
+  - tinyhumansai/openhuman
+  - tirth8205/code-review-graph
+  - tooljet/tooljet
+  - triggerdotdev/trigger.dev
+  - waooai/waoowaoo
+  - wavetermdev/waveterm
+  - ykdojo/claude-code-tips
+  - zie619/n8n-workflows
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: document-management
+  name: Document Management
+  description: Business Operations → Work Management → Document Management
+  category: Operations
+  owners: []
+  repositories:
+  - paperless-ngx/paperless-ngx
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: contract-management
+  name: Contract Management
+  description: Business Operations → Work Management → Contract Management
+  category: Operations
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: knowledge-operations
+  name: Knowledge Operations
+  description: Business Operations → Work Management → Knowledge Operations
+  category: Operations
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: business-process-management
+  name: Business Process Management
+  description: Business Operations → Work Management → Business Process Management
+  category: Operations
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: operations-management
+  name: Operations Management
+  description: Business Operations → Work Management → Operations Management
+  category: Operations
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
 - id: e-commerce
   name: E-Commerce
-  description: Repositories whose name/description/language match the 'E-Commerce' keyword set (heuristic, not code-audited).
-  category: Product
-  owners: []
-  repositories:
-  - ace-ecommerce-templates
-  - business-template-marketplace
-  - bw-018-nail-booking-marketplace
-  - bw-031-hair-marketplace
-  - deliv-713-roadrunner-cannabis
-  - ec-005-nwa-products
-  - ec-020-costume-shop-ai
-  - ec-023-tool-shop-ai
-  - ec-026-hobby-shop-ai
-  - ec-040-abandoned-cart-recovery
-  - ec-048-wholesale-marketplace-ai
-  - ec-049-rental-marketplace
-  - edu-008-branding-templates-marketplace
-  - fh-022-specialty-coffee-shop
-  - fh-023-bakery---pastry-shop
-  - fh-025-ice-cream-shop
-  - lt-025-logistics-marketplace
-  - marketplace
-  - marketplace-core
-  - mc-019-digital-download-store
-  - mc-020-nft-marketplace
-  - op-002-template-marketplace
-  - up-next-marketplace
-  status: Proposed
-  provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: crm-sales
-  name: CRM & Sales
-  description: Repositories whose name/description/language match the 'CRM & Sales' keyword set (heuristic, not code-audited).
-  category: Product
-  owners: []
-  repositories:
-  - clients
-  - comm-004-community-outreach-nonprofit
-  - crm
-  - ec-076-ai-sales-forecasting
-  - iza-os-sales-automation-alerting-bot
-  - iza-os-sales-automation-analytics-bot
-  - iza-os-sales-automation-automation-bot
-  - iza-os-sales-automation-compliance-bot
-  - iza-os-sales-automation-discovery-bot
-  - iza-os-sales-automation-integration-bot
-  - iza-os-sales-automation-intelligence-bot
-  - iza-os-sales-automation-management-bot
-  - iza-os-sales-automation-monitoring-bot
-  - iza-os-sales-automation-optimization-bot
-  - iza-os-sales-automation-orchestration-bot
-  - iza-os-sales-automation-processing-bot
-  - iza-os-sales-automation-reporting-bot
-  - iza-os-sales-automation-security-bot
-  - iza-os-sales-automation-synthesis-bot
-  - iza-os-sales-core
-  status: Proposed
-  provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: messaging-communication
-  name: Messaging & Communication
-  description: Repositories whose name/description/language match the 'Messaging & Communication' keyword set (heuristic, not code-audited).
-  category: Integration
-  owners: []
-  repositories:
-  - chat-ui
-  - claude-code-telegram
-  - ec-051-ai-email-marketing
-  - email-design-os
-  - iza-os-customer-service-email-bot
-  - iza-os-notification-bot
-  - node-telegram-bot-api
-  - prompts.chat
-  - telegram-ios
-  status: Proposed
-  provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: knowledge-graph
-  name: Knowledge Graph & Notes
-  description: Repositories whose name/description/language match the 'Knowledge Graph & Notes' keyword set (heuristic, not code-audited).
-  category: Data
-  owners: []
-  repositories:
-  - code-graph-rag
-  - code-review-graph
-  - iza-os-customer-service-knowledge-bot
-  - iza-os-data
-  - iza-os-knowledge-graph
-  - knowledge-work-plugins
-  - obsidian-git
-  - obsidian-mind
-  - obsidian-second-brain
-  - obsidian-skills
-  - obsidian-vault
-  - open-knowledge
-  - research-processing-pipeline
-  - the-book-of-secret-knowledge
-  - worldwidebro-os-knowledge-graph
-  status: Proposed
-  provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: game-development
-  name: Game Development
-  description: Repositories whose name/description/language match the 'Game Development' keyword set (heuristic, not code-audited).
-  category: Product
-  owners: []
-  repositories:
-  - claude-code-game-studios
-  status: Proposed
-  provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: blockchain-web3
-  name: Blockchain / Web3
-  description: Repositories whose name/description/language match the 'Blockchain / Web3' keyword set (heuristic, not code-audited).
-  category: Product
-  owners: []
-  repositories:
-  - ec-028-nft-fashion-licensing
-  - em-015-crypto-trading-ai
-  - fin-009-crypto-tax-optimizer
-  - iza-os-blockchain-core
-  - iza-os-defi-platform
-  - iza-os-nft-platform
-  - iza-os-web3-integration
-  - mc-020-nft-marketplace
-  - tech-007-blockchain-verifier-ai
-  - tech-039-blockchain-verifier-ai
-  status: Proposed
-  provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: education-learning
-  name: Education & Learning
-  description: Repositories whose name/description/language match the 'Education & Learning' keyword set (heuristic, not code-audited).
-  category: Product
-  owners: []
-  repositories:
-  - agents-course
-  - ai-002-ml-engine
-  - bw-010-online-lash-education
-  - comm-026-public-education-ai
-  - ec-083-ai-product-education
-  - edu-017-ai-coding-tutor
-  - edu-018-online-course-creator
-  - edu-019-executive-education-program
-  - edu-024-language-learning-ai
-  - edu-027-medical-education-ai
-  - edu-028-legal-education-ai
-  - edu-029-music-education-ai
-  - edu-030-art-education-ai
-  - edu-031-physical-education-ai
-  - edu-032-environmental-education-ai
-  - edu-034-math-education-ai
-  - edu-035-science-education-ai
-  - education-platform-system
-  - em-034-education-equity-ai
-  - et-002-language-learning-app
-  - et-003-content
-  - et-003-platform
-  - et-014-gamified-learning-app
-  - fh-019-cooking-course-platform
-  - mc-017-online-course-platform
-  - project-based-learning
-  - tech-025-machine-learning-builder
-  - tech-057-machine-learning-builder
-  - worldwidebro-education-os
-  status: Proposed
-  provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: healthcare
-  name: Healthcare
-  description: Repositories whose name/description/language match the 'Healthcare' keyword set (heuristic, not code-audited).
-  category: Product
-  owners: []
-  repositories:
-  - comm-016-community-health-ai
-  - comm-032-public-health-ai
-  - edu-027-medical-education-ai
-  - em-035-health-equity-ai
-  - ht-004-data-api
-  - lt-005-medical-courier-dispatch
-  status: Proposed
-  provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: finance-fintech
-  name: Finance & Fintech
-  description: Repositories whose name/description/language match the 'Finance & Fintech' keyword set (heuristic, not code-audited).
-  category: Product
-  owners: []
-  repositories:
-  - awesome-quant
-  - claude-trading-skills
-  - divine-johns-portfolio
-  - edu-023-personal-finance-coach
-  - em-015-crypto-trading-ai
-  - fin-006-tax-prep-filing-services
-  - fin-009-crypto-tax-optimizer
-  - fin-016-trade-finance-ai
-  - fin-021-tax-deduction-finder
-  - fin-023-investment-portfolio-ai
-  - fin-033-ai-tax-preparation-service
-  - fin-037-worldwidebro-trading-system
-  - iza-os-agents
-  - iza-os-finance-advisor-alerting-bot
-  - iza-os-finance-advisor-analytics-bot
-  - iza-os-finance-advisor-automation-bot
-  - iza-os-finance-advisor-compliance-bot
-  - iza-os-finance-advisor-discovery-bot
-  - iza-os-finance-advisor-forecasting-bot
-  - iza-os-finance-advisor-integration-bot
-  - iza-os-finance-advisor-intelligence-bot
-  - iza-os-finance-advisor-management-bot
-  - iza-os-finance-advisor-monitoring-bot
-  - iza-os-finance-advisor-optimization-bot
-  - iza-os-finance-advisor-orchestration-bot
-  - iza-os-finance-advisor-processing-bot
-  - iza-os-finance-advisor-reporting-bot
-  - iza-os-finance-advisor-security-bot
-  - iza-os-finance-advisor-synthesis-bot
-  - iza-os-finance-core
-  - magic-portfolio
-  - ps-010-tax-preparation-service
-  - quant-mind
-  - tax-company-2026
-  - tech-ventures-portfolio
-  - vibe-trading
-  - worldwidebro-company-registry
-  - worldwidebro-finance-os
-  status: Proposed
-  provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: real-estate
-  name: Real Estate
-  description: Repositories whose name/description/language match the 'Real Estate' keyword set (heuristic, not code-audited).
-  category: Product
-  owners: []
-  repositories:
-  - ins-001-venture-insurance
-  - intellectual-property-management
-  - re-001-worldwidebro-holdings
-  - re-002-os-property-management
-  status: Proposed
-  provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: legal-compliance
-  name: Legal & Compliance
-  description: Repositories whose name/description/language match the 'Legal & Compliance' keyword set (heuristic, not code-audited).
-  category: Compliance
-  owners: []
-  repositories:
-  - comm-025-community-legal-aid
-  - edu-015-ai-legal-doc-generator
-  - edu-028-legal-education-ai
-  - fin-028-legal-analyzer-ai
-  - fin-032-legal-toolkit-ai
-  - fin-033-legal-toolkit-ai
-  - ft-001-core-ledger
-  - iza-os-legal-core
-  - iza-os-legal-research-alerting-bot
-  - iza-os-legal-research-compliance-bot
-  - iza-os-legal-research-discovery-bot
-  - iza-os-legal-research-integration-bot
-  - iza-os-legal-research-intelligence-bot
-  - iza-os-legal-research-management-bot
-  - iza-os-legal-research-optimization-bot
-  - iza-os-legal-research-orchestration-bot
-  - iza-os-legal-research-processing-bot
-  - iza-os-legal-research-reporting-bot
-  - iza-os-legal-research-security-bot
-  - iza-os-legal-research-synthesis-bot
-  - legal-001-ai-boss-holdings
-  - legal-contract-templates
-  - ps-002-legal-services
-  - venture-contract-engine
-  - worldwidebro-construction-os
-  status: Proposed
-  provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: hr-recruiting
-  name: HR & Recruiting
-  description: Repositories whose name/description/language match the 'HR & Recruiting' keyword set (heuristic, not code-audited).
+  description: Commerce, Customer & Growth → Commerce Operations → E-Commerce
   category: Operations
   owners: []
   repositories:
-  - Resume
-  - et-009-resume-writing-service
-  - hiring-agent
-  - reactive-resume
+  - Worldwidebro/ace-ecommerce-templates
+  - Worldwidebro/ec-044-live-commerce-platform
+  - Worldwidebro/ec-111-miss-toys
+  - Worldwidebro/ec-112-cosmic-kitty
+  - agricidaniel/claude-seo
+  - evershopcommerce/evershop
   status: Proposed
   provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: marketing-growth
-  name: Marketing & Growth
-  description: Repositories whose name/description/language match the 'Marketing & Growth' keyword set (heuristic, not code-audited).
-  category: Product
-  owners: []
-  repositories:
-  - awesome-marketing
-  - claude-ads
-  - claude-seo
-  - consult-001-venture-consulting
-  - ec-051-ai-email-marketing
-  - fin-030-local-seo-ranker-ai
-  - iza-os-agents
-  - iza-os-marketing-automation-alerting-bot
-  - iza-os-marketing-automation-analytics-bot
-  - iza-os-marketing-automation-automation-bot
-  - iza-os-marketing-automation-campaign-bot
-  - iza-os-marketing-automation-compliance-bot
-  - iza-os-marketing-automation-discovery-bot
-  - iza-os-marketing-automation-integration-bot
-  - iza-os-marketing-automation-intelligence-bot
-  - iza-os-marketing-automation-management-bot
-  - iza-os-marketing-automation-monitoring-bot
-  - iza-os-marketing-automation-optimization-bot
-  - iza-os-marketing-automation-orchestration-bot
-  - iza-os-marketing-automation-processing-bot
-  - iza-os-marketing-automation-reporting-bot
-  - iza-os-marketing-automation-security-bot
-  - iza-os-marketing-automation-synthesis-bot
-  - open-seo
-  - ps-005-marketing-agency
-  - ps-021-seo-agency
-  - worldwidebro-marketing-os
-  status: Proposed
-  provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: developer-tools
-  name: Developer Tools
-  description: Repositories whose name/description/language match the 'Developer Tools' keyword set (heuristic, not code-audited).
-  category: Infrastructure
-  owners: []
-  repositories:
-  - agent-framework
-  - agent-starter-pack
-  - ai-venture-studio-template
-  - ai-website-cloner-template
-  - awesome-cli-apps
-  - business-template-marketplace
-  - bw-020-ai-nail-design-generator
-  - byterover-cli
-  - cli
-  - ec-029-instant-brand-generator
-  - edu-015-ai-legal-doc-generator
-  - fin-032-legal-toolkit-ai
-  - fin-033-legal-toolkit-ai
-  - full-stack-fastapi-template
-  - go-sdk
-  - hackathon-starter
-  - iza-os-cli
-  - kimi-cli
-  - next-js-boilerplate
-  - nextjs-starter
-  - oh-my-cli
-  - op-002-template-marketplace
-  - repo-template
-  - saas-starter
-  - saas-starter-kit
-  - starter
-  - superclaude_framework
-  - watch-cli
-  - worldwidebro-company-registry
-  status: Proposed
-  provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
-- id: venture-governance
-  name: Venture Governance & Registry
-  description: Repositories whose name/description/language match the 'Venture Governance & Registry' keyword set (heuristic, not code-audited).
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: marketplaces
+  name: Marketplaces
+  description: Commerce, Customer & Growth → Commerce Operations → Marketplaces
   category: Operations
   owners: []
   repositories:
-  - OS-001-MATHEMATICAL-OS-REGISTRY
-  - _master-governance
-  - acquisition-vehicle-automation
-  - billionaire-brain-assistant
-  - billionaire-consciousness-empire
-  - billionaire-workflow-automation
-  - consciousness-deployment-system
-  - consulting-services-automation
-  - divine-johns-portfolio
-  - ec-090-ai-gift-registry
-  - ec-091-ai-wedding-registry
-  - ec-092-ai-baby-registry
-  - edu-013-automated-empire-book
-  - education-platform-system
-  - em-031-governance-hub-ai
-  - em-046-smart-city-governance
-  - family-office-os
-  - fin-023-investment-portfolio-ai
-  - global-operations-automation
-  - innovation-hub-platform
-  - intellectual-property-management
-  - investment-fund-management
-  - iza-os-ai-consciousness-platform
-  - iza-os-ai-core-platform
-  - iza-os-ai-nlp-platform
-  - iza-os-ai-optimization-platform
-  - iza-os-ai-prediction-platform
-  - iza-os-ai-vision-platform
-  - iza-os-automation-integration
-  - iza-os-blockchain-core
-  - iza-os-cryptocurrency-management
-  - iza-os-customer-service-automation-bot
-  - iza-os-customer-service-chatbot-bot
-  - iza-os-customer-service-email-bot
-  - iza-os-customer-service-escalation-bot
-  - iza-os-customer-service-faq-bot
-  - iza-os-customer-service-knowledge-bot
-  - iza-os-customer-service-phone-bot
-  - iza-os-customer-service-social-bot
-  - iza-os-customer-service-ticket-bot
-  - iza-os-data-integration-hub
-  - iza-os-defi-platform
-  - iza-os-enterprise-integrations
-  - iza-os-finance-advisor-forecasting-bot
-  - iza-os-hr-analytics-bot
-  - iza-os-hr-benefits-bot
-  - iza-os-hr-compliance-bot
-  - iza-os-hr-onboarding-bot
-  - iza-os-hr-payroll-bot
-  - iza-os-hr-performance-bot
-  - iza-os-hr-recruitment-bot
-  - iza-os-hr-training-bot
-  - iza-os-marketing-automation-campaign-bot
-  - iza-os-monitoring-integration
-  - iza-os-nft-platform
-  - iza-os-operations-analytics-bot
-  - iza-os-operations-automation-bot
-  - iza-os-operations-compliance-bot
-  - iza-os-operations-integration-bot
-  - iza-os-operations-intelligence-bot
-  - iza-os-operations-monitoring-bot
-  - iza-os-operations-optimization-bot
-  - iza-os-operations-reporting-bot
-  - iza-os-operations-security-bot
-  - iza-os-smart-contracts
-  - iza-os-third-party-apis
-  - iza-os-web3-integration
-  - iza-os-workflow-integration
-  - magic-portfolio
-  - mcp-registry
-  - media-empire-platform
-  - partnership-network-management
-  - re-002-os-property-management
-  - registry
-  - research-lab-automation
-  - revenue-multiplication-system
-  - tech-ventures-portfolio
-  - toolsdk-mcp-registry
-  - venture-studio-core
-  - wealth-optimization-platform
-  - worldwidebro-company-registry
-  - worldwidebro-holdings
+  - Worldwidebro/business-template-marketplace
+  - Worldwidebro/bw-018-nail-booking-marketplace
+  - Worldwidebro/bw-031-hair-marketplace
+  - Worldwidebro/ec-005-nwa-products
+  - Worldwidebro/ec-048-wholesale-marketplace-ai
+  - Worldwidebro/ec-049-rental-marketplace
+  - Worldwidebro/edu-008-branding-templates-marketplace
+  - Worldwidebro/lt-025-logistics-marketplace
+  - Worldwidebro/marketplace-core
+  - Worldwidebro/mc-020-nft-marketplace
+  - Worldwidebro/op-002-template-marketplace
+  - Worldwidebro/up-next-marketplace
+  - decentraland/marketplace
+  - othmanadi/planning-with-files
+  - phuryn/pm-skills
+  - wshobson/agents
   status: Proposed
   provenance: inferred
-  created_at: '2026-08-23T00:00:00Z'
-  updated_at: '2026-08-23T00:00:00Z'
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: payments
+  name: Payments
+  description: Commerce, Customer & Growth → Commerce Operations → Payments
+  category: Operations
+  owners: []
+  repositories:
+  - Worldwidebro/business-template-marketplace
+  - google-agentic-commerce/ap2
+  - juspay/hyperswitch
+  - x402-foundation/x402
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: billing
+  name: Billing
+  description: Commerce, Customer & Growth → Commerce Operations → Billing
+  category: Operations
+  owners: []
+  repositories:
+  - diegosouzapw/omniglyph
+  - polarsource/polar
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: subscriptions
+  name: Subscriptions
+  description: Commerce, Customer & Growth → Commerce Operations → Subscriptions
+  category: Operations
+  owners: []
+  repositories:
+  - Worldwidebro/ec-014-subscription-box-ai
+  - natively-ai-assistant/natively-cluely-ai-assistant
+  - scosman/cmsaasstarter
+  - siddharthvaddem/openscreen
+  - stablyai/orca
+  - tryghost/ghost
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: pricing
+  name: Pricing
+  description: Commerce, Customer & Growth → Commerce Operations → Pricing
+  category: Operations
+  owners: []
+  repositories:
+  - Worldwidebro/bw-001-up-next-business
+  - Worldwidebro/ec-032-dynamic-pricing-engine
+  - Worldwidebro/ec-075-ai-pricing-analyst
+  - scosman/cmsaasstarter
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: dynamic-pricing
+  name: Dynamic Pricing
+  description: Commerce, Customer & Growth → Commerce Operations → Dynamic Pricing
+  category: Operations
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: checkout
+  name: Checkout
+  description: Commerce, Customer & Growth → Commerce Operations → Checkout
+  category: Operations
+  owners: []
+  repositories:
+  - nvidia-ai-blueprints/retail-agentic-commerce
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: order-management
+  name: Order Management
+  description: Commerce, Customer & Growth → Commerce Operations → Order Management
+  category: Operations
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: fulfillment
+  name: Fulfillment
+  description: Commerce, Customer & Growth → Commerce Operations → Fulfillment
+  category: Operations
+  owners: []
+  repositories:
+  - Worldwidebro/ec-036-fulfillment-network-ai
+  - Worldwidebro/lt-022-fulfillment-center
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: shipping
+  name: Shipping
+  description: Commerce, Customer & Growth → Commerce Operations → Shipping
+  category: Operations
+  owners: []
+  repositories:
+  - Worldwidebro/ace-ecommerce-templates
+  - Worldwidebro/ec-069-ai-shipping-labeler
+  - Worldwidebro/lt-026-shipping-platform
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: logistics
+  name: Logistics
+  description: Commerce, Customer & Growth → Commerce Operations → Logistics
+  category: Operations
+  owners: []
+  repositories:
+  - Worldwidebro/ec-059-ai-logistics-planner
+  - Worldwidebro/lt-002-freight-brokerage
+  - Worldwidebro/lt-003-logistics-dispatch-service
+  - Worldwidebro/lt-005-medical-courier-dispatch
+  - Worldwidebro/lt-013-logistics-automation-system
+  - Worldwidebro/lt-017-courier-service
+  - Worldwidebro/lt-020-freight-company
+  - Worldwidebro/lt-025-logistics-marketplace
+  - Worldwidebro/lt-028-freight-ai-optimization
+  - Worldwidebro/lt-030-cold-chain-logistics
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: customer-support
+  name: Customer Support
+  description: Commerce, Customer & Growth → Customer & Growth → Customer Support
+  category: Operations
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: help-desks
+  name: Help Desks
+  description: Commerce, Customer & Growth → Customer & Growth → Help Desks
+  category: Operations
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: marketing-automation
+  name: Marketing Automation
+  description: Commerce, Customer & Growth → Customer & Growth → Marketing Automation
+  category: Operations
+  owners: []
+  repositories:
+  - Worldwidebro/iza-os-marketing-automation-alerting-bot
+  - Worldwidebro/iza-os-marketing-automation-analytics-bot
+  - Worldwidebro/iza-os-marketing-automation-automation-bot
+  - Worldwidebro/iza-os-marketing-automation-compliance-bot
+  - Worldwidebro/iza-os-marketing-automation-discovery-bot
+  - Worldwidebro/iza-os-marketing-automation-integration-bot
+  - Worldwidebro/iza-os-marketing-automation-intelligence-bot
+  - Worldwidebro/iza-os-marketing-automation-management-bot
+  - Worldwidebro/iza-os-marketing-automation-monitoring-bot
+  - Worldwidebro/iza-os-marketing-automation-optimization-bot
+  - Worldwidebro/iza-os-marketing-automation-orchestration-bot
+  - Worldwidebro/iza-os-marketing-automation-processing-bot
+  - Worldwidebro/iza-os-marketing-automation-reporting-bot
+  - Worldwidebro/iza-os-marketing-automation-security-bot
+  - Worldwidebro/iza-os-marketing-automation-synthesis-bot
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: sales-automation
+  name: Sales Automation
+  description: Commerce, Customer & Growth → Customer & Growth → Sales Automation
+  category: Operations
+  owners: []
+  repositories:
+  - Worldwidebro/iza-os-sales-automation-alerting-bot
+  - Worldwidebro/iza-os-sales-automation-analytics-bot
+  - Worldwidebro/iza-os-sales-automation-automation-bot
+  - Worldwidebro/iza-os-sales-automation-compliance-bot
+  - Worldwidebro/iza-os-sales-automation-discovery-bot
+  - Worldwidebro/iza-os-sales-automation-integration-bot
+  - Worldwidebro/iza-os-sales-automation-intelligence-bot
+  - Worldwidebro/iza-os-sales-automation-management-bot
+  - Worldwidebro/iza-os-sales-automation-monitoring-bot
+  - Worldwidebro/iza-os-sales-automation-optimization-bot
+  - Worldwidebro/iza-os-sales-automation-orchestration-bot
+  - Worldwidebro/iza-os-sales-automation-processing-bot
+  - Worldwidebro/iza-os-sales-automation-reporting-bot
+  - Worldwidebro/iza-os-sales-automation-security-bot
+  - Worldwidebro/iza-os-sales-automation-synthesis-bot
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: lead-generation
+  name: Lead Generation
+  description: Commerce, Customer & Growth → Customer & Growth → Lead Generation
+  category: Operations
+  owners: []
+  repositories:
+  - Worldwidebro/clients
+  - kiryano/scout
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: advertising
+  name: Advertising
+  description: Commerce, Customer & Growth → Customer & Growth → Advertising
+  category: Operations
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: affiliate-marketing
+  name: Affiliate Marketing
+  description: Commerce, Customer & Growth → Customer & Growth → Affiliate Marketing
+  category: Operations
+  owners: []
+  repositories:
+  - Worldwidebro/fin-005-u-haul-rental-affiliate
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: customer-analytics
+  name: Customer Analytics
+  description: Commerce, Customer & Growth → Customer & Growth → Customer Analytics
+  category: Operations
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: web-applications
+  name: Web Applications
+  description: Product, Communication & Specialized Systems → Product Platforms → Web Applications
+  category: Product
+  owners: []
+  repositories:
+  - 21st-dev/magic-mcp
+  - Worldwidebro/agency-agents
+  - Worldwidebro/ai-002-api
+  - Worldwidebro/ai-002-web-app
+  - Worldwidebro/civilization-website
+  - Worldwidebro/divine-johns-portfolio
+  - Worldwidebro/et-003-platform
+  - Worldwidebro/mc-012-news-website
+  - Worldwidebro/quantum-brain-sync-website
+  - abi/screenshot-to-code
+  - async-labs/saas
+  - awesome-selfhosted/awesome-selfhosted
+  - boxyhq/saas-starter-kit
+  - browser-use/browser-use
+  - copilotkit/copilotkit
+  - dayuanjiang/next-ai-draw-io
+  - dembrandt/dembrandt
+  - dgtlmoon/changedetection.io
+  - dypsilon/frontend-dev-bookmarks
+  - enaqx/awesome-react
+  - fastapi/full-stack-fastapi-template
+  - firecrawl/open-lovable
+  - graphile/starter
+  - graphql/graphql.github.io
+  - itusiai/mokersaas
+  - ixartz/next-js-boilerplate
+  - jcodesmore/ai-website-cloner-template
+  - jonradoff/lastsaas
+  - keygraphhq/shannon
+  - lbjlaq/antigravity-manager
+  - lissy93/web-check
+  - manavarya09/design-extract
+  - moh4696/300-free-resource-websites
+  - msitarzewski/agency-agents
+  - musana/cf-hero
+  - nextjs/saas-starter
+  - openobserve/openobserve
+  - ovexro/dockpanel
+  - pdfme/pdfme
+  - puckeditor/puck
+  - qeeqbox/social-analyzer
+  - realworld-apps/realworld
+  - sahat/hackathon-starter
+  - suitenumerique/docs
+  - tauri-apps/tauri
+  - vercel/platforms
+  - vitejs/vite
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: mobile-applications
+  name: Mobile Applications
+  description: Product, Communication & Specialized Systems → Product Platforms → Mobile Applications
+  category: Product
+  owners: []
+  repositories:
+  - Worldwidebro/ht-004-mobile-app
+  - alexgladkov/claude-in-mobile
+  - altstoreio/altstore
+  - dkhamsing/open-source-ios-apps
+  - jetbrains/koog
+  - k2-fsa/sherpa-onnx
+  - manavarya09/design-extract
+  - tauri-apps/tauri
+  - telegrammessenger/telegram-ios
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: saas-platforms
+  name: SaaS Platforms
+  description: Product, Communication & Specialized Systems → Product Platforms → SaaS Platforms
+  category: Product
+  owners: []
+  repositories:
+  - Worldwidebro/fh-028-restaurant-management-saas
+  - Worldwidebro/fin-029-compliance-wallet-saas
+  - Worldwidebro/lt-027-fleet-management-saas
+  - async-labs/saas
+  - boxyhq/saas-starter-kit
+  - composio-community/open-claude-cowork
+  - dgtlmoon/changedetection.io
+  - graphile/starter
+  - itusiai/mokersaas
+  - jonradoff/lastsaas
+  - juspay/hyperswitch
+  - nextacular/nextacular
+  - nextjs/saas-starter
+  - ripienaar/free-for-dev
+  - scosman/cmsaasstarter
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: apis
+  name: APIs
+  description: Product, Communication & Specialized Systems → Product Platforms → APIs
+  category: Product
+  owners: []
+  repositories:
+  - Worldwidebro/ai-002-api
+  - Worldwidebro/avatar-engine
+  - Worldwidebro/ft-001-api-gateway
+  - Worldwidebro/ht-004-data-api
+  - Worldwidebro/iza-os-api-gateway-bot
+  - Worldwidebro/iza-os-integrations
+  - Worldwidebro/iza-os-platform-core
+  - Worldwidebro/iza-os-third-party-apis
+  - agricidaniel/claude-seo
+  - alpacahq/alpaca-py
+  - anthropics/claude-quickstarts
+  - arthur-ficial/apfel
+  - berriai/litellm
+  - ccxt/ccxt
+  - comfy-org/comfyui
+  - composio-community/awesome-codex-skills
+  - cporter202/api-mega-list
+  - crshdn/mission-control
+  - darkzogx/youtube-automation-agent
+  - devlikeapro/waha
+  - diwenne/openreply
+  - earendil-works/pi
+  - fastapi/full-stack-fastapi-template
+  - feremabraz/bloomberg-terminal
+  - finnhub-stock-api/finnhub-python
+  - firecrawl/firecrawl
+  - fosowl/agenticseek
+  - gentleman-programming/engram
+  - goldsmith/wikipedia
+  - graphile/starter
+  - graphql/graphql.github.io
+  - hashicorp/terraform
+  - hoppscotch/hoppscotch
+  - jellyfin/jellyfin
+  - karpathy/micrograd
+  - keygraphhq/shannon
+  - kong/kong
+  - massive-com/client-python
+  - meilisearch/meilisearch
+  - microsoft/call-center-ai
+  - modsetter/surfsense
+  - mountain-loop/yaak
+  - nanobrowser/nanobrowser
+  - openai/openai-cookbook
+  - panniantong/agent-reach
+  - paralleldrive/jiron
+  - pathwaycom/llm-app
+  - public-apis/public-apis
+  - ranaroussi/yfinance
+  - romeltorres/alpha_vantage
+  - supermemoryai/supermemory
+  - tadata-org/fastapi_mcp
+  - twelvedata/twelvedata-python
+  - yagop/node-telegram-bot-api
+  - yaoapp/yao
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: microservices
+  name: Microservices
+  description: Product, Communication & Specialized Systems → Product Platforms → Microservices
+  category: Product
+  owners: []
+  repositories:
+  - Worldwidebro/nexus-ai-enterprise-platform
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: event-driven-applications
+  name: Event-Driven Applications
+  description: Product, Communication & Specialized Systems → Product Platforms → Event-Driven Applications
+  category: Product
+  owners: []
+  repositories:
+  - nautechsystems/nautilus_trader
+  - node-red/node-red
+  - wassimyounes01/event-driven-autonomous-loop
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: real-time-applications
+  name: Real-Time Applications
+  description: Product, Communication & Specialized Systems → Product Platforms → Real-Time Applications
+  category: Product
+  owners: []
+  repositories:
+  - 0xemmkty/quantmuse
+  - Worldwidebro/nexus-ai-enterprise-platform
+  - blakeblackshear/frigate
+  - centrifugal/centrifugo
+  - facebook/zstd
+  - finnhub-stock-api/finnhub-python
+  - getzep/graphiti
+  - iii-hq/iii
+  - koala73/worldmonitor
+  - natively-ai-assistant/natively-cluely-ai-assistant
+  - pathwaycom/llm-app
+  - pathwaycom/pathway
+  - pimzino/spec-workflow-mcp
+  - pinchtab/pinchtab
+  - pocketbase/pocketbase
+  - polius/filesync
+  - rsalmei/alive-progress
+  - ruvnet/ruview
+  - simplifaisoul/osiris
+  - suitenumerique/docs
+  - ysharma3501/luxtts
+  - zhulinsen/daily_stock_analysis
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: collaboration
+  name: Collaboration
+  description: Product, Communication & Specialized Systems → Product Platforms → Collaboration
+  category: Product
+  owners: []
+  repositories:
+  - mattermost/mattermost
+  - modelcontextprotocol/go-sdk
+  - openbmb/chatdev
+  - opencloud-eu/opencloud
+  - penpot/penpot
+  - suitenumerique/docs
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: communication
+  name: Communication
+  description: Product, Communication & Specialized Systems → Communication & Specialized → Communication
+  category: Product
+  owners: []
+  repositories:
+  - Worldwidebro/em-043-quantum-communication-ai
+  - Worldwidebro/iza-os-customer-core
+  - a2aproject/a2a
+  - block/buzz
+  - meshtastic/firmware
+  - novuhq/novu
+  - rixinhahaha/snip
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: email
+  name: Email
+  description: Product, Communication & Specialized Systems → Communication & Specialized → Email
+  category: Product
+  owners: []
+  repositories:
+  - Worldwidebro/ec-051-ai-email-marketing
+  - Worldwidebro/email-design-os
+  - Worldwidebro/iza-os-customer-service-email-bot
+  - chatwoot/chatwoot
+  - cloudflare/agentic-inbox
+  - enescingoz/awesome-n8n-templates
+  - firecrawl/open-scouts
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: sms
+  name: SMS
+  description: Product, Communication & Specialized Systems → Communication & Specialized → SMS
+  category: Product
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: notifications
+  name: Notifications
+  description: Product, Communication & Specialized Systems → Communication & Specialized → Notifications
+  category: Product
+  owners: []
+  repositories:
+  - Worldwidebro/iza-os-notification-bot
+  - zhulinsen/daily_stock_analysis
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: chat
+  name: Chat
+  description: Product, Communication & Specialized Systems → Communication & Specialized → Chat
+  category: Product
+  owners: []
+  repositories:
+  - arthur-ficial/apfel
+  - chatwoot/chatwoot
+  - f/prompts.chat
+  - huggingface/chat-ui
+  - nexus-jpf/note-companion
+  - onyx-dot-app/onyx
+  - sinaptik-ai/pandas-ai
+  - tencentcloud/tencentdb-agent-memory
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: scheduling
+  name: Scheduling
+  description: Product, Communication & Specialized Systems → Communication & Specialized → Scheduling
+  category: Product
+  owners: []
+  repositories:
+  - calcom/cal.diy
+  - gitroomhq/postiz-app
+  - kestra-io/kestra
+  - lobehub/lobehub
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: geospatial-systems
+  name: Geospatial Systems
+  description: Product, Communication & Specialized Systems → Communication & Specialized → Geospatial Systems
+  category: Product
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: maps-routing
+  name: Maps & Routing
+  description: Product, Communication & Specialized Systems → Communication & Specialized → Maps & Routing
+  category: Product
+  owners: []
+  repositories:
+  - Worldwidebro/iza-os-api-gateway-bot
+  - Worldwidebro/maps
+  - agricidaniel/claude-seo
+  - crosstalk-solutions/project-nomad
+  - deepset-ai/haystack
+  - juspay/hyperswitch
+  - modsetter/surfsense
+  - tashfeenahmed/freellmapi
+  - zhaoxuya520/reverse-skill
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: iot
+  name: IoT
+  description: Product, Communication & Specialized Systems → Communication & Specialized → IoT
+  category: Product
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: robotics
+  name: Robotics
+  description: Product, Communication & Specialized Systems → Communication & Specialized → Robotics
+  category: Product
+  owners: []
+  repositories:
+  - Worldwidebro/em-044-robotics-surgery-ai
+  - Worldwidebro/tech-004-robotics-training-ai
+  - mathworks-robotics/awesome-matlab-robotics
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: digital-twins
+  name: Digital Twins
+  description: Product, Communication & Specialized Systems → Communication & Specialized → Digital Twins
+  category: Product
+  owners: []
+  repositories:
+  - Worldwidebro/tech-029-digital-twin-ai
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'
+- id: industry-specific-applications
+  name: Industry-Specific Applications
+  description: Product, Communication & Specialized Systems → Communication & Specialized → Industry-Specific Applications
+  category: Product
+  owners: []
+  repositories: []
+  status: Proposed
+  provenance: inferred
+  created_at: '2026-08-22'
+  updated_at: '2026-08-22'

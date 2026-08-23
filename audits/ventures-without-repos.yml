@@ -1,818 +1,306 @@
-generated_at: '2026-08-22'
-count: 101
-categories:
-  planned: []
-  conceptual:
-  - venture_id: venture:COMM-001
-    name: Local Community Hub
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:EC-001
-    name: Angels in Daylight
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:EC-002
-    name: New World Apparel
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:EC-003
-    name: Shopify Autopilot
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:EC-004
-    name: Shoe Customizer
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:EC-005
-    name: Sunglasses AI
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:EC-006
-    name: Dropship Hub
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:EC-007
-    name: Personal Shopper AI
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:EC-008
-    name: Custom Sneaker AI
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:EC-009
-    name: Sustainable Fashion AI
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:EC-010
-    name: Jewelry Designer AI
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:EDU-001
-    name: Online Course Platform
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:EM-001
-    name: Blockchain Commerce Platform
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-001
-    name: GenixBank Lite
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-002
-    name: Credit Repair Automation
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-003
-    name: AI Boss Hub Lite
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-004
-    name: GenixBanks AI Treasurer
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-005
-    name: U-Haul Rental Affiliate
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-006
-    name: Tax Prep & Filing Services
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-007
-    name: Business Credit Building
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-008
-    name: Business Formation Services
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-009
-    name: Crypto Tax Optimizer
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-010
-    name: AI-Powered Garbage Collection
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-011
-    name: Automated Bookkeeping
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-012
-    name: Invoice Factoring AI
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-013
-    name: Charity Donation AI
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-014
-    name: Expense Tracker AI
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-015
-    name: Financial Wellness Coach
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-016
-    name: Trade Finance AI
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-017
-    name: Remittance AI
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-018
-    name: Wealth Transfer AI
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-019
-    name: Payment Gateway AI
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-020
-    name: Debt Consolidation AI
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-021
-    name: Tax Deduction Finder
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-022
-    name: Budget Forecasting AI
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-023
-    name: Investment Portfolio AI
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-024
-    name: Crowdfunding AI
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-025
-    name: Escrow Automation
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-026
-    name: Financial Compliance Scanner
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-027
-    name: Patent Writer AI
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-028
-    name: Legal Analyzer AI
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-029
-    name: Compliance Wallet SaaS
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-030
-    name: Local SEO Ranker AI
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-031
-    name: Investor Dashboard Builder
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-032
-    name: Legal Toolkit AI
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-033
-    name: AI Tax Preparation Service
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-034
-    name: Payroll Automation
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:FIN-035
-    name: Insurance Underwriting AI
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:OPS-001
-    name: Process Automation Suite
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  - venture_id: venture:TECH-001
-    name: Shopify Autopilot
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: knowledge_graph
-    category: conceptual
-  external SaaS: []
-  represented by another repo: []
-  needs build:
-  - venture_id: FIN-036
-    name: Unknown
-    sector: unknown
-    t7:
-      status: unknown
-      stage: unknown
-      source: unified_orchestrator
-    category: needs build
-  missing mapping:
-  - venture_id: COMM-001
-    name: Local Community Hub
-    sector: community
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: EC-001
-    name: Angels in Daylight
-    sector: e-commerce
-    t7:
-      status: new
-      stage: MVP
-      source: correlation_map
-    category: missing mapping
-  - venture_id: EC-002
-    name: New World Apparel
-    sector: e-commerce
-    t7:
-      status: new
-      stage: MVP
-      source: correlation_map
-    category: missing mapping
-  - venture_id: EC-003
-    name: Shopify Autopilot
-    sector: e-commerce
-    t7:
-      status: new
-      stage: MVP
-      source: correlation_map
-    category: missing mapping
-  - venture_id: EC-004
-    name: Shoe Customizer
-    sector: e-commerce
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: EC-005
-    name: Sunglasses AI
-    sector: e-commerce
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: EC-006
-    name: Dropship Hub
-    sector: e-commerce
-    t7:
-      status: new
-      stage: MVP
-      source: correlation_map
-    category: missing mapping
-  - venture_id: EC-007
-    name: Personal Shopper AI
-    sector: e-commerce
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: EC-008
-    name: Custom Sneaker AI
-    sector: e-commerce
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: EC-009
-    name: Sustainable Fashion AI
-    sector: e-commerce
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: EC-010
-    name: Jewelry Designer AI
-    sector: e-commerce
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: EDU-001
-    name: Online Course Platform
-    sector: education
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: EM-001
-    name: Blockchain Commerce Platform
-    sector: emerging
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-001
-    name: GenixBank Lite
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-002
-    name: Credit Repair Automation
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-003
-    name: AI Boss Hub Lite
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-004
-    name: GenixBanks AI Treasurer
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-005
-    name: U-Haul Rental Affiliate
-    sector: financial
-    t7:
-      status: new
-      stage: MVP
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-006
-    name: Tax Prep & Filing Services
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-007
-    name: Business Credit Building
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-008
-    name: Business Formation Services
-    sector: financial
-    t7:
-      status: new
-      stage: MVP
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-009
-    name: Crypto Tax Optimizer
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-010
-    name: AI-Powered Garbage Collection
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-011
-    name: Automated Bookkeeping
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-012
-    name: Invoice Factoring AI
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-013
-    name: Charity Donation AI
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-014
-    name: Expense Tracker AI
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-015
-    name: Financial Wellness Coach
-    sector: financial
-    t7:
-      status: new
-      stage: MVP
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-016
-    name: Trade Finance AI
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-017
-    name: Remittance AI
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-018
-    name: Wealth Transfer AI
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-019
-    name: Payment Gateway AI
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-020
-    name: Debt Consolidation AI
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-021
-    name: Tax Deduction Finder
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-022
-    name: Budget Forecasting AI
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-023
-    name: Investment Portfolio AI
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-024
-    name: Crowdfunding AI
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-025
-    name: Escrow Automation
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-026
-    name: Financial Compliance Scanner
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-027
-    name: Patent Writer AI
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-028
-    name: Legal Analyzer AI
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-029
-    name: Compliance Wallet SaaS
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-030
-    name: Local SEO Ranker AI
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-031
-    name: Investor Dashboard Builder
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-032
-    name: Legal Toolkit AI
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-033
-    name: AI Tax Preparation Service
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-034
-    name: Payroll Automation
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: FIN-035
-    name: Insurance Underwriting AI
-    sector: financial
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: OPS-001
-    name: Process Automation Suite
-    sector: operations
-    t7:
-      status: new
-      stage: Ideation
-      source: correlation_map
-    category: missing mapping
-  - venture_id: TECH-001
-    name: Shopify Autopilot
-    sector: technology
-    t7:
-      status: new
-      stage: MVP
-      source: correlation_map
-    category: missing mapping
-  obsolete: []
+- id: COMM-001
+  name: Local Community Hub
+  sector: community
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: EC-001
+  name: Angels in Daylight
+  sector: e-commerce
+  status: new
+  stage: MVP
+  source: correlation_map
+- id: EC-002
+  name: New World Apparel
+  sector: e-commerce
+  status: new
+  stage: MVP
+  source: correlation_map
+- id: EC-003
+  name: Shopify Autopilot
+  sector: e-commerce
+  status: new
+  stage: MVP
+  source: correlation_map
+- id: EC-004
+  name: Shoe Customizer
+  sector: e-commerce
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: EC-005
+  name: Sunglasses AI
+  sector: e-commerce
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: EC-006
+  name: Dropship Hub
+  sector: e-commerce
+  status: new
+  stage: MVP
+  source: correlation_map
+- id: EC-007
+  name: Personal Shopper AI
+  sector: e-commerce
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: EC-008
+  name: Custom Sneaker AI
+  sector: e-commerce
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: EC-009
+  name: Sustainable Fashion AI
+  sector: e-commerce
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: EC-010
+  name: Jewelry Designer AI
+  sector: e-commerce
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: EDU-001
+  name: Online Course Platform
+  sector: education
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: EM-001
+  name: Blockchain Commerce Platform
+  sector: emerging
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-001
+  name: GenixBank Lite
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-002
+  name: Credit Repair Automation
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-003
+  name: AI Boss Hub Lite
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-004
+  name: GenixBanks AI Treasurer
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-005
+  name: U-Haul Rental Affiliate
+  sector: financial
+  status: new
+  stage: MVP
+  source: correlation_map
+- id: FIN-006
+  name: Tax Prep & Filing Services
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-007
+  name: Business Credit Building
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-008
+  name: Business Formation Services
+  sector: financial
+  status: new
+  stage: MVP
+  source: correlation_map
+- id: FIN-009
+  name: Crypto Tax Optimizer
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-010
+  name: AI-Powered Garbage Collection
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-011
+  name: Automated Bookkeeping
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-012
+  name: Invoice Factoring AI
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-013
+  name: Charity Donation AI
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-014
+  name: Expense Tracker AI
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-015
+  name: Financial Wellness Coach
+  sector: financial
+  status: new
+  stage: MVP
+  source: correlation_map
+- id: FIN-016
+  name: Trade Finance AI
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-017
+  name: Remittance AI
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-018
+  name: Wealth Transfer AI
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-019
+  name: Payment Gateway AI
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-020
+  name: Debt Consolidation AI
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-021
+  name: Tax Deduction Finder
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-022
+  name: Budget Forecasting AI
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-023
+  name: Investment Portfolio AI
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-024
+  name: Crowdfunding AI
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-025
+  name: Escrow Automation
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-026
+  name: Financial Compliance Scanner
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-027
+  name: Patent Writer AI
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-028
+  name: Legal Analyzer AI
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-029
+  name: Compliance Wallet SaaS
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-030
+  name: Local SEO Ranker AI
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-031
+  name: Investor Dashboard Builder
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-032
+  name: Legal Toolkit AI
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-033
+  name: AI Tax Preparation Service
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-034
+  name: Payroll Automation
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: FIN-035
+  name: Insurance Underwriting AI
+  sector: financial
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: OPS-001
+  name: Process Automation Suite
+  sector: operations
+  status: new
+  stage: Ideation
+  source: correlation_map
+- id: TECH-001
+  name: Shopify Autopilot
+  sector: technology
+  status: new
+  stage: MVP
+  source: correlation_map
+- id: FIN-036
+  name: Unknown
+  sector: unknown
+  status: unknown
+  stage: unknown
+  source: unified_orchestrator

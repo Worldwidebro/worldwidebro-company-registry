@@ -1,0 +1,1006 @@
+generated_at: '2026-08-22'
+levels:
+- category
+- domain
+- capability
+capabilities:
+- id: ai-agents
+  number: 1
+  category: AI & Agents
+  domain: Agent Infrastructure
+  capability: AI Agents
+- id: multi-agent-systems
+  number: 2
+  category: AI & Agents
+  domain: Agent Infrastructure
+  capability: Multi-Agent Systems
+- id: agent-orchestration
+  number: 3
+  category: AI & Agents
+  domain: Agent Infrastructure
+  capability: Agent Orchestration
+- id: agent-memory
+  number: 4
+  category: AI & Agents
+  domain: Agent Infrastructure
+  capability: Agent Memory
+- id: agent-planning
+  number: 5
+  category: AI & Agents
+  domain: Agent Infrastructure
+  capability: Agent Planning
+- id: agent-evaluation
+  number: 6
+  category: AI & Agents
+  domain: Agent Infrastructure
+  capability: Agent Evaluation
+- id: agent-tool-use
+  number: 7
+  category: AI & Agents
+  domain: Agent Infrastructure
+  capability: Agent Tool Use
+- id: agent-frameworks
+  number: 8
+  category: AI & Agents
+  domain: Agent Infrastructure
+  capability: Agent Frameworks
+- id: llm-applications
+  number: 9
+  category: AI & Agents
+  domain: LLM Systems
+  capability: LLM Applications
+- id: llm-inference
+  number: 10
+  category: AI & Agents
+  domain: LLM Systems
+  capability: LLM Inference
+- id: llm-serving
+  number: 11
+  category: AI & Agents
+  domain: LLM Systems
+  capability: LLM Serving
+- id: llm-gateways
+  number: 12
+  category: AI & Agents
+  domain: LLM Systems
+  capability: LLM Gateways
+- id: model-routing
+  number: 13
+  category: AI & Agents
+  domain: LLM Systems
+  capability: Model Routing
+- id: model-fine-tuning
+  number: 14
+  category: AI & Agents
+  domain: LLM Systems
+  capability: Model Fine-Tuning
+- id: model-training
+  number: 15
+  category: AI & Agents
+  domain: LLM Systems
+  capability: Model Training
+- id: embeddings
+  number: 16
+  category: AI & Agents
+  domain: LLM Systems
+  capability: Embeddings
+- id: multimodal-ai
+  number: 17
+  category: AI & Agents
+  domain: AI Modalities
+  capability: Multimodal AI
+- id: computer-vision
+  number: 18
+  category: AI & Agents
+  domain: AI Modalities
+  capability: Computer Vision
+- id: speech-ai
+  number: 19
+  category: AI & Agents
+  domain: AI Modalities
+  capability: Speech AI
+- id: generative-ai
+  number: 20
+  category: AI & Agents
+  domain: AI Modalities
+  capability: Generative AI
+- id: knowledge-management
+  number: 21
+  category: Knowledge, Search & Data
+  domain: Knowledge Systems
+  capability: Knowledge Management
+- id: knowledge-graphs
+  number: 22
+  category: Knowledge, Search & Data
+  domain: Knowledge Systems
+  capability: Knowledge Graphs
+- id: entity-resolution
+  number: 23
+  category: Knowledge, Search & Data
+  domain: Knowledge Systems
+  capability: Entity Resolution
+- id: entity-management
+  number: 24
+  category: Knowledge, Search & Data
+  domain: Knowledge Systems
+  capability: Entity Management
+- id: rag
+  number: 25
+  category: Knowledge, Search & Data
+  domain: Knowledge Systems
+  capability: RAG
+- id: semantic-search
+  number: 26
+  category: Knowledge, Search & Data
+  domain: Knowledge Systems
+  capability: Semantic Search
+- id: full-text-search
+  number: 27
+  category: Knowledge, Search & Data
+  domain: Knowledge Systems
+  capability: Full-Text Search
+- id: vector-databases
+  number: 28
+  category: Knowledge, Search & Data
+  domain: Knowledge Systems
+  capability: Vector Databases
+- id: data-catalogs
+  number: 29
+  category: Knowledge, Search & Data
+  domain: Knowledge Systems
+  capability: Data Catalogs
+- id: data-discovery
+  number: 30
+  category: Knowledge, Search & Data
+  domain: Knowledge Systems
+  capability: Data Discovery
+- id: data-pipelines
+  number: 31
+  category: Knowledge, Search & Data
+  domain: Data Engineering
+  capability: Data Pipelines
+- id: etl
+  number: 32
+  category: Knowledge, Search & Data
+  domain: Data Engineering
+  capability: ETL
+- id: elt
+  number: 33
+  category: Knowledge, Search & Data
+  domain: Data Engineering
+  capability: ELT
+- id: data-integration
+  number: 34
+  category: Knowledge, Search & Data
+  domain: Data Engineering
+  capability: Data Integration
+- id: data-transformation
+  number: 35
+  category: Knowledge, Search & Data
+  domain: Data Engineering
+  capability: Data Transformation
+- id: data-quality
+  number: 36
+  category: Knowledge, Search & Data
+  domain: Data Engineering
+  capability: Data Quality
+- id: data-governance
+  number: 37
+  category: Knowledge, Search & Data
+  domain: Data Engineering
+  capability: Data Governance
+- id: metadata-management
+  number: 38
+  category: Knowledge, Search & Data
+  domain: Data Engineering
+  capability: Metadata Management
+- id: document-intelligence
+  number: 39
+  category: Knowledge, Search & Data
+  domain: Data Engineering
+  capability: Document Intelligence
+- id: information-extraction
+  number: 40
+  category: Knowledge, Search & Data
+  domain: Data Engineering
+  capability: Information Extraction
+- id: cloud-infrastructure
+  number: 41
+  category: Infrastructure & Cloud
+  domain: Cloud Platform
+  capability: Cloud Infrastructure
+- id: containerization
+  number: 42
+  category: Infrastructure & Cloud
+  domain: Cloud Platform
+  capability: Containerization
+- id: docker
+  number: 43
+  category: Infrastructure & Cloud
+  domain: Cloud Platform
+  capability: Docker
+- id: kubernetes
+  number: 44
+  category: Infrastructure & Cloud
+  domain: Cloud Platform
+  capability: Kubernetes
+- id: k3s
+  number: 45
+  category: Infrastructure & Cloud
+  domain: Cloud Platform
+  capability: K3s
+- id: serverless
+  number: 46
+  category: Infrastructure & Cloud
+  domain: Cloud Platform
+  capability: Serverless
+- id: infrastructure-as-code
+  number: 47
+  category: Infrastructure & Cloud
+  domain: Cloud Platform
+  capability: Infrastructure as Code
+- id: terraform
+  number: 48
+  category: Infrastructure & Cloud
+  domain: Cloud Platform
+  capability: Terraform
+- id: configuration-management
+  number: 49
+  category: Infrastructure & Cloud
+  domain: Cloud Platform
+  capability: Configuration Management
+- id: service-discovery
+  number: 50
+  category: Infrastructure & Cloud
+  domain: Cloud Platform
+  capability: Service Discovery
+- id: api-gateways
+  number: 51
+  category: Infrastructure & Cloud
+  domain: Networking & Scale
+  capability: API Gateways
+- id: load-balancing
+  number: 52
+  category: Infrastructure & Cloud
+  domain: Networking & Scale
+  capability: Load Balancing
+- id: reverse-proxies
+  number: 53
+  category: Infrastructure & Cloud
+  domain: Networking & Scale
+  capability: Reverse Proxies
+- id: networking
+  number: 54
+  category: Infrastructure & Cloud
+  domain: Networking & Scale
+  capability: Networking
+- id: dns
+  number: 55
+  category: Infrastructure & Cloud
+  domain: Networking & Scale
+  capability: DNS
+- id: cdn
+  number: 56
+  category: Infrastructure & Cloud
+  domain: Networking & Scale
+  capability: CDN
+- id: object-storage
+  number: 57
+  category: Infrastructure & Cloud
+  domain: Networking & Scale
+  capability: Object Storage
+- id: distributed-systems
+  number: 58
+  category: Infrastructure & Cloud
+  domain: Networking & Scale
+  capability: Distributed Systems
+- id: edge-computing
+  number: 59
+  category: Infrastructure & Cloud
+  domain: Networking & Scale
+  capability: Edge Computing
+- id: infrastructure-automation
+  number: 60
+  category: Infrastructure & Cloud
+  domain: Networking & Scale
+  capability: Infrastructure Automation
+- id: relational-databases
+  number: 61
+  category: Databases & Storage
+  domain: Database Systems
+  capability: Relational Databases
+- id: postgresql
+  number: 62
+  category: Databases & Storage
+  domain: Database Systems
+  capability: PostgreSQL
+- id: mysql
+  number: 63
+  category: Databases & Storage
+  domain: Database Systems
+  capability: MySQL
+- id: sqlite
+  number: 64
+  category: Databases & Storage
+  domain: Database Systems
+  capability: SQLite
+- id: nosql-databases
+  number: 65
+  category: Databases & Storage
+  domain: Database Systems
+  capability: NoSQL Databases
+- id: document-databases
+  number: 66
+  category: Databases & Storage
+  domain: Database Systems
+  capability: Document Databases
+- id: graph-databases
+  number: 67
+  category: Databases & Storage
+  domain: Database Systems
+  capability: Graph Databases
+- id: time-series-databases
+  number: 68
+  category: Databases & Storage
+  domain: Database Systems
+  capability: Time-Series Databases
+- id: vector-storage
+  number: 69
+  category: Databases & Storage
+  domain: Database Systems
+  capability: Vector Storage
+- id: caching
+  number: 70
+  category: Databases & Storage
+  domain: Database Systems
+  capability: Caching
+- id: redis
+  number: 71
+  category: Databases & Storage
+  domain: Data Durability
+  capability: Redis
+- id: message-queues
+  number: 72
+  category: Databases & Storage
+  domain: Data Durability
+  capability: Message Queues
+- id: event-stores
+  number: 73
+  category: Databases & Storage
+  domain: Data Durability
+  capability: Event Stores
+- id: data-warehouses
+  number: 74
+  category: Databases & Storage
+  domain: Data Durability
+  capability: Data Warehouses
+- id: data-lakes
+  number: 75
+  category: Databases & Storage
+  domain: Data Durability
+  capability: Data Lakes
+- id: file-storage
+  number: 76
+  category: Databases & Storage
+  domain: Data Durability
+  capability: File Storage
+- id: backup-systems
+  number: 77
+  category: Databases & Storage
+  domain: Data Durability
+  capability: Backup Systems
+- id: replication
+  number: 78
+  category: Databases & Storage
+  domain: Data Durability
+  capability: Replication
+- id: database-migration
+  number: 79
+  category: Databases & Storage
+  domain: Data Durability
+  capability: Database Migration
+- id: database-administration
+  number: 80
+  category: Databases & Storage
+  domain: Data Durability
+  capability: Database Administration
+- id: code-generation
+  number: 81
+  category: Developer Tools & Software Engineering
+  domain: Developer Experience
+  capability: Code Generation
+- id: code-intelligence
+  number: 82
+  category: Developer Tools & Software Engineering
+  domain: Developer Experience
+  capability: Code Intelligence
+- id: code-search
+  number: 83
+  category: Developer Tools & Software Engineering
+  domain: Developer Experience
+  capability: Code Search
+- id: repository-management
+  number: 84
+  category: Developer Tools & Software Engineering
+  domain: Developer Experience
+  capability: Repository Management
+- id: git-tooling
+  number: 85
+  category: Developer Tools & Software Engineering
+  domain: Developer Experience
+  capability: Git Tooling
+- id: github-automation
+  number: 86
+  category: Developer Tools & Software Engineering
+  domain: Developer Experience
+  capability: GitHub Automation
+- id: developer-portals
+  number: 87
+  category: Developer Tools & Software Engineering
+  domain: Developer Experience
+  capability: Developer Portals
+- id: ide-extensions
+  number: 88
+  category: Developer Tools & Software Engineering
+  domain: Developer Experience
+  capability: IDE Extensions
+- id: cli-tools
+  number: 89
+  category: Developer Tools & Software Engineering
+  domain: Developer Experience
+  capability: CLI Tools
+- id: sdks
+  number: 90
+  category: Developer Tools & Software Engineering
+  domain: Developer Experience
+  capability: SDKs
+- id: api-clients
+  number: 91
+  category: Developer Tools & Software Engineering
+  domain: Software Quality
+  capability: API Clients
+- id: software-testing
+  number: 92
+  category: Developer Tools & Software Engineering
+  domain: Software Quality
+  capability: Software Testing
+- id: unit-testing
+  number: 93
+  category: Developer Tools & Software Engineering
+  domain: Software Quality
+  capability: Unit Testing
+- id: integration-testing
+  number: 94
+  category: Developer Tools & Software Engineering
+  domain: Software Quality
+  capability: Integration Testing
+- id: end-to-end-testing
+  number: 95
+  category: Developer Tools & Software Engineering
+  domain: Software Quality
+  capability: End-to-End Testing
+- id: test-automation
+  number: 96
+  category: Developer Tools & Software Engineering
+  domain: Software Quality
+  capability: Test Automation
+- id: static-analysis
+  number: 97
+  category: Developer Tools & Software Engineering
+  domain: Software Quality
+  capability: Static Analysis
+- id: dependency-management
+  number: 98
+  category: Developer Tools & Software Engineering
+  domain: Software Quality
+  capability: Dependency Management
+- id: package-management
+  number: 99
+  category: Developer Tools & Software Engineering
+  domain: Software Quality
+  capability: Package Management
+- id: software-architecture
+  number: 100
+  category: Developer Tools & Software Engineering
+  domain: Software Quality
+  capability: Software Architecture
+- id: ci-cd
+  number: 101
+  category: DevOps, Deployment & Observability
+  domain: Delivery
+  capability: CI/CD
+- id: github-actions
+  number: 102
+  category: DevOps, Deployment & Observability
+  domain: Delivery
+  capability: GitHub Actions
+- id: deployment-automation
+  number: 103
+  category: DevOps, Deployment & Observability
+  domain: Delivery
+  capability: Deployment Automation
+- id: release-management
+  number: 104
+  category: DevOps, Deployment & Observability
+  domain: Delivery
+  capability: Release Management
+- id: version-management
+  number: 105
+  category: DevOps, Deployment & Observability
+  domain: Delivery
+  capability: Version Management
+- id: feature-flags
+  number: 106
+  category: DevOps, Deployment & Observability
+  domain: Delivery
+  capability: Feature Flags
+- id: environment-management
+  number: 107
+  category: DevOps, Deployment & Observability
+  domain: Delivery
+  capability: Environment Management
+- id: secrets-management
+  number: 108
+  category: DevOps, Deployment & Observability
+  domain: Delivery
+  capability: Secrets Management
+- id: service-monitoring
+  number: 109
+  category: DevOps, Deployment & Observability
+  domain: Observability & Reliability
+  capability: Service Monitoring
+- id: application-monitoring
+  number: 110
+  category: DevOps, Deployment & Observability
+  domain: Observability & Reliability
+  capability: Application Monitoring
+- id: infrastructure-monitoring
+  number: 111
+  category: DevOps, Deployment & Observability
+  domain: Observability & Reliability
+  capability: Infrastructure Monitoring
+- id: logging
+  number: 112
+  category: DevOps, Deployment & Observability
+  domain: Observability & Reliability
+  capability: Logging
+- id: distributed-tracing
+  number: 113
+  category: DevOps, Deployment & Observability
+  domain: Observability & Reliability
+  capability: Distributed Tracing
+- id: observability
+  number: 114
+  category: DevOps, Deployment & Observability
+  domain: Observability & Reliability
+  capability: Observability
+- id: error-tracking
+  number: 115
+  category: DevOps, Deployment & Observability
+  domain: Observability & Reliability
+  capability: Error Tracking
+- id: performance-monitoring
+  number: 116
+  category: DevOps, Deployment & Observability
+  domain: Observability & Reliability
+  capability: Performance Monitoring
+- id: uptime-monitoring
+  number: 117
+  category: DevOps, Deployment & Observability
+  domain: Observability & Reliability
+  capability: Uptime Monitoring
+- id: apm
+  number: 118
+  category: DevOps, Deployment & Observability
+  domain: Observability & Reliability
+  capability: APM
+- id: incident-management
+  number: 119
+  category: DevOps, Deployment & Observability
+  domain: Observability & Reliability
+  capability: Incident Management
+- id: sre
+  number: 120
+  category: DevOps, Deployment & Observability
+  domain: Observability & Reliability
+  capability: SRE
+- id: cybersecurity
+  number: 121
+  category: Security, Identity & Compliance
+  domain: Identity & Access
+  capability: Cybersecurity
+- id: authentication
+  number: 122
+  category: Security, Identity & Compliance
+  domain: Identity & Access
+  capability: Authentication
+- id: authorization
+  number: 123
+  category: Security, Identity & Compliance
+  domain: Identity & Access
+  capability: Authorization
+- id: identity-management
+  number: 124
+  category: Security, Identity & Compliance
+  domain: Identity & Access
+  capability: Identity Management
+- id: rbac
+  number: 125
+  category: Security, Identity & Compliance
+  domain: Identity & Access
+  capability: RBAC
+- id: oauth
+  number: 126
+  category: Security, Identity & Compliance
+  domain: Identity & Access
+  capability: OAuth
+- id: sso
+  number: 127
+  category: Security, Identity & Compliance
+  domain: Identity & Access
+  capability: SSO
+- id: api-security
+  number: 128
+  category: Security, Identity & Compliance
+  domain: Identity & Access
+  capability: API Security
+- id: secrets
+  number: 129
+  category: Security, Identity & Compliance
+  domain: Identity & Access
+  capability: Secrets
+- id: encryption
+  number: 130
+  category: Security, Identity & Compliance
+  domain: Identity & Access
+  capability: Encryption
+- id: key-management
+  number: 131
+  category: Security, Identity & Compliance
+  domain: Identity & Access
+  capability: Key Management
+- id: zero-trust
+  number: 132
+  category: Security, Identity & Compliance
+  domain: Identity & Access
+  capability: Zero Trust
+- id: network-security
+  number: 133
+  category: Security, Identity & Compliance
+  domain: Security Operations
+  capability: Network Security
+- id: vulnerability-management
+  number: 134
+  category: Security, Identity & Compliance
+  domain: Security Operations
+  capability: Vulnerability Management
+- id: dependency-security
+  number: 135
+  category: Security, Identity & Compliance
+  domain: Security Operations
+  capability: Dependency Security
+- id: security-scanning
+  number: 136
+  category: Security, Identity & Compliance
+  domain: Security Operations
+  capability: Security Scanning
+- id: privacy
+  number: 137
+  category: Security, Identity & Compliance
+  domain: Security Operations
+  capability: Privacy
+- id: compliance
+  number: 138
+  category: Security, Identity & Compliance
+  domain: Security Operations
+  capability: Compliance
+- id: audit-logging
+  number: 139
+  category: Security, Identity & Compliance
+  domain: Security Operations
+  capability: Audit Logging
+- id: governance
+  number: 140
+  category: Security, Identity & Compliance
+  domain: Security Operations
+  capability: Governance
+- id: crm
+  number: 141
+  category: Business Operations
+  domain: Business Administration
+  capability: CRM
+- id: erp
+  number: 142
+  category: Business Operations
+  domain: Business Administration
+  capability: ERP
+- id: hr
+  number: 143
+  category: Business Operations
+  domain: Business Administration
+  capability: HR
+- id: recruiting
+  number: 144
+  category: Business Operations
+  domain: Business Administration
+  capability: Recruiting
+- id: staffing
+  number: 145
+  category: Business Operations
+  domain: Business Administration
+  capability: Staffing
+- id: payroll
+  number: 146
+  category: Business Operations
+  domain: Business Administration
+  capability: Payroll
+- id: accounting
+  number: 147
+  category: Business Operations
+  domain: Business Administration
+  capability: Accounting
+- id: bookkeeping
+  number: 148
+  category: Business Operations
+  domain: Business Administration
+  capability: Bookkeeping
+- id: financial-management
+  number: 149
+  category: Business Operations
+  domain: Business Administration
+  capability: Financial Management
+- id: procurement
+  number: 150
+  category: Business Operations
+  domain: Business Administration
+  capability: Procurement
+- id: inventory-management
+  number: 151
+  category: Business Operations
+  domain: Business Administration
+  capability: Inventory Management
+- id: supply-chain
+  number: 152
+  category: Business Operations
+  domain: Business Administration
+  capability: Supply Chain
+- id: project-management
+  number: 153
+  category: Business Operations
+  domain: Work Management
+  capability: Project Management
+- id: task-management
+  number: 154
+  category: Business Operations
+  domain: Work Management
+  capability: Task Management
+- id: workflow-management
+  number: 155
+  category: Business Operations
+  domain: Work Management
+  capability: Workflow Management
+- id: document-management
+  number: 156
+  category: Business Operations
+  domain: Work Management
+  capability: Document Management
+- id: contract-management
+  number: 157
+  category: Business Operations
+  domain: Work Management
+  capability: Contract Management
+- id: knowledge-operations
+  number: 158
+  category: Business Operations
+  domain: Work Management
+  capability: Knowledge Operations
+- id: business-process-management
+  number: 159
+  category: Business Operations
+  domain: Work Management
+  capability: Business Process Management
+- id: operations-management
+  number: 160
+  category: Business Operations
+  domain: Work Management
+  capability: Operations Management
+- id: e-commerce
+  number: 161
+  category: Commerce, Customer & Growth
+  domain: Commerce Operations
+  capability: E-Commerce
+- id: marketplaces
+  number: 162
+  category: Commerce, Customer & Growth
+  domain: Commerce Operations
+  capability: Marketplaces
+- id: payments
+  number: 163
+  category: Commerce, Customer & Growth
+  domain: Commerce Operations
+  capability: Payments
+- id: billing
+  number: 164
+  category: Commerce, Customer & Growth
+  domain: Commerce Operations
+  capability: Billing
+- id: subscriptions
+  number: 165
+  category: Commerce, Customer & Growth
+  domain: Commerce Operations
+  capability: Subscriptions
+- id: pricing
+  number: 166
+  category: Commerce, Customer & Growth
+  domain: Commerce Operations
+  capability: Pricing
+- id: dynamic-pricing
+  number: 167
+  category: Commerce, Customer & Growth
+  domain: Commerce Operations
+  capability: Dynamic Pricing
+- id: checkout
+  number: 168
+  category: Commerce, Customer & Growth
+  domain: Commerce Operations
+  capability: Checkout
+- id: order-management
+  number: 169
+  category: Commerce, Customer & Growth
+  domain: Commerce Operations
+  capability: Order Management
+- id: fulfillment
+  number: 170
+  category: Commerce, Customer & Growth
+  domain: Commerce Operations
+  capability: Fulfillment
+- id: shipping
+  number: 171
+  category: Commerce, Customer & Growth
+  domain: Commerce Operations
+  capability: Shipping
+- id: logistics
+  number: 172
+  category: Commerce, Customer & Growth
+  domain: Commerce Operations
+  capability: Logistics
+- id: customer-support
+  number: 173
+  category: Commerce, Customer & Growth
+  domain: Customer & Growth
+  capability: Customer Support
+- id: help-desks
+  number: 174
+  category: Commerce, Customer & Growth
+  domain: Customer & Growth
+  capability: Help Desks
+- id: marketing-automation
+  number: 175
+  category: Commerce, Customer & Growth
+  domain: Customer & Growth
+  capability: Marketing Automation
+- id: sales-automation
+  number: 176
+  category: Commerce, Customer & Growth
+  domain: Customer & Growth
+  capability: Sales Automation
+- id: lead-generation
+  number: 177
+  category: Commerce, Customer & Growth
+  domain: Customer & Growth
+  capability: Lead Generation
+- id: advertising
+  number: 178
+  category: Commerce, Customer & Growth
+  domain: Customer & Growth
+  capability: Advertising
+- id: affiliate-marketing
+  number: 179
+  category: Commerce, Customer & Growth
+  domain: Customer & Growth
+  capability: Affiliate Marketing
+- id: customer-analytics
+  number: 180
+  category: Commerce, Customer & Growth
+  domain: Customer & Growth
+  capability: Customer Analytics
+- id: web-applications
+  number: 181
+  category: Product, Communication & Specialized Systems
+  domain: Product Platforms
+  capability: Web Applications
+- id: mobile-applications
+  number: 182
+  category: Product, Communication & Specialized Systems
+  domain: Product Platforms
+  capability: Mobile Applications
+- id: saas-platforms
+  number: 183
+  category: Product, Communication & Specialized Systems
+  domain: Product Platforms
+  capability: SaaS Platforms
+- id: apis
+  number: 184
+  category: Product, Communication & Specialized Systems
+  domain: Product Platforms
+  capability: APIs
+- id: microservices
+  number: 185
+  category: Product, Communication & Specialized Systems
+  domain: Product Platforms
+  capability: Microservices
+- id: event-driven-applications
+  number: 186
+  category: Product, Communication & Specialized Systems
+  domain: Product Platforms
+  capability: Event-Driven Applications
+- id: real-time-applications
+  number: 187
+  category: Product, Communication & Specialized Systems
+  domain: Product Platforms
+  capability: Real-Time Applications
+- id: collaboration
+  number: 188
+  category: Product, Communication & Specialized Systems
+  domain: Product Platforms
+  capability: Collaboration
+- id: communication
+  number: 189
+  category: Product, Communication & Specialized Systems
+  domain: Communication & Specialized
+  capability: Communication
+- id: email
+  number: 190
+  category: Product, Communication & Specialized Systems
+  domain: Communication & Specialized
+  capability: Email
+- id: sms
+  number: 191
+  category: Product, Communication & Specialized Systems
+  domain: Communication & Specialized
+  capability: SMS
+- id: notifications
+  number: 192
+  category: Product, Communication & Specialized Systems
+  domain: Communication & Specialized
+  capability: Notifications
+- id: chat
+  number: 193
+  category: Product, Communication & Specialized Systems
+  domain: Communication & Specialized
+  capability: Chat
+- id: scheduling
+  number: 194
+  category: Product, Communication & Specialized Systems
+  domain: Communication & Specialized
+  capability: Scheduling
+- id: geospatial-systems
+  number: 195
+  category: Product, Communication & Specialized Systems
+  domain: Communication & Specialized
+  capability: Geospatial Systems
+- id: maps-routing
+  number: 196
+  category: Product, Communication & Specialized Systems
+  domain: Communication & Specialized
+  capability: Maps & Routing
+- id: iot
+  number: 197
+  category: Product, Communication & Specialized Systems
+  domain: Communication & Specialized
+  capability: IoT
+- id: robotics
+  number: 198
+  category: Product, Communication & Specialized Systems
+  domain: Communication & Specialized
+  capability: Robotics
+- id: digital-twins
+  number: 199
+  category: Product, Communication & Specialized Systems
+  domain: Communication & Specialized
+  capability: Digital Twins
+- id: industry-specific-applications
+  number: 200
+  category: Product, Communication & Specialized Systems
+  domain: Communication & Specialized
+  capability: Industry-Specific Applications

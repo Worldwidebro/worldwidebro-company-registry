@@ -12,6 +12,24 @@ reconciliation:
   starred_repos_also_owned: 0
   duplicate_repo_records: 0
   ambiguous_mappings: 0
+mapping_confidence:
+  method: deterministic evidence score; no fuzzy matching is used
+  exact_owned_repo_to_t7_github_url:
+    score: 1.0
+    count: 547
+    evidence: case-insensitive exact repository slug in both GitHub-owned inventory and T7 GitHub URL
+  t7_github_claim_not_in_owned_inventory:
+    score: 0.0
+    count: 140
+    evidence: T7 URL claim has no matching repository in the GitHub-owned snapshot
+  owned_repo_without_t7_claim:
+    score: 0.0
+    count: 343
+    evidence: no exact T7 GitHub URL claim; not treated as a fuzzy venture mapping
+  t7_venture_without_github:
+    score: 1.0
+    count: 101
+    evidence: explicit has_github_repo=no in the T7 source
 source_precedence:
   github:
   - repository existence
@@ -43,3 +61,13 @@ exception_counts:
     unclassified: 56
   orphaned_platform_repos: 171
   naming_conflicts: 0
+capability_extraction:
+  scope: all unique GitHub repositories in the owned and starred inventories
+  repositories: 1767
+  capability_tags: 17
+  provenance: inferred from GitHub repository name, description, language, and topics; no code or README review
+  confidence_buckets:
+    high_0_90: 509
+    medium_0_60_to_0_89: 441
+    low_0_35: 344
+    unclassified_0_00: 473
