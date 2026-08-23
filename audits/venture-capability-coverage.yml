@@ -1,0 +1,719 @@
+generated_at: '2026-08-23T00:00:00Z'
+method: Join registry/repositories.yaml venture field (547 reconciled matches) against capabilities field (818 inferred tags, DEC-2026-0005). Not an audited number — inherits the inferred/name-only confidence caveats of the capability tagging pass.
+summary:
+  ventures_with_linked_repo: 547
+  ventures_with_at_least_one_capability: 355
+  ventures_with_repo_but_zero_capability_tags: 192
+capability_venture_reach:
+- capability: ai-ml
+  ventures_served: 281
+  venture_ids:
+  - BW-020-AI-Nail-Design-Generator
+  - BW-033-AI-Hairstyle-Simulator
+  - COMM-005-Ace-Food-Security-AI
+  - COMM-006-Community-Technology-Access-AI
+  - COMM-007-Youth-Leadership-AI
+  - COMM-008-Community-Fundraising-AI
+  - COMM-009-Volunteer-Hub-AI
+  - COMM-010-Disaster-Relief-AI
+  - COMM-012-Black-Art-Museum-AI
+  - COMM-014-Veterans-Support-AI
+  - COMM-016-Community-Health-AI
+  - COMM-018-Neighborhood-Watch-AI
+  - COMM-019-Community-Garden-AI
+  - COMM-020-Public-Transportation-AI
+  - COMM-021-Housing-Assistance-AI
+  - COMM-023-Elder-Companion-AI
+  - COMM-024-Youth-Sports-AI
+  - COMM-026-Public-Education-AI
+  - COMM-027-Local-Government-AI
+  - COMM-028-Public-Safety-AI
+  - COMM-029-Community-Wellness-AI
+  - COMM-030-Cultural-Exchange-AI
+  - COMM-031-Community-Investment-AI
+  - COMM-032-Public-Health-AI
+  - COMM-035-Community-Arts-AI
+  - COMM-036-Public-Infrastructure-AI
+  - COMM-037-Neighborhood-Development-AI
+  - COMM-038-Community-Policing-AI
+  - COMM-039-Public-Space-AI
+  - COMM-040-Community-Recycling-AI
+  - COMM-041-Public-Wi-Fi-AI
+  - COMM-042-Community-Energy-AI
+  - COMM-043-Local-Food-Network-AI
+  - COMM-044-Community-Volunteering-AI
+  - COMM-045-Public-Childcare-AI
+  - COMM-046-Community-Pet-Care-AI
+  - COMM-047-Public-Fitness-AI
+  - COMM-048-Community-Transportation-AI
+  - COMM-049-Public-Event-AI
+  - COMM-050-Community-Cultural-AI
+  - EC-005-Sunglasses-AI
+  - EC-007-Personal-Shopper-AI
+  - EC-008-Custom-Sneaker-AI
+  - EC-009-Sustainable-Fashion-AI
+  - EC-010-Jewelry-Designer-AI
+  - EC-011-Virtual-Try-On-AI
+  - EC-012-Fashion-Designer-AI
+  - EC-014-Subscription-Box-AI
+  - EC-015-Surf-Gear-AI
+  - EC-016-Ski-Gear-AI
+  - EC-017-Golf-Gear-AI
+  - EC-018-Fishing-Gear-AI
+  - EC-019-Yoga-Gear-AI
+  - EC-020-Costume-Shop-AI
+  - EC-021-Luggage-AI
+  - EC-022-Home-Appliance-AI
+  - EC-023-Tool-Shop-AI
+  - EC-024-Garden-Supply-AI
+  - EC-025-Collectible-AI
+  - EC-026-Hobby-Shop-AI
+  - EC-030-AI-Product-Photographer
+  - EC-033-Ad-Optimizer-AI
+  - EC-035-Review-Aggregator-AI
+  - EC-036-Fulfillment-Network-AI
+  - EC-037-Return-Optimization-AI
+  - EC-039-Visual-Search-AI
+  - EC-048-Wholesale-Marketplace-AI
+  - EC-050-AI-Product-Descriptions
+  - EC-051-AI-Email-Marketing
+  - EC-052-AI-Product-Bundler
+  - EC-053-AI-Visual-Merchandiser
+  - EC-054-AI-Demand-Forecasting
+  - EC-055-AI-Warehouse-Management
+  - EC-056-AI-Supplier-Matching
+  - EC-057-AI-Quality-Control
+  - EC-058-AI-Packaging-Designer
+  - EC-059-AI-Logistics-Planner
+  - EC-060-AI-Customer-Loyalty
+  - EC-061-AI-Gift-Finder
+  - EC-062-AI-Trend-Hunter
+  - EC-063-AI-Market-Research
+  - EC-064-AI-Competitor-Watcher
+  - EC-065-AI-Product-Development
+  - EC-066-AI-Customer-Journey
+  - EC-067-AI-Payment-Optimization
+  - EC-068-AI-Returns-Management
+  - EC-069-AI-Shipping-Labeler
+  - EC-070-AI-Product-Launch-Coach
+  - EC-071-AI-Vendor-Negotiator
+  - EC-072-AI-Product-Cataloger
+  - EC-073-AI-Order-Prioritizer
+  - EC-074-AI-Customer-Segmentation
+  - EC-075-AI-Pricing-Analyst
+  - EC-076-AI-Sales-Forecasting
+  - EC-077-AI-Inventory-Reordering
+  - EC-078-AI-Product-Comparison
+  - EC-079-AI-Customer-Feedback
+  - EC-080-AI-Product-Updates
+  - EC-081-AI-Cross-Selling
+  - EC-082-AI-Up-Selling
+  - EC-083-AI-Product-Education
+  - EC-084-AI-Purchase-Timing
+  - EC-085-AI-Customer-Support
+  - EC-086-AI-Order-Tracking
+  - EC-087-AI-Product-Reviews
+  - EC-088-AI-Customer-Community
+  - EC-089-AI-Product-Customization
+  - EC-090-AI-Gift-Registry
+  - EC-091-AI-Wedding-Registry
+  - EC-092-AI-Baby-Registry
+  - EC-093-AI-Holiday-Planner
+  - EC-094-AI-Personal-Shopper
+  - EC-095-AI-Color-Match
+  - EC-096-AI-Fabric-Advisor
+  - EC-097-AI-Fit-Recommendation
+  - EC-098-AI-Outfit-Builder
+  - EC-099-AI-Seasonal-Forecast
+  - EC-100-AI-Wardrobe-Planner
+  - EC-101-AI-Accessory-Match
+  - EC-102-AI-Shoe-Match
+  - EC-103-AI-Jewelry-Match
+  - EC-104-AI-Bag-Match
+  - EC-105-AI-Color-Palette
+  - EC-106-AI-Outfit-Recycling
+  - EC-107-AI-Style-Evolution
+  - EC-108-AI-Budget-Stylist
+  - EC-109-AI-Trend-Archive
+  - EC-110-AI-Vintage-Advisor
+  - EDU-002-AI-Literacy-Program
+  - EDU-006-Homeschooling-Content-AI
+  - EDU-007-AI-Tutoring-Platform
+  - EDU-015-AI-Legal-Doc-Generator
+  - EDU-017-AI-Coding-Tutor
+  - EDU-022-AI-Research-Assistant
+  - EDU-024-Language-Learning-AI
+  - EDU-025-Test-Preparation-AI
+  - EDU-026-Corporate-Training-AI
+  - EDU-027-Medical-Education-AI
+  - EDU-028-Legal-Education-AI
+  - EDU-029-Music-Education-AI
+  - EDU-030-Art-Education-AI
+  - EDU-031-Physical-Education-AI
+  - EDU-032-Environmental-Education-AI
+  - EDU-033-Social-Studies-AI
+  - EDU-034-Math-Education-AI
+  - EDU-035-Science-Education-AI
+  - EDU-036-Reading-Comprehension-AI
+  - EDU-037-Writing-Instruction-AI
+  - EDU-038-Critical-Thinking-AI
+  - EDU-039-Emotional-Intelligence-AI
+  - EDU-040-Time-Management-AI
+  - EM-001-Space-Habitat-AI
+  - EM-002-Fusion-Energy-AI
+  - EM-003-Teleportation-Research-AI
+  - EM-004-Climate-Solutions-AI
+  - EM-005-Holographic-Events-AI
+  - EM-006-Neurofeedback-AI
+  - EM-007-Autonomous-Delivery-AI
+  - EM-008-Gene-Editing-AI
+  - EM-009-Space-Tourism-AI
+  - EM-010-Wearables-AI
+  - EM-011-Metaverse-Hub-AI
+  - EM-012-Energy-Grid-AI
+  - EM-014-Ocean-Cleanup-AI
+  - EM-015-Crypto-Trading-AI
+  - EM-016-Synthetic-Media-AI
+  - EM-017-Space-Mining-AI
+  - EM-018-VR-Therapy-AI
+  - EM-019-Weather-Prediction-AI
+  - EM-020-Autonomous-Farming-AI
+  - EM-021-Traffic-Optimizer-AI
+  - EM-022-Smart-Grid-AI
+  - EM-023-Disaster-Prediction-AI
+  - EM-024-Nanotech-AI
+  - EM-025-Personalized-Medicine-AI
+  - EM-026-AI-Diagnostic-Lab
+  - EM-027-Sustainable-Cities-AI
+  - EM-028-Renewable-Energy-AI
+  - EM-029-Climate-Modeling-AI
+  - EM-030-Policy-Advisor-AI
+  - EM-031-Governance-Hub-AI
+  - EM-032-Global-Challenges-AI
+  - EM-033-Space-Exploration-AI
+  - EM-034-Education-Equity-AI
+  - EM-035-Health-Equity-AI
+  - EM-036-Economic-Equity-AI
+  - EM-037-Environmental-Justice-AI
+  - EM-038-Human-Rights-AI
+  - EM-039-Peacebuilding-AI
+  - EM-040-Telemedicine-AI
+  - EM-041-AI-Climate-Adaptation
+  - EM-042-Space-Agriculture-AI
+  - EM-043-Quantum-Communication-AI
+  - EM-044-Robotics-Surgery-AI
+  - EM-045-AI-Disaster-Response
+  - EM-047-AI-Environmental-Monitoring
+  - EM-048-Space-Manufacturing-AI
+  - EM-049-AI-Ocean-Exploration
+  - EM-050-AI-Archaeology
+  - FH-015-AI-Nutrition-Planner
+  - FIN-003-AI-Boss-Hub-Lite
+  - FIN-004-GenixBanks-AI-Treasurer
+  - FIN-010-AI-Powered-Garbage-Collection
+  - FIN-012-Invoice-Factoring-AI
+  - FIN-013-Charity-Donation-AI
+  - FIN-014-Expense-Tracker-AI
+  - FIN-016-Trade-Finance-AI
+  - FIN-017-Remittance-AI
+  - FIN-018-Wealth-Transfer-AI
+  - FIN-019-Payment-Gateway-AI
+  - FIN-020-Debt-Consolidation-AI
+  - FIN-022-Budget-Forecasting-AI
+  - FIN-023-Investment-Portfolio-AI
+  - FIN-024-Crowdfunding-AI
+  - FIN-027-Patent-Writer-AI
+  - FIN-028-Legal-Analyzer-AI
+  - FIN-030-Local-SEO-Ranker-AI
+  - FIN-032-Legal-Toolkit-AI
+  - FIN-033-AI-Tax-Preparation-Service
+  - FIN-035-Insurance-Underwriting-AI
+  - FS-017-AI-Personal-Trainer
+  - LT-014-AI-Route-Optimization
+  - LT-028-Freight-AI-Optimization
+  - OPS-003-Event-Planning-AI
+  - OPS-004-Inventory-Management-AI
+  - OPS-005-Project-Management-AI
+  - OPS-006-Document-Automation-AI
+  - OPS-007-Meeting-Assistant-AI
+  - OPS-008-Recruitment-AI
+  - OPS-009-Onboarding-AI
+  - OPS-010-Training-Platform-AI
+  - OPS-011-Performance-Review-AI
+  - OPS-012-IT-Support-AI
+  - OPS-013-Facilities-Management-AI
+  - OPS-014-Travel-Booking-AI
+  - OPS-015-Expense-Management-AI
+  - SPEC-001-AI-Auction-House
+  - SPEC-017-Smart-Agriculture-AI
+  - SPEC-018-AI-Personal-Shopper
+  - SPEC-038-AI-Comedy-Writer
+  - TECH-001-Quantum-Algorithm-AI
+  - TECH-002-AI-Compliance-Scanner
+  - TECH-003-Cloud-Management-AI
+  - TECH-004-Robotics-Training-AI
+  - TECH-005-Customer-Insights-AI
+  - TECH-006-Voice-Assistant-AI
+  - TECH-007-Blockchain-Verifier-AI
+  - TECH-009-Content-Studio-AI
+  - TECH-010-Smart-Home-AI
+  - TECH-012-Data-Visualization-AI
+  - TECH-015-Image-Recognition-AI
+  - TECH-016-Video-Editor-AI
+  - TECH-017-Speech-to-Text-AI
+  - TECH-018-Text-to-Speech-AI
+  - TECH-021-Network-Security-AI
+  - TECH-023-AI-Testing-Platform
+  - TECH-026-AI-Ethics-Auditor
+  - TECH-027-Predictive-Analytics-AI
+  - TECH-028-AI-Training-Platform
+  - TECH-029-Digital-Twin-AI
+  - TECH-030-AI-Monitoring-System
+  - TECH-031-Edge-Computing-AI
+  - TECH-032-AI-Integration-Hub
+  - TECH-033-Quantum-Algorithm-AI
+  - TECH-034-AI-Compliance-Scanner
+  - TECH-035-Cloud-Management-AI
+  - TECH-037-Customer-Insights-AI
+  - TECH-038-Voice-Assistant-AI
+  - TECH-039-Blockchain-Verifier-AI
+  - TECH-041-Content-Studio-AI
+  - TECH-042-Smart-Home-AI
+  - TECH-044-Data-Visualization-AI
+  - TECH-047-Image-Recognition-AI
+  - TECH-048-Video-Editor-AI
+  - TECH-049-Speech-to-Text-AI
+  - TECH-051-Fraud-Prevention-AI
+  - TECH-053-Network-Security-AI
+  - TECH-055-AI-Testing-Platform
+  - TECH-058-AI-Ethics-Auditor
+  - TECH-059-Predictive-Analytics-AI
+  - TECH-060-AI-Training-Platform
+- capability: education-learning
+  ventures_served: 22
+  venture_ids:
+  - BW-010-Online-Lash-Education
+  - COMM-026-Public-Education-AI
+  - EC-083-AI-Product-Education
+  - EDU-017-AI-Coding-Tutor
+  - EDU-018-Online-Course-Creator
+  - EDU-019-Executive-Education-Program
+  - EDU-024-Language-Learning-AI
+  - EDU-027-Medical-Education-AI
+  - EDU-028-Legal-Education-AI
+  - EDU-029-Music-Education-AI
+  - EDU-030-Art-Education-AI
+  - EDU-031-Physical-Education-AI
+  - EDU-032-Environmental-Education-AI
+  - EDU-034-Math-Education-AI
+  - EDU-035-Science-Education-AI
+  - EM-034-Education-Equity-AI
+  - ET-002-Language-Learning-App
+  - ET-014-Gamified-Learning-App
+  - FH-019-Cooking-Course-Platform
+  - MC-017-Online-Course-Platform
+  - TECH-025-Machine-Learning-Builder
+  - TECH-057-Machine-Learning-Builder
+- capability: automation-orchestration
+  ventures_served: 16
+  venture_ids:
+  - FIN-002-Credit-Repair-Automation
+  - FIN-025-Escrow-Automation
+  - FIN-034-Payroll-Automation
+  - LT-001-Truck-Dispatch-Company
+  - LT-003-Logistics-Dispatch-Service
+  - LT-004-Last-Mile-Delivery-Dispatch
+  - LT-005-Medical-Courier-Dispatch
+  - LT-007-Construction-Dispatch
+  - LT-008-Towing-Dispatch
+  - LT-009-HVAC-Technician-Dispatch
+  - LT-010-Field-Service-Dispatch
+  - LT-011-Dispatch-Software
+  - LT-013-Logistics-Automation-System
+  - OPS-006-Document-Automation-AI
+  - TECH-013-Workflow-Automation
+  - TECH-045-Workflow-Automation
+- capability: e-commerce
+  ventures_served: 14
+  venture_ids:
+  - BW-018-Nail-Booking-Marketplace
+  - BW-031-Hair-Marketplace
+  - EC-020-Costume-Shop-AI
+  - EC-023-Tool-Shop-AI
+  - EC-026-Hobby-Shop-AI
+  - EC-040-Abandoned-Cart-Recovery
+  - EC-048-Wholesale-Marketplace-AI
+  - EC-049-Rental-Marketplace
+  - EDU-008-Branding-Templates-Marketplace
+  - FH-022-Specialty-Coffee-Shop
+  - FH-025-Ice-Cream-Shop
+  - LT-025-Logistics-Marketplace
+  - MC-019-Digital-Download-Store
+  - MC-020-NFT-Marketplace
+- capability: cms-content
+  ventures_served: 11
+  venture_ids:
+  - EC-043-UGC-Content-Aggregator
+  - EDU-006-Homeschooling-Content-AI
+  - ET-012-Educational-Content-Library
+  - FH-017-Cooking-Content-Brand
+  - MC-003-Blog-Network
+  - MC-005-Content-Creation-Studio
+  - PS-016-Photography-Service
+  - TECH-009-Content-Studio-AI
+  - TECH-016-Video-Editor-AI
+  - TECH-041-Content-Studio-AI
+  - TECH-048-Video-Editor-AI
+- capability: finance-fintech
+  ventures_served: 9
+  venture_ids:
+  - EDU-023-Personal-Finance-Coach
+  - EM-015-Crypto-Trading-AI
+  - FIN-006-Tax-Prep-Filing-Services
+  - FIN-009-Crypto-Tax-Optimizer
+  - FIN-016-Trade-Finance-AI
+  - FIN-021-Tax-Deduction-Finder
+  - FIN-023-Investment-Portfolio-AI
+  - FIN-033-AI-Tax-Preparation-Service
+  - PS-010-Tax-Preparation-Service
+- capability: security-compliance
+  ventures_served: 8
+  venture_ids:
+  - COMM-005-Ace-Food-Security-AI
+  - FIN-026-Financial-Compliance-Scanner
+  - FIN-029-Compliance-Wallet-SaaS
+  - SPEC-019-Smart-Home-Security
+  - TECH-002-AI-Compliance-Scanner
+  - TECH-021-Network-Security-AI
+  - TECH-034-AI-Compliance-Scanner
+  - TECH-053-Network-Security-AI
+- capability: venture-governance
+  ventures_served: 7
+  venture_ids:
+  - EC-090-AI-Gift-Registry
+  - EC-091-AI-Wedding-Registry
+  - EC-092-AI-Baby-Registry
+  - EDU-013-Automated-Empire-Book
+  - EM-031-Governance-Hub-AI
+  - EM-046-Smart-City-Governance
+  - FIN-023-Investment-Portfolio-AI
+- capability: video-media
+  ventures_served: 7
+  venture_ids:
+  - EM-016-Synthetic-Media-AI
+  - MC-001-YouTube-Channel-Network
+  - MC-006-Video-Production-Company
+  - MC-010-Stock-Video
+  - PS-020-Social-Media-Management
+  - TECH-016-Video-Editor-AI
+  - TECH-048-Video-Editor-AI
+- capability: legal-compliance
+  ventures_served: 6
+  venture_ids:
+  - COMM-025-Community-Legal-Aid
+  - EDU-015-AI-Legal-Doc-Generator
+  - EDU-028-Legal-Education-AI
+  - FIN-028-Legal-Analyzer-AI
+  - FIN-032-Legal-Toolkit-AI
+  - PS-002-Legal-Services
+- capability: blockchain-web3
+  ventures_served: 6
+  venture_ids:
+  - EC-028-NFT-Fashion-Licensing
+  - EM-015-Crypto-Trading-AI
+  - FIN-009-Crypto-Tax-Optimizer
+  - MC-020-NFT-Marketplace
+  - TECH-007-Blockchain-Verifier-AI
+  - TECH-039-Blockchain-Verifier-AI
+- capability: voice-audio
+  ventures_served: 6
+  venture_ids:
+  - MC-002-Podcast-Network
+  - TECH-006-Voice-Assistant-AI
+  - TECH-017-Speech-to-Text-AI
+  - TECH-018-Text-to-Speech-AI
+  - TECH-038-Voice-Assistant-AI
+  - TECH-049-Speech-to-Text-AI
+- capability: healthcare
+  ventures_served: 5
+  venture_ids:
+  - COMM-016-Community-Health-AI
+  - COMM-032-Public-Health-AI
+  - EDU-027-Medical-Education-AI
+  - EM-035-Health-Equity-AI
+  - LT-005-Medical-Courier-Dispatch
+- capability: data-analytics
+  ventures_served: 5
+  venture_ids:
+  - FIN-031-Investor-Dashboard-Builder
+  - FS-019-Wearable-Analytics-Platform
+  - LT-029-Supply-Chain-Analytics
+  - TECH-027-Predictive-Analytics-AI
+  - TECH-059-Predictive-Analytics-AI
+- capability: mobile-app
+  ventures_served: 4
+  venture_ids:
+  - BW-002-Mobile-Lash-Service
+  - BW-012-Mobile-Nail-Tech
+  - BW-023-Mobile-Hairstyling
+  - BW-037-Mobile-Makeup-Artist
+- capability: developer-tools
+  ventures_served: 4
+  venture_ids:
+  - BW-020-AI-Nail-Design-Generator
+  - EC-029-Instant-Brand-Generator
+  - EDU-015-AI-Legal-Doc-Generator
+  - FIN-032-Legal-Toolkit-AI
+- capability: payments-billing
+  ventures_served: 4
+  venture_ids:
+  - EC-014-Subscription-Box-AI
+  - EC-067-AI-Payment-Optimization
+  - FIN-012-Invoice-Factoring-AI
+  - FIN-019-Payment-Gateway-AI
+- capability: marketing-growth
+  ventures_served: 4
+  venture_ids:
+  - EC-051-AI-Email-Marketing
+  - FIN-030-Local-SEO-Ranker-AI
+  - PS-005-Marketing-Agency
+  - PS-021-SEO-Agency
+- capability: database-storage
+  ventures_served: 3
+  venture_ids:
+  - LT-023-Storage-Business
+  - TECH-022-Database-Optimizer
+  - TECH-054-Database-Optimizer
+- capability: crm-sales
+  ventures_served: 2
+  venture_ids:
+  - COMM-004-Community-Outreach-Nonprofit
+  - EC-076-AI-Sales-Forecasting
+- capability: agent-systems
+  ventures_served: 2
+  venture_ids:
+  - EM-007-Autonomous-Delivery-AI
+  - EM-020-Autonomous-Farming-AI
+- capability: api-integration
+  ventures_served: 2
+  venture_ids:
+  - PS-016-Photography-Service
+  - TECH-032-AI-Integration-Hub
+- capability: image-vision
+  ventures_served: 2
+  venture_ids:
+  - TECH-015-Image-Recognition-AI
+  - TECH-047-Image-Recognition-AI
+- capability: devops-infra
+  ventures_served: 1
+  venture_ids:
+  - COMM-036-Public-Infrastructure-AI
+- capability: search-retrieval
+  ventures_served: 1
+  venture_ids:
+  - EC-039-Visual-Search-AI
+- capability: messaging-communication
+  ventures_served: 1
+  venture_ids:
+  - EC-051-AI-Email-Marketing
+- capability: hr-recruiting
+  ventures_served: 1
+  venture_ids:
+  - ET-009-Resume-Writing-Service
+- capability: frontend-ui
+  ventures_served: 1
+  venture_ids:
+  - MC-012-News-Website
+ventures_with_zero_capability_tags:
+- BW-001-Lash-Extension-Studio
+- BW-003-Luxury-Lash-Bar
+- BW-004-Lash-Training-Academy
+- BW-005-Lash-Supply-Company
+- BW-006-Lash-Glue-Brand
+- BW-008-Private-Label-Lashes
+- BW-009-Franchise-Lash-Salons
+- BW-011-Nail-Salon
+- BW-013-Luxury-Nail-Spa
+- BW-014-Press-On-Nail-Brand
+- BW-015-Nail-Art-Studio
+- BW-016-Nail-Polish-Brand
+- BW-017-Nail-Care-Products
+- BW-019-Salon-Management-Software
+- BW-021-Hair-Salon
+- BW-022-Barbershop
+- BW-024-Hair-Braiding-Studio
+- BW-025-Wig-Installation-Studio
+- BW-026-Hair-Extension-Salon
+- BW-027-Hair-Care-Line
+- BW-028-Wig-Brand
+- BW-029-Hair-Extensions-Brand
+- BW-030-Scalp-Treatment-Products
+- BW-032-Stylist-Booking-Platform
+- BW-034-Salon-Franchise-Chain
+- BW-035-Makeup-Studio
+- BW-036-Bridal-Makeup-Service
+- BW-038-Photoshoot-Makeup-Team
+- BW-039-Cosmetics-Brand
+- BW-040-Beauty-Tools-Brand
+- COMM-001-Luminary-Worldwide-Events
+- COMM-002-Brotherhood-Coaching-Network
+- COMM-003-Ace-Senior-Care-Connect
+- COMM-011-Indigenous-Creator-Hub
+- COMM-013-Women-s-Empowerment-Network
+- COMM-015-Youth-Mentorship-Program
+- COMM-017-Local-Business-Directory
+- COMM-022-Job-Training-Center
+- COMM-033-Youth-Innovation-Hub
+- COMM-034-Senior-Tech-Support
+- EC-001-Angels-in-Daylight
+- EC-002-New-World-Apparel
+- EC-003-Shopify-Autopilot
+- EC-004-Shoe-Customizer
+- EC-006-Dropship-Hub
+- EC-013-Merch-Licensing
+- EC-027-Kids-Toy-Line
+- EC-031-Automated-Inventory-Forecaster
+- EC-032-Dynamic-Pricing-Engine
+- EC-034-Recommendation-Engine
+- EC-038-Chatbot-Customer-Service
+- EC-041-Seasonal-Trend-Predictor
+- EC-042-Influencer-Matchmaker
+- EC-044-Live-Commerce-Platform
+- EC-045-AR-Virtual-Fitting-Room
+- EC-046-3D-Product-Viewer
+- EC-047-Carbon-Footprint-Tracker
+- EDU-001-Youth-Entrepreneurship-Curriculum
+- EDU-003-Coding-Mentor-Certification
+- EDU-004-Real-Estate-Licensing-Prep
+- EDU-005-Coding-Bootcamp
+- EDU-009-Voiceover-Script-Library
+- EDU-010-Trade-Skills-Bootcamp
+- EDU-011-Franchise-Blueprint-System
+- EDU-012-Low-Income-Housing-Blueprint
+- EDU-014-BIPOC-Creator-Incubator
+- EDU-016-Virtual-Black-Art-Museum
+- EDU-020-Youth-STEM-Program
+- EDU-021-Remote-Work-Certification
+- EM-013-Brain-Computer-Interface
+- ET-001-Online-Tutoring-Platform
+- ET-003-Test-Prep-Service
+- ET-004-Coding-Bootcamp
+- ET-005-Professional-Certification
+- ET-006-Corporate-Training
+- ET-007-Skills-Assessment-Platform
+- ET-008-Career-Coaching
+- ET-010-Interview-Prep-Platform
+- ET-011-Mentorship-Platform
+- ET-013-VR-Training-Simulations
+- ET-015-Homeschool-Curriculum
+- FH-001-Personal-Chef-Service
+- FH-002-Meal-Prep-Delivery
+- FH-003-Private-Dinner-Experiences
+- FH-004-Catering-Company
+- FH-005-Corporate-Lunch-Service
+- FH-006-Healthy-Meal-Prep-for-Gyms
+- FH-007-Elderly-Meal-Service
+- FH-008-Athlete-Nutrition-Service
+- FH-009-Packaged-Food-Brand
+- FH-010-Frozen-Meals-Company
+- FH-011-Sauce-or-Seasoning-Brand
+- FH-012-Protein-Snacks-Brand
+- FH-013-Meal-Kit-Company
+- FH-014-Cloud-Kitchen-
+- FH-016-Recipe-App
+- FH-018-Food-Influencer-Brand
+- FH-020-Restaurant-POS-System
+- FH-021-Food-Truck-Business
+- FH-024-Juice-Bar
+- FH-026-Gourmet-Food-Market
+- FH-027-Food-Delivery-Platform
+- FH-028-Restaurant-Management-SaaS
+- FH-029-Food-Quality-Testing-Lab
+- FH-030-Organic-Food-Brand
+- FH-031-Vegan-Food-Company
+- FH-032-Keto-Meal-Service
+- FH-033-Food-Photography-Service
+- FH-034-Restaurant-Consulting
+- FH-035-Food-Safety-Training
+- FIN-001-GenixBank-Lite
+- FIN-005-U-Haul-Rental-Affiliate
+- FIN-007-Business-Credit-Building
+- FIN-008-Business-Formation-Services
+- FIN-011-Automated-Bookkeeping
+- FIN-015-Financial-Wellness-Coach
+- FIN-036-Arbitrage-Nexus-Platform
+- FS-001-Gym
+- FS-002-Boutique-Fitness-Studio
+- FS-003-Personal-Training-Studio
+- FS-004-Women-Only-Gym
+- FS-005-Boxing-Gym
+- FS-006-CrossFit-Gym
+- FS-007-Luxury-Fitness-Club
+- FS-008-Online-Coaching
+- FS-009-Personal-Trainer-Business
+- FS-010-Transformation-Program
+- FS-011-Athlete-Training-Company
+- FS-012-Supplement-Brand
+- FS-013-Fitness-Apparel
+- FS-014-Workout-Equipment-Brand
+- FS-015-Recovery-Products
+- FS-016-Fitness-App
+- FS-018-Gym-Management-Software
+- FS-020-Yoga-Studio
+- FS-021-Pilates-Studio
+- FS-022-Dance-Studio
+- FS-023-Martial-Arts-Dojo
+- FS-024-Sports-Performance-Center
+- FS-025-Corporate-Wellness-Program
+- LT-002-Freight-Brokerage
+- LT-006-Amazon
+- LT-012-Fleet-Tracking-Platform
+- LT-015-Driver-Management-Platform
+- LT-016-Trucking-Company
+- LT-017-Courier-Service
+- LT-018-Local-Delivery-Company
+- LT-019-Moving-Company
+- LT-020-Freight-Company
+- LT-021-Warehouse-Company
+- LT-022-Fulfillment-Center
+- LT-024-Distribution-Company
+- LT-026-Shipping-Platform
+- LT-027-Fleet-Management-SaaS
+- LT-030-Cold-Chain-Logistics
+- MC-004-Influencer-Agency
+- MC-007-Animation-Studio
+- MC-008-Music-Production
+- MC-009-Stock-Photography
+- MC-011-Online-Magazine
+- MC-013-Streaming-Platform
+- MC-014-Gaming-Channel
+- MC-015-Esports-Team
+- MC-016-Virtual-Events-Platform
+- MC-018-Membership-Site
+- OPS-001-Fractional-CTO-Agency
+- OPS-002-Supply-Chain-Optimizer
+- PS-001-Business-Consulting
+- PS-003-Accounting-Services
+- PS-004-HR-Consulting
+- PS-006-Web-Design-Agency
+- PS-007-IT-Support-Services
+- PS-008-Virtual-Assistant-Service
+- PS-009-Bookkeeping-Service
+- PS-011-Real-Estate-Agency
+- PS-012-Insurance-Agency
+- PS-017-Videography-Service
+- PS-018-Translation-Services
+- PS-019-Copywriting-Service
+- PS-022-PPC-Management
+- PS-023-PR-Agency
+- PS-024-Recruiting-Agency
+- PS-025-Business-Brokerage
+- TECH-011-Supply-Chain-Optimizer
+- TECH-014-Sentiment-Analyzer
+- TECH-020-Recommendation-Engine
+- TECH-024-Virtual-Assistant-Builder
+- TECH-040-Cybersecurity-Shield
+- TECH-043-Supply-Chain-Optimizer
+- TECH-046-Sentiment-Analyzer
+- TECH-052-Recommendation-Engine
+- TECH-056-Virtual-Assistant-Builder
