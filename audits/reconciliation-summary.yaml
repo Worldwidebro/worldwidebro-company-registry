@@ -1,13 +1,15 @@
-generated_at: '2026-08-22T20:45:37.028400'
+generated_at: '2026-08-22T21:02:07.522914'
 sources:
   github_owned: 890
   github_starred: 877
-  t7_ventures: 788
+  t7_ventures_canonical: 738
+  t7_ventures_total: 788
+  t7_venture_duplicates_removed: 50
   t7_ventures_with_github: 687
 reconciliation:
   owned_repos_matched_to_ventures: 547
   owned_repos_unmatched: 343
-  ventures_without_repos: 101
+  ventures_without_repos: 51
   starred_repos_also_owned: 2
   starred_repos_not_owned: 870
   duplicate_repo_records: 0
@@ -15,7 +17,7 @@ reconciliation:
 exception_categorization:
   ventures_without_repos:
     missing mapping: 50
-    needs build: 51
+    needs build: 1
   unmatched_owned_repos:
     other: 123
     venture-id-pattern: 1
@@ -23,5 +25,3 @@ exception_categorization:
     archived: 116
     platform-with-deploy: 14
     platform-via-vercel: 1
-  starred_not_owned:
-    external: 870

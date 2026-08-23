@@ -19,6 +19,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-002-Mobile-Lash-Service
   name: Mobile Lash Service
   opco: Worldwidebro Beauty
@@ -40,6 +41,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-003-Luxury-Lash-Bar
   name: Luxury Lash Bar
   opco: Worldwidebro Beauty
@@ -61,6 +63,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-004-Lash-Training-Academy
   name: Lash Training Academy
   opco: Worldwidebro Beauty
@@ -82,6 +85,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-005-Lash-Supply-Company
   name: Lash Supply Company
   opco: Worldwidebro Beauty
@@ -103,6 +107,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-006-Lash-Glue-Brand
   name: Lash Glue Brand
   opco: Worldwidebro Beauty
@@ -124,6 +129,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-007-Lash-Kits-&-Tools
   name: Lash Kits & Tools
   opco: Worldwidebro Beauty
@@ -145,6 +151,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-008-Private-Label-Lashes
   name: Private Label Lashes
   opco: Worldwidebro Beauty
@@ -166,6 +173,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-009-Franchise-Lash-Salons
   name: Franchise Lash Salons
   opco: Worldwidebro Beauty
@@ -187,6 +195,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-010-Online-Lash-Education
   name: Online Lash Education
   opco: Worldwidebro Beauty
@@ -208,6 +217,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-011-Nail-Salon
   name: Nail Salon
   opco: Worldwidebro Beauty
@@ -229,6 +239,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-012-Mobile-Nail-Tech
   name: Mobile Nail Tech
   opco: Worldwidebro Beauty
@@ -250,6 +261,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-013-Luxury-Nail-Spa
   name: Luxury Nail Spa
   opco: Worldwidebro Beauty
@@ -271,6 +283,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-014-Press-On-Nail-Brand
   name: Press On Nail Brand
   opco: Worldwidebro Beauty
@@ -292,6 +305,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-015-Nail-Art-Studio
   name: Nail Art Studio
   opco: Worldwidebro Beauty
@@ -313,6 +327,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-016-Nail-Polish-Brand
   name: Nail Polish Brand
   opco: Worldwidebro Beauty
@@ -334,6 +349,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-017-Nail-Care-Products
   name: Nail Care Products
   opco: Worldwidebro Beauty
@@ -355,6 +371,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-018-Nail-Booking-Marketplace
   name: Nail Booking Marketplace
   opco: Worldwidebro Beauty
@@ -376,6 +393,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-019-Salon-Management-Software
   name: Salon Management Software
   opco: Worldwidebro Beauty
@@ -397,6 +415,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-020-AI-Nail-Design-Generator
   name: Ai Nail Design Generator
   opco: Worldwidebro Beauty
@@ -418,6 +437,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-021-Hair-Salon
   name: Hair Salon
   opco: Worldwidebro Beauty
@@ -439,6 +459,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-022-Barbershop
   name: Barbershop
   opco: Worldwidebro Beauty
@@ -460,6 +481,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-023-Mobile-Hairstyling
   name: Mobile Hairstyling
   opco: Worldwidebro Beauty
@@ -481,6 +503,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-024-Hair-Braiding-Studio
   name: Hair Braiding Studio
   opco: Worldwidebro Beauty
@@ -502,6 +525,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-025-Wig-Installation-Studio
   name: Wig Installation Studio
   opco: Worldwidebro Beauty
@@ -523,6 +547,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-026-Hair-Extension-Salon
   name: Hair Extension Salon
   opco: Worldwidebro Beauty
@@ -544,6 +569,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-027-Hair-Care-Line
   name: Hair Care Line
   opco: Worldwidebro Beauty
@@ -565,6 +591,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-028-Wig-Brand
   name: Wig Brand
   opco: Worldwidebro Beauty
@@ -586,6 +613,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-029-Hair-Extensions-Brand
   name: Hair Extensions Brand
   opco: Worldwidebro Beauty
@@ -607,6 +635,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-030-Scalp-Treatment-Products
   name: Scalp Treatment Products
   opco: Worldwidebro Beauty
@@ -628,6 +657,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-031-Hair-Marketplace
   name: Hair Marketplace
   opco: Worldwidebro Beauty
@@ -649,6 +679,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-032-Stylist-Booking-Platform
   name: Stylist Booking Platform
   opco: Worldwidebro Beauty
@@ -670,6 +701,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-033-AI-Hairstyle-Simulator
   name: Ai Hairstyle Simulator
   opco: Worldwidebro Beauty
@@ -691,6 +723,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-034-Salon-Franchise-Chain
   name: Salon Franchise Chain
   opco: Worldwidebro Beauty
@@ -712,6 +745,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-035-Makeup-Studio
   name: Makeup Studio
   opco: Worldwidebro Beauty
@@ -733,6 +767,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-036-Bridal-Makeup-Service
   name: Bridal Makeup Service
   opco: Worldwidebro Beauty
@@ -754,6 +789,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-037-Mobile-Makeup-Artist
   name: Mobile Makeup Artist
   opco: Worldwidebro Beauty
@@ -775,6 +811,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-038-Photoshoot-Makeup-Team
   name: Photoshoot Makeup Team
   opco: Worldwidebro Beauty
@@ -796,6 +833,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-039-Cosmetics-Brand
   name: Cosmetics Brand
   opco: Worldwidebro Beauty
@@ -817,6 +855,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: BW-040-Beauty-Tools-Brand
   name: Beauty Tools Brand
   opco: Worldwidebro Beauty
@@ -838,6 +877,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: COMM-001
   name: Local Community Hub
   opco: Worldwidebro Community
@@ -858,6 +898,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: COMM-001-Luminary-Worldwide-Events
   name: Luminary Worldwide Events
   opco: Worldwidebro Community
@@ -879,6 +920,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-001-luminary-worldwide-events-d3069ew4t.vercel.app
 - id: COMM-002-Brotherhood-Coaching-Network
   name: Brotherhood Coaching Network
   opco: Worldwidebro Community
@@ -900,6 +942,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-002-brotherhood-coaching-network-r5ncumo09.vercel.app
 - id: COMM-003-Ace-Senior-Care-Connect
   name: Ace Senior Care Connect
   opco: Worldwidebro Community
@@ -921,6 +964,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-003-ace-senior-care-connect-8o3q1osb1.vercel.app
 - id: COMM-004-Community-Outreach-Nonprofit
   name: Community Outreach Nonprofit
   opco: Worldwidebro Community
@@ -942,6 +986,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-004-community-outreach-nonprofit-3ylg03h55.vercel.app
 - id: COMM-005-Ace-Food-Security-AI
   name: Ace Food Security Ai
   opco: Worldwidebro Community
@@ -963,6 +1008,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-005-ace-food-security-r9ejwde50-worldwidebros-projects.vercel.app
 - id: COMM-006-Community-Technology-Access-AI
   name: Community Technology Access Ai
   opco: Worldwidebro Community
@@ -984,6 +1030,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-006-community-technology-access-4734n7yii.vercel.app
 - id: COMM-007-Youth-Leadership-AI
   name: Youth Leadership Ai
   opco: Worldwidebro Community
@@ -1005,6 +1052,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-007-youth-leadership-biajdmdfk-worldwidebros-projects.vercel.app
 - id: COMM-008-Community-Fundraising-AI
   name: Community Fundraising Ai
   opco: Worldwidebro Community
@@ -1026,6 +1074,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-008-community-fundraising-3adg4o5ak-worldwidebros-projects.vercel.app
 - id: COMM-009-Volunteer-Hub-AI
   name: Volunteer Hub Ai
   opco: Worldwidebro Community
@@ -1047,6 +1096,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-009-volunteer-hub-4fme6kaxz-worldwidebros-projects.vercel.app
 - id: COMM-010-Disaster-Relief-AI
   name: Disaster Relief Ai
   opco: Worldwidebro Community
@@ -1068,6 +1118,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-010-disaster-relief-o8mbz1n8o-worldwidebros-projects.vercel.app
 - id: COMM-011-Indigenous-Creator-Hub
   name: Indigenous Creator Hub
   opco: Worldwidebro Community
@@ -1089,6 +1140,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-011-indigenous-creator-p17bv0zdw-worldwidebros-projects.vercel.app
 - id: COMM-012-Black-Art-Museum-AI
   name: Black Art Museum Ai
   opco: Worldwidebro Community
@@ -1110,6 +1162,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-012-black-art-museum-om8bxbe53-worldwidebros-projects.vercel.app
 - id: COMM-013-Women-s-Empowerment-Network
   name: Women S Empowerment Network
   opco: Worldwidebro Community
@@ -1131,6 +1184,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-013-women-s-empowerment-network-lqz3t6pwp.vercel.app
 - id: COMM-014-Veterans-Support-AI
   name: Veterans Support Ai
   opco: Worldwidebro Community
@@ -1152,6 +1206,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-014-veterans-support-rlgkhox71-worldwidebros-projects.vercel.app
 - id: COMM-015-Youth-Mentorship-Program
   name: Youth Mentorship Program
   opco: Worldwidebro Community
@@ -1173,6 +1228,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-015-youth-mentorship-program-6zlgh054d.vercel.app
 - id: COMM-016-Community-Health-AI
   name: Community Health Ai
   opco: Worldwidebro Community
@@ -1194,6 +1250,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-016-community-health-nzsoma99r-worldwidebros-projects.vercel.app
 - id: COMM-017-Local-Business-Directory
   name: Local Business Directory
   opco: Worldwidebro Community
@@ -1215,6 +1272,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-017-local-business-directory-qrf7le6bi.vercel.app
 - id: COMM-018-Neighborhood-Watch-AI
   name: Neighborhood Watch Ai
   opco: Worldwidebro Community
@@ -1236,6 +1294,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-018-neighborhood-watch-n8cx6v79q-worldwidebros-projects.vercel.app
 - id: COMM-019-Community-Garden-AI
   name: Community Garden Ai
   opco: Worldwidebro Community
@@ -1257,6 +1316,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-019-community-garden-7dts1lirk-worldwidebros-projects.vercel.app
 - id: COMM-020-Public-Transportation-AI
   name: Public Transportation Ai
   opco: Worldwidebro Community
@@ -1278,6 +1338,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-020-public-transportation-7tnf6fn8a-worldwidebros-projects.vercel.app
 - id: COMM-021-Housing-Assistance-AI
   name: Housing Assistance Ai
   opco: Worldwidebro Community
@@ -1299,6 +1360,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-021-housing-assistance-dzaluhq4m-worldwidebros-projects.vercel.app
 - id: COMM-022-Job-Training-Center
   name: Job Training Center
   opco: Worldwidebro Community
@@ -1320,6 +1382,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-022-job-training-center-i3kjhzxte-worldwidebros-projects.vercel.app
 - id: COMM-023-Elder-Companion-AI
   name: Elder Companion Ai
   opco: Worldwidebro Community
@@ -1341,6 +1404,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-023-elder-companion-pyuq6z5a9-worldwidebros-projects.vercel.app
 - id: COMM-024-Youth-Sports-AI
   name: Youth Sports Ai
   opco: Worldwidebro Community
@@ -1362,6 +1426,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-024-youth-sports-rmp3v5q95-worldwidebros-projects.vercel.app
 - id: COMM-025-Community-Legal-Aid
   name: Community Legal Aid
   opco: Worldwidebro Community
@@ -1383,6 +1448,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-025-community-legal-m682mluhi-worldwidebros-projects.vercel.app
 - id: COMM-026-Public-Education-AI
   name: Public Education Ai
   opco: Worldwidebro Community
@@ -1404,6 +1470,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-026-public-education-r74c1o2l5-worldwidebros-projects.vercel.app
 - id: COMM-027-Local-Government-AI
   name: Local Government Ai
   opco: Worldwidebro Community
@@ -1425,6 +1492,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-027-local-government-fn0za7pdq-worldwidebros-projects.vercel.app
 - id: COMM-028-Public-Safety-AI
   name: Public Safety Ai
   opco: Worldwidebro Community
@@ -1446,6 +1514,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-028-public-safety-ap5s460pc-worldwidebros-projects.vercel.app
 - id: COMM-029-Community-Wellness-AI
   name: Community Wellness Ai
   opco: Worldwidebro Community
@@ -1467,6 +1536,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-029-community-wellness-1xlnuxwzt-worldwidebros-projects.vercel.app
 - id: COMM-030-Cultural-Exchange-AI
   name: Cultural Exchange Ai
   opco: Worldwidebro Community
@@ -1488,6 +1558,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-030-cultural-exchange-83qm7q25u-worldwidebros-projects.vercel.app
 - id: COMM-031-Community-Investment-AI
   name: Community Investment Ai
   opco: Worldwidebro Community
@@ -1509,6 +1580,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-031-community-investment-5m0e4uaii-worldwidebros-projects.vercel.app
 - id: COMM-032-Public-Health-AI
   name: Public Health Ai
   opco: Worldwidebro Community
@@ -1530,6 +1602,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-032-public-health-efy01f3hi-worldwidebros-projects.vercel.app
 - id: COMM-033-Youth-Innovation-Hub
   name: Youth Innovation Hub
   opco: Worldwidebro Community
@@ -1551,6 +1624,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-033-youth-innovation-2wbs0y9d0-worldwidebros-projects.vercel.app
 - id: COMM-034-Senior-Tech-Support
   name: Senior Tech Support
   opco: Worldwidebro Community
@@ -1572,6 +1646,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-034-senior-tech-support-p6szatetq-worldwidebros-projects.vercel.app
 - id: COMM-035-Community-Arts-AI
   name: Community Arts Ai
   opco: Worldwidebro Community
@@ -1593,6 +1668,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-035-community-arts-cjpspcct0-worldwidebros-projects.vercel.app
 - id: COMM-036-Public-Infrastructure-AI
   name: Public Infrastructure Ai
   opco: Worldwidebro Community
@@ -1614,6 +1690,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-036-public-infrastructure-h5fl0uywm-worldwidebros-projects.vercel.app
 - id: COMM-037-Neighborhood-Development-AI
   name: Neighborhood Development Ai
   opco: Worldwidebro Community
@@ -1635,6 +1712,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-037-neighborhood-development-hcnv5icw6.vercel.app
 - id: COMM-038-Community-Policing-AI
   name: Community Policing Ai
   opco: Worldwidebro Community
@@ -1656,6 +1734,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-038-community-policing-ncel5fq9q-worldwidebros-projects.vercel.app
 - id: COMM-039-Public-Space-AI
   name: Public Space Ai
   opco: Worldwidebro Community
@@ -1677,6 +1756,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-039-public-space-ams2lwgha-worldwidebros-projects.vercel.app
 - id: COMM-040-Community-Recycling-AI
   name: Community Recycling Ai
   opco: Worldwidebro Community
@@ -1698,6 +1778,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-040-community-recycling-awt4mvjwq-worldwidebros-projects.vercel.app
 - id: COMM-041-Public-Wi-Fi-AI
   name: Public Wi Fi Ai
   opco: Worldwidebro Community
@@ -1719,6 +1800,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-041-public-wi-fi-cnj10dvy2-worldwidebros-projects.vercel.app
 - id: COMM-042-Community-Energy-AI
   name: Community Energy Ai
   opco: Worldwidebro Community
@@ -1740,6 +1822,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-042-community-energy-kay4mk1cv-worldwidebros-projects.vercel.app
 - id: COMM-043-Local-Food-Network-AI
   name: Local Food Network Ai
   opco: Worldwidebro Community
@@ -1761,6 +1844,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-043-local-food-network-gew5l0423-worldwidebros-projects.vercel.app
 - id: COMM-044-Community-Volunteering-AI
   name: Community Volunteering Ai
   opco: Worldwidebro Community
@@ -1782,6 +1866,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-044-community-volunteering-or11jqigk.vercel.app
 - id: COMM-045-Public-Childcare-AI
   name: Public Childcare Ai
   opco: Worldwidebro Community
@@ -1803,6 +1888,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-045-public-childcare-6d3yr6bjw-worldwidebros-projects.vercel.app
 - id: COMM-046-Community-Pet-Care-AI
   name: Community Pet Care Ai
   opco: Worldwidebro Community
@@ -1824,6 +1910,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-046-community-pet-care-lhhiqytjn-worldwidebros-projects.vercel.app
 - id: COMM-047-Public-Fitness-AI
   name: Public Fitness Ai
   opco: Worldwidebro Community
@@ -1845,6 +1932,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-047-public-fitness-9rcek55oy-worldwidebros-projects.vercel.app
 - id: COMM-048-Community-Transportation-AI
   name: Community Transportation Ai
   opco: Worldwidebro Community
@@ -1866,6 +1954,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-048-community-transportation-g99bembe2.vercel.app
 - id: COMM-049-Public-Event-AI
   name: Public Event Ai
   opco: Worldwidebro Community
@@ -1887,6 +1976,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-049-public-event-qzx2o32t1-worldwidebros-projects.vercel.app
 - id: COMM-050-Community-Cultural-AI
   name: Community Cultural Ai
   opco: Worldwidebro Community
@@ -1908,6 +1998,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-050-community-cultural-oir2gsszh-worldwidebros-projects.vercel.app
 - id: EC-001
   name: Angels in Daylight
   opco: Worldwidebro Commerce
@@ -1928,6 +2019,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-001-Angels-in-Daylight
   name: Angels In Daylight
   opco: Worldwidebro Commerce
@@ -1949,6 +2041,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: ec-001-angels-in-daylight-9gvjoiwou-worldwidebros-projects.vercel.app
 - id: EC-002
   name: New World Apparel
   opco: Worldwidebro Commerce
@@ -1969,6 +2062,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-002-New-World-Apparel
   name: New World Apparel
   opco: Worldwidebro Commerce
@@ -1990,6 +2084,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-003
   name: Shopify Autopilot
   opco: Worldwidebro Commerce
@@ -2010,6 +2105,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-003-Shopify-Autopilot
   name: Shopify Autopilot
   opco: Worldwidebro Commerce
@@ -2031,6 +2127,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-004
   name: Shoe Customizer
   opco: Worldwidebro Commerce
@@ -2051,6 +2148,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-004-Shoe-Customizer
   name: Shoe Customizer
   opco: Worldwidebro Commerce
@@ -2072,6 +2170,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-005
   name: Sunglasses AI
   opco: Worldwidebro Commerce
@@ -2092,6 +2191,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-005-Sunglasses-AI
   name: Sunglasses Ai
   opco: Worldwidebro Commerce
@@ -2113,6 +2213,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-006
   name: Dropship Hub
   opco: Worldwidebro Commerce
@@ -2133,6 +2234,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-006-Dropship-Hub
   name: Dropship Hub
   opco: Worldwidebro Commerce
@@ -2154,6 +2256,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-007
   name: Personal Shopper AI
   opco: Worldwidebro Commerce
@@ -2174,6 +2277,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-007-Personal-Shopper-AI
   name: Personal Shopper Ai
   opco: Worldwidebro Commerce
@@ -2195,6 +2299,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-008
   name: Custom Sneaker AI
   opco: Worldwidebro Commerce
@@ -2215,6 +2320,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-008-Custom-Sneaker-AI
   name: Custom Sneaker Ai
   opco: Worldwidebro Commerce
@@ -2236,6 +2342,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-009
   name: Sustainable Fashion AI
   opco: Worldwidebro Commerce
@@ -2256,6 +2363,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-009-Sustainable-Fashion-AI
   name: Sustainable Fashion Ai
   opco: Worldwidebro Commerce
@@ -2277,6 +2385,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-010
   name: Jewelry Designer AI
   opco: Worldwidebro Commerce
@@ -2297,6 +2406,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-010-Jewelry-Designer-AI
   name: Jewelry Designer Ai
   opco: Worldwidebro Commerce
@@ -2318,6 +2428,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-011-Virtual-Try-On-AI
   name: Virtual Try On Ai
   opco: Worldwidebro Commerce
@@ -2339,6 +2450,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-012-Fashion-Designer-AI
   name: Fashion Designer Ai
   opco: Worldwidebro Commerce
@@ -2360,6 +2472,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-013-Merch-Licensing
   name: Merch Licensing
   opco: Worldwidebro Commerce
@@ -2381,6 +2494,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-014-Subscription-Box-AI
   name: Subscription Box Ai
   opco: Worldwidebro Commerce
@@ -2402,6 +2516,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-015-Surf-Gear-AI
   name: Surf Gear Ai
   opco: Worldwidebro Commerce
@@ -2423,6 +2538,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-016-Ski-Gear-AI
   name: Ski Gear Ai
   opco: Worldwidebro Commerce
@@ -2444,6 +2560,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-017-Golf-Gear-AI
   name: Golf Gear Ai
   opco: Worldwidebro Commerce
@@ -2465,6 +2582,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-018-Fishing-Gear-AI
   name: Fishing Gear Ai
   opco: Worldwidebro Commerce
@@ -2486,6 +2604,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-019-Yoga-Gear-AI
   name: Yoga Gear Ai
   opco: Worldwidebro Commerce
@@ -2507,6 +2626,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-020-Costume-Shop-AI
   name: Costume Shop Ai
   opco: Worldwidebro Commerce
@@ -2528,6 +2648,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-021-Luggage-AI
   name: Luggage Ai
   opco: Worldwidebro Commerce
@@ -2549,6 +2670,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-022-Home-Appliance-AI
   name: Home Appliance Ai
   opco: Worldwidebro Commerce
@@ -2570,6 +2692,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-023-Tool-Shop-AI
   name: Tool Shop Ai
   opco: Worldwidebro Commerce
@@ -2591,6 +2714,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-024-Garden-Supply-AI
   name: Garden Supply Ai
   opco: Worldwidebro Commerce
@@ -2612,6 +2736,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-025-Collectible-AI
   name: Collectible Ai
   opco: Worldwidebro Commerce
@@ -2633,6 +2758,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-026-Hobby-Shop-AI
   name: Hobby Shop Ai
   opco: Worldwidebro Commerce
@@ -2654,6 +2780,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-027-Kids-Toy-Line
   name: Kids Toy Line
   opco: Worldwidebro Commerce
@@ -2675,6 +2802,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-028-NFT-Fashion-Licensing
   name: Nft Fashion Licensing
   opco: Worldwidebro Commerce
@@ -2696,6 +2824,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-029-Instant-Brand-Generator
   name: Instant Brand Generator
   opco: Worldwidebro Commerce
@@ -2717,6 +2846,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-030-AI-Product-Photographer
   name: Ai Product Photographer
   opco: Worldwidebro Commerce
@@ -2738,6 +2868,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-031-Automated-Inventory-Forecaster
   name: Automated Inventory Forecaster
   opco: Worldwidebro Commerce
@@ -2759,6 +2890,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-032-Dynamic-Pricing-Engine
   name: Dynamic Pricing Engine
   opco: Worldwidebro Commerce
@@ -2780,6 +2912,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-033-Ad-Optimizer-AI
   name: Ad Optimizer Ai
   opco: Worldwidebro Commerce
@@ -2801,6 +2934,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-034-Recommendation-Engine
   name: Recommendation Engine
   opco: Worldwidebro Commerce
@@ -2822,6 +2956,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-035-Review-Aggregator-AI
   name: Review Aggregator Ai
   opco: Worldwidebro Commerce
@@ -2843,6 +2978,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-036-Fulfillment-Network-AI
   name: Fulfillment Network Ai
   opco: Worldwidebro Commerce
@@ -2864,6 +3000,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-037-Return-Optimization-AI
   name: Return Optimization Ai
   opco: Worldwidebro Commerce
@@ -2885,6 +3022,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-038-Chatbot-Customer-Service
   name: Chatbot Customer Service
   opco: Worldwidebro Commerce
@@ -2906,6 +3044,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-039-Visual-Search-AI
   name: Visual Search Ai
   opco: Worldwidebro Commerce
@@ -2927,6 +3066,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-040-Abandoned-Cart-Recovery
   name: Abandoned Cart Recovery
   opco: Worldwidebro Commerce
@@ -2948,6 +3088,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-041-Seasonal-Trend-Predictor
   name: Seasonal Trend Predictor
   opco: Worldwidebro Commerce
@@ -2969,6 +3110,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-042-Influencer-Matchmaker
   name: Influencer Matchmaker
   opco: Worldwidebro Commerce
@@ -2990,6 +3132,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-043-UGC-Content-Aggregator
   name: Ugc Content Aggregator
   opco: Worldwidebro Commerce
@@ -3011,6 +3154,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-044-Live-Commerce-Platform
   name: Live Commerce Platform
   opco: Worldwidebro Commerce
@@ -3032,6 +3176,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-045-AR-Virtual-Fitting-Room
   name: Ar Virtual Fitting Room
   opco: Worldwidebro Commerce
@@ -3053,6 +3198,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-046-3D-Product-Viewer
   name: 3D Product Viewer
   opco: Worldwidebro Commerce
@@ -3074,6 +3220,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-047-Carbon-Footprint-Tracker
   name: Carbon Footprint Tracker
   opco: Worldwidebro Commerce
@@ -3095,6 +3242,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-048-Wholesale-Marketplace-AI
   name: Wholesale Marketplace Ai
   opco: Worldwidebro Commerce
@@ -3116,6 +3264,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-049-Rental-Marketplace
   name: Rental Marketplace
   opco: Worldwidebro Commerce
@@ -3137,6 +3286,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-050-AI-Product-Descriptions
   name: Ai Product Descriptions
   opco: Worldwidebro Commerce
@@ -3158,6 +3308,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-051-AI-Email-Marketing
   name: Ai Email Marketing
   opco: Worldwidebro Commerce
@@ -3179,6 +3330,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-052-AI-Product-Bundler
   name: Ai Product Bundler
   opco: Worldwidebro Commerce
@@ -3200,6 +3352,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-053-AI-Visual-Merchandiser
   name: Ai Visual Merchandiser
   opco: Worldwidebro Commerce
@@ -3221,6 +3374,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-054-AI-Demand-Forecasting
   name: Ai Demand Forecasting
   opco: Worldwidebro Commerce
@@ -3242,6 +3396,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-055-AI-Warehouse-Management
   name: Ai Warehouse Management
   opco: Worldwidebro Commerce
@@ -3263,6 +3418,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-056-AI-Supplier-Matching
   name: Ai Supplier Matching
   opco: Worldwidebro Commerce
@@ -3284,6 +3440,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-057-AI-Quality-Control
   name: Ai Quality Control
   opco: Worldwidebro Commerce
@@ -3305,6 +3462,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-058-AI-Packaging-Designer
   name: Ai Packaging Designer
   opco: Worldwidebro Commerce
@@ -3326,6 +3484,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-059-AI-Logistics-Planner
   name: Ai Logistics Planner
   opco: Worldwidebro Commerce
@@ -3347,6 +3506,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-060-AI-Customer-Loyalty
   name: Ai Customer Loyalty
   opco: Worldwidebro Commerce
@@ -3368,6 +3528,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-061-AI-Gift-Finder
   name: Ai Gift Finder
   opco: Worldwidebro Commerce
@@ -3389,6 +3550,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-062-AI-Trend-Hunter
   name: Ai Trend Hunter
   opco: Worldwidebro Commerce
@@ -3410,6 +3572,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-063-AI-Market-Research
   name: Ai Market Research
   opco: Worldwidebro Commerce
@@ -3431,6 +3594,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-064-AI-Competitor-Watcher
   name: Ai Competitor Watcher
   opco: Worldwidebro Commerce
@@ -3452,6 +3616,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-065-AI-Product-Development
   name: Ai Product Development
   opco: Worldwidebro Commerce
@@ -3473,6 +3638,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-066-AI-Customer-Journey
   name: Ai Customer Journey
   opco: Worldwidebro Commerce
@@ -3494,6 +3660,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-067-AI-Payment-Optimization
   name: Ai Payment Optimization
   opco: Worldwidebro Commerce
@@ -3515,6 +3682,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-068-AI-Returns-Management
   name: Ai Returns Management
   opco: Worldwidebro Commerce
@@ -3536,6 +3704,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-069-AI-Shipping-Labeler
   name: Ai Shipping Labeler
   opco: Worldwidebro Commerce
@@ -3557,6 +3726,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-070-AI-Product-Launch-Coach
   name: Ai Product Launch Coach
   opco: Worldwidebro Commerce
@@ -3578,6 +3748,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-071-AI-Vendor-Negotiator
   name: Ai Vendor Negotiator
   opco: Worldwidebro Commerce
@@ -3599,6 +3770,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-072-AI-Product-Cataloger
   name: Ai Product Cataloger
   opco: Worldwidebro Commerce
@@ -3620,6 +3792,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-073-AI-Order-Prioritizer
   name: Ai Order Prioritizer
   opco: Worldwidebro Commerce
@@ -3641,6 +3814,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-074-AI-Customer-Segmentation
   name: Ai Customer Segmentation
   opco: Worldwidebro Commerce
@@ -3662,6 +3836,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-075-AI-Pricing-Analyst
   name: Ai Pricing Analyst
   opco: Worldwidebro Commerce
@@ -3683,6 +3858,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-076-AI-Sales-Forecasting
   name: Ai Sales Forecasting
   opco: Worldwidebro Commerce
@@ -3704,6 +3880,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-077-AI-Inventory-Reordering
   name: Ai Inventory Reordering
   opco: Worldwidebro Commerce
@@ -3725,6 +3902,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-078-AI-Product-Comparison
   name: Ai Product Comparison
   opco: Worldwidebro Commerce
@@ -3746,6 +3924,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-079-AI-Customer-Feedback
   name: Ai Customer Feedback
   opco: Worldwidebro Commerce
@@ -3767,6 +3946,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-080-AI-Product-Updates
   name: Ai Product Updates
   opco: Worldwidebro Commerce
@@ -3788,6 +3968,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-081-AI-Cross-Selling
   name: Ai Cross Selling
   opco: Worldwidebro Commerce
@@ -3809,6 +3990,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-082-AI-Up-Selling
   name: Ai Up Selling
   opco: Worldwidebro Commerce
@@ -3830,6 +4012,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-083-AI-Product-Education
   name: Ai Product Education
   opco: Worldwidebro Commerce
@@ -3851,6 +4034,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-084-AI-Purchase-Timing
   name: Ai Purchase Timing
   opco: Worldwidebro Commerce
@@ -3872,6 +4056,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-085-AI-Customer-Support
   name: Ai Customer Support
   opco: Worldwidebro Commerce
@@ -3893,6 +4078,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-086-AI-Order-Tracking
   name: Ai Order Tracking
   opco: Worldwidebro Commerce
@@ -3914,6 +4100,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-087-AI-Product-Reviews
   name: Ai Product Reviews
   opco: Worldwidebro Commerce
@@ -3935,6 +4122,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-088-AI-Customer-Community
   name: Ai Customer Community
   opco: Worldwidebro Commerce
@@ -3956,6 +4144,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-089-AI-Product-Customization
   name: Ai Product Customization
   opco: Worldwidebro Commerce
@@ -3977,6 +4166,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-090-AI-Gift-Registry
   name: Ai Gift Registry
   opco: Worldwidebro Commerce
@@ -3998,6 +4188,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-091-AI-Wedding-Registry
   name: Ai Wedding Registry
   opco: Worldwidebro Commerce
@@ -4019,6 +4210,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-092-AI-Baby-Registry
   name: Ai Baby Registry
   opco: Worldwidebro Commerce
@@ -4040,6 +4232,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-093-AI-Holiday-Planner
   name: Ai Holiday Planner
   opco: Worldwidebro Commerce
@@ -4061,6 +4254,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-094-AI-Personal-Shopper
   name: Ai Personal Shopper
   opco: Worldwidebro Commerce
@@ -4082,6 +4276,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-095-AI-Color-Match
   name: Ai Color Match
   opco: Worldwidebro Commerce
@@ -4103,6 +4298,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-096-AI-Fabric-Advisor
   name: Ai Fabric Advisor
   opco: Worldwidebro Commerce
@@ -4124,6 +4320,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-097-AI-Fit-Recommendation
   name: Ai Fit Recommendation
   opco: Worldwidebro Commerce
@@ -4145,6 +4342,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-098-AI-Outfit-Builder
   name: Ai Outfit Builder
   opco: Worldwidebro Commerce
@@ -4166,6 +4364,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-099-AI-Seasonal-Forecast
   name: Ai Seasonal Forecast
   opco: Worldwidebro Commerce
@@ -4187,6 +4386,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-100-AI-Wardrobe-Planner
   name: Ai Wardrobe Planner
   opco: Worldwidebro Commerce
@@ -4208,6 +4408,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-101-AI-Accessory-Match
   name: Ai Accessory Match
   opco: Worldwidebro Commerce
@@ -4229,6 +4430,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-102-AI-Shoe-Match
   name: Ai Shoe Match
   opco: Worldwidebro Commerce
@@ -4250,6 +4452,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-103-AI-Jewelry-Match
   name: Ai Jewelry Match
   opco: Worldwidebro Commerce
@@ -4271,6 +4474,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-104-AI-Bag-Match
   name: Ai Bag Match
   opco: Worldwidebro Commerce
@@ -4292,6 +4496,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-105-AI-Color-Palette
   name: Ai Color Palette
   opco: Worldwidebro Commerce
@@ -4313,6 +4518,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-106-AI-Outfit-Recycling
   name: Ai Outfit Recycling
   opco: Worldwidebro Commerce
@@ -4334,6 +4540,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-107-AI-Style-Evolution
   name: Ai Style Evolution
   opco: Worldwidebro Commerce
@@ -4355,6 +4562,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-108-AI-Budget-Stylist
   name: Ai Budget Stylist
   opco: Worldwidebro Commerce
@@ -4376,6 +4584,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-109-AI-Trend-Archive
   name: Ai Trend Archive
   opco: Worldwidebro Commerce
@@ -4397,6 +4606,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EC-110-AI-Vintage-Advisor
   name: Ai Vintage Advisor
   opco: Worldwidebro Commerce
@@ -4418,6 +4628,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-001
   name: Online Course Platform
   opco: Worldwidebro Education
@@ -4438,6 +4649,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-001-Youth-Entrepreneurship-Curriculum
   name: Youth Entrepreneurship Curriculum
   opco: Worldwidebro Education
@@ -4459,6 +4671,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-002-AI-Literacy-Program
   name: Ai Literacy Program
   opco: Worldwidebro Education
@@ -4480,6 +4693,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-003-Coding-Mentor-Certification
   name: Coding Mentor Certification
   opco: Worldwidebro Education
@@ -4501,6 +4715,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-004-Real-Estate-Licensing-Prep
   name: Real Estate Licensing Prep
   opco: Worldwidebro Education
@@ -4522,6 +4737,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-005-Coding-Bootcamp
   name: Coding Bootcamp
   opco: Worldwidebro Education
@@ -4543,6 +4759,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-006-Homeschooling-Content-AI
   name: Homeschooling Content Ai
   opco: Worldwidebro Education
@@ -4564,6 +4781,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-007-AI-Tutoring-Platform
   name: Ai Tutoring Platform
   opco: Worldwidebro Education
@@ -4585,6 +4803,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-008-Branding-Templates-Marketplace
   name: Branding Templates Marketplace
   opco: Worldwidebro Education
@@ -4606,6 +4825,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-009-Voiceover-Script-Library
   name: Voiceover Script Library
   opco: Worldwidebro Education
@@ -4627,6 +4847,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-010-Trade-Skills-Bootcamp
   name: Trade Skills Bootcamp
   opco: Worldwidebro Education
@@ -4648,6 +4869,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-011-Franchise-Blueprint-System
   name: Franchise Blueprint System
   opco: Worldwidebro Education
@@ -4669,6 +4891,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-012-Low-Income-Housing-Blueprint
   name: Low Income Housing Blueprint
   opco: Worldwidebro Education
@@ -4690,6 +4913,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-013-Automated-Empire-Book
   name: Automated Empire Book
   opco: Worldwidebro Education
@@ -4711,6 +4935,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-014-BIPOC-Creator-Incubator
   name: Bipoc Creator Incubator
   opco: Worldwidebro Education
@@ -4732,6 +4957,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-015-AI-Legal-Doc-Generator
   name: Ai Legal Doc Generator
   opco: Worldwidebro Education
@@ -4753,6 +4979,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-016-Virtual-Black-Art-Museum
   name: Virtual Black Art Museum
   opco: Worldwidebro Education
@@ -4774,6 +5001,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-017-AI-Coding-Tutor
   name: Ai Coding Tutor
   opco: Worldwidebro Education
@@ -4795,6 +5023,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-018-Online-Course-Creator
   name: Online Course Creator
   opco: Worldwidebro Education
@@ -4816,6 +5045,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-019-Executive-Education-Program
   name: Executive Education Program
   opco: Worldwidebro Education
@@ -4837,6 +5067,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-020-Youth-STEM-Program
   name: Youth Stem Program
   opco: Worldwidebro Education
@@ -4858,6 +5089,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-021-Remote-Work-Certification
   name: Remote Work Certification
   opco: Worldwidebro Education
@@ -4879,6 +5111,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-022-AI-Research-Assistant
   name: Ai Research Assistant
   opco: Worldwidebro Education
@@ -4900,6 +5133,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-023-Personal-Finance-Coach
   name: Personal Finance Coach
   opco: Worldwidebro Education
@@ -4921,6 +5155,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-024-Language-Learning-AI
   name: Language Learning Ai
   opco: Worldwidebro Education
@@ -4942,6 +5177,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-025-Test-Preparation-AI
   name: Test Preparation Ai
   opco: Worldwidebro Education
@@ -4963,6 +5199,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-026-Corporate-Training-AI
   name: Corporate Training Ai
   opco: Worldwidebro Education
@@ -4984,6 +5221,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-027-Medical-Education-AI
   name: Medical Education Ai
   opco: Worldwidebro Education
@@ -5005,6 +5243,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-028-Legal-Education-AI
   name: Legal Education Ai
   opco: Worldwidebro Education
@@ -5026,6 +5265,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-029-Music-Education-AI
   name: Music Education Ai
   opco: Worldwidebro Education
@@ -5047,6 +5287,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-030-Art-Education-AI
   name: Art Education Ai
   opco: Worldwidebro Education
@@ -5068,6 +5309,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-031-Physical-Education-AI
   name: Physical Education Ai
   opco: Worldwidebro Education
@@ -5089,6 +5331,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-032-Environmental-Education-AI
   name: Environmental Education Ai
   opco: Worldwidebro Education
@@ -5110,6 +5353,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-033-Social-Studies-AI
   name: Social Studies Ai
   opco: Worldwidebro Education
@@ -5131,6 +5375,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-034-Math-Education-AI
   name: Math Education Ai
   opco: Worldwidebro Education
@@ -5152,6 +5397,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-035-Science-Education-AI
   name: Science Education Ai
   opco: Worldwidebro Education
@@ -5173,6 +5419,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-036-Reading-Comprehension-AI
   name: Reading Comprehension Ai
   opco: Worldwidebro Education
@@ -5194,6 +5441,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-037-Writing-Instruction-AI
   name: Writing Instruction Ai
   opco: Worldwidebro Education
@@ -5215,6 +5463,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-038-Critical-Thinking-AI
   name: Critical Thinking Ai
   opco: Worldwidebro Education
@@ -5236,6 +5485,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-039-Emotional-Intelligence-AI
   name: Emotional Intelligence Ai
   opco: Worldwidebro Education
@@ -5257,6 +5507,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EDU-040-Time-Management-AI
   name: Time Management Ai
   opco: Worldwidebro Education
@@ -5278,6 +5529,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-001
   name: Blockchain Commerce Platform
   opco: Worldwidebro Emerging
@@ -5298,6 +5550,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-001-Space-Habitat-AI
   name: Space Habitat Ai
   opco: Worldwidebro Emerging
@@ -5319,6 +5572,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-002-Fusion-Energy-AI
   name: Fusion Energy Ai
   opco: Worldwidebro Emerging
@@ -5340,6 +5594,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-003-Teleportation-Research-AI
   name: Teleportation Research Ai
   opco: Worldwidebro Emerging
@@ -5361,6 +5616,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-004-Climate-Solutions-AI
   name: Climate Solutions Ai
   opco: Worldwidebro Emerging
@@ -5382,6 +5638,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-005-Holographic-Events-AI
   name: Holographic Events Ai
   opco: Worldwidebro Emerging
@@ -5403,6 +5660,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-006-Neurofeedback-AI
   name: Neurofeedback Ai
   opco: Worldwidebro Emerging
@@ -5424,6 +5682,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-007-Autonomous-Delivery-AI
   name: Autonomous Delivery Ai
   opco: Worldwidebro Emerging
@@ -5445,6 +5704,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-008-Gene-Editing-AI
   name: Gene Editing Ai
   opco: Worldwidebro Emerging
@@ -5466,6 +5726,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-009-Space-Tourism-AI
   name: Space Tourism Ai
   opco: Worldwidebro Emerging
@@ -5487,6 +5748,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-010-Wearables-AI
   name: Wearables Ai
   opco: Worldwidebro Emerging
@@ -5508,6 +5770,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-011-Metaverse-Hub-AI
   name: Metaverse Hub Ai
   opco: Worldwidebro Emerging
@@ -5529,6 +5792,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-012-Energy-Grid-AI
   name: Energy Grid Ai
   opco: Worldwidebro Emerging
@@ -5550,6 +5814,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-013-Brain-Computer-Interface
   name: Brain Computer Interface
   opco: Worldwidebro Emerging
@@ -5571,6 +5836,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-014-Ocean-Cleanup-AI
   name: Ocean Cleanup Ai
   opco: Worldwidebro Emerging
@@ -5592,6 +5858,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-015-Crypto-Trading-AI
   name: Crypto Trading Ai
   opco: Worldwidebro Emerging
@@ -5613,6 +5880,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-016-Synthetic-Media-AI
   name: Synthetic Media Ai
   opco: Worldwidebro Emerging
@@ -5634,6 +5902,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-017-Space-Mining-AI
   name: Space Mining Ai
   opco: Worldwidebro Emerging
@@ -5655,6 +5924,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-018-VR-Therapy-AI
   name: Vr Therapy Ai
   opco: Worldwidebro Emerging
@@ -5676,6 +5946,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-019-Weather-Prediction-AI
   name: Weather Prediction Ai
   opco: Worldwidebro Emerging
@@ -5697,6 +5968,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-020-Autonomous-Farming-AI
   name: Autonomous Farming Ai
   opco: Worldwidebro Emerging
@@ -5718,6 +5990,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-021-Traffic-Optimizer-AI
   name: Traffic Optimizer Ai
   opco: Worldwidebro Emerging
@@ -5739,6 +6012,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-022-Smart-Grid-AI
   name: Smart Grid Ai
   opco: Worldwidebro Emerging
@@ -5760,6 +6034,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-023-Disaster-Prediction-AI
   name: Disaster Prediction Ai
   opco: Worldwidebro Emerging
@@ -5781,6 +6056,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-024-Nanotech-AI
   name: Nanotech Ai
   opco: Worldwidebro Emerging
@@ -5802,6 +6078,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-025-Personalized-Medicine-AI
   name: Personalized Medicine Ai
   opco: Worldwidebro Emerging
@@ -5823,6 +6100,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-026-AI-Diagnostic-Lab
   name: Ai Diagnostic Lab
   opco: Worldwidebro Emerging
@@ -5844,6 +6122,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-027-Sustainable-Cities-AI
   name: Sustainable Cities Ai
   opco: Worldwidebro Emerging
@@ -5865,6 +6144,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-028-Renewable-Energy-AI
   name: Renewable Energy Ai
   opco: Worldwidebro Emerging
@@ -5886,6 +6166,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-029-Climate-Modeling-AI
   name: Climate Modeling Ai
   opco: Worldwidebro Emerging
@@ -5907,6 +6188,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-030-Policy-Advisor-AI
   name: Policy Advisor Ai
   opco: Worldwidebro Emerging
@@ -5928,6 +6210,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-031-Governance-Hub-AI
   name: Governance Hub Ai
   opco: Worldwidebro Emerging
@@ -5949,6 +6232,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-032-Global-Challenges-AI
   name: Global Challenges Ai
   opco: Worldwidebro Emerging
@@ -5970,6 +6254,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-033-Space-Exploration-AI
   name: Space Exploration Ai
   opco: Worldwidebro Emerging
@@ -5991,6 +6276,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-034-Education-Equity-AI
   name: Education Equity Ai
   opco: Worldwidebro Emerging
@@ -6012,6 +6298,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-035-Health-Equity-AI
   name: Health Equity Ai
   opco: Worldwidebro Emerging
@@ -6033,6 +6320,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-036-Economic-Equity-AI
   name: Economic Equity Ai
   opco: Worldwidebro Emerging
@@ -6054,6 +6342,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-037-Environmental-Justice-AI
   name: Environmental Justice Ai
   opco: Worldwidebro Emerging
@@ -6075,6 +6364,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-038-Human-Rights-AI
   name: Human Rights Ai
   opco: Worldwidebro Emerging
@@ -6096,6 +6386,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-039-Peacebuilding-AI
   name: Peacebuilding Ai
   opco: Worldwidebro Emerging
@@ -6117,6 +6408,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-040-Telemedicine-AI
   name: Telemedicine Ai
   opco: Worldwidebro Emerging
@@ -6138,6 +6430,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-041-AI-Climate-Adaptation
   name: Ai Climate Adaptation
   opco: Worldwidebro Emerging
@@ -6159,6 +6452,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-042-Space-Agriculture-AI
   name: Space Agriculture Ai
   opco: Worldwidebro Emerging
@@ -6180,6 +6474,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-043-Quantum-Communication-AI
   name: Quantum Communication Ai
   opco: Worldwidebro Emerging
@@ -6201,6 +6496,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-044-Robotics-Surgery-AI
   name: Robotics Surgery Ai
   opco: Worldwidebro Emerging
@@ -6222,6 +6518,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-045-AI-Disaster-Response
   name: Ai Disaster Response
   opco: Worldwidebro Emerging
@@ -6243,6 +6540,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-046-Smart-City-Governance
   name: Smart City Governance
   opco: Worldwidebro Emerging
@@ -6264,6 +6562,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-047-AI-Environmental-Monitoring
   name: Ai Environmental Monitoring
   opco: Worldwidebro Emerging
@@ -6285,6 +6584,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-048-Space-Manufacturing-AI
   name: Space Manufacturing Ai
   opco: Worldwidebro Emerging
@@ -6306,6 +6606,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-049-AI-Ocean-Exploration
   name: Ai Ocean Exploration
   opco: Worldwidebro Emerging
@@ -6327,6 +6628,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: EM-050-AI-Archaeology
   name: Ai Archaeology
   opco: Worldwidebro Emerging
@@ -6348,6 +6650,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ET-001-Online-Tutoring-Platform
   name: Online Tutoring Platform
   opco: Worldwidebro Education
@@ -6369,6 +6672,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ET-002-Language-Learning-App
   name: Language Learning App
   opco: Worldwidebro Education
@@ -6390,6 +6694,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ET-003-Test-Prep-Service
   name: Test Prep Service
   opco: Worldwidebro Education
@@ -6411,6 +6716,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ET-004-Coding-Bootcamp
   name: Coding Bootcamp
   opco: Worldwidebro Education
@@ -6432,6 +6738,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ET-005-Professional-Certification
   name: Professional Certification
   opco: Worldwidebro Education
@@ -6453,6 +6760,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ET-006-Corporate-Training
   name: Corporate Training
   opco: Worldwidebro Education
@@ -6474,6 +6782,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ET-007-Skills-Assessment-Platform
   name: Skills Assessment Platform
   opco: Worldwidebro Education
@@ -6495,6 +6804,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ET-008-Career-Coaching
   name: Career Coaching
   opco: Worldwidebro Education
@@ -6516,6 +6826,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ET-009-Resume-Writing-Service
   name: Resume Writing Service
   opco: Worldwidebro Education
@@ -6537,6 +6848,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ET-010-Interview-Prep-Platform
   name: Interview Prep Platform
   opco: Worldwidebro Education
@@ -6558,6 +6870,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ET-011-Mentorship-Platform
   name: Mentorship Platform
   opco: Worldwidebro Education
@@ -6579,6 +6892,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ET-012-Educational-Content-Library
   name: Educational Content Library
   opco: Worldwidebro Education
@@ -6600,6 +6914,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ET-013-VR-Training-Simulations
   name: Vr Training Simulations
   opco: Worldwidebro Education
@@ -6621,6 +6936,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ET-014-Gamified-Learning-App
   name: Gamified Learning App
   opco: Worldwidebro Education
@@ -6642,6 +6958,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ET-015-Homeschool-Curriculum
   name: Homeschool Curriculum
   opco: Worldwidebro Education
@@ -6663,6 +6980,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-001-Personal-Chef-Service
   name: Personal Chef Service
   opco: Worldwidebro Hospitality
@@ -6684,6 +7002,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-002-Meal-Prep-Delivery
   name: Meal Prep Delivery
   opco: Worldwidebro Hospitality
@@ -6705,6 +7024,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-003-Private-Dinner-Experiences
   name: Private Dinner Experiences
   opco: Worldwidebro Hospitality
@@ -6726,6 +7046,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-004-Catering-Company
   name: Catering Company
   opco: Worldwidebro Hospitality
@@ -6747,6 +7068,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-005-Corporate-Lunch-Service
   name: Corporate Lunch Service
   opco: Worldwidebro Hospitality
@@ -6768,6 +7090,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-006-Healthy-Meal-Prep-for-Gyms
   name: Healthy Meal Prep For Gyms
   opco: Worldwidebro Hospitality
@@ -6789,6 +7112,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-007-Elderly-Meal-Service
   name: Elderly Meal Service
   opco: Worldwidebro Hospitality
@@ -6810,6 +7134,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-008-Athlete-Nutrition-Service
   name: Athlete Nutrition Service
   opco: Worldwidebro Hospitality
@@ -6831,6 +7156,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-009-Packaged-Food-Brand
   name: Packaged Food Brand
   opco: Worldwidebro Hospitality
@@ -6852,6 +7178,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-010-Frozen-Meals-Company
   name: Frozen Meals Company
   opco: Worldwidebro Hospitality
@@ -6873,6 +7200,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-011-Sauce-or-Seasoning-Brand
   name: Sauce Or Seasoning Brand
   opco: Worldwidebro Hospitality
@@ -6894,6 +7222,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-012-Protein-Snacks-Brand
   name: Protein Snacks Brand
   opco: Worldwidebro Hospitality
@@ -6915,6 +7244,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-013-Meal-Kit-Company
   name: Meal Kit Company
   opco: Worldwidebro Hospitality
@@ -6936,6 +7266,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-014-Cloud-Kitchen-
   name: 'Cloud Kitchen '
   opco: Worldwidebro Hospitality
@@ -6957,6 +7288,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-015-AI-Nutrition-Planner
   name: Ai Nutrition Planner
   opco: Worldwidebro Hospitality
@@ -6978,6 +7310,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-016-Recipe-App
   name: Recipe App
   opco: Worldwidebro Hospitality
@@ -6999,6 +7332,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-017-Cooking-Content-Brand
   name: Cooking Content Brand
   opco: Worldwidebro Hospitality
@@ -7020,6 +7354,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-018-Food-Influencer-Brand
   name: Food Influencer Brand
   opco: Worldwidebro Hospitality
@@ -7041,6 +7376,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-019-Cooking-Course-Platform
   name: Cooking Course Platform
   opco: Worldwidebro Hospitality
@@ -7062,6 +7398,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-020-Restaurant-POS-System
   name: Restaurant Pos System
   opco: Worldwidebro Hospitality
@@ -7083,6 +7420,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-021-Food-Truck-Business
   name: Food Truck Business
   opco: Worldwidebro Hospitality
@@ -7104,6 +7442,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-022-Specialty-Coffee-Shop
   name: Specialty Coffee Shop
   opco: Worldwidebro Hospitality
@@ -7125,6 +7464,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-023-Bakery-&-Pastry-Shop
   name: Bakery & Pastry Shop
   opco: Worldwidebro Hospitality
@@ -7146,6 +7486,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-024-Juice-Bar
   name: Juice Bar
   opco: Worldwidebro Hospitality
@@ -7167,6 +7508,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-025-Ice-Cream-Shop
   name: Ice Cream Shop
   opco: Worldwidebro Hospitality
@@ -7188,6 +7530,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-026-Gourmet-Food-Market
   name: Gourmet Food Market
   opco: Worldwidebro Hospitality
@@ -7209,6 +7552,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-027-Food-Delivery-Platform
   name: Food Delivery Platform
   opco: Worldwidebro Hospitality
@@ -7230,6 +7574,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-028-Restaurant-Management-SaaS
   name: Restaurant Management Saas
   opco: Worldwidebro Hospitality
@@ -7251,6 +7596,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-029-Food-Quality-Testing-Lab
   name: Food Quality Testing Lab
   opco: Worldwidebro Hospitality
@@ -7272,6 +7618,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-030-Organic-Food-Brand
   name: Organic Food Brand
   opco: Worldwidebro Hospitality
@@ -7293,6 +7640,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-031-Vegan-Food-Company
   name: Vegan Food Company
   opco: Worldwidebro Hospitality
@@ -7314,6 +7662,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-032-Keto-Meal-Service
   name: Keto Meal Service
   opco: Worldwidebro Hospitality
@@ -7335,6 +7684,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-033-Food-Photography-Service
   name: Food Photography Service
   opco: Worldwidebro Hospitality
@@ -7356,6 +7706,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-034-Restaurant-Consulting
   name: Restaurant Consulting
   opco: Worldwidebro Hospitality
@@ -7377,6 +7728,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FH-035-Food-Safety-Training
   name: Food Safety Training
   opco: Worldwidebro Hospitality
@@ -7398,6 +7750,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FI-dist
   name: Dist
   opco: Worldwidebro Financial
@@ -7419,6 +7772,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FI-node_modules
   name: Node_Modules
   opco: Worldwidebro Financial
@@ -7440,6 +7794,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FI-public
   name: Public
   opco: Worldwidebro Financial
@@ -7461,6 +7816,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: comm-049-public-event-qzx2o32t1-worldwidebros-projects.vercel.app
 - id: FI-src
   name: Src
   opco: Worldwidebro Financial
@@ -7482,6 +7838,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FI-supabase
   name: Supabase
   opco: Worldwidebro Financial
@@ -7503,6 +7860,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-001
   name: GenixBank Lite
   opco: Worldwidebro Financial
@@ -7523,6 +7881,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-001-GenixBank-Lite
   name: Genixbank Lite
   opco: Worldwidebro Financial
@@ -7544,6 +7903,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-002
   name: Credit Repair Automation
   opco: Worldwidebro Financial
@@ -7564,6 +7924,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-002-Credit-Repair-Automation
   name: Credit Repair Automation
   opco: Worldwidebro Financial
@@ -7585,6 +7946,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-003
   name: AI Boss Hub Lite
   opco: Worldwidebro Financial
@@ -7605,6 +7967,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-003-AI-Boss-Hub-Lite
   name: Ai Boss Hub Lite
   opco: Worldwidebro Financial
@@ -7626,6 +7989,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-004
   name: GenixBanks AI Treasurer
   opco: Worldwidebro Financial
@@ -7646,6 +8010,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-004-GenixBanks-AI-Treasurer
   name: Genixbanks Ai Treasurer
   opco: Worldwidebro Financial
@@ -7667,6 +8032,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-005
   name: U-Haul Rental Affiliate
   opco: Worldwidebro Financial
@@ -7687,6 +8053,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-005-U-Haul-Rental-Affiliate
   name: U Haul Rental Affiliate
   opco: Worldwidebro Financial
@@ -7708,6 +8075,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-006
   name: Tax Prep & Filing Services
   opco: Worldwidebro Financial
@@ -7728,6 +8096,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-006-Tax-Prep-Filing-Services
   name: Tax Prep Filing Services
   opco: Worldwidebro Financial
@@ -7749,6 +8118,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: fin-006-tax-prep-filing-services-m9sp3o1eh.vercel.app
 - id: FIN-007
   name: Business Credit Building
   opco: Worldwidebro Financial
@@ -7769,6 +8139,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-007-Business-Credit-Building
   name: Business Credit Building
   opco: Worldwidebro Financial
@@ -7790,6 +8161,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-008
   name: Business Formation Services
   opco: Worldwidebro Financial
@@ -7810,6 +8182,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-008-Business-Formation-Services
   name: Business Formation Services
   opco: Worldwidebro Financial
@@ -7831,6 +8204,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-009
   name: Crypto Tax Optimizer
   opco: Worldwidebro Financial
@@ -7851,6 +8225,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-009-Crypto-Tax-Optimizer
   name: Crypto Tax Optimizer
   opco: Worldwidebro Financial
@@ -7872,6 +8247,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: fin-009-crypto-tax-optimizer-c0cy6dkh3-worldwidebros-projects.vercel.app
 - id: FIN-010
   name: AI-Powered Garbage Collection
   opco: Worldwidebro Financial
@@ -7892,6 +8268,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-010-AI-Powered-Garbage-Collection
   name: Ai Powered Garbage Collection
   opco: Worldwidebro Financial
@@ -7913,6 +8290,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-011
   name: Automated Bookkeeping
   opco: Worldwidebro Financial
@@ -7933,6 +8311,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-011-Automated-Bookkeeping
   name: Automated Bookkeeping
   opco: Worldwidebro Financial
@@ -7954,6 +8333,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-012
   name: Invoice Factoring AI
   opco: Worldwidebro Financial
@@ -7974,6 +8354,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-012-Invoice-Factoring-AI
   name: Invoice Factoring Ai
   opco: Worldwidebro Financial
@@ -7995,6 +8376,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-013
   name: Charity Donation AI
   opco: Worldwidebro Financial
@@ -8015,6 +8397,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-013-Charity-Donation-AI
   name: Charity Donation Ai
   opco: Worldwidebro Financial
@@ -8036,6 +8419,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-014
   name: Expense Tracker AI
   opco: Worldwidebro Financial
@@ -8056,6 +8440,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-014-Expense-Tracker-AI
   name: Expense Tracker Ai
   opco: Worldwidebro Financial
@@ -8077,6 +8462,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-015
   name: Financial Wellness Coach
   opco: Worldwidebro Financial
@@ -8097,6 +8483,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-015-Financial-Wellness-Coach
   name: Financial Wellness Coach
   opco: Worldwidebro Financial
@@ -8118,6 +8505,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-016
   name: Trade Finance AI
   opco: Worldwidebro Financial
@@ -8138,6 +8526,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-016-Trade-Finance-AI
   name: Trade Finance Ai
   opco: Worldwidebro Financial
@@ -8159,6 +8548,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-017
   name: Remittance AI
   opco: Worldwidebro Financial
@@ -8179,6 +8569,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-017-Remittance-AI
   name: Remittance Ai
   opco: Worldwidebro Financial
@@ -8200,6 +8591,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-018
   name: Wealth Transfer AI
   opco: Worldwidebro Financial
@@ -8220,6 +8612,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-018-Wealth-Transfer-AI
   name: Wealth Transfer Ai
   opco: Worldwidebro Financial
@@ -8241,6 +8634,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-019
   name: Payment Gateway AI
   opco: Worldwidebro Financial
@@ -8261,6 +8655,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-019-Payment-Gateway-AI
   name: Payment Gateway Ai
   opco: Worldwidebro Financial
@@ -8282,6 +8677,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-020
   name: Debt Consolidation AI
   opco: Worldwidebro Financial
@@ -8302,6 +8698,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-020-Debt-Consolidation-AI
   name: Debt Consolidation Ai
   opco: Worldwidebro Financial
@@ -8323,6 +8720,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-021
   name: Tax Deduction Finder
   opco: Worldwidebro Financial
@@ -8343,6 +8741,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-021-Tax-Deduction-Finder
   name: Tax Deduction Finder
   opco: Worldwidebro Financial
@@ -8364,6 +8763,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: fin-021-tax-deduction-finder-3ksp4v5hg-worldwidebros-projects.vercel.app
 - id: FIN-022
   name: Budget Forecasting AI
   opco: Worldwidebro Financial
@@ -8384,6 +8784,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-022-Budget-Forecasting-AI
   name: Budget Forecasting Ai
   opco: Worldwidebro Financial
@@ -8405,6 +8806,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-023
   name: Investment Portfolio AI
   opco: Worldwidebro Financial
@@ -8425,6 +8827,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-023-Investment-Portfolio-AI
   name: Investment Portfolio Ai
   opco: Worldwidebro Financial
@@ -8446,6 +8849,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-024
   name: Crowdfunding AI
   opco: Worldwidebro Financial
@@ -8466,6 +8870,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-024-Crowdfunding-AI
   name: Crowdfunding Ai
   opco: Worldwidebro Financial
@@ -8487,6 +8892,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-025
   name: Escrow Automation
   opco: Worldwidebro Financial
@@ -8507,6 +8913,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-025-Escrow-Automation
   name: Escrow Automation
   opco: Worldwidebro Financial
@@ -8528,6 +8935,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-026
   name: Financial Compliance Scanner
   opco: Worldwidebro Financial
@@ -8548,6 +8956,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-026-Financial-Compliance-Scanner
   name: Financial Compliance Scanner
   opco: Worldwidebro Financial
@@ -8569,6 +8978,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-027
   name: Patent Writer AI
   opco: Worldwidebro Financial
@@ -8589,6 +8999,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-027-Patent-Writer-AI
   name: Patent Writer Ai
   opco: Worldwidebro Financial
@@ -8610,6 +9021,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-028
   name: Legal Analyzer AI
   opco: Worldwidebro Financial
@@ -8630,6 +9042,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-028-Legal-Analyzer-AI
   name: Legal Analyzer Ai
   opco: Worldwidebro Financial
@@ -8651,6 +9064,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-029
   name: Compliance Wallet SaaS
   opco: Worldwidebro Financial
@@ -8671,6 +9085,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-029-Compliance-Wallet-SaaS
   name: Compliance Wallet Saas
   opco: Worldwidebro Financial
@@ -8692,6 +9107,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-030
   name: Local SEO Ranker AI
   opco: Worldwidebro Financial
@@ -8712,6 +9128,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-030-Local-SEO-Ranker-AI
   name: Local Seo Ranker Ai
   opco: Worldwidebro Financial
@@ -8733,6 +9150,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-031
   name: Investor Dashboard Builder
   opco: Worldwidebro Financial
@@ -8753,6 +9171,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-031-Investor-Dashboard-Builder
   name: Investor Dashboard Builder
   opco: Worldwidebro Financial
@@ -8774,6 +9193,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-032
   name: Legal Toolkit AI
   opco: Worldwidebro Financial
@@ -8794,6 +9214,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-032-Legal-Toolkit-AI
   name: Legal Toolkit Ai
   opco: Worldwidebro Financial
@@ -8815,6 +9236,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-033
   name: AI Tax Preparation Service
   opco: Worldwidebro Financial
@@ -8835,6 +9257,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-033-AI-Tax-Preparation-Service
   name: Ai Tax Preparation Service
   opco: Worldwidebro Financial
@@ -8856,6 +9279,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: fin-033-ai-tax-preparation-service-j887xz4ju.vercel.app
 - id: FIN-034
   name: Payroll Automation
   opco: Worldwidebro Financial
@@ -8876,6 +9300,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-034-Payroll-Automation
   name: Payroll Automation
   opco: Worldwidebro Financial
@@ -8897,6 +9322,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-035
   name: Insurance Underwriting AI
   opco: Worldwidebro Financial
@@ -8917,6 +9343,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-035-Insurance-Underwriting-AI
   name: Insurance Underwriting Ai
   opco: Worldwidebro Financial
@@ -8938,6 +9365,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-036
   name: Unknown
   opco: Worldwidebro Holdings
@@ -8958,6 +9386,7 @@
   source: unified_orchestrator
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FIN-036-Arbitrage-Nexus-Platform
   name: Arbitrage Nexus Platform
   opco: Worldwidebro Financial
@@ -8969,7 +9398,7 @@
   revenue: null
   costs: null
   repositories:
-  - fin-036-arbitrage-nexus-platform
+  - arbitrage-nexus
   capabilities: []
   agents: []
   projects: []
@@ -8979,6 +9408,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: arbitrage-nexus-dmjzjijml-worldwidebros-projects.vercel.app
 - id: FS-001-Gym
   name: Gym
   opco: Worldwidebro Fitness
@@ -9000,6 +9430,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-002-Boutique-Fitness-Studio
   name: Boutique Fitness Studio
   opco: Worldwidebro Fitness
@@ -9021,6 +9452,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-003-Personal-Training-Studio
   name: Personal Training Studio
   opco: Worldwidebro Fitness
@@ -9042,6 +9474,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-004-Women-Only-Gym
   name: Women Only Gym
   opco: Worldwidebro Fitness
@@ -9063,6 +9496,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-005-Boxing-Gym
   name: Boxing Gym
   opco: Worldwidebro Fitness
@@ -9084,6 +9518,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-006-CrossFit-Gym
   name: Crossfit Gym
   opco: Worldwidebro Fitness
@@ -9105,6 +9540,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-007-Luxury-Fitness-Club
   name: Luxury Fitness Club
   opco: Worldwidebro Fitness
@@ -9126,6 +9562,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-008-Online-Coaching
   name: Online Coaching
   opco: Worldwidebro Fitness
@@ -9147,6 +9584,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-009-Personal-Trainer-Business
   name: Personal Trainer Business
   opco: Worldwidebro Fitness
@@ -9168,6 +9606,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-010-Transformation-Program
   name: Transformation Program
   opco: Worldwidebro Fitness
@@ -9189,6 +9628,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-011-Athlete-Training-Company
   name: Athlete Training Company
   opco: Worldwidebro Fitness
@@ -9210,6 +9650,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-012-Supplement-Brand
   name: Supplement Brand
   opco: Worldwidebro Fitness
@@ -9231,6 +9672,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-013-Fitness-Apparel
   name: Fitness Apparel
   opco: Worldwidebro Fitness
@@ -9252,6 +9694,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-014-Workout-Equipment-Brand
   name: Workout Equipment Brand
   opco: Worldwidebro Fitness
@@ -9273,6 +9716,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-015-Recovery-Products
   name: Recovery Products
   opco: Worldwidebro Fitness
@@ -9294,6 +9738,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-016-Fitness-App
   name: Fitness App
   opco: Worldwidebro Fitness
@@ -9315,6 +9760,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-017-AI-Personal-Trainer
   name: Ai Personal Trainer
   opco: Worldwidebro Fitness
@@ -9336,6 +9782,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-018-Gym-Management-Software
   name: Gym Management Software
   opco: Worldwidebro Fitness
@@ -9357,6 +9804,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-019-Wearable-Analytics-Platform
   name: Wearable Analytics Platform
   opco: Worldwidebro Fitness
@@ -9378,6 +9826,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-020-Yoga-Studio
   name: Yoga Studio
   opco: Worldwidebro Fitness
@@ -9399,6 +9848,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-021-Pilates-Studio
   name: Pilates Studio
   opco: Worldwidebro Fitness
@@ -9420,6 +9870,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-022-Dance-Studio
   name: Dance Studio
   opco: Worldwidebro Fitness
@@ -9441,6 +9892,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-023-Martial-Arts-Dojo
   name: Martial Arts Dojo
   opco: Worldwidebro Fitness
@@ -9462,6 +9914,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-024-Sports-Performance-Center
   name: Sports Performance Center
   opco: Worldwidebro Fitness
@@ -9483,6 +9936,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: FS-025-Corporate-Wellness-Program
   name: Corporate Wellness Program
   opco: Worldwidebro Fitness
@@ -9504,6 +9958,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-001-Truck-Dispatch-Company
   name: Truck Dispatch Company
   opco: Worldwidebro Logistics
@@ -9525,6 +9980,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-002-Freight-Brokerage
   name: Freight Brokerage
   opco: Worldwidebro Logistics
@@ -9546,6 +10002,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-003-Logistics-Dispatch-Service
   name: Logistics Dispatch Service
   opco: Worldwidebro Logistics
@@ -9567,6 +10024,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-004-Last-Mile-Delivery-Dispatch
   name: Last Mile Delivery Dispatch
   opco: Worldwidebro Logistics
@@ -9588,6 +10046,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-005-Medical-Courier-Dispatch
   name: Medical Courier Dispatch
   opco: Worldwidebro Logistics
@@ -9609,6 +10068,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: lt-005-medical-courier-dispatch-oyi9ddglt.vercel.app
 - id: LT-006-Amazon
   name: Amazon
   opco: Worldwidebro Logistics
@@ -9630,6 +10090,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-007-Construction-Dispatch
   name: Construction Dispatch
   opco: Worldwidebro Logistics
@@ -9651,6 +10112,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-008-Towing-Dispatch
   name: Towing Dispatch
   opco: Worldwidebro Logistics
@@ -9672,6 +10134,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-009-HVAC-Technician-Dispatch
   name: Hvac Technician Dispatch
   opco: Worldwidebro Logistics
@@ -9693,6 +10156,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-010-Field-Service-Dispatch
   name: Field Service Dispatch
   opco: Worldwidebro Logistics
@@ -9714,6 +10178,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-011-Dispatch-Software
   name: Dispatch Software
   opco: Worldwidebro Logistics
@@ -9735,6 +10200,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: lt-011-dispatch-software-qed0fytvt-worldwidebros-projects.vercel.app
 - id: LT-012-Fleet-Tracking-Platform
   name: Fleet Tracking Platform
   opco: Worldwidebro Logistics
@@ -9756,6 +10222,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-013-Logistics-Automation-System
   name: Logistics Automation System
   opco: Worldwidebro Logistics
@@ -9777,6 +10244,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-014-AI-Route-Optimization
   name: Ai Route Optimization
   opco: Worldwidebro Logistics
@@ -9798,6 +10266,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-015-Driver-Management-Platform
   name: Driver Management Platform
   opco: Worldwidebro Logistics
@@ -9819,6 +10288,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-016-Trucking-Company
   name: Trucking Company
   opco: Worldwidebro Logistics
@@ -9840,6 +10310,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-017-Courier-Service
   name: Courier Service
   opco: Worldwidebro Logistics
@@ -9861,6 +10332,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-018-Local-Delivery-Company
   name: Local Delivery Company
   opco: Worldwidebro Logistics
@@ -9882,6 +10354,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-019-Moving-Company
   name: Moving Company
   opco: Worldwidebro Logistics
@@ -9903,6 +10376,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-020-Freight-Company
   name: Freight Company
   opco: Worldwidebro Logistics
@@ -9924,6 +10398,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-021-Warehouse-Company
   name: Warehouse Company
   opco: Worldwidebro Logistics
@@ -9945,6 +10420,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-022-Fulfillment-Center
   name: Fulfillment Center
   opco: Worldwidebro Logistics
@@ -9966,6 +10442,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-023-Storage-Business
   name: Storage Business
   opco: Worldwidebro Logistics
@@ -9987,6 +10464,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-024-Distribution-Company
   name: Distribution Company
   opco: Worldwidebro Logistics
@@ -10008,6 +10486,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-025-Logistics-Marketplace
   name: Logistics Marketplace
   opco: Worldwidebro Logistics
@@ -10029,6 +10508,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-026-Shipping-Platform
   name: Shipping Platform
   opco: Worldwidebro Logistics
@@ -10050,6 +10530,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-027-Fleet-Management-SaaS
   name: Fleet Management Saas
   opco: Worldwidebro Logistics
@@ -10071,6 +10552,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-028-Freight-AI-Optimization
   name: Freight Ai Optimization
   opco: Worldwidebro Logistics
@@ -10092,6 +10574,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-029-Supply-Chain-Analytics
   name: Supply Chain Analytics
   opco: Worldwidebro Logistics
@@ -10113,6 +10596,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: LT-030-Cold-Chain-Logistics
   name: Cold Chain Logistics
   opco: Worldwidebro Logistics
@@ -10134,6 +10618,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: MC-001-YouTube-Channel-Network
   name: Youtube Channel Network
   opco: Worldwidebro Media
@@ -10155,6 +10640,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: MC-002-Podcast-Network
   name: Podcast Network
   opco: Worldwidebro Media
@@ -10176,6 +10662,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: MC-003-Blog-Network
   name: Blog Network
   opco: Worldwidebro Media
@@ -10197,6 +10684,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: MC-004-Influencer-Agency
   name: Influencer Agency
   opco: Worldwidebro Media
@@ -10218,6 +10706,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: MC-005-Content-Creation-Studio
   name: Content Creation Studio
   opco: Worldwidebro Media
@@ -10239,6 +10728,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: MC-006-Video-Production-Company
   name: Video Production Company
   opco: Worldwidebro Media
@@ -10260,6 +10750,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: mc-006-video-production-company-j26hfomcw.vercel.app
 - id: MC-007-Animation-Studio
   name: Animation Studio
   opco: Worldwidebro Media
@@ -10281,6 +10772,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: MC-008-Music-Production
   name: Music Production
   opco: Worldwidebro Media
@@ -10302,6 +10794,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: MC-009-Stock-Photography
   name: Stock Photography
   opco: Worldwidebro Media
@@ -10323,6 +10816,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: MC-010-Stock-Video
   name: Stock Video
   opco: Worldwidebro Media
@@ -10344,6 +10838,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: MC-011-Online-Magazine
   name: Online Magazine
   opco: Worldwidebro Media
@@ -10365,6 +10860,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: MC-012-News-Website
   name: News Website
   opco: Worldwidebro Media
@@ -10386,6 +10882,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: MC-013-Streaming-Platform
   name: Streaming Platform
   opco: Worldwidebro Media
@@ -10407,6 +10904,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: MC-014-Gaming-Channel
   name: Gaming Channel
   opco: Worldwidebro Media
@@ -10428,6 +10926,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: MC-015-Esports-Team
   name: Esports Team
   opco: Worldwidebro Media
@@ -10449,6 +10948,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: MC-016-Virtual-Events-Platform
   name: Virtual Events Platform
   opco: Worldwidebro Media
@@ -10470,6 +10970,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: MC-017-Online-Course-Platform
   name: Online Course Platform
   opco: Worldwidebro Media
@@ -10491,6 +10992,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: MC-018-Membership-Site
   name: Membership Site
   opco: Worldwidebro Media
@@ -10512,6 +11014,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: MC-019-Digital-Download-Store
   name: Digital Download Store
   opco: Worldwidebro Media
@@ -10533,6 +11036,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: MC-020-NFT-Marketplace
   name: Nft Marketplace
   opco: Worldwidebro Media
@@ -10554,6 +11058,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-001
   name: Process Automation Suite
   opco: Worldwidebro Operations
@@ -10574,6 +11079,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-001-Fractional-CTO-Agency
   name: Fractional Cto Agency
   opco: Worldwidebro Operations
@@ -10595,6 +11101,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-002-Supply-Chain-Optimizer
   name: Supply Chain Optimizer
   opco: Worldwidebro Operations
@@ -10616,6 +11123,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-003-Event-Planning-AI
   name: Event Planning Ai
   opco: Worldwidebro Operations
@@ -10637,6 +11145,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-004-Inventory-Management-AI
   name: Inventory Management Ai
   opco: Worldwidebro Operations
@@ -10658,6 +11167,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-005-Project-Management-AI
   name: Project Management Ai
   opco: Worldwidebro Operations
@@ -10679,6 +11189,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-006-Document-Automation-AI
   name: Document Automation Ai
   opco: Worldwidebro Operations
@@ -10700,6 +11211,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-007-Meeting-Assistant-AI
   name: Meeting Assistant Ai
   opco: Worldwidebro Operations
@@ -10721,6 +11233,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-008-Recruitment-AI
   name: Recruitment Ai
   opco: Worldwidebro Operations
@@ -10742,6 +11255,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-009-Onboarding-AI
   name: Onboarding Ai
   opco: Worldwidebro Operations
@@ -10763,6 +11277,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-010-Training-Platform-AI
   name: Training Platform Ai
   opco: Worldwidebro Operations
@@ -10784,6 +11299,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-011-Performance-Review-AI
   name: Performance Review Ai
   opco: Worldwidebro Operations
@@ -10805,6 +11321,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-012-IT-Support-AI
   name: It Support Ai
   opco: Worldwidebro Operations
@@ -10826,6 +11343,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-013-Facilities-Management-AI
   name: Facilities Management Ai
   opco: Worldwidebro Operations
@@ -10847,6 +11365,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-014-Travel-Booking-AI
   name: Travel Booking Ai
   opco: Worldwidebro Operations
@@ -10868,6 +11387,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-015-Expense-Management-AI
   name: Expense Management Ai
   opco: Worldwidebro Operations
@@ -10889,6 +11409,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-016-Contract-Management-AI
   name: Contract Management Ai
   opco: Worldwidebro Operations
@@ -10910,6 +11431,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-017-Compliance-Monitoring-AI
   name: Compliance Monitoring Ai
   opco: Worldwidebro Operations
@@ -10931,6 +11453,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-018-Quality-Control-AI
   name: Quality Control Ai
   opco: Worldwidebro Operations
@@ -10952,6 +11475,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-019-Asset-Management-AI
   name: Asset Management Ai
   opco: Worldwidebro Operations
@@ -10973,6 +11497,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-020-Time-Tracking-AI
   name: Time Tracking Ai
   opco: Worldwidebro Operations
@@ -10994,6 +11519,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-021-Document-Security-AI
   name: Document Security Ai
   opco: Worldwidebro Operations
@@ -11015,6 +11541,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-022-Knowledge-Management-AI
   name: Knowledge Management Ai
   opco: Worldwidebro Operations
@@ -11036,6 +11563,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-023-Meeting-Transcription-AI
   name: Meeting Transcription Ai
   opco: Worldwidebro Operations
@@ -11057,6 +11585,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-024-Task-Automation-AI
   name: Task Automation Ai
   opco: Worldwidebro Operations
@@ -11078,6 +11607,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-025-Resource-Allocation-AI
   name: Resource Allocation Ai
   opco: Worldwidebro Operations
@@ -11099,6 +11629,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-026-Budget-Planning-AI
   name: Budget Planning Ai
   opco: Worldwidebro Operations
@@ -11120,6 +11651,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-027-Cost-Optimization-AI
   name: Cost Optimization Ai
   opco: Worldwidebro Operations
@@ -11141,6 +11673,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-028-Procurement-AI
   name: Procurement Ai
   opco: Worldwidebro Operations
@@ -11162,6 +11695,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-029-Vendor-Management-AI
   name: Vendor Management Ai
   opco: Worldwidebro Operations
@@ -11183,6 +11717,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-030-Contract-Negotiation-AI
   name: Contract Negotiation Ai
   opco: Worldwidebro Operations
@@ -11204,6 +11739,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-031-Legal-Document-AI
   name: Legal Document Ai
   opco: Worldwidebro Operations
@@ -11225,6 +11761,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-032-Compliance-Reporting-AI
   name: Compliance Reporting Ai
   opco: Worldwidebro Operations
@@ -11246,6 +11783,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-033-Training-Content-AI
   name: Training Content Ai
   opco: Worldwidebro Operations
@@ -11267,6 +11805,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-034-Employee-Engagement-AI
   name: Employee Engagement Ai
   opco: Worldwidebro Operations
@@ -11288,6 +11827,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-035-Succession-Planning-AI
   name: Succession Planning Ai
   opco: Worldwidebro Operations
@@ -11309,6 +11849,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-036-Workspace-Design-AI
   name: Workspace Design Ai
   opco: Worldwidebro Operations
@@ -11330,6 +11871,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-037-Energy-Efficiency-AI
   name: Energy Efficiency Ai
   opco: Worldwidebro Operations
@@ -11351,6 +11893,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-038-Security-Monitoring-AI
   name: Security Monitoring Ai
   opco: Worldwidebro Operations
@@ -11372,6 +11915,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-039-Health-Safety-AI
   name: Health Safety Ai
   opco: Worldwidebro Operations
@@ -11393,6 +11937,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-040-Disaster-Recovery-AI
   name: Disaster Recovery Ai
   opco: Worldwidebro Operations
@@ -11414,6 +11959,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-041-IT-Asset-Management
   name: It Asset Management
   opco: Worldwidebro Operations
@@ -11435,6 +11981,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-042-Cloud-Cost-Management
   name: Cloud Cost Management
   opco: Worldwidebro Operations
@@ -11456,6 +12003,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-043-Data-Governance-AI
   name: Data Governance Ai
   opco: Worldwidebro Operations
@@ -11477,6 +12025,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-044-Network-Monitoring-AI
   name: Network Monitoring Ai
   opco: Worldwidebro Operations
@@ -11498,6 +12047,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-045-Software-Licensing-AI
   name: Software Licensing Ai
   opco: Worldwidebro Operations
@@ -11519,6 +12069,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-046-IT-Procurement-AI
   name: It Procurement Ai
   opco: Worldwidebro Operations
@@ -11540,6 +12091,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-047-System-Integration-AI
   name: System Integration Ai
   opco: Worldwidebro Operations
@@ -11561,6 +12113,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-048-Data-Backup-AI
   name: Data Backup Ai
   opco: Worldwidebro Operations
@@ -11582,6 +12135,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-049-Business-Continuity-AI
   name: Business Continuity Ai
   opco: Worldwidebro Operations
@@ -11603,6 +12157,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-050-Compliance-Audit-AI
   name: Compliance Audit Ai
   opco: Worldwidebro Operations
@@ -11624,6 +12179,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-051-Document-Collaboration-AI
   name: Document Collaboration Ai
   opco: Worldwidebro Operations
@@ -11645,6 +12201,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-052-Video-Conferencing-AI
   name: Video Conferencing Ai
   opco: Worldwidebro Operations
@@ -11666,6 +12223,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-053-Email-Management-AI
   name: Email Management Ai
   opco: Worldwidebro Operations
@@ -11687,6 +12245,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-054-Calendar-Optimization-AI
   name: Calendar Optimization Ai
   opco: Worldwidebro Operations
@@ -11708,6 +12267,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-055-Project-Budget-AI
   name: Project Budget Ai
   opco: Worldwidebro Operations
@@ -11729,6 +12289,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-056-Resource-Forecasting-AI
   name: Resource Forecasting Ai
   opco: Worldwidebro Operations
@@ -11750,6 +12311,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-057-Task-Prioritization-AI
   name: Task Prioritization Ai
   opco: Worldwidebro Operations
@@ -11771,6 +12333,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-058-Time-Management-AI
   name: Time Management Ai
   opco: Worldwidebro Operations
@@ -11792,6 +12355,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-059-Meeting-Minutes-AI
   name: Meeting Minutes Ai
   opco: Worldwidebro Operations
@@ -11813,6 +12377,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-060-Document-Translation-AI
   name: Document Translation Ai
   opco: Worldwidebro Operations
@@ -11834,6 +12399,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-061-Form-Automation-AI
   name: Form Automation Ai
   opco: Worldwidebro Operations
@@ -11855,6 +12421,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-062-Report-Generation-AI
   name: Report Generation Ai
   opco: Worldwidebro Operations
@@ -11876,6 +12443,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-063-Dashboard-Creation-AI
   name: Dashboard Creation Ai
   opco: Worldwidebro Operations
@@ -11897,6 +12465,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-064-Analytics-Platform-AI
   name: Analytics Platform Ai
   opco: Worldwidebro Operations
@@ -11918,6 +12487,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-065-Data-Cleaning-AI
   name: Data Cleaning Ai
   opco: Worldwidebro Operations
@@ -11939,6 +12509,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: OPS-066-Workflow-Management-AI
   name: Workflow Management Ai
   opco: Worldwidebro Operations
@@ -11960,6 +12531,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-001-Business-Consulting
   name: Business Consulting
   opco: Worldwidebro Professional Services
@@ -11981,6 +12553,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-002-Legal-Services
   name: Legal Services
   opco: Worldwidebro Professional Services
@@ -12002,6 +12575,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-003-Accounting-Services
   name: Accounting Services
   opco: Worldwidebro Professional Services
@@ -12023,6 +12597,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-004-HR-Consulting
   name: Hr Consulting
   opco: Worldwidebro Professional Services
@@ -12044,6 +12619,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-005-Marketing-Agency
   name: Marketing Agency
   opco: Worldwidebro Professional Services
@@ -12065,6 +12641,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-006-Web-Design-Agency
   name: Web Design Agency
   opco: Worldwidebro Professional Services
@@ -12086,6 +12663,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-007-IT-Support-Services
   name: It Support Services
   opco: Worldwidebro Professional Services
@@ -12107,6 +12685,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-008-Virtual-Assistant-Service
   name: Virtual Assistant Service
   opco: Worldwidebro Professional Services
@@ -12128,6 +12707,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-009-Bookkeeping-Service
   name: Bookkeeping Service
   opco: Worldwidebro Professional Services
@@ -12149,6 +12729,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-010-Tax-Preparation-Service
   name: Tax Preparation Service
   opco: Worldwidebro Professional Services
@@ -12170,6 +12751,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-011-Real-Estate-Agency
   name: Real Estate Agency
   opco: Worldwidebro Professional Services
@@ -12191,6 +12773,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-012-Insurance-Agency
   name: Insurance Agency
   opco: Worldwidebro Professional Services
@@ -12212,6 +12795,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-013-Financial-Planning
   name: Financial Planning
   opco: Worldwidebro Professional Services
@@ -12233,6 +12817,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-014-Event-Planning
   name: Event Planning
   opco: Worldwidebro Professional Services
@@ -12254,6 +12839,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-015-Interior-Design
   name: Interior Design
   opco: Worldwidebro Professional Services
@@ -12275,6 +12861,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-016-Photography-Service
   name: Photography Service
   opco: Worldwidebro Professional Services
@@ -12296,6 +12883,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-017-Videography-Service
   name: Videography Service
   opco: Worldwidebro Professional Services
@@ -12317,6 +12905,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-018-Translation-Services
   name: Translation Services
   opco: Worldwidebro Professional Services
@@ -12338,6 +12927,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-019-Copywriting-Service
   name: Copywriting Service
   opco: Worldwidebro Professional Services
@@ -12359,6 +12949,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-020-Social-Media-Management
   name: Social Media Management
   opco: Worldwidebro Professional Services
@@ -12380,6 +12971,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-021-SEO-Agency
   name: Seo Agency
   opco: Worldwidebro Professional Services
@@ -12401,6 +12993,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-022-PPC-Management
   name: Ppc Management
   opco: Worldwidebro Professional Services
@@ -12422,6 +13015,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-023-PR-Agency
   name: Pr Agency
   opco: Worldwidebro Professional Services
@@ -12443,6 +13037,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-024-Recruiting-Agency
   name: Recruiting Agency
   opco: Worldwidebro Professional Services
@@ -12464,6 +13059,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: PS-025-Business-Brokerage
   name: Business Brokerage
   opco: Worldwidebro Professional Services
@@ -12485,6 +13081,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-001-AI-Auction-House
   name: Ai Auction House
   opco: Worldwidebro Specialized
@@ -12506,6 +13103,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-002-Smart-Marina-Management
   name: Smart Marina Management
   opco: Worldwidebro Specialized
@@ -12527,6 +13125,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-003-AI-Surf-Report
   name: Ai Surf Report
   opco: Worldwidebro Specialized
@@ -12548,6 +13147,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-004-Private-Chef-AI
   name: Private Chef Ai
   opco: Worldwidebro Specialized
@@ -12569,6 +13169,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-005-Virtual-Concierge-AI
   name: Virtual Concierge Ai
   opco: Worldwidebro Specialized
@@ -12590,6 +13191,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-006-Smart-Parking-AI
   name: Smart Parking Ai
   opco: Worldwidebro Specialized
@@ -12611,6 +13213,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-007-AI-Interior-Design
   name: Ai Interior Design
   opco: Worldwidebro Specialized
@@ -12632,6 +13235,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-008-Personal-Stylist-AI
   name: Personal Stylist Ai
   opco: Worldwidebro Specialized
@@ -12653,6 +13257,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-009-Smart-Locker-System
   name: Smart Locker System
   opco: Worldwidebro Specialized
@@ -12674,6 +13279,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-010-AI-Fitness-Coach
   name: Ai Fitness Coach
   opco: Worldwidebro Specialized
@@ -12695,6 +13301,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-011-Smart-Golf-Caddie
   name: Smart Golf Caddie
   opco: Worldwidebro Specialized
@@ -12716,6 +13323,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-012-AI-Nutritionist
   name: Ai Nutritionist
   opco: Worldwidebro Specialized
@@ -12737,6 +13345,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-013-Smart-Hotel-Butler
   name: Smart Hotel Butler
   opco: Worldwidebro Specialized
@@ -12758,6 +13367,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-014-AI-Language-Tutor
   name: Ai Language Tutor
   opco: Worldwidebro Specialized
@@ -12779,6 +13389,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-015-Smart-Transportation-AI
   name: Smart Transportation Ai
   opco: Worldwidebro Specialized
@@ -12800,6 +13411,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-016-AI-Travel-Planner
   name: Ai Travel Planner
   opco: Worldwidebro Specialized
@@ -12821,6 +13433,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-017-Smart-Agriculture-AI
   name: Smart Agriculture Ai
   opco: Worldwidebro Specialized
@@ -12842,6 +13455,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-018-AI-Personal-Shopper
   name: Ai Personal Shopper
   opco: Worldwidebro Specialized
@@ -12863,6 +13477,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-019-Smart-Home-Security
   name: Smart Home Security
   opco: Worldwidebro Specialized
@@ -12884,6 +13499,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-020-AI-Music-Producer
   name: Ai Music Producer
   opco: Worldwidebro Specialized
@@ -12905,6 +13521,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-021-Smart-Restaurant-AI
   name: Smart Restaurant Ai
   opco: Worldwidebro Specialized
@@ -12926,6 +13543,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-022-AI-Movie-Critic
   name: Ai Movie Critic
   opco: Worldwidebro Specialized
@@ -12947,6 +13565,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-023-Smart-Museum-Guide
   name: Smart Museum Guide
   opco: Worldwidebro Specialized
@@ -12968,6 +13587,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-024-AI-Sports-Analyst
   name: Ai Sports Analyst
   opco: Worldwidebro Specialized
@@ -12989,6 +13609,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-025-Smart-Library-AI
   name: Smart Library Ai
   opco: Worldwidebro Specialized
@@ -13010,6 +13631,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-026-AI-Art-Curator
   name: Ai Art Curator
   opco: Worldwidebro Specialized
@@ -13031,6 +13653,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-027-Smart-Fitness-AI
   name: Smart Fitness Ai
   opco: Worldwidebro Specialized
@@ -13052,6 +13675,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-028-AI-Poetry-Generator
   name: Ai Poetry Generator
   opco: Worldwidebro Specialized
@@ -13073,6 +13697,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-029-Smart-Dating-AI
   name: Smart Dating Ai
   opco: Worldwidebro Specialized
@@ -13094,6 +13719,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-030-AI-Journalism-Tool
   name: Ai Journalism Tool
   opco: Worldwidebro Specialized
@@ -13115,6 +13741,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-031-Smart-Legal-AI
   name: Smart Legal Ai
   opco: Worldwidebro Specialized
@@ -13136,6 +13763,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-032-AI-Game-Designer
   name: Ai Game Designer
   opco: Worldwidebro Specialized
@@ -13157,6 +13785,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-033-Smart-Real-Estate-AI
   name: Smart Real Estate Ai
   opco: Worldwidebro Specialized
@@ -13178,6 +13807,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-034-AI-Cooking-Assistant
   name: Ai Cooking Assistant
   opco: Worldwidebro Specialized
@@ -13199,6 +13829,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-035-Smart-Health-AI
   name: Smart Health Ai
   opco: Worldwidebro Specialized
@@ -13220,6 +13851,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-036-AI-Photography-Tool
   name: Ai Photography Tool
   opco: Worldwidebro Specialized
@@ -13241,6 +13873,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-037-Smart-Writing-AI
   name: Smart Writing Ai
   opco: Worldwidebro Specialized
@@ -13262,6 +13895,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-038-AI-Comedy-Writer
   name: Ai Comedy Writer
   opco: Worldwidebro Specialized
@@ -13283,6 +13917,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-039-Smart-Meditation-AI
   name: Smart Meditation Ai
   opco: Worldwidebro Specialized
@@ -13304,6 +13939,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-040-AI-Debate-Coach
   name: Ai Debate Coach
   opco: Worldwidebro Specialized
@@ -13325,6 +13961,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-041-Smart-Parenting-AI
   name: Smart Parenting Ai
   opco: Worldwidebro Specialized
@@ -13346,6 +13983,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-042-AI-Financial-Advisor
   name: Ai Financial Advisor
   opco: Worldwidebro Specialized
@@ -13367,6 +14005,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-043-Smart-Automotive-AI
   name: Smart Automotive Ai
   opco: Worldwidebro Specialized
@@ -13388,6 +14027,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-044-AI-Aviation-Planner
   name: Ai Aviation Planner
   opco: Worldwidebro Specialized
@@ -13409,6 +14049,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-045-Smart-Maritime-AI
   name: Smart Maritime Ai
   opco: Worldwidebro Specialized
@@ -13430,6 +14071,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-046-AI-Weather-Forecast
   name: Ai Weather Forecast
   opco: Worldwidebro Specialized
@@ -13451,6 +14093,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-047-Smart-Energy-AI
   name: Smart Energy Ai
   opco: Worldwidebro Specialized
@@ -13472,6 +14115,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-048-AI-Sports-Coach
   name: Ai Sports Coach
   opco: Worldwidebro Specialized
@@ -13493,6 +14137,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-049-Smart-Education-AI
   name: Smart Education Ai
   opco: Worldwidebro Specialized
@@ -13514,6 +14159,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: SPEC-050-AI-Language-Translator
   name: Ai Language Translator
   opco: Worldwidebro Specialized
@@ -13535,6 +14181,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-001-SaaS-Platform
   name: Saas Platform
   opco: Worldwidebro Technology
@@ -13556,6 +14203,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-002-Mobile-App-Development
   name: Mobile App Development
   opco: Worldwidebro Technology
@@ -13577,6 +14225,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-003-Web-Development-Agency
   name: Web Development Agency
   opco: Worldwidebro Technology
@@ -13598,6 +14247,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-004-Custom-Software-Development
   name: Custom Software Development
   opco: Worldwidebro Technology
@@ -13619,6 +14269,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-005-API-Development
   name: Api Development
   opco: Worldwidebro Technology
@@ -13640,6 +14291,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-006-Cloud-Infrastructure
   name: Cloud Infrastructure
   opco: Worldwidebro Technology
@@ -13661,6 +14313,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-007-DevOps-Consulting
   name: Devops Consulting
   opco: Worldwidebro Technology
@@ -13682,6 +14335,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-008-Cybersecurity-Service
   name: Cybersecurity Service
   opco: Worldwidebro Technology
@@ -13703,6 +14357,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-009-Data-Analytics-Platform
   name: Data Analytics Platform
   opco: Worldwidebro Technology
@@ -13724,6 +14379,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-010-Business-Intelligence-Tool
   name: Business Intelligence Tool
   opco: Worldwidebro Technology
@@ -13745,6 +14401,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-011-CRM-Platform
   name: Crm Platform
   opco: Worldwidebro Technology
@@ -13766,6 +14423,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-012-Project-Management-Tool
   name: Project Management Tool
   opco: Worldwidebro Technology
@@ -13787,6 +14445,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-013-Communication-Platform
   name: Communication Platform
   opco: Worldwidebro Technology
@@ -13808,6 +14467,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-014-Collaboration-Software
   name: Collaboration Software
   opco: Worldwidebro Technology
@@ -13829,6 +14489,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-015-Automation-Platform
   name: Automation Platform
   opco: Worldwidebro Technology
@@ -13850,6 +14511,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-016-AI
   name: Ai
   opco: Worldwidebro Technology
@@ -13871,6 +14533,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-017-Chatbot-Builder
   name: Chatbot Builder
   opco: Worldwidebro Technology
@@ -13892,6 +14555,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-018-E-commerce-Platform
   name: E Commerce Platform
   opco: Worldwidebro Technology
@@ -13913,6 +14577,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-019-Payment-Processing
   name: Payment Processing
   opco: Worldwidebro Technology
@@ -13934,6 +14599,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-020-Blockchain-Platform
   name: Blockchain Platform
   opco: Worldwidebro Technology
@@ -13955,6 +14621,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-021-IoT-Platform
   name: Iot Platform
   opco: Worldwidebro Technology
@@ -13976,6 +14643,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-022-AR
   name: Ar
   opco: Worldwidebro Technology
@@ -13997,6 +14665,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-023-Game-Development
   name: Game Development
   opco: Worldwidebro Technology
@@ -14018,6 +14687,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-024-Marketing-Automation
   name: Marketing Automation
   opco: Worldwidebro Technology
@@ -14039,6 +14709,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-025-Sales-Automation
   name: Sales Automation
   opco: Worldwidebro Technology
@@ -14060,6 +14731,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-026-HR-Tech-Platform
   name: Hr Tech Platform
   opco: Worldwidebro Technology
@@ -14081,6 +14753,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-027-Legal-Tech-Platform
   name: Legal Tech Platform
   opco: Worldwidebro Technology
@@ -14102,6 +14775,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-028-Health-Tech-Platform
   name: Health Tech Platform
   opco: Worldwidebro Technology
@@ -14123,6 +14797,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-029-EdTech-Platform
   name: Edtech Platform
   opco: Worldwidebro Technology
@@ -14144,6 +14819,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: ST-030-PropTech-Platform
   name: Proptech Platform
   opco: Worldwidebro Technology
@@ -14165,6 +14841,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-001
   name: Shopify Autopilot
   opco: Worldwidebro Technology
@@ -14185,6 +14862,7 @@
   source: correlation_map
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-001-Quantum-Algorithm-AI
   name: Quantum Algorithm Ai
   opco: Worldwidebro Technology
@@ -14206,6 +14884,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-002-AI-Compliance-Scanner
   name: Ai Compliance Scanner
   opco: Worldwidebro Technology
@@ -14227,6 +14906,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-003-Cloud-Management-AI
   name: Cloud Management Ai
   opco: Worldwidebro Technology
@@ -14248,6 +14928,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-004-Robotics-Training-AI
   name: Robotics Training Ai
   opco: Worldwidebro Technology
@@ -14269,6 +14950,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-005-Customer-Insights-AI
   name: Customer Insights Ai
   opco: Worldwidebro Technology
@@ -14290,6 +14972,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-006-Voice-Assistant-AI
   name: Voice Assistant Ai
   opco: Worldwidebro Technology
@@ -14311,6 +14994,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-007-Blockchain-Verifier-AI
   name: Blockchain Verifier Ai
   opco: Worldwidebro Technology
@@ -14332,6 +15016,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-008-Cybersecurity-Shield
   name: Cybersecurity Shield
   opco: Worldwidebro Technology
@@ -14353,6 +15038,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-009-Content-Studio-AI
   name: Content Studio Ai
   opco: Worldwidebro Technology
@@ -14374,6 +15060,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-010-Smart-Home-AI
   name: Smart Home Ai
   opco: Worldwidebro Technology
@@ -14395,6 +15082,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-011-Supply-Chain-Optimizer
   name: Supply Chain Optimizer
   opco: Worldwidebro Technology
@@ -14416,6 +15104,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-012-Data-Visualization-AI
   name: Data Visualization Ai
   opco: Worldwidebro Technology
@@ -14437,6 +15126,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-013-Workflow-Automation
   name: Workflow Automation
   opco: Worldwidebro Technology
@@ -14458,6 +15148,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-014-Sentiment-Analyzer
   name: Sentiment Analyzer
   opco: Worldwidebro Technology
@@ -14479,6 +15170,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-015-Image-Recognition-AI
   name: Image Recognition Ai
   opco: Worldwidebro Technology
@@ -14500,6 +15192,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-016-Video-Editor-AI
   name: Video Editor Ai
   opco: Worldwidebro Technology
@@ -14521,6 +15214,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-017-Speech-to-Text-AI
   name: Speech To Text Ai
   opco: Worldwidebro Technology
@@ -14542,6 +15236,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-018-Text-to-Speech-AI
   name: Text To Speech Ai
   opco: Worldwidebro Technology
@@ -14563,6 +15258,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-019-Fraud-Prevention-AI
   name: Fraud Prevention Ai
   opco: Worldwidebro Technology
@@ -14584,6 +15280,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-020-Recommendation-Engine
   name: Recommendation Engine
   opco: Worldwidebro Technology
@@ -14605,6 +15302,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-021-Network-Security-AI
   name: Network Security Ai
   opco: Worldwidebro Technology
@@ -14626,6 +15324,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-022-Database-Optimizer
   name: Database Optimizer
   opco: Worldwidebro Technology
@@ -14647,6 +15346,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-023-AI-Testing-Platform
   name: Ai Testing Platform
   opco: Worldwidebro Technology
@@ -14668,6 +15368,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-024-Virtual-Assistant-Builder
   name: Virtual Assistant Builder
   opco: Worldwidebro Technology
@@ -14689,6 +15390,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-025-Machine-Learning-Builder
   name: Machine Learning Builder
   opco: Worldwidebro Technology
@@ -14710,6 +15412,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-026-AI-Ethics-Auditor
   name: Ai Ethics Auditor
   opco: Worldwidebro Technology
@@ -14731,6 +15434,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-027-Predictive-Analytics-AI
   name: Predictive Analytics Ai
   opco: Worldwidebro Technology
@@ -14752,6 +15456,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-028-AI-Training-Platform
   name: Ai Training Platform
   opco: Worldwidebro Technology
@@ -14773,6 +15478,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-029-Digital-Twin-AI
   name: Digital Twin Ai
   opco: Worldwidebro Technology
@@ -14794,6 +15500,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-030-AI-Monitoring-System
   name: Ai Monitoring System
   opco: Worldwidebro Technology
@@ -14815,6 +15522,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-031-Edge-Computing-AI
   name: Edge Computing Ai
   opco: Worldwidebro Technology
@@ -14836,6 +15544,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-032-AI-Integration-Hub
   name: Ai Integration Hub
   opco: Worldwidebro Technology
@@ -14857,6 +15566,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-033-Quantum-Algorithm-AI
   name: Quantum Algorithm Ai
   opco: Worldwidebro Technology
@@ -14878,6 +15588,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-034-AI-Compliance-Scanner
   name: Ai Compliance Scanner
   opco: Worldwidebro Technology
@@ -14899,6 +15610,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-035-Cloud-Management-AI
   name: Cloud Management Ai
   opco: Worldwidebro Technology
@@ -14920,6 +15632,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-036-Robotics-Training-AI
   name: Robotics Training Ai
   opco: Worldwidebro Technology
@@ -14941,6 +15654,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-037-Customer-Insights-AI
   name: Customer Insights Ai
   opco: Worldwidebro Technology
@@ -14962,6 +15676,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-038-Voice-Assistant-AI
   name: Voice Assistant Ai
   opco: Worldwidebro Technology
@@ -14983,6 +15698,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-039-Blockchain-Verifier-AI
   name: Blockchain Verifier Ai
   opco: Worldwidebro Technology
@@ -15004,6 +15720,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-040-Cybersecurity-Shield
   name: Cybersecurity Shield
   opco: Worldwidebro Technology
@@ -15025,6 +15742,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-041-Content-Studio-AI
   name: Content Studio Ai
   opco: Worldwidebro Technology
@@ -15046,6 +15764,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-042-Smart-Home-AI
   name: Smart Home Ai
   opco: Worldwidebro Technology
@@ -15067,6 +15786,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-043-Supply-Chain-Optimizer
   name: Supply Chain Optimizer
   opco: Worldwidebro Technology
@@ -15088,6 +15808,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-044-Data-Visualization-AI
   name: Data Visualization Ai
   opco: Worldwidebro Technology
@@ -15109,6 +15830,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-045-Workflow-Automation
   name: Workflow Automation
   opco: Worldwidebro Technology
@@ -15130,6 +15852,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-046-Sentiment-Analyzer
   name: Sentiment Analyzer
   opco: Worldwidebro Technology
@@ -15151,6 +15874,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-047-Image-Recognition-AI
   name: Image Recognition Ai
   opco: Worldwidebro Technology
@@ -15172,6 +15896,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-048-Video-Editor-AI
   name: Video Editor Ai
   opco: Worldwidebro Technology
@@ -15193,6 +15918,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-049-Speech-to-Text-AI
   name: Speech To Text Ai
   opco: Worldwidebro Technology
@@ -15214,6 +15940,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-050-Text-to-Speech-AI
   name: Text To Speech Ai
   opco: Worldwidebro Technology
@@ -15235,6 +15962,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-051-Fraud-Prevention-AI
   name: Fraud Prevention Ai
   opco: Worldwidebro Technology
@@ -15256,6 +15984,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-052-Recommendation-Engine
   name: Recommendation Engine
   opco: Worldwidebro Technology
@@ -15277,6 +16006,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-053-Network-Security-AI
   name: Network Security Ai
   opco: Worldwidebro Technology
@@ -15298,6 +16028,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-054-Database-Optimizer
   name: Database Optimizer
   opco: Worldwidebro Technology
@@ -15319,6 +16050,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-055-AI-Testing-Platform
   name: Ai Testing Platform
   opco: Worldwidebro Technology
@@ -15340,6 +16072,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-056-Virtual-Assistant-Builder
   name: Virtual Assistant Builder
   opco: Worldwidebro Technology
@@ -15361,6 +16094,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-057-Machine-Learning-Builder
   name: Machine Learning Builder
   opco: Worldwidebro Technology
@@ -15382,6 +16116,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-058-AI-Ethics-Auditor
   name: Ai Ethics Auditor
   opco: Worldwidebro Technology
@@ -15403,6 +16138,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-059-Predictive-Analytics-AI
   name: Predictive Analytics Ai
   opco: Worldwidebro Technology
@@ -15424,6 +16160,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
+  _vercel_url: null
 - id: TECH-060-AI-Training-Platform
   name: Ai Training Platform
   opco: Worldwidebro Technology
@@ -15445,1048 +16182,7 @@
   source: venture_registry
   created_at: ''
   updated_at: ''
-- id: venture:COMM-001
-  name: Local Community Hub
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:EC-001
-  name: Angels in Daylight
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:EC-002
-  name: New World Apparel
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:EC-003
-  name: Shopify Autopilot
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:EC-004
-  name: Shoe Customizer
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:EC-005
-  name: Sunglasses AI
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:EC-006
-  name: Dropship Hub
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:EC-007
-  name: Personal Shopper AI
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:EC-008
-  name: Custom Sneaker AI
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:EC-009
-  name: Sustainable Fashion AI
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:EC-010
-  name: Jewelry Designer AI
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:EDU-001
-  name: Online Course Platform
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:EM-001
-  name: Blockchain Commerce Platform
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-001
-  name: GenixBank Lite
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-002
-  name: Credit Repair Automation
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-003
-  name: AI Boss Hub Lite
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-004
-  name: GenixBanks AI Treasurer
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-005
-  name: U-Haul Rental Affiliate
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-006
-  name: Tax Prep & Filing Services
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-007
-  name: Business Credit Building
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-008
-  name: Business Formation Services
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-009
-  name: Crypto Tax Optimizer
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-010
-  name: AI-Powered Garbage Collection
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-011
-  name: Automated Bookkeeping
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-012
-  name: Invoice Factoring AI
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-013
-  name: Charity Donation AI
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-014
-  name: Expense Tracker AI
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-015
-  name: Financial Wellness Coach
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-016
-  name: Trade Finance AI
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-017
-  name: Remittance AI
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-018
-  name: Wealth Transfer AI
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-019
-  name: Payment Gateway AI
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-020
-  name: Debt Consolidation AI
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-021
-  name: Tax Deduction Finder
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-022
-  name: Budget Forecasting AI
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-023
-  name: Investment Portfolio AI
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-024
-  name: Crowdfunding AI
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-025
-  name: Escrow Automation
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-026
-  name: Financial Compliance Scanner
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-027
-  name: Patent Writer AI
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-028
-  name: Legal Analyzer AI
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-029
-  name: Compliance Wallet SaaS
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-030
-  name: Local SEO Ranker AI
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-031
-  name: Investor Dashboard Builder
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-032
-  name: Legal Toolkit AI
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-033
-  name: AI Tax Preparation Service
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-034
-  name: Payroll Automation
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:FIN-035
-  name: Insurance Underwriting AI
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:OPS-001
-  name: Process Automation Suite
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: venture:TECH-001
-  name: Shopify Autopilot
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Pre-launch
-  product: ''
-  customers: ''
-  revenue: null
-  costs: null
-  repositories: []
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: knowledge_graph
-  created_at: ''
-  updated_at: ''
-- id: OS-001-MATHEMATICAL-OS-REGISTRY
-  name: OS-001-MATHEMATICAL-OS-REGISTRY
-  opco: Worldwidebro Holdings
-  sector: unknown
-  business_model: Other
-  status: Building
-  product: OS-001-MATHEMATICAL-OS-REGISTRY
-  customers: ''
-  revenue: null
-  costs: null
-  repositories:
-  - OS-001-MATHEMATICAL-OS-REGISTRY
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: github
-  created_at: '2026-07-27T23:53:55Z'
-  updated_at: '2026-07-27T23:53:56Z'
-- id: arbitrage-nexus
-  name: arbitrage-nexus
-  opco: Worldwidebro Holdings
-  sector: software-technology
-  business_model: SaaS
-  status: Live
-  product: arbitrage-nexus
-  customers: ''
-  revenue: null
-  costs: null
-  repositories:
-  - arbitrage-nexus
-  capabilities: []
-  agents: []
-  projects: []
-  kpis: []
-  risks: []
-  decisions: []
-  source: github
-  created_at: '2025-12-21T19:01:24Z'
-  updated_at: '2026-07-11T20:36:53Z'
+  _vercel_url: null
 - id: con-001-ace-construction
   name: con-001-ace-construction
   opco: Worldwidebro Holdings
@@ -16508,6 +16204,7 @@
   source: github
   created_at: '2026-03-21T05:07:08Z'
   updated_at: '2026-08-19T21:10:51Z'
+  _vercel_url: con-001-ace-construction-nfh5swwa4-worldwidebros-projects.vercel.app
 - id: ec-111-miss-toys
   name: ec-111-miss-toys
   opco: Worldwidebro Holdings
@@ -16529,6 +16226,7 @@
   source: github
   created_at: '2026-07-10T20:59:24Z'
   updated_at: '2026-07-21T17:36:09Z'
+  _vercel_url: ec-111-miss-toys-dvk26zgrb-worldwidebros-projects.vercel.app
 - id: ec-112-cosmic-kitty
   name: ec-112-cosmic-kitty
   opco: Worldwidebro Holdings
@@ -16550,6 +16248,7 @@
   source: github
   created_at: '2026-07-11T01:18:58Z'
   updated_at: '2026-08-22T21:43:27Z'
+  _vercel_url: ec-112-cosmic-kitty-myp0hjzid-worldwidebros-projects.vercel.app
 - id: re-001-worldwidebro-holdings
   name: re-001-worldwidebro-holdings
   opco: Worldwidebro Holdings
@@ -16571,3 +16270,4 @@
   source: github
   created_at: '2026-03-18T19:54:22Z'
   updated_at: '2026-08-21T00:42:24Z'
+  _vercel_url: re-001-worldwidebro-holdings-i4mauskmp-worldwidebros-projects.vercel.app

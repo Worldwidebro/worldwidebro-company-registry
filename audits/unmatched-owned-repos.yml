@@ -1063,697 +1063,697 @@
   description: OpenClaw orchestration dashboard with AI agent management - Part of Civilization OS venture ecosystem
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: ai-002-api
   name: ai-002-api
   description: Backend API for the CogniFlow web application.
   language: ''
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: ai-002-ml-engine
   name: ai-002-ml-engine
   description: Machine learning models and training pipelines for CogniFlow.
   language: ''
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: ai-002-web-app
   name: ai-002-web-app
   description: Frontend application for CogniFlow's workflow management.
   language: ''
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: bw-001-contracts
   name: bw-001-contracts
   description: ARCHIVED → merged into bw-001-up-next-business
   language: HTML
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: bw-001-up-next
   name: bw-001-up-next
   description: ARCHIVED → merged into bw-001-up-next-business
   language: ''
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: bw-001-up-next-web
   name: bw-001-up-next-web
   description: ARCHIVED → merged into bw-001-up-next-code
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: et-003-content
   name: et-003-content
   description: Instructional content and course materials for SkillForge.
   language: ''
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: et-003-platform
   name: et-003-platform
   description: Monorepo for the main SkillForge learning platform (frontend/backend).
   language: ''
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: ft-001-api-gateway
   name: ft-001-api-gateway
   description: API gateway for external services to interact with the QuantumLedger.
   language: ''
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: ft-001-core-ledger
   name: ft-001-core-ledger
   description: Core decentralized ledger and smart contract code for QuantumLedger.
   language: ''
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: ft-001-docs
   name: ft-001-docs
   description: Documentation, whitepapers, and technical specifications for QuantumLedger.
   language: ''
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: ht-004-data-api
   name: ht-004-data-api
   description: Secure API for handling sensitive patient data for VitalSense.
   language: ''
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: ht-004-firmware
   name: ht-004-firmware
   description: Embedded software for the VitalSense wearable device.
   language: ''
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: ht-004-mobile-app
   name: ht-004-mobile-app
   description: Mobile application (iOS/Android) for VitalSense data visualization.
   language: ''
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-customer-service-automation-bot
   name: iza-os-customer-service-automation-bot
   description: Advanced customer service automation for billionaire consciousness empire
   language: TypeScript
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-customer-service-chatbot-bot
   name: iza-os-customer-service-chatbot-bot
   description: Advanced customer service chatbot for billionaire consciousness empire
   language: TypeScript
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-customer-service-email-bot
   name: iza-os-customer-service-email-bot
   description: Advanced customer service email automation for billionaire consciousness empire
   language: TypeScript
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-customer-service-escalation-bot
   name: iza-os-customer-service-escalation-bot
   description: Advanced customer service escalation automation for billionaire consciousness empire
   language: TypeScript
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-customer-service-faq-bot
   name: iza-os-customer-service-faq-bot
   description: Advanced customer service FAQ automation for billionaire consciousness empire
   language: TypeScript
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-customer-service-knowledge-bot
   name: iza-os-customer-service-knowledge-bot
   description: Advanced customer service knowledge management for billionaire consciousness empire
   language: TypeScript
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-customer-service-phone-bot
   name: iza-os-customer-service-phone-bot
   description: Advanced customer service phone automation for billionaire consciousness empire
   language: TypeScript
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-customer-service-social-bot
   name: iza-os-customer-service-social-bot
   description: Advanced customer service social media automation for billionaire consciousness empire
   language: TypeScript
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-customer-service-ticket-bot
   name: iza-os-customer-service-ticket-bot
   description: Advanced customer service ticket management for billionaire consciousness empire
   language: TypeScript
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-finance-advisor-alerting-bot
   name: iza-os-finance-advisor-alerting-bot
   description: 🤖 Finance Advisor Bot - Alerting automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-finance-advisor-analytics-bot
   name: iza-os-finance-advisor-analytics-bot
   description: 🤖 Finance Advisor Bot - Analytics automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-finance-advisor-automation-bot
   name: iza-os-finance-advisor-automation-bot
   description: 🤖 Finance Advisor Bot - Automation automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-finance-advisor-compliance-bot
   name: iza-os-finance-advisor-compliance-bot
   description: 🤖 Finance Advisor Bot - Compliance automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-finance-advisor-discovery-bot
   name: iza-os-finance-advisor-discovery-bot
   description: 🤖 Finance Advisor Bot - Discovery automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-finance-advisor-forecasting-bot
   name: iza-os-finance-advisor-forecasting-bot
   description: Advanced financial forecasting bot for billionaire consciousness empire
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-finance-advisor-integration-bot
   name: iza-os-finance-advisor-integration-bot
   description: 🤖 Finance Advisor Bot - Integration automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-finance-advisor-intelligence-bot
   name: iza-os-finance-advisor-intelligence-bot
   description: 🤖 Finance Advisor Bot - Intelligence automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-finance-advisor-management-bot
   name: iza-os-finance-advisor-management-bot
   description: 🤖 Finance Advisor Bot - Management automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-finance-advisor-monitoring-bot
   name: iza-os-finance-advisor-monitoring-bot
   description: 🤖 Finance Advisor Bot - Monitoring automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-finance-advisor-optimization-bot
   name: iza-os-finance-advisor-optimization-bot
   description: 🤖 Finance Advisor Bot - Optimization automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-finance-advisor-orchestration-bot
   name: iza-os-finance-advisor-orchestration-bot
   description: 🤖 Finance Advisor Bot - Orchestration automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-finance-advisor-processing-bot
   name: iza-os-finance-advisor-processing-bot
   description: 🤖 Finance Advisor Bot - Processing automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-finance-advisor-reporting-bot
   name: iza-os-finance-advisor-reporting-bot
   description: 🤖 Finance Advisor Bot - Reporting automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-finance-advisor-security-bot
   name: iza-os-finance-advisor-security-bot
   description: 🤖 Finance Advisor Bot - Security automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-finance-advisor-synthesis-bot
   name: iza-os-finance-advisor-synthesis-bot
   description: 🤖 Finance Advisor Bot - Synthesis automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-hr-analytics-bot
   name: iza-os-hr-analytics-bot
   description: Advanced HR analytics automation for billionaire consciousness empire
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-hr-benefits-bot
   name: iza-os-hr-benefits-bot
   description: Advanced HR benefits management for billionaire consciousness empire
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-hr-compliance-bot
   name: iza-os-hr-compliance-bot
   description: Advanced HR compliance automation for billionaire consciousness empire
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-hr-onboarding-bot
   name: iza-os-hr-onboarding-bot
   description: Advanced HR onboarding automation for billionaire consciousness empire
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-hr-payroll-bot
   name: iza-os-hr-payroll-bot
   description: Advanced HR payroll automation for billionaire consciousness empire
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-hr-performance-bot
   name: iza-os-hr-performance-bot
   description: Advanced HR performance management for billionaire consciousness empire
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-hr-recruitment-bot
   name: iza-os-hr-recruitment-bot
   description: Advanced HR recruitment automation for billionaire consciousness empire
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-hr-training-bot
   name: iza-os-hr-training-bot
   description: Advanced HR training automation for billionaire consciousness empire
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-inventory-management-compliance-bot
   name: iza-os-inventory-management-compliance-bot
   description: 🤖 Inventory Management Bot - Compliance automation and intelligence
   language: TypeScript
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-inventory-management-integration-bot
   name: iza-os-inventory-management-integration-bot
   description: 🤖 Inventory Management Bot - Integration automation and intelligence
   language: TypeScript
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-inventory-management-reporting-bot
   name: iza-os-inventory-management-reporting-bot
   description: 🤖 Inventory Management Bot - Reporting automation and intelligence
   language: TypeScript
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-inventory-management-security-bot
   name: iza-os-inventory-management-security-bot
   description: 🤖 Inventory Management Bot - Security automation and intelligence
   language: TypeScript
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-legal-research-alerting-bot
   name: iza-os-legal-research-alerting-bot
   description: 🤖 Legal Research Bot - Alerting automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-legal-research-compliance-bot
   name: iza-os-legal-research-compliance-bot
   description: 🤖 Legal Research Bot - Compliance automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-legal-research-integration-bot
   name: iza-os-legal-research-integration-bot
   description: 🤖 Legal Research Bot - Integration automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-legal-research-intelligence-bot
   name: iza-os-legal-research-intelligence-bot
   description: 🤖 Legal Research Bot - Intelligence automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-legal-research-management-bot
   name: iza-os-legal-research-management-bot
   description: 🤖 Legal Research Bot - Management automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-legal-research-optimization-bot
   name: iza-os-legal-research-optimization-bot
   description: 🤖 Legal Research Bot - Optimization automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-legal-research-orchestration-bot
   name: iza-os-legal-research-orchestration-bot
   description: 🤖 Legal Research Bot - Orchestration automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-legal-research-reporting-bot
   name: iza-os-legal-research-reporting-bot
   description: 🤖 Legal Research Bot - Reporting automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-legal-research-security-bot
   name: iza-os-legal-research-security-bot
   description: 🤖 Legal Research Bot - Security automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-marketing-automation-alerting-bot
   name: iza-os-marketing-automation-alerting-bot
   description: 🤖 Marketing Automation Bot - Alerting automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-marketing-automation-automation-bot
   name: iza-os-marketing-automation-automation-bot
   description: 🤖 Marketing Automation Bot - Automation automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-marketing-automation-campaign-bot
   name: iza-os-marketing-automation-campaign-bot
   description: Advanced marketing campaign bot for billionaire consciousness empire
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-marketing-automation-compliance-bot
   name: iza-os-marketing-automation-compliance-bot
   description: 🤖 Marketing Automation Bot - Compliance automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-marketing-automation-discovery-bot
   name: iza-os-marketing-automation-discovery-bot
   description: 🤖 Marketing Automation Bot - Discovery automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-marketing-automation-integration-bot
   name: iza-os-marketing-automation-integration-bot
   description: 🤖 Marketing Automation Bot - Integration automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-marketing-automation-intelligence-bot
   name: iza-os-marketing-automation-intelligence-bot
   description: 🤖 Marketing Automation Bot - Intelligence automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-marketing-automation-management-bot
   name: iza-os-marketing-automation-management-bot
   description: 🤖 Marketing Automation Bot - Management automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-marketing-automation-monitoring-bot
   name: iza-os-marketing-automation-monitoring-bot
   description: 🤖 Marketing Automation Bot - Monitoring automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-marketing-automation-optimization-bot
   name: iza-os-marketing-automation-optimization-bot
   description: 🤖 Marketing Automation Bot - Optimization automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-marketing-automation-orchestration-bot
   name: iza-os-marketing-automation-orchestration-bot
   description: 🤖 Marketing Automation Bot - Orchestration automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-marketing-automation-processing-bot
   name: iza-os-marketing-automation-processing-bot
   description: 🤖 Marketing Automation Bot - Processing automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-marketing-automation-reporting-bot
   name: iza-os-marketing-automation-reporting-bot
   description: 🤖 Marketing Automation Bot - Reporting automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-marketing-automation-security-bot
   name: iza-os-marketing-automation-security-bot
   description: 🤖 Marketing Automation Bot - Security automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-marketing-automation-synthesis-bot
   name: iza-os-marketing-automation-synthesis-bot
   description: 🤖 Marketing Automation Bot - Synthesis automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-operations-analytics-bot
   name: iza-os-operations-analytics-bot
   description: Advanced operations analytics for billionaire consciousness empire
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-operations-automation-bot
   name: iza-os-operations-automation-bot
   description: Advanced operations automation for billionaire consciousness empire
   language: JavaScript
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-operations-compliance-bot
   name: iza-os-operations-compliance-bot
   description: Advanced operations compliance for billionaire consciousness empire
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-operations-integration-bot
   name: iza-os-operations-integration-bot
   description: Advanced operations integration for billionaire consciousness empire
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-operations-intelligence-bot
   name: iza-os-operations-intelligence-bot
   description: Advanced operations intelligence for billionaire consciousness empire
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-operations-monitoring-bot
   name: iza-os-operations-monitoring-bot
   description: Advanced operations monitoring for billionaire consciousness empire
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-operations-optimization-bot
   name: iza-os-operations-optimization-bot
   description: Advanced operations optimization for billionaire consciousness empire
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-operations-reporting-bot
   name: iza-os-operations-reporting-bot
   description: Advanced operations reporting for billionaire consciousness empire
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-operations-security-bot
   name: iza-os-operations-security-bot
   description: Advanced operations security for billionaire consciousness empire
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-project-management-alerting-bot
   name: iza-os-project-management-alerting-bot
   description: 🤖 Project Management Bot - Alerting automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-project-management-analytics-bot
   name: iza-os-project-management-analytics-bot
   description: 🤖 Project Management Bot - Analytics automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-project-management-automation-bot
   name: iza-os-project-management-automation-bot
   description: 🤖 Project Management Bot - Automation automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-project-management-compliance-bot
   name: iza-os-project-management-compliance-bot
   description: 🤖 Project Management Bot - Compliance automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-project-management-discovery-bot
   name: iza-os-project-management-discovery-bot
   description: 🤖 Project Management Bot - Discovery automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-project-management-integration-bot
   name: iza-os-project-management-integration-bot
   description: 🤖 Project Management Bot - Integration automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-project-management-intelligence-bot
   name: iza-os-project-management-intelligence-bot
   description: 🤖 Project Management Bot - Intelligence automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-project-management-management-bot
   name: iza-os-project-management-management-bot
   description: 🤖 Project Management Bot - Management automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-project-management-monitoring-bot
   name: iza-os-project-management-monitoring-bot
   description: 🤖 Project Management Bot - Monitoring automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-project-management-optimization-bot
   name: iza-os-project-management-optimization-bot
   description: 🤖 Project Management Bot - Optimization automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-project-management-orchestration-bot
   name: iza-os-project-management-orchestration-bot
   description: 🤖 Project Management Bot - Orchestration automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-project-management-processing-bot
   name: iza-os-project-management-processing-bot
   description: 🤖 Project Management Bot - Processing automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-project-management-reporting-bot
   name: iza-os-project-management-reporting-bot
   description: 🤖 Project Management Bot - Reporting automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-project-management-security-bot
   name: iza-os-project-management-security-bot
   description: 🤖 Project Management Bot - Security automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-project-management-synthesis-bot
   name: iza-os-project-management-synthesis-bot
   description: 🤖 Project Management Bot - Synthesis automation and intelligence
   language: Python
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-sales-automation-alerting-bot
   name: iza-os-sales-automation-alerting-bot
   description: 🤖 Sales Automation Bot - Alerting automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-sales-automation-analytics-bot
   name: iza-os-sales-automation-analytics-bot
   description: 🤖 Sales Automation Bot - Analytics automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-sales-automation-automation-bot
   name: iza-os-sales-automation-automation-bot
   description: 🤖 Sales Automation Bot - Automation automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-sales-automation-compliance-bot
   name: iza-os-sales-automation-compliance-bot
   description: 🤖 Sales Automation Bot - Compliance automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-sales-automation-discovery-bot
   name: iza-os-sales-automation-discovery-bot
   description: 🤖 Sales Automation Bot - Discovery automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-sales-automation-integration-bot
   name: iza-os-sales-automation-integration-bot
   description: 🤖 Sales Automation Bot - Integration automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-sales-automation-intelligence-bot
   name: iza-os-sales-automation-intelligence-bot
   description: 🤖 Sales Automation Bot - Intelligence automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-sales-automation-management-bot
   name: iza-os-sales-automation-management-bot
   description: 🤖 Sales Automation Bot - Management automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-sales-automation-monitoring-bot
   name: iza-os-sales-automation-monitoring-bot
   description: 🤖 Sales Automation Bot - Monitoring automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-sales-automation-optimization-bot
   name: iza-os-sales-automation-optimization-bot
   description: 🤖 Sales Automation Bot - Optimization automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-sales-automation-orchestration-bot
   name: iza-os-sales-automation-orchestration-bot
   description: 🤖 Sales Automation Bot - Orchestration automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-sales-automation-processing-bot
   name: iza-os-sales-automation-processing-bot
   description: 🤖 Sales Automation Bot - Processing automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-sales-automation-reporting-bot
   name: iza-os-sales-automation-reporting-bot
   description: 🤖 Sales Automation Bot - Reporting automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-sales-automation-security-bot
   name: iza-os-sales-automation-security-bot
   description: 🤖 Sales Automation Bot - Security automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: iza-os-sales-automation-synthesis-bot
   name: iza-os-sales-automation-synthesis-bot
   description: 🤖 Sales Automation Bot - Synthesis automation and intelligence
   language: C
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: up-next-marketplace
   name: up-next-marketplace
   description: ARCHIVED → merged into bw-001-up-next-code
   language: ''
   category: archived
-  archive_reason: repo is archived
+  reason: repo is archived
 - slug: arbitrage-nexus
   name: arbitrage-nexus
   description: Arbitrage opportunity detection and execution platform

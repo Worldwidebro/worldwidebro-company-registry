@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Three-source reconciliation: T7 Shield + GitHub owned + GitHub starred."""
+"""Three-source reconciliation: T7 Shield + GitHub owned + GitHub starred.
+Fixes: drop T7 'venture:' duplicates, wire Vercel URLs, de-dup OPS-001."""
 
 import csv, json, re, yaml
 from pathlib import Path
@@ -45,9 +46,11 @@ for r in gh_owned:
         'description': (r.get('description') or '').strip(),
     }
 
-t7_by_id = {r['venture_id']: r for r in t7_rows}
+# T7 canonical = non-venture: entries only (drop knowledge_graph dupes)
+t7_canonical = [r for r in t7_rows if not r['venture_id'].startswith('venture:')]
+t7_by_id = {r['venture_id']: r for r in t7_canonical}
 t7_by_slug = {}
-for r in t7_rows:
+for r in t7_canonical:
     if r['has_github_repo'].strip().lower() == 'yes':
         m = re.search(r'github\.com/Worldwidebro/([^/\s?]+)', r['repository_url'].strip() or '')
         if m:
@@ -58,14 +61,14 @@ owned_names = set(gh.keys())
 t7_repo_slugs = set(t7_by_slug.keys())
 owned_matched = owned_names & t7_repo_slugs
 owned_unmatched = owned_names - t7_repo_slugs
-t7_with_gh = sum(1 for r in t7_rows if r['has_github_repo'].strip().lower() == 'yes')
-t7_without_gh = len(t7_rows) - t7_with_gh
+t7_with_gh = sum(1 for r in t7_canonical if r['has_github_repo'].strip().lower() == 'yes')
+t7_without_gh = len(t7_canonical) - t7_with_gh
 starred_owned_overlap = starred_names & owned_names
 starred_unmatched = starred_names - owned_names
 
 # ── Categorize 101 ventures without repos ────────────────────────────
 no_repo_cats = defaultdict(list)
-for r in t7_rows:
+for r in t7_canonical:
     if r['has_github_repo'].strip().lower() != 'yes':
         vid = r['venture_id']
         status = r['status']
@@ -79,15 +82,13 @@ for r in t7_rows:
             cat = 'needs build'
         no_repo_cats[cat].append({'id': vid, 'name': r['name'], 'sector': r['sector'],
                                    'status': status, 'stage': stage, 'source': source})
-
-# ── Categorize 343 unmatched owned repos ────────────────────────────
-unmatched_cats = defaultdict(list)
 infra_keywords = ['venture-hub', 'vex', 'ops-staff', 'dispatch-platform', 'hermes',
                    'dashboard', 'integrations-page', 'iza-os', 'vapi', 'civilization',
                    'marketeam', 'quantum-brain', 'genixbank', 'divine-johns',
                    'simple-landing', 'storefront', 'pitch-kit', 'edu-landing',
                    'bloom-community', 'deploy-temp', 'con001-gsd', 'ica-os',
                    'genixbank-hero', 'genixbank-financial', 'iza-os-enterprise']
+unmatched_cats = defaultdict(list)
 for slug in sorted(owned_unmatched):
     info = gh[slug]
     nl = slug.lower()
@@ -95,7 +96,7 @@ for slug in sorted(owned_unmatched):
     entry = {'slug': slug, 'name': info['name'], 'description': info['description'],
              'language': info['language'], 'category': ''}
     if info['is_archived']:
-        entry['archive_reason'] = 'repo is archived'
+        entry['reason'] = 'repo is archived'
         unmatched_cats['archived'].append(entry)
         continue
     if slug in vercel_proj:
@@ -114,9 +115,6 @@ for slug in sorted(owned_unmatched):
         unmatched_cats['platform-via-vercel'].append(entry)
         continue
     unmatched_cats['other'].append(entry)
-
-# ── Categorize 870 starred-not-owned ────────────────────────────────
-starred_cats = {'external': [{'name': n, 'full_name': f'Worldwidebro/{n}'} for n in sorted(starred_unmatched)]}
 
 # ── Helper functions ─────────────────────────────────────────────────
 def sector_biz_model(s):
@@ -165,7 +163,7 @@ def lifecycle(status, archived):
 ventures = []
 gh_slug_to_venture = {}
 
-for r in t7_rows:
+for r in t7_canonical:
     vid = r['venture_id']
     name = r['name']
     sector = r['sector']
@@ -210,12 +208,13 @@ for r in t7_rows:
         'source': r['source'],
         'created_at': '',
         'updated_at': '',
+        '_vercel_url': vercel_url,
     }
     ventures.append(entry)
     if gh_slug:
         gh_slug_to_venture[gh_slug] = vid
 
-# GH-only ventures
+# GH-only ventures — but skip if T7 canonical already has matching name
 infra_slugs = {'venture-hub', 'vex-hero-site', 'ops-staff-001-staffing', 'dispatch-platform',
                'hermes-command-center', '00-dashboard', 'v0-integrations-page', 'tech-062-iza-os',
                'vapi-voice-os', 'civilization-os', 'iza-os-enterprise', 'marketeam',
@@ -225,6 +224,11 @@ infra_slugs = {'venture-hub', 'vex-hero-site', 'ops-staff-001-staffing', 'dispat
                'con001-gsd', 'lt-005-deploy-temp', 'genixbank-insight-compass',
                'fund-001-civilization-credit-fund', 'hermes-agent-command-center',
                'iza-os-enterprise', 'v0-integrations-page'}
+
+# Build T7 name lookup for GH-only matching
+t7_name_to_id = {}
+for r in t7_canonical:
+    t7_name_to_id[r['name'].lower()] = r['venture_id']
 
 additional = []
 for slug in sorted(owned_unmatched):
@@ -236,6 +240,34 @@ for slug in sorted(owned_unmatched):
     vercel_url = vercel_proj.get(slug)
     if not vercel_url and not re.match(r'^[A-Z]+-\d{3}', slug):
         continue
+
+    # Check if T7 canonical already has this venture by name match
+    gh_name_lower = info['name'].lower()
+    t7_match_id = None
+    if gh_name_lower in t7_name_to_id:
+        t7_match_id = t7_name_to_id[gh_name_lower]
+    else:
+        gh_words = set(re.findall(r'[a-z]+', gh_name_lower)) - {'ai', 'the', 'and', 'for', 'os', 'math', 'a', 'an', 'suite'}
+        for t7_name, t7_id in t7_name_to_id.items():
+            t7_words = set(re.findall(r'[a-z]+', t7_name)) - {'ai', 'the', 'and', 'for', 'os', 'math', 'a', 'an', 'suite'}
+            if len(gh_words & t7_words) >= 2:
+                t7_match_id = t7_id
+                break
+
+    if t7_match_id:
+        # T7 already has this venture — enrich the T7 record with GH repo
+        for e in ventures:
+            if e['id'] == t7_match_id:
+                e['repositories'] = [slug]
+                e['_vercel_url'] = vercel_url
+                if not e['product']:
+                    e['product'] = slug
+        continue
+
+    # Skip non-existent repos (T7 has placeholder URLs without github.com/)
+    if not vercel_url:
+        continue
+
     desc = info['description'].lower()
     nl = info['name'].lower()
     sector = 'unknown'
@@ -267,6 +299,7 @@ for slug in sorted(owned_unmatched):
         sector = 'professional-services'
     elif any(w in desc or w in nl for w in ['ai', 'machine learning', 'llm', 'model']):
         sector = 'emerging'
+
     entry = {
         'id': slug,
         'name': info['name'],
@@ -288,6 +321,7 @@ for slug in sorted(owned_unmatched):
         'source': 'github',
         'created_at': info['created_at'],
         'updated_at': info['pushed_at'],
+        '_vercel_url': vercel_url,
     }
     additional.append(entry)
     gh_slug_to_venture[slug] = slug
@@ -370,12 +404,16 @@ for name in starred_only[:100]:
         'starred': True,
     })
 
-# ── Write registry files using PyYAML ────────────────────────────────
+# ── Write registry files ─────────────────────────────────────────────
 for data, name in [(ventures, 'registry/ventures.yaml'), (repos, 'registry/repositories.yaml')]:
     path = reg / name
     with open(path, 'w') as f:
         yaml.dump(data, f, default_flow_style=False, allow_unicode=True, sort_keys=False, width=1000)
-    print(f"{name}: {len(data)} entries")
+
+ventures_count = len(ventures)
+repos_count = len(repos)
+print(f"ventures.yaml: {ventures_count} entries")
+print(f"repositories.yaml: {repos_count} entries")
 
 # ── Write reconciliation summary ─────────────────────────────────────
 recon = {
@@ -383,7 +421,9 @@ recon = {
     'sources': {
         'github_owned': len(gh),
         'github_starred': len(starred_raw),
-        't7_ventures': len(t7_rows),
+        't7_ventures_canonical': len(t7_canonical),
+        't7_ventures_total': len(t7_rows),
+        't7_venture_duplicates_removed': len(t7_rows) - len(t7_canonical),
         't7_ventures_with_github': t7_with_gh,
     },
     'reconciliation': {
@@ -398,7 +438,6 @@ recon = {
     'exception_categorization': {
         'ventures_without_repos': {k: len(v) for k, v in no_repo_cats.items()},
         'unmatched_owned_repos': {k: len(v) for k, v in unmatched_cats.items()},
-        'starred_not_owned': {k: len(v) for k, v in starred_cats.items()},
     },
 }
 with open(reg / 'audits/reconciliation-summary.yaml', 'w') as f:
@@ -429,7 +468,6 @@ for cat in ['platform-with-deploy', 'platform-infrastructure', 'platform-via-ver
 dump_audit(orphaned, reg / 'audits/orphaned-platform-repos.yml')
 dump_audit([], reg / 'audits/naming-conflicts.yml')
 
-# Unmatched owned repos — flatten with category
 unmatched_flat = []
 for cat, items in unmatched_cats.items():
     for it in items:
@@ -437,52 +475,59 @@ for cat, items in unmatched_cats.items():
         unmatched_flat.append(it)
 dump_audit(unmatched_flat, reg / 'audits/unmatched-owned-repos.yml')
 
-for f in ['ventures-without-repos.yml', 'unmatched-owned-repos.yml',
-          'orphaned-platform-repos.yml', 'owned-and-starred-overlap.yml']:
-    with open(reg / 'audits' / f) as fh:
-        data = yaml.safe_load(fh)
-    print(f"audits/{f}: {len(data)} entries")
-
-# ── Print master matrix (focus + sample) ─────────────────────────────
-print(f"\n=== MASTER MATRIX ===")
-print(f"{'Venture':<35} {'GitHub Repo':<35} {'Owned':>6} {'Starred':>8} {'Sector':<20} {'Criticality':<12} {'Action':<10}")
-print("-" * 130)
-
-for v in ventures:
-    vid = v['id']
-    repo = v['repositories'][0] if v['repositories'] else '—'
-    owned = '✅' if repo and repo in gh else '—'
-    starred = '✅' if repo and repo in starred_names else '—'
-    sector = v['sector']
-    # Criticality: P0 if it has Vercel prod URL and status=Live; P1 if Vercel; P2 otherwise
-    has_vcl = bool(v.get('production_url')) or any(r.get('production_url') for r in repos if r.get('venture') == vid)
-    if has_vcl and v['status'] == 'Live':
-        crit = 'P0'
-    elif has_vcl:
-        crit = 'P1'
-    elif v['status'] in ('Live', 'Building'):
-        crit = 'P1'
+# ── Fix OPS-001: ensure process-automation-suite is wired ────────────
+ops_entry = None
+for e in ventures:
+    if e['id'] == 'OPS-001':
+        ops_entry = e
+        break
+if ops_entry and not ops_entry['product']:
+    # Check if process-automation-suite GH repo exists
+    if 'process-automation-suite' in gh:
+        ops_entry['product'] = 'process-automation-suite'
+        ops_entry['repositories'] = ['process-automation-suite']
+        ops_entry['_vercel_url'] = vercel_proj.get('process-automation-suite')
+        print(f"FIXED OPS-001: wired process-automation-suite as repo")
     else:
-        crit = 'P2'
-    if v['status'] == 'Archived':
-        action = 'ARCHIVE'
-    elif v['status'] == 'Live':
-        action = 'KEEP'
-    elif v['status'] == 'Building':
-        action = 'KEEP'
-    elif v['status'] == 'Pre-launch':
-        action = 'BUILD' if repo else 'ASSESS'
-    else:
-        action = 'ASSESS'
-    if repo == '—' and v['source'] == 'github':
-        action = 'AUDIT'
-    print(f"{vid:<35} {repo:<35} {owned:>6} {starred:>8} {sector:<20} {crit:<12} {action:<10}")
+        print(f"NOTE: process-automation-suite not found in GH owned repos")
 
-print(f"\nDone. Total ventures: {len(ventures)}, total repos: {len(repos)}")
+# ── Stats ────────────────────────────────────────────────────────────
+print(f"\n=== STATS ===")
+print(f"ventures: {ventures_count}")
+print(f"  T7 canonical: {len(t7_canonical)}")
+print(f"  venture: duplicates removed: {len(t7_rows) - len(t7_canonical)}")
+print(f"  GH-only added: {len(additional)}")
+print(f"repos: {repos_count}")
+print(f"  owned: {len(gh)}")
+print(f"  starred-ext: {len(starred_only[:100])}")
+print(f"  with Vercel prod URL: {sum(1 for r in repos if r.get('production_url'))}")
+print(f"  starred: {sum(1 for r in repos if r.get('starred'))}")
+print(f"  archived: {sum(1 for r in repos if r['status'] == 'Archived')}")
+print(f"  Active: {sum(1 for r in repos if r['status'] == 'Active')}")
+print(f"  Maintenance: {sum(1 for r in repos if r['status'] == 'Maintenance')}")
+print(f"  External: {sum(1 for r in repos if r['status'] == 'External')}")
 
-# ── Focus venture check ──────────────────────────────────────────────
+# Sectors
+secs = Counter(v['sector'] for v in ventures)
+print(f"\nTop sectors:")
+for s, c in secs.most_common(10):
+    print(f"  {s:30} {c}")
+
+# Unknown sectors
+unknown = sum(1 for v in ventures if v['sector'] == 'unknown')
+print(f"\nunknown sectors: {unknown}")
+
+# Statuses
+stats_count = Counter(v['status'] for v in ventures)
+print(f"\nstatuses:")
+for s, c in sorted(stats_count.items()):
+    print(f"  {s:15} {c}")
+
+# Focus ventures
 print(f"\n=== FOCUS VENTURES ===")
 for v in ventures:
     if v['id'] in ('CON-001', 'LT-005', 'LT-011', 'RE-001', 'OPS-001',
-                   're-001-worldwidebro-holdings', 'lt-011-dispatch-software'):
-        print(f"  {v['id']:35} | {v['name']:40} | {v['sector']:20} | {v['status']:10} | repo={v['product'] or '—'}")
+                   'con-001-ace-construction', 're-001-worldwidebro-holdings',
+                   'lt-005-medical-courier-dispatch', 'lt-011-dispatch-software',
+                   'process-automation-suite'):
+        print(f"  {v['id']:40} | {v['name']:40} | {v['sector']:20} | {v['status']:10} | product={v['product']} | vercel={'YES' if v.get('_vercel_url') else 'no'}")

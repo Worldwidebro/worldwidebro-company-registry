@@ -42,7 +42,7 @@
   starred: false
 - id: OS-001-MATHEMATICAL-OS-REGISTRY
   full_name: Worldwidebro/OS-001-MATHEMATICAL-OS-REGISTRY
-  venture: OS-001-MATHEMATICAL-OS-REGISTRY
+  venture: ''
   type: Application
   language: ''
   production_url: null
@@ -294,7 +294,7 @@
   starred: false
 - id: arbitrage-nexus
   full_name: Worldwidebro/arbitrage-nexus
-  venture: arbitrage-nexus
+  venture: ''
   type: Application
   language: TypeScript
   production_url: arbitrage-nexus-dmjzjijml-worldwidebros-projects.vercel.app
